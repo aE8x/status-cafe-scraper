@@ -8,6 +8,10 @@ on:
   # This allows you to run the job manually from the Actions tab
   workflow_dispatch:
 
+# Grant the workflow permission to write to the repository
+permissions:
+  contents: write
+
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
@@ -34,14 +38,14 @@ jobs:
 
     # Step 4: Runs your actual Python script
     - name: Run the scraper
-      run: python scraper.py
+      run: python scraper.py # Or status_cafe_scraper.py, whichever name you chose
 
     # Step 5: Commits the new/updated data file back to your repository
     - name: Commit and push if there are changes
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions-bot@github.com"
-        git add data/statuses.json  # IMPORTANT: This path must match your script's output
+        git add data/statuses.json
         # This command attempts to commit. If there are no changes, it will
         # fail. `|| exit 0` ensures the workflow continues successfully.
         git commit -m "Chore: Update scraped data" || exit 0
