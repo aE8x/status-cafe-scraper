@@ -34,7 +34,7 @@ jobs:
 
     # Step 4: Runs your actual Python script
     - name: Run the scraper
-      run: python status_cafe_scraper.py
+      run: python scraper.py
 
     # Step 5: Commits the new/updated data file back to your repository
     - name: Commit and push if there are changes
