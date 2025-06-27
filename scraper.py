@@ -24,7 +24,7 @@ class Config:
     REQUEST_TIMEOUT_SECONDS: int = 15
     # MODIFICATION: Update this with your actual GitHub repo URL once you create it.
     REQUEST_HEADERS: Dict[str, str] = {
-        'User-Agent': 'StatusCafeTrendScraper/1.0 (https://github.com/your-username/your-repo-name)'
+        'User-Agent': 'StatusCafeTrendScraper/1.0 (https://github.com/aE8x/status-cafe-scraper)'
     }
 
     # Selectors are centralized for easy updates if the site changes
