@@ -37,6 +37,21 @@ jobs:
     - name: Run the scraper
       run: python scraper.py
 
+    # --- NEW VALIDATION STEP TO PREVENT SILENT FAILURES ---
+    - name: Validate Scraper Output
+      id: validate_output
+      run: |
+        # This step is crucial. If the scraper script ran successfully but didn't modify any
+        # files, it could mean the website's HTML structure has changed, leading to a silent failure.
+        # This check fails the workflow on scheduled runs to trigger an alert.
+        # We allow manual runs (workflow_dispatch) to pass, as they might be for re-analysis.
+        if [[ -z "$(git status --porcelain)" && "${{ github.event_name }}" == "schedule" ]]; then
+          echo "::error::No new data was scraped on a scheduled run. This indicates a potential silent failure. Check the scraper and the target website."
+          exit 1
+        else
+          echo "Scraper output validated. New data was found, or the workflow was triggered manually."
+        fi
+
     - name: Commit and push scraped data
       run: |
         git config --global user.name "GitHub Actions Bot"
