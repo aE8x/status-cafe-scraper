@@ -94,8 +94,12 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions-bot@github.com"
-        # Add the report file from its new location
-        git add analysis/analysis_reports.json
-        # Commit only if the report file has changed
-        git diff --staged --quiet || git commit -m "Feat: Generate weekly analysis report"
-        git push
+        # Only proceed if the report file exists
+        if [ -f "analysis/analysis_reports.json" ]; then
+          echo "Analysis report found. Committing changes."
+          git add analysis/analysis_reports.json
+          git diff --staged --quiet || git commit -m "Feat: Generate weekly analysis report"
+          git push
+        else
+          echo "No analysis report generated. Skipping commit."
+        fi
