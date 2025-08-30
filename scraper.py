@@ -92,7 +92,7 @@ def safe_save_data(filepath: str, data: Dict[str, Dict[str, Any]]):
             os.remove(temp_filepath)
 
 # ==============================================================================
-# 3. REFINED PARSING & SCRAPING LOGIC (No changes needed here)
+# 3. REFINED PARSING & SCRAPING LOGIC
 # ==============================================================================
 
 def parse_relative_time(time_str: str) -> Optional[datetime]:
@@ -115,6 +115,10 @@ def parse_relative_time(time_str: str) -> Optional[datetime]:
             return None
 
         num = int(num_match.group(0))
+        
+        # --- FIX IMPLEMENTED HERE ---
+        if 'second' in normalized_str: return now - timedelta(seconds=num)
+        # ----------------------------
         
         if 'minute' in normalized_str: return now - timedelta(minutes=num)
         if 'hour' in normalized_str: return now - timedelta(hours=num)
@@ -183,7 +187,7 @@ def parse_statuses_from_soup(soup: BeautifulSoup) -> List[Dict[str, Any]]:
     return parsed_statuses
 
 # ==============================================================================
-# 4. MAIN ORCHESTRATION LOGIC (No changes needed here)
+# 4. MAIN ORCHESTRATION LOGIC
 # ==============================================================================
 
 def main():
