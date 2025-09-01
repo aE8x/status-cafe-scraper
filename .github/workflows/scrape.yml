@@ -54,9 +54,9 @@ jobs:
         git diff --staged --quiet || git commit -m "Chore: Update scraped data"
         git push
 
-    # <-- NEW STEP -->
+    # <-- FIX HERE -->
     - name: Upload data artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # Changed from v3 to v4
       with:
         name: scraped-data
         path: data/
@@ -82,9 +82,9 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v4
 
-    # <-- NEW STEP -->
+    # <-- FIX HERE -->
     - name: Download data artifact
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4 # Changed from v3 to v4
       with:
         name: scraped-data
         path: data/
@@ -105,7 +105,6 @@ jobs:
     - name: Run the analyzer script
       run: python analysis/topic_modelling_analysis.py
 
-    # <-- MODIFIED STEP -->
     - name: Commit and push analysis report
       run: |
         git config --global user.name "GitHub Actions Bot"
