@@ -92,7 +92,7 @@ class HybridAnalyzer:
             logging.critical(f"Could not load or parse status file: {e}"); return False
         
         self.df = pd.DataFrame.from_dict(data, orient='index')
-        self.df['timestamp'] = pd.to_datetime(self.df['timestamp_iso'], errors='coerce').dt.tz_localize('UTC')
+        self.df['timestamp'] = pd.to_datetime(self.df['timestamp_iso'], errors='coerce')
         self.df.dropna(subset=['text', 'timestamp'], inplace=True)
         return True
 
