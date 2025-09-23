@@ -3,7 +3,8 @@ import json
 import hashlib
 import logging
 import re
-from datetime import datetime, timedelta
+# ### MODIFICATION ###: Import 'timezone' from the datetime module
+from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional, Any, Tuple
 
 import requests
@@ -16,13 +17,10 @@ from bs4 import BeautifulSoup, Tag
 class Config:
     """A single source of truth for all configuration."""
     SITE_URL: str = "https://status.cafe/"
-    # MODIFICATION: Use a relative path. This will create a 'data' folder
-    # in the same directory where the script is run.
     OUTPUT_DIR: str = "data"
     JSON_FILENAME: str = "statuses.json"
     LOG_FILENAME: str = "scraper.log"
     REQUEST_TIMEOUT_SECONDS: int = 15
-    # MODIFICATION: Update this with your actual GitHub repo URL once you create it.
     REQUEST_HEADERS: Dict[str, str] = {
         'User-Agent': 'StatusCafeTrendScraper/1.0 (https://github.com/aE8x/status-cafe-scraper)'
     }
@@ -73,7 +71,6 @@ def safe_save_data(filepath: str, data: Dict[str, Dict[str, Any]]):
     final_dir = os.path.dirname(filepath)
 
     try:
-        # MODIFICATION: This check is now more robust for relative paths.
         if final_dir and not os.path.exists(final_dir):
             os.makedirs(final_dir)
         
@@ -100,7 +97,8 @@ def parse_relative_time(time_str: str) -> Optional[datetime]:
     Intelligently parses a relative time string into an absolute datetime object.
     Returns None if parsing fails.
     """
-    now = datetime.now()
+    # ### MODIFICATION ###: Get the current time in UTC, making it timezone-aware.
+    now = datetime.now(timezone.utc)
     normalized_str = time_str.lower().strip()
     
     if "now" in normalized_str or "just now" in normalized_str: return now
@@ -116,16 +114,13 @@ def parse_relative_time(time_str: str) -> Optional[datetime]:
 
         num = int(num_match.group(0))
         
-        # --- FIX IMPLEMENTED HERE ---
         if 'second' in normalized_str: return now - timedelta(seconds=num)
-        # ----------------------------
-        
         if 'minute' in normalized_str: return now - timedelta(minutes=num)
         if 'hour' in normalized_str: return now - timedelta(hours=num)
         if 'day' in normalized_str: return now - timedelta(days=num)
         if 'week' in normalized_str: return now - timedelta(weeks=num)
-        if 'month' in normalized_str: return now - timedelta(days=num * 30)
-        if 'year' in normalized_str: return now - timedelta(days=num * 365)
+        if 'month' in normalized_str: return now - timedelta(days=num * 30) # Approximation
+        if 'year' in normalized_str: return now - timedelta(days=num * 365) # Approximation
         
         logging.warning(f"Unrecognized time unit in string: '{time_str}'")
         return None
@@ -219,7 +214,8 @@ def main():
                 "text": status["text"],
                 "timestamp_iso": absolute_time.isoformat() if absolute_time else None,
                 "relative_time_on_site": status["relative_time_on_site"],
-                "retrieval_date_iso": datetime.now().isoformat()
+                # ### MODIFICATION ###: Get the retrieval timestamp in UTC.
+                "retrieval_date_iso": datetime.now(timezone.utc).isoformat()
             }
             new_statuses_added += 1
     
