@@ -1,4 +1,4 @@
-name: Scrape Daily, Analyze Weekly
+name: Scrape and Analyze Daily
 
 on:
   schedule:
@@ -16,8 +16,7 @@ jobs:
   # ===================================================================
   scrape:
     runs-on: ubuntu-latest
-    outputs:
-      is_analysis_day: ${{ steps.check_day.outputs.is_analysis_day }}
+    # This job no longer needs to output whether it's an analysis day or not.
 
     steps:
     - name: Check out repo
@@ -54,37 +53,28 @@ jobs:
         git diff --staged --quiet || git commit -m "Chore: Update scraped data"
         git push
 
-    # <-- FIX HERE -->
     - name: Upload data artifact
-      uses: actions/upload-artifact@v4  # Changed from v3 to v4
+      uses: actions/upload-artifact@v4
       with:
         name: scraped-data
         path: data/
-
-    - name: Check if today is analysis day (Sunday)
-      id: check_day
-      run: |
-        if [ $(date -u +%u) -eq 7 ]; then
-          echo "is_analysis_day=true" >> $GITHUB_OUTPUT
-        else
-          echo "is_analysis_day=false" >> $GITHUB_OUTPUT
-        fi
+    
+    # The step to check the day of the week has been removed.
 
   # ===================================================================
-  # JOB 2: Runs analysis only on the scheduled day or on manual trigger
+  # JOB 2: Runs analysis every day after the scraper
   # ===================================================================
   analyze:
     needs: scrape
-    if: needs.scrape.outputs.is_analysis_day == 'true' || github.event_name == 'workflow_dispatch'
+    # The 'if' condition has been removed. This job will now run every time the 'scrape' job succeeds.
     runs-on: ubuntu-latest
 
     steps:
     - name: Check out repo
       uses: actions/checkout@v4
 
-    # <-- FIX HERE -->
     - name: Download data artifact
-      uses: actions/download-artifact@v4 # Changed from v3 to v4
+      uses: actions/download-artifact@v4
       with:
         name: scraped-data
         path: data/
@@ -114,7 +104,7 @@ jobs:
           echo "Analysis report found. Committing changes."
           # Add both the report and the data it was based on for consistency
           git add analysis/analysis_reports.json data/statuses.json
-          git diff --staged --quiet || git commit -m "Feat: Generate weekly analysis report"
+          git diff --staged --quiet || git commit -m "Feat: Generate daily analysis report"
           
           # Pull the scraper's commit before pushing our own
           git pull --rebase
