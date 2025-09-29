@@ -90,7 +90,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Download NLTK data
-      run: python -m nltk.downloader stopwords wordnet averaged_perceptron_tagger
+      run: python -m nltk.downloader stopwords vader_lexicon
 
     - name: Run the analyzer script
       run: python analysis/topic_modelling_analysis.py
