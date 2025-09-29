@@ -36,7 +36,7 @@ class Config:
     TOP_N_NGRAMS_TO_SHOW: int = 25
 
     # ### NEW SECTION ###: Sentiment Analysis Parameters
-    SENTIMENT_ANALYSIS_HOURS: int = 24 # Analyze the sentiment of the last day.
+    SENTIMENT_ANALYSIS_HOURS: int = 336 # Analyze the sentiment of the last day.
 
 # ==============================================================================
 # 2. LOGGING & INITIAL SETUP
