@@ -16,8 +16,6 @@ jobs:
   # ===================================================================
   scrape:
     runs-on: ubuntu-latest
-    # This job no longer needs to output whether it's an analysis day or not.
-
     steps:
     - name: Check out repo
       uses: actions/checkout@v4
@@ -59,14 +57,11 @@ jobs:
         name: scraped-data
         path: data/
     
-    # The step to check the day of the week has been removed.
-
   # ===================================================================
-  # JOB 2: Runs analysis every day after the scraper
+  # JOB 2: Runs analysis and updates README every day
   # ===================================================================
   analyze:
     needs: scrape
-    # The 'if' condition has been removed. This job will now run every time the 'scrape' job succeeds.
     runs-on: ubuntu-latest
 
     steps:
@@ -95,21 +90,26 @@ jobs:
     - name: Run the analyzer script
       run: python analysis/topic_modelling_analysis.py
 
-    - name: Commit and push analysis report
+    - name: Update README with latest analysis
+      run: python update_readme.py
+
+    - name: Commit and push analysis report and README
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions-bot@github.com"
-
-        if [ -f "analysis/analysis_reports.json" ]; then
-          echo "Analysis report found. Committing changes."
-          # Add both the report and the data it was based on for consistency
-          git add analysis/analysis_reports.json data/statuses.json
-          git diff --staged --quiet || git commit -m "Feat: Generate daily analysis report"
+        
+        # Add all relevant generated files to the staging area
+        git add analysis/analysis_reports.json data/statuses.json README.md
+        
+        # Check if there are any changes to commit. If not, the script exits successfully.
+        if git diff --staged --quiet; then
+          echo "No changes to analysis report or README. Skipping commit."
+        else
+          # If there are changes, commit and push them.
+          git commit -m "Feat: Generate daily analysis report and update README"
           
-          # Pull the scraper's commit before pushing our own
+          # Pull changes from the 'scrape' job's push before pushing our own commit
           git pull --rebase
           
           git push
-        else
-          echo "No analysis report generated. Skipping commit."
         fi
