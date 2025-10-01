@@ -145,5 +145,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-01T05:09:50.465507+00:00",
+        "hot_topics": [
+            {
+                "ngram": "snails",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "site button",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "robux",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "rapture",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "homestuck pilot",
+                "mentions": 9,
+                "change": "53.0x"
+            },
+            {
+                "ngram": "october",
+                "mentions": 7,
+                "change": "41.2x"
+            },
+            {
+                "ngram": "knights",
+                "mentions": 6,
+                "change": "35.3x"
+            },
+            {
+                "ngram": "guinevere",
+                "mentions": 6,
+                "change": "35.3x"
+            },
+            {
+                "ngram": "knights guinevere",
+                "mentions": 5,
+                "change": "29.4x"
+            },
+            {
+                "ngram": "sonic racing",
+                "mentions": 7,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "pilot",
+                "mentions": 16,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "cross",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "hot chocolate",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "say something",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "chainsaw",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "chainsaw man",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "braces",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "silent hill",
+                "mentions": 9,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "every night",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "reminded",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "towers",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "start learning",
+                "mentions": 3,
+                "change": "17.7x"
+            },
+            {
+                "ngram": "racing crossworlds",
+                "mentions": 3,
+                "change": "17.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.061738618028761835,
+            "positive_percent": 34.44405471764293,
+            "negative_percent": 25.113995089442305,
+            "neutral_percent": 40.44195019291477,
+            "most_positive_example": {
+                "text": "i love everyone's website so much, you are all so creative and sweet, with so much vitality and creativity, i feel so lucky to see",
+                "user": "censorine",
+                "score": 0.9611
+            },
+            "most_negative_example": {
+                "text": "Yo FUCK Roger Communications they suck ASS dude! 480 dollar bill out of nowhere and 3 false disconnection fees? Fuck THAT! -❌",
+                "user": "novasystem",
+                "score": -0.9473
+            }
+        },
+        "summary_message": null
     }
 ]
