@@ -439,5 +439,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-03T05:09:29.418987+00:00",
+        "hot_topics": [
+            {
+                "ngram": "robux",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "rapture",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till pokemon",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon legends",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends releases",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "october",
+                "mentions": 25,
+                "change": "150.7x"
+            },
+            {
+                "ngram": "homestuck pilot",
+                "mentions": 9,
+                "change": "54.2x"
+            },
+            {
+                "ngram": "spooky month",
+                "mentions": 7,
+                "change": "42.2x"
+            },
+            {
+                "ngram": "knights",
+                "mentions": 6,
+                "change": "36.2x"
+            },
+            {
+                "ngram": "guinevere",
+                "mentions": 6,
+                "change": "36.2x"
+            },
+            {
+                "ngram": "knights guinevere",
+                "mentions": 5,
+                "change": "30.1x"
+            },
+            {
+                "ngram": "grades",
+                "mentions": 4,
+                "change": "24.1x"
+            },
+            {
+                "ngram": "wanted make",
+                "mentions": 4,
+                "change": "24.1x"
+            },
+            {
+                "ngram": "sonic racing",
+                "mentions": 7,
+                "change": "21.1x"
+            },
+            {
+                "ngram": "pilot",
+                "mentions": 16,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "towers",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "start learning",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "racing crossworlds",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "sonic racing crossworlds",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "ultra",
+                "mentions": 3,
+                "change": "18.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.062098185053380786,
+            "positive_percent": 34.519572953736656,
+            "negative_percent": 25.195729537366546,
+            "neutral_percent": 40.2846975088968,
+            "most_positive_example": {
+                "text": "i love everyone's website so much, you are all so creative and sweet, with so much vitality and creativity, i feel so lucky to see",
+                "user": "censorine",
+                "score": 0.9611
+            },
+            "most_negative_example": {
+                "text": "I have no idea how my grades are still decent, I'm so tired that I'm not even trying anymore, just let me die and release me from this hell",
+                "user": "4str0n42t",
+                "score": -0.9463
+            }
+        },
+        "summary_message": null
     }
 ]
