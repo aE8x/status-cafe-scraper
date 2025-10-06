@@ -880,5 +880,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-06T05:09:33.556396+00:00",
+        "hot_topics": [
+            {
+                "ngram": "robux",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "rapture",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till pokemon",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon legends",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends releases",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy spooky",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "october",
+                "mentions": 31,
+                "change": "95.7x"
+            },
+            {
+                "ngram": "homestuck pilot",
+                "mentions": 9,
+                "change": "55.6x"
+            },
+            {
+                "ngram": "spooky month",
+                "mentions": 8,
+                "change": "49.4x"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 6,
+                "change": "37.0x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 23,
+                "change": "23.7x"
+            },
+            {
+                "ngram": "term",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "holly",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "education",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "dias",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "flea",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "cafe back",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "status cafe back",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "today one",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "disaster",
+                "mentions": 3,
+                "change": "18.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05756966413867823,
+            "positive_percent": 33.76670278078729,
+            "negative_percent": 26.254965691585408,
+            "neutral_percent": 39.978331527627304,
+            "most_positive_example": {
+                "text": "gonna get sushi with my girlfriend today YAY YAY YAY UAY YAY YAY YAY",
+                "user": "whataphantasia",
+                "score": 0.9794
+            },
+            "most_negative_example": {
+                "text": "finally  getting status.cafe is cool and all but trying to fall asleep is gonna be hell since i feel like shit </3",
+                "user": "pankine",
+                "score": -0.9423
+            }
+        },
+        "summary_message": null
     }
 ]
