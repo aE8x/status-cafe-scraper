@@ -1321,5 +1321,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-09T05:09:41.914325+00:00",
+        "hot_topics": [
+            {
+                "ngram": "days till",
+                "mentions": 14,
+                "change": "NEW"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 12,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till pokemon",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till pokemon legends",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon legends releases",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy spooky",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "october",
+                "mentions": 38,
+                "change": "119.8x"
+            },
+            {
+                "ngram": "homestuck pilot",
+                "mentions": 9,
+                "change": "56.8x"
+            },
+            {
+                "ngram": "spooky month",
+                "mentions": 8,
+                "change": "50.5x"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 6,
+                "change": "37.8x"
+            },
+            {
+                "ngram": "png",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "vida",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "imgur",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 23,
+                "change": "20.7x"
+            },
+            {
+                "ngram": "anatomy",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "life sucks",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "really feeling",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "art archives",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "tha",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "robux",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "twenty",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "ofc",
+                "mentions": 3,
+                "change": "18.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0631175670709298,
+            "positive_percent": 33.99485483278207,
+            "negative_percent": 25.762587284086734,
+            "neutral_percent": 40.242557883131205,
+            "most_positive_example": {
+                "text": "gonna get sushi with my girlfriend today YAY YAY YAY UAY YAY YAY YAY",
+                "user": "whataphantasia",
+                "score": 0.9794
+            },
+            "most_negative_example": {
+                "text": "I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hat",
+                "user": "starredhalo",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
