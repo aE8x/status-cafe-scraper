@@ -2203,5 +2203,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-15T05:09:54.164882+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy spooky",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "com halloween",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dannarchy com halloween",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "one year anniversary",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "phan",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "phan real",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 7,
+                "change": "45.5x"
+            },
+            {
+                "ngram": "october",
+                "mentions": 41,
+                "change": "33.3x"
+            },
+            {
+                "ngram": "pokemon legends",
+                "mentions": 15,
+                "change": "32.5x"
+            },
+            {
+                "ngram": "till pokemon",
+                "mentions": 14,
+                "change": "30.3x"
+            },
+            {
+                "ngram": "days till pokemon",
+                "mentions": 14,
+                "change": "30.3x"
+            },
+            {
+                "ngram": "till pokemon legends",
+                "mentions": 14,
+                "change": "30.3x"
+            },
+            {
+                "ngram": "pokemon legends releases",
+                "mentions": 14,
+                "change": "30.3x"
+            },
+            {
+                "ngram": "inktober",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "strong urge",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "weeks ago",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "spooky month",
+                "mentions": 7,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 14,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "days till",
+                "mentions": 15,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "site new",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "amor",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "swift",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "gear",
+                "mentions": 3,
+                "change": "19.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06916615094339623,
+            "positive_percent": 34.83018867924528,
+            "negative_percent": 25.056603773584907,
+            "neutral_percent": 40.11320754716981,
+            "most_positive_example": {
+                "text": "gonna get sushi with my girlfriend today YAY YAY YAY UAY YAY YAY YAY",
+                "user": "whataphantasia",
+                "score": 0.9794
+            },
+            "most_negative_example": {
+                "text": "I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hat",
+                "user": "starredhalo",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
