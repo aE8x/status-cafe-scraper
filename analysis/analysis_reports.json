@@ -2350,5 +2350,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-16T05:09:39.357773+00:00",
+        "hot_topics": [
+            {
+                "ngram": "com halloween",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dannarchy com halloween",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "one year anniversary",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "phil",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dan phil",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "phan",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "phan real",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "strong urge",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "pokemon legends",
+                "mentions": 16,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "weeks ago",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "dan",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "till pokemon",
+                "mentions": 14,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "till pokemon legends",
+                "mentions": 14,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "pokemon legends releases",
+                "mentions": 14,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "days till pokemon",
+                "mentions": 13,
+                "change": "21.1x"
+            },
+            {
+                "ngram": "swift",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "gear",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "teehee",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "found really",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "murder",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "minhas",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "less week",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "art website",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "legends releases",
+                "mentions": 14,
+                "change": "18.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06485414468726451,
+            "positive_percent": 34.58929917106255,
+            "negative_percent": 25.65938206480784,
+            "neutral_percent": 39.751318764129614,
+            "most_positive_example": {
+                "text": "gonna get sushi with my girlfriend today YAY YAY YAY UAY YAY YAY YAY",
+                "user": "whataphantasia",
+                "score": 0.9794
+            },
+            "most_negative_example": {
+                "text": "I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hate periods I hat",
+                "user": "starredhalo",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]

@@ -8,39 +8,39 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2025-10-15 05:09 UTC*
+*Last Updated: 2025-10-16 05:09 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.069` 
-- **Distribution**: 34.8% Positive, 40.1% Neutral, 25.1% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 34.6% Positive, 39.8% Neutral, 25.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `happy spooky` | 4 |
-| 2 | - | `happy october` | 5 |
-| 3 | - | `com halloween` | 5 |
-| 4 | - | `dannarchy com halloween` | 5 |
-| 5 | NEW | `one year anniversary` | 4 |
-| 6 | NEW | `thanksgiving` | 4 |
-| 7 | DOWN 2 | `phan` | 7 |
-| 8 | DOWN 2 | `phan real` | 5 |
-| 9 | UP 4 | `spooky season` | 7 |
-| 10 | UP 4 | `october` | 41 |
-| 11 | DOWN 3 | `pokemon legends` | 15 |
-| 12 | DOWN 3 | `till pokemon` | 14 |
-| 13 | DOWN 3 | `days till pokemon` | 14 |
-| 14 | DOWN 3 | `till pokemon legends` | 14 |
-| 15 | DOWN 3 | `pokemon legends releases` | 14 |
-| 16 | UP 1 | `inktober` | 4 |
-| 17 | UP 1 | `strong urge` | 4 |
-| 18 | NEW | `weeks ago` | 4 |
-| 19 | DOWN 12 | `spooky month` | 7 |
-| 20 | DOWN 4 | `legends releases` | 14 |
-| 21 | DOWN 2 | `days till` | 15 |
-| 22 | UP 1 | `site new` | 3 |
-| 23 | UP 1 | `amor` | 3 |
-| 24 | UP 1 | `swift` | 3 |
-| 25 | NEW | `gear` | 3 |
+| 1 | UP 2 | `com halloween` | 5 |
+| 2 | UP 2 | `dannarchy com halloween` | 5 |
+| 3 | UP 2 | `one year anniversary` | 4 |
+| 4 | UP 2 | `thanksgiving` | 4 |
+| 5 | NEW | `phil` | 4 |
+| 6 | NEW | `dan phil` | 4 |
+| 7 | - | `phan` | 7 |
+| 8 | - | `phan real` | 5 |
+| 9 | UP 8 | `strong urge` | 4 |
+| 10 | UP 1 | `pokemon legends` | 16 |
+| 11 | UP 7 | `weeks ago` | 4 |
+| 12 | NEW | `dan` | 4 |
+| 13 | DOWN 1 | `till pokemon` | 14 |
+| 14 | - | `till pokemon legends` | 14 |
+| 15 | - | `pokemon legends releases` | 14 |
+| 16 | DOWN 3 | `days till pokemon` | 13 |
+| 17 | UP 7 | `swift` | 3 |
+| 18 | UP 7 | `gear` | 3 |
+| 19 | NEW | `teehee` | 3 |
+| 20 | NEW | `found really` | 3 |
+| 21 | NEW | `murder` | 3 |
+| 22 | NEW | `minhas` | 3 |
+| 23 | NEW | `less week` | 3 |
+| 24 | NEW | `art website` | 3 |
+| 25 | DOWN 5 | `legends releases` | 14 |
 
 <!-- END_ANALYSIS_SECTION -->
