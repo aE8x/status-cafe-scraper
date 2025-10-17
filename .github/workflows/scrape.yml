@@ -2,8 +2,9 @@ name: Scrape and Analyze Daily
 
 on:
   schedule:
-    # Runs at 05:00 UTC every day.
-    - cron: '0 5 * * *'
+    # Runs at 02:30 UTC and 14:30 UTC every day
+    - cron: '30 2 * * *'
+    - cron: '30 14 * * *'
   # Allows you to run the entire workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -47,7 +48,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions-bot@github.com"
-        git add data/statuses.json
+        git add data/
         git diff --staged --quiet || git commit -m "Chore: Update scraped data"
         git push
 
@@ -99,7 +100,7 @@ jobs:
         git config --global user.email "actions-bot@github.com"
         
         # Add all relevant generated files to the staging area
-        git add analysis/analysis_reports.json data/statuses.json README.md
+        git add analysis/analysis_reports.json data/ README.md
         
         # Check if there are any changes to commit. If not, the script exits successfully.
         if git diff --staged --quiet; then
