@@ -8,7 +8,6 @@ from typing import List, Dict, Any
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
-# ### NEW IMPORT ###: Import VADER for sentiment analysis.
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 # ==============================================================================
@@ -19,7 +18,6 @@ class Config:
     """Configuration for the Trend and Sentiment Analyzer."""
     # --- File Paths ---
     DATA_DIR: str = "data"
-    STATUS_JSON_FILENAME: str = "statuses.json"
     REPORT_DIR: str = "analysis"
     REPORT_JSON_FILENAME: str = "analysis_reports.json"
     LOG_FILENAME: str = "analysis/analyzer.log"
@@ -35,8 +33,8 @@ class Config:
     NGRAM_SPIKE_MULTIPLIER: float = 2.5
     TOP_N_NGRAMS_TO_SHOW: int = 25
 
-    # ### NEW SECTION ###: Sentiment Analysis Parameters
-    SENTIMENT_ANALYSIS_HOURS: int = 336 # Analyze the sentiment of the last day.
+    # Sentiment Analysis Parameters
+    SENTIMENT_ANALYSIS_HOURS: int = 336
 
 # ==============================================================================
 # 2. LOGGING & INITIAL SETUP
@@ -46,10 +44,9 @@ def setup_logging():
         handlers=[logging.FileHandler(Config.LOG_FILENAME, encoding='utf-8', mode='w'), logging.StreamHandler()])
 
 def setup_nltk():
-    """Downloads necessary NLTK data, now including the VADER lexicon."""
+    """Downloads necessary NLTK data, including the VADER lexicon."""
     try:
         nltk.data.find('corpora/stopwords')
-        # ### NEW ###: Check for the VADER lexicon.
         nltk.data.find('sentiment/vader_lexicon.zip')
     except LookupError:
         logging.info("Downloading NLTK data (stopwords, vader_lexicon)...")
@@ -59,30 +56,92 @@ def setup_nltk():
 # 3. TREND & SENTIMENT ANALYZER
 # ==============================================================================
 
-class TrendSentimentAnalyzer: # Renamed class for clarity
+class TrendSentimentAnalyzer:
     def __init__(self):
-        self.status_filepath = os.path.join(Config.DATA_DIR, Config.STATUS_JSON_FILENAME)
         self.report_filepath = os.path.join(Config.REPORT_DIR, Config.REPORT_JSON_FILENAME)
         self.df = None
         self.stop_words = set(stopwords.words('english')).union(['im', 'ive', 'gonna', 'wan', 'na'])
-        # ### NEW ###: Initialize the sentiment analyzer once.
         self.sia = SentimentIntensityAnalyzer()
 
-    def _load_and_prepare_data(self) -> bool:
-        # This method remains unchanged
-        logging.info(f"Loading data from '{self.status_filepath}'...")
-        try:
-            with open(self.status_filepath, 'r', encoding='utf-8') as f: data = json.load(f)
-        except (FileNotFoundError, json.JSONDecodeError) as e:
-            logging.critical(f"Could not load or parse status file: {e}"); return False
+    def _discover_and_load_monthly_files(self, start_date: pd.Timestamp, end_date: pd.Timestamp) -> Dict[str, Dict[str, Any]]:
+        """
+        Discovers and loads all monthly status files within the given date range.
+        Returns a combined dictionary of all statuses from all months.
+        """
+        all_data = {}
         
-        self.df = pd.DataFrame.from_dict(data, orient='index')
+        # Start at the beginning of the start month
+        current_date = start_date.replace(day=1)
+        # End at the end of the end month
+        end_month = end_date.replace(day=1)
+        
+        logging.info(f"Searching for monthly files from {current_date.strftime('%Y-%m')} to {end_month.strftime('%Y-%m')}")
+        
+        while current_date <= end_month:
+            year = current_date.year
+            month = current_date.month
+            
+            # Construct the filepath for this month
+            year_dir = os.path.join(Config.DATA_DIR, str(year))
+            filepath = os.path.join(year_dir, f"statuses_{year}_{month:02d}.json")
+            
+            if os.path.exists(filepath):
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        month_data = json.load(f)
+                        all_data.update(month_data)
+                        logging.info(f"Loaded {len(month_data)} statuses from {filepath}")
+                except Exception as e:
+                    logging.warning(f"Could not load {filepath}: {e}")
+            else:
+                logging.info(f"Monthly file not found: {filepath}")
+            
+            # Move to next month
+            if month == 12:
+                current_date = current_date.replace(year=year + 1, month=1)
+            else:
+                current_date = current_date.replace(month=month + 1)
+        
+        return all_data
+
+    def _load_and_prepare_data(self) -> bool:
+        """
+        Loads data from all available monthly files spanning the required time period.
+        """
+        logging.info(f"Loading data from monthly files in '{Config.DATA_DIR}'...")
+        
+        now = pd.Timestamp.now(tz='UTC')
+        
+        # Calculate how far back we need to load data
+        total_hours_needed = Config.CURRENT_ANALYSIS_HOURS + Config.HISTORICAL_BASELINE_HOURS
+        earliest_date_needed = now - pd.Timedelta(hours=total_hours_needed)
+        
+        # Also load sentiment data period
+        earliest_sentiment_date = now - pd.Timedelta(hours=Config.SENTIMENT_ANALYSIS_HOURS)
+        
+        # Use the earlier of the two dates
+        start_date = min(earliest_date_needed, earliest_sentiment_date)
+        
+        logging.info(f"Loading data from {start_date.strftime('%Y-%m-%d')} to {now.strftime('%Y-%m-%d')}")
+        
+        # Load all monthly files in the required range
+        all_data = self._discover_and_load_monthly_files(start_date, now)
+        
+        if not all_data:
+            logging.critical("No data loaded from any monthly files. Cannot perform analysis.")
+            return False
+        
+        logging.info(f"Total statuses loaded from all months: {len(all_data)}")
+        
+        # Convert to DataFrame
+        self.df = pd.DataFrame.from_dict(all_data, orient='index')
         self.df['timestamp'] = pd.to_datetime(self.df['timestamp_iso'], errors='coerce')
         self.df.dropna(subset=['text', 'timestamp'], inplace=True)
+        
+        logging.info(f"DataFrame prepared with {len(self.df)} valid statuses")
         return True
 
     def _has_sufficient_data_span(self) -> bool:
-        # This method remains unchanged
         if self.df.empty:
             logging.warning("DataFrame is empty. Cannot perform analysis.")
             return False
@@ -107,14 +166,12 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
         return True
 
     def _preprocess_text(self, text: str) -> List[str]:
-        # This method remains unchanged
         if not isinstance(text, str): return []
         raw_words = re.findall(r'\b[a-z]{3,}\b', text.lower())
         return [w for w in raw_words if w not in self.stop_words]
 
     # --- Part 1: N-Gram Trend Analysis ---
     def _run_ngram_analysis(self, df_current: pd.DataFrame, df_baseline: pd.DataFrame) -> List[dict]:
-        # This method remains unchanged
         logging.info("Starting N-Gram Trend Analysis...")
         baseline_ngrams = self._get_ngrams_from_dataframe(df_baseline)
         current_ngrams = self._get_ngrams_from_dataframe(df_current)
@@ -135,7 +192,6 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
         return spiking_ngrams
 
     def _get_ngrams_from_dataframe(self, df_period: pd.DataFrame) -> Dict[str, set]:
-        # This method remains unchanged
         ngrams_by_status_id = defaultdict(set)
         for status_id, row in df_period.iterrows():
             words = self._preprocess_text(row['text'])
@@ -146,7 +202,7 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
                         ngrams_by_status_id[ngram].add(status_id)
         return ngrams_by_status_id
 
-    # ### NEW METHOD ###: Part 2: Sentiment Analysis
+    # Part 2: Sentiment Analysis
     def _run_sentiment_analysis(self, df_sentiment_window: pd.DataFrame) -> Dict[str, Any]:
         """Analyzes the sentiment of statuses within a given timeframe."""
         logging.info(f"Starting Sentiment Analysis for the last {Config.SENTIMENT_ANALYSIS_HOURS} hours...")
@@ -191,7 +247,6 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
 
     # --- Part 3: Reporting ---
     def _save_report_to_json(self, report_data: Dict[str, Any]):
-        # This method remains unchanged
         logging.info(f"Saving report to '{self.report_filepath}'...")
         report_dir = os.path.dirname(self.report_filepath)
         if not os.path.exists(report_dir): os.makedirs(report_dir)
@@ -218,7 +273,6 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
     def _generate_report(self, spiking_ngrams: List[dict], sentiment_results: Dict):
         now = pd.Timestamp.now(tz='UTC')
         
-        # ### MODIFIED ###: Updated report structure to include sentiment.
         report_data_structured = { 
             "report_timestamp_utc": now.isoformat(), 
             "hot_topics": [], 
@@ -241,7 +295,6 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
                 print(f"- \"{item['ngram']}\" ({item['count']} mentions, {change_str} increase)")
                 report_data_structured["hot_topics"].append({ "ngram": item['ngram'], "mentions": item['count'], "change": change_str })
 
-        # ### NEW SECTION ###: Print the sentiment analysis board.
         print(f"\n--- SENTIMENT (Last {Config.SENTIMENT_ANALYSIS_HOURS} Hours) ---")
         if not sentiment_results:
             print("Not enough data to perform sentiment analysis for the period.")
@@ -269,7 +322,7 @@ class TrendSentimentAnalyzer: # Renamed class for clarity
             logging.info(f"Trend analysis windows: {len(df_current)} current, {len(df_baseline)} baseline.")
             spiking_ngrams = self._run_ngram_analysis(df_current, df_baseline)
         
-        # ### MODIFIED ###: Sentiment analysis runs independently on recent data.
+        # Sentiment analysis runs independently on recent data
         now = pd.Timestamp.now(tz='UTC')
         sentiment_boundary = now - pd.Timedelta(hours=Config.SENTIMENT_ANALYSIS_HOURS)
         df_sentiment_window = self.df[self.df['timestamp'] >= sentiment_boundary].copy()
