@@ -3,7 +3,6 @@ import json
 import hashlib
 import logging
 import re
-# ### MODIFICATION ###: Import 'timezone' from the datetime module
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional, Any, Tuple
 
@@ -18,7 +17,6 @@ class Config:
     """A single source of truth for all configuration."""
     SITE_URL: str = "https://status.cafe/"
     OUTPUT_DIR: str = "data"
-    JSON_FILENAME: str = "statuses.json"
     LOG_FILENAME: str = "scraper.log"
     REQUEST_TIMEOUT_SECONDS: int = 15
     REQUEST_HEADERS: Dict[str, str] = {
@@ -48,7 +46,47 @@ def setup_logging():
     )
 
 # ==============================================================================
-# 2. ROBUST DATA HANDLING & FILE I/O
+# 2. DYNAMIC FILE PATH MANAGEMENT
+# ==============================================================================
+
+def get_current_data_filepath() -> str:
+    """
+    Returns the filepath for the current month's status file.
+    Creates year directory if it doesn't exist.
+    Format: data/YYYY/statuses_YYYY_MM.json
+    """
+    now = datetime.now(timezone.utc)
+    year = now.year
+    month = now.month
+    
+    year_dir = os.path.join(Config.OUTPUT_DIR, str(year))
+    if not os.path.exists(year_dir):
+        os.makedirs(year_dir)
+        logging.info(f"Created year directory: {year_dir}")
+    
+    filename = f"statuses_{year}_{month:02d}.json"
+    return os.path.join(year_dir, filename)
+
+def get_excluded_data_filepath() -> str:
+    """
+    Returns the filepath for the current month's excluded status file.
+    Creates excluded_statuses directory if it doesn't exist.
+    Format: data/excluded_statuses/excluded_YYYY_MM.json
+    """
+    now = datetime.now(timezone.utc)
+    year = now.year
+    month = now.month
+    
+    excluded_dir = os.path.join(Config.OUTPUT_DIR, "excluded_statuses")
+    if not os.path.exists(excluded_dir):
+        os.makedirs(excluded_dir)
+        logging.info(f"Created excluded statuses directory: {excluded_dir}")
+    
+    filename = f"excluded_{year}_{month:02d}.json"
+    return os.path.join(excluded_dir, filename)
+
+# ==============================================================================
+# 3. ROBUST DATA HANDLING & FILE I/O
 # ==============================================================================
 
 def load_existing_data(filepath: str) -> Dict[str, Dict[str, Any]]:
@@ -89,44 +127,66 @@ def safe_save_data(filepath: str, data: Dict[str, Dict[str, Any]]):
             os.remove(temp_filepath)
 
 # ==============================================================================
-# 3. REFINED PARSING & SCRAPING LOGIC
+# 4. REFINED PARSING & SCRAPING LOGIC WITH AGE FILTERING
 # ==============================================================================
 
-def parse_relative_time(time_str: str) -> Optional[datetime]:
+def parse_relative_time(time_str: str) -> Tuple[Optional[datetime], bool]:
     """
     Intelligently parses a relative time string into an absolute datetime object.
-    Returns None if parsing fails.
+    Returns (datetime, is_acceptable) tuple.
+    - is_acceptable is True if the status is less than 24 hours old
+    - is_acceptable is False if the status is 1 day or older
+    Returns (None, False) if parsing fails.
     """
-    # ### MODIFICATION ###: Get the current time in UTC, making it timezone-aware.
     now = datetime.now(timezone.utc)
     normalized_str = time_str.lower().strip()
     
-    if "now" in normalized_str or "just now" in normalized_str: return now
-    if "yesterday" in normalized_str: return now - timedelta(days=1)
+    # Immediate acceptance cases (definitely < 24 hours)
+    if "now" in normalized_str or "just now" in normalized_str:
+        return now, True
+    
+    # Yesterday means >= 24 hours, so reject
+    if "yesterday" in normalized_str:
+        return now - timedelta(days=1), False
 
+    # Replace "a/an" with "1"
     normalized_str = re.sub(r'^(a|an)\s', '1 ', normalized_str)
     
     try:
         num_match = re.search(r'\d+', normalized_str)
         if not num_match:
             logging.warning(f"Could not find a number in time string: '{time_str}'")
-            return None
+            return None, False
 
         num = int(num_match.group(0))
         
-        if 'second' in normalized_str: return now - timedelta(seconds=num)
-        if 'minute' in normalized_str: return now - timedelta(minutes=num)
-        if 'hour' in normalized_str: return now - timedelta(hours=num)
-        if 'day' in normalized_str: return now - timedelta(days=num)
-        if 'week' in normalized_str: return now - timedelta(weeks=num)
-        if 'month' in normalized_str: return now - timedelta(days=num * 30) # Approximation
-        if 'year' in normalized_str: return now - timedelta(days=num * 365) # Approximation
+        # Check for time units and determine acceptability
+        if 'second' in normalized_str:
+            return now - timedelta(seconds=num), True
+        if 'minute' in normalized_str:
+            return now - timedelta(minutes=num), True
+        if 'hour' in normalized_str:
+            # Accept only if less than 24 hours
+            if num < 24:
+                return now - timedelta(hours=num), True
+            else:
+                return now - timedelta(hours=num), False
+        
+        # Day, week, month, year are all >= 24 hours, so reject
+        if 'day' in normalized_str:
+            return now - timedelta(days=num), False
+        if 'week' in normalized_str:
+            return now - timedelta(weeks=num), False
+        if 'month' in normalized_str:
+            return now - timedelta(days=num * 30), False
+        if 'year' in normalized_str:
+            return now - timedelta(days=num * 365), False
         
         logging.warning(f"Unrecognized time unit in string: '{time_str}'")
-        return None
+        return None, False
     except Exception as e:
         logging.error(f"Error parsing time string '{time_str}': {e}")
-        return None
+        return None, False
 
 def fetch_page(url: str) -> Optional[BeautifulSoup]:
     """Fetches and parses a web page, handling network errors."""
@@ -142,14 +202,20 @@ def fetch_page(url: str) -> Optional[BeautifulSoup]:
         logging.error(f"Failed to fetch page '{url}'. Reason: {e}")
         return None
 
-def parse_statuses_from_soup(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """Extracts all status data from a BeautifulSoup object defensively."""
-    parsed_statuses = []
+def parse_statuses_from_soup(soup: BeautifulSoup) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    """
+    Extracts all status data from a BeautifulSoup object defensively.
+    Returns two lists: (acceptable_statuses, excluded_statuses)
+    - acceptable_statuses: statuses less than 24 hours old
+    - excluded_statuses: statuses 24 hours or older
+    """
+    acceptable_statuses = []
+    excluded_statuses = []
     status_elements = soup.select(Config.Selectors.STATUS_CONTAINER)
     
     if not status_elements:
         logging.warning(f"No status elements found with selector '{Config.Selectors.STATUS_CONTAINER}'. The website layout may have changed.")
-        return []
+        return [], []
 
     for status_element in status_elements:
         try:
@@ -169,20 +235,29 @@ def parse_statuses_from_soup(soup: BeautifulSoup) -> List[Dict[str, Any]]:
             
             status_id = hashlib.sha256(f"{username}:{text}".encode('utf-8')).hexdigest()
             
-            parsed_statuses.append({
+            status_dict = {
                 "id": status_id,
                 "username": username,
                 "text": text,
                 "relative_time_on_site": relative_time,
-            })
+            }
+            
+            # Parse time and check acceptability
+            absolute_time, is_acceptable = parse_relative_time(relative_time)
+            
+            if is_acceptable:
+                acceptable_statuses.append(status_dict)
+            else:
+                excluded_statuses.append(status_dict)
+                
         except Exception as e:
             logging.error(f"An unexpected error occurred while parsing a single status: {e}")
             continue
     
-    return parsed_statuses
+    return acceptable_statuses, excluded_statuses
 
 # ==============================================================================
-# 4. MAIN ORCHESTRATION LOGIC
+# 5. MAIN ORCHESTRATION LOGIC
 # ==============================================================================
 
 def main():
@@ -190,40 +265,76 @@ def main():
     setup_logging()
     logging.info("--- Starting Status.Cafe Scraper Run ---")
     
-    data_filepath = os.path.join(Config.OUTPUT_DIR, Config.JSON_FILENAME)
+    # Get current month's file paths
+    data_filepath = get_current_data_filepath()
+    excluded_filepath = get_excluded_data_filepath()
+    
+    logging.info(f"Target data file: {data_filepath}")
+    logging.info(f"Target excluded file: {excluded_filepath}")
+    
+    # Load existing data for both files
     existing_data = load_existing_data(data_filepath)
-    logging.info(f"Loaded {len(existing_data)} existing statuses.")
+    existing_excluded = load_existing_data(excluded_filepath)
+    
+    logging.info(f"Loaded {len(existing_data)} existing statuses from current month.")
+    logging.info(f"Loaded {len(existing_excluded)} existing excluded statuses from current month.")
     
     soup = fetch_page(Config.SITE_URL)
     if not soup:
         logging.critical("Could not fetch or parse the page. Aborting run.")
         return
 
-    scraped_statuses = parse_statuses_from_soup(soup)
-    if not scraped_statuses:
+    acceptable_statuses, excluded_statuses = parse_statuses_from_soup(soup)
+    
+    if not acceptable_statuses and not excluded_statuses:
         logging.info("Scraping finished, but no statuses were parsed.")
         return
-        
+    
+    logging.info(f"Scraped {len(acceptable_statuses)} acceptable statuses (< 24 hours old)")
+    logging.info(f"Scraped {len(excluded_statuses)} excluded statuses (>= 24 hours old)")
+    
+    # Process acceptable statuses
     new_statuses_added = 0
-    for status in scraped_statuses:
+    for status in acceptable_statuses:
         if status["id"] not in existing_data:
-            absolute_time = parse_relative_time(status["relative_time_on_site"])
+            absolute_time, _ = parse_relative_time(status["relative_time_on_site"])
             
             existing_data[status["id"]] = {
                 "username": status["username"],
                 "text": status["text"],
                 "timestamp_iso": absolute_time.isoformat() if absolute_time else None,
                 "relative_time_on_site": status["relative_time_on_site"],
-                # ### MODIFICATION ###: Get the retrieval timestamp in UTC.
                 "retrieval_date_iso": datetime.now(timezone.utc).isoformat()
             }
             new_statuses_added += 1
     
+    # Process excluded statuses
+    new_excluded_added = 0
+    for status in excluded_statuses:
+        if status["id"] not in existing_excluded:
+            absolute_time, _ = parse_relative_time(status["relative_time_on_site"])
+            
+            existing_excluded[status["id"]] = {
+                "username": status["username"],
+                "text": status["text"],
+                "timestamp_iso": absolute_time.isoformat() if absolute_time else None,
+                "relative_time_on_site": status["relative_time_on_site"],
+                "retrieval_date_iso": datetime.now(timezone.utc).isoformat()
+            }
+            new_excluded_added += 1
+    
+    # Save both files if there are changes
     if new_statuses_added > 0:
-        logging.info(f"Found {new_statuses_added} new statuses. Saving to file.")
+        logging.info(f"Found {new_statuses_added} new acceptable statuses. Saving to file.")
         safe_save_data(data_filepath, existing_data)
     else:
-        logging.info("No new statuses found on the page.")
+        logging.info("No new acceptable statuses found on the page.")
+    
+    if new_excluded_added > 0:
+        logging.info(f"Found {new_excluded_added} new excluded statuses. Saving to excluded file.")
+        safe_save_data(excluded_filepath, existing_excluded)
+    else:
+        logging.info("No new excluded statuses found on the page.")
         
     logging.info("--- Scraper run complete. ---")
 
