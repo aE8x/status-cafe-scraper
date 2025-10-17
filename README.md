@@ -1,6 +1,6 @@
 # Status.Cafe Daily Analysis
 
-This page displays the latest automated trend and sentiment analysis from [status.cafe](https://status.cafe/). The report is updated daily.
+This page displays the latest automated trend and sentiment analysis from [status.cafe](https://status.cafe/). The report is updated twice daily at 02:30 UTC and 14:30 UTC.
 
 ---
 
@@ -8,39 +8,12 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2025-10-17 05:09 UTC*
+*Analysis data is currently being collected. Reports will be available once sufficient historical data has been gathered (approximately 104 days from project start).*
 
-### Sentiment Analysis
-- **Overall Mood Score**: `0.071` 
-- **Distribution**: 35.1% Positive, 39.8% Neutral, 25.0% Negative
-
-### Hot Topics
-| Rank | Change | Topic | Mentions |
-|:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `one year anniversary` | 4 |
-| 2 | UP 2 | `thanksgiving` | 4 |
-| 3 | UP 2 | `phil` | 4 |
-| 4 | UP 2 | `dan phil` | 4 |
-| 5 | UP 2 | `phan` | 7 |
-| 6 | UP 2 | `phan real` | 5 |
-| 7 | UP 5 | `dan` | 5 |
-| 8 | UP 3 | `weeks ago` | 4 |
-| 9 | DOWN 8 | `com halloween` | 4 |
-| 10 | DOWN 8 | `dannarchy com halloween` | 4 |
-| 11 | DOWN 1 | `pokemon legends` | 15 |
-| 12 | NEW | `frozen` | 3 |
-| 13 | UP 7 | `found really` | 3 |
-| 14 | UP 7 | `murder` | 3 |
-| 15 | NEW | `shipping` | 3 |
-| 16 | NEW | `breakcore` | 3 |
-| 17 | NEW | `wholesome` | 3 |
-| 18 | UP 4 | `minhas` | 3 |
-| 19 | UP 4 | `less week` | 3 |
-| 20 | NEW | `need watch` | 3 |
-| 21 | UP 3 | `art website` | 3 |
-| 22 | DOWN 9 | `till pokemon` | 13 |
-| 23 | DOWN 9 | `till pokemon legends` | 13 |
-| 24 | DOWN 9 | `pokemon legends releases` | 13 |
-| 25 | DOWN 9 | `days till pokemon` | 12 |
+**Current Status**: Building baseline dataset...
 
 <!-- END_ANALYSIS_SECTION -->
+
+---
+
+**Note**: It is recommended that the deprecated version of the status data file (statuses_legacy.json) be not used for analysis or research purposes. This due to there being several flaws in the methodology of data collection that had gone unaccounted by me for some time.
