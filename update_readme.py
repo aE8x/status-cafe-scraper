@@ -11,6 +11,13 @@ README_FILE = "README.md"
 START_MARKER = "<!-- START_ANALYSIS_SECTION -->"
 END_MARKER = "<!-- END_ANALYSIS_SECTION -->"
 
+# Disclaimer text
+DISCLAIMER = """
+---
+
+**Note**: It is recommended that the deprecated version of the status data file (statuses_legacy.json) be not used for analysis or research purposes. This due to there being several flaws in the methodology of data collection that had gone unaccounted by me for some time.
+"""
+
 # --- Main Logic ---
 
 def get_rank_change_str(current_rank: int, prev_rank_map: dict, topic: str) -> str:
@@ -33,6 +40,7 @@ def get_rank_change_str(current_rank: int, prev_rank_map: dict, topic: str) -> s
 def get_sentiment_change_str(current_score: float, prev_score: float) -> str:
     """
     Generates a string for sentiment change, using a small threshold to avoid noise.
+    Returns '(UP)', '(DOWN)', or '' for no significant change.
     """
     threshold = 0.01
     if current_score > prev_score + threshold:
@@ -118,7 +126,7 @@ def main():
         print(f"Error: Could not find the markers in '{README_FILE}'. Cannot update.")
         return
 
-    # Build the new README content
+    # Build the new README content with analysis section
     new_readme_content = (
         readme_content[:start_index + len(START_MARKER)] +
         "\n\n" +
@@ -126,11 +134,15 @@ def main():
         "\n\n" +
         readme_content[end_index:]
     )
+    
+    # 6. Add disclaimer at the very bottom if it's not already there
+    if DISCLAIMER.strip() not in new_readme_content:
+        new_readme_content = new_readme_content.rstrip() + "\n" + DISCLAIMER
 
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(new_readme_content)
     
-    print("README.md has been successfully updated with the latest analysis.")
+    print("README.md has been successfully updated with the latest analysis and disclaimer.")
 
 if __name__ == "__main__":
     main()
