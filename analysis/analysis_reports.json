@@ -2644,5 +2644,26 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2025-10-18T03:07:23.153261+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.0751022857142857,
+            "positive_percent": 34.85714285714286,
+            "negative_percent": 23.42857142857143,
+            "neutral_percent": 41.714285714285715,
+            "most_positive_example": {
+                "text": "finally ran O&O's Shut Up 10 today and i'm happy to be even a little more free of Win 11's spyware bloat. <3",
+                "user": "snoodoodle",
+                "score": 0.9322
+            },
+            "most_negative_example": {
+                "text": "i have had a crazy ass two weeks man. i am so tired",
+                "user": "almandmilk",
+                "score": -0.8638
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
