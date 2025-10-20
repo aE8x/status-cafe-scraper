@@ -61,5 +61,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-10-20T03:34:19.071103+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.06894324786324786,
+            "positive_percent": 35.21367521367522,
+            "negative_percent": 23.931623931623932,
+            "neutral_percent": 40.85470085470085,
+            "most_positive_example": {
+                "text": "finally ran O&O's Shut Up 10 today and i'm happy to be even a little more free of Win 11's spyware bloat. <3",
+                "user": "snoodoodle",
+                "score": 0.9322
+            },
+            "most_negative_example": {
+                "text": "MY STOMACH HURTS SO BAD FAWWKK This feels like a personal attack on me as a person SLASH REF :/",
+                "user": "sunsua",
+                "score": -0.9425
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
