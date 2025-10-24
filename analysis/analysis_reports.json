@@ -250,5 +250,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-10-24T14:44:09.375528+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.06041010101010101,
+            "positive_percent": 33.90151515151515,
+            "negative_percent": 23.92676767676768,
+            "neutral_percent": 42.17171717171717,
+            "most_positive_example": {
+                "text": "package arrived I’m so happy :D <- me being happy",
+                "user": "mothpanic",
+                "score": 0.9412
+            },
+            "most_negative_example": {
+                "text": "big bang theory blart mall cop fuck ass slap goddamn shit fuck",
+                "user": "wormsauce",
+                "score": -0.9485
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
