@@ -334,5 +334,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-10-26T14:38:35.882758+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.0605551971326165,
+            "positive_percent": 34.66461853558628,
+            "negative_percent": 24.372759856630825,
+            "neutral_percent": 40.9626216077829,
+            "most_positive_example": {
+                "text": "i love theatre i love my best friends i love my bf i love being so fucking tired",
+                "user": "appledanish",
+                "score": 0.9706
+            },
+            "most_negative_example": {
+                "text": "big bang theory blart mall cop fuck ass slap goddamn shit fuck",
+                "user": "wormsauce",
+                "score": -0.9485
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
