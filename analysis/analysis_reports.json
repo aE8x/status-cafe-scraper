@@ -397,5 +397,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-10-28T03:27:49.498480+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.06157048748353096,
+            "positive_percent": 34.51910408432148,
+            "negative_percent": 24.19850680720246,
+            "neutral_percent": 41.28238910847607,
+            "most_positive_example": {
+                "text": "AAAAAAHHHHHHHH!! I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU!!!!!",
+                "user": "serafinisdead",
+                "score": 0.9755
+            },
+            "most_negative_example": {
+                "text": "it's all my fault it's all my fault it's all my fault it's all my fault it's all my fault it's all my fault it's all my fault",
+                "user": "wolfsbane",
+                "score": -0.9509
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
