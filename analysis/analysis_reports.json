@@ -439,5 +439,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-10-29T03:33:48.549356+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.060673215717722544,
+            "positive_percent": 34.40256615878107,
+            "negative_percent": 24.137931034482758,
+            "neutral_percent": 41.45950280673617,
+            "most_positive_example": {
+                "text": "AAAAAAHHHHHHHH!! I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU!!!!!",
+                "user": "serafinisdead",
+                "score": 0.9755
+            },
+            "most_negative_example": {
+                "text": "i hate hate HATE drawing shit out like can we get this shit over with already?? i don't have the time for this!!!!!!!!!!!!!",
+                "user": "catskulls",
+                "score": -0.9641
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
