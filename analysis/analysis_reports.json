@@ -838,5 +838,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-07T14:42:29.264197+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.08192373109243697,
+            "positive_percent": 37.51260504201681,
+            "negative_percent": 23.932773109243698,
+            "neutral_percent": 38.554621848739494,
+            "most_positive_example": {
+                "text": "AAAAAAHHHHHHHH!! I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU!!!!!",
+                "user": "serafinisdead",
+                "score": 0.9755
+            },
+            "most_negative_example": {
+                "text": "just gotta kill myself.. just gotta kill myself... just gotta kill myself.. just gotta kill myself... just gotta kill myself.. just gotta ki",
+                "user": "anabolicfrolic",
+                "score": -0.9788
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
