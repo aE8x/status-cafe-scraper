@@ -943,5 +943,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-10T03:37:11.662814+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.08135328418230563,
+            "positive_percent": 36.8632707774799,
+            "negative_percent": 23.760053619302948,
+            "neutral_percent": 39.37667560321716,
+            "most_positive_example": {
+                "text": "laughs in prop 50 passing in california but OH MY GOD MAMDANI WON, SO PROUD OF NYC",
+                "user": "unicorn",
+                "score": 0.9674
+            },
+            "most_negative_example": {
+                "text": "just gotta kill myself.. just gotta kill myself... just gotta kill myself.. just gotta kill myself... just gotta kill myself.. just gotta ki",
+                "user": "anabolicfrolic",
+                "score": -0.9788
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
