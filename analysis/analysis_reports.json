@@ -1132,5 +1132,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-14T14:41:13.855747+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.07095217249264947,
+            "positive_percent": 36.45867363606665,
+            "negative_percent": 25.383861483175433,
+            "neutral_percent": 38.15746488075792,
+            "most_positive_example": {
+                "text": "laughs in prop 50 passing in california but OH MY GOD MAMDANI WON, SO PROUD OF NYC",
+                "user": "unicorn",
+                "score": 0.9674
+            },
+            "most_negative_example": {
+                "text": "i dont often swear but that was fucking HORRIBLE i was watching a video and over the course of it i started feeling much worse. i thought it was just nocebo but i was wrong as by the end of the it i actually started slightly puking in my mouth and it tasted HORRIBLE. so then i made my last status and didnt find a sick emoji in time so i just chose the first sad looking emoji i could find. so then i got in bed and started puking and it came out my NOSE and it BURNT. birthday today too :(",
+                "user": "rickgottaken",
+                "score": -0.9873
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
