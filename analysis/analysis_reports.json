@@ -1174,5 +1174,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-15T14:39:01.221696+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.059058143376280146,
+            "positive_percent": 35.18334985133796,
+            "negative_percent": 26.197555335315492,
+            "neutral_percent": 38.61909481334655,
+            "most_positive_example": {
+                "text": "DATE WITH MY BOYFRIEND YAY YAY YAY YAY YAY YAY YAY",
+                "user": "anabolicfrolic",
+                "score": 0.9744
+            },
+            "most_negative_example": {
+                "text": "i dont often swear but that was fucking HORRIBLE i was watching a video and over the course of it i started feeling much worse. i thought it was just nocebo but i was wrong as by the end of the it i actually started slightly puking in my mouth and it tasted HORRIBLE. so then i made my last status and didnt find a sick emoji in time so i just chose the first sad looking emoji i could find. so then i got in bed and started puking and it came out my NOSE and it BURNT. birthday today too :(",
+                "user": "rickgottaken",
+                "score": -0.9873
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
