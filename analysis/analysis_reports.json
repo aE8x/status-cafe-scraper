@@ -1279,5 +1279,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-18T03:31:33.826937+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.05826151484135107,
+            "positive_percent": 34.69805527123849,
+            "negative_percent": 26.305015353121803,
+            "neutral_percent": 38.996929375639716,
+            "most_positive_example": {
+                "text": "I LOVE WOMEN N BEING A WOMAN AND I LOVE ARTTTTTT GAWDDDD\r\ninspired, ecstatic, reverent, blissful, happy, giddy",
+                "user": "celestialeyeliner",
+                "score": 0.976
+            },
+            "most_negative_example": {
+                "text": "fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows",
+                "user": "xsolimini",
+                "score": -0.9882
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
