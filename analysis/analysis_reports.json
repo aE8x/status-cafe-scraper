@@ -1531,5 +1531,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-11-24T03:43:28.665885+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.05839050715214565,
+            "positive_percent": 34.16775032509753,
+            "negative_percent": 25.065019505851755,
+            "neutral_percent": 40.76723016905072,
+            "most_positive_example": {
+                "text": "Love love love love love love love, what's somethiing you LOVE?",
+                "user": "l0botomit3",
+                "score": 0.9894
+            },
+            "most_negative_example": {
+                "text": "fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows fuck windows",
+                "user": "xsolimini",
+                "score": -0.9882
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
