@@ -2077,5 +2077,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-07T03:44:55.336909+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.07176648332760399,
+            "positive_percent": 35.991749742179444,
+            "negative_percent": 23.2726022688209,
+            "neutral_percent": 40.73564798899966,
+            "most_positive_example": {
+                "text": "Love love love love love love love, what's somethiing you LOVE?",
+                "user": "l0botomit3",
+                "score": 0.9894
+            },
+            "most_negative_example": {
+                "text": "you wont believe what happened 10h ago i was almost sick while i was sleeping and i jolted awake and sat up but thats not the part i want to mention... this is exactly 2 WEEKS AFTER THE LAST TIME I WAS SICK almost down to the exact time (the time was only like 3 hours off). dont tell me... wait NO NO NOT WHEN BFDIA 23 RELEASES NO NO NO NO NO NO NO NO NO (edit: nevermind it would be the 9th of december not the 2nd thank god)",
+                "user": "rickgottaken",
+                "score": -0.9946
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
