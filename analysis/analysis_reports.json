@@ -2182,5 +2182,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-09T14:48:08.872098+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.062327781569965865,
+            "positive_percent": 35.358361774744026,
+            "negative_percent": 24.2320819112628,
+            "neutral_percent": 40.40955631399317,
+            "most_positive_example": {
+                "text": "i love food i love to eat i love the bear i love ethiopian jazz i love my friends i love my boyfriend i love the world",
+                "user": "sphinxie",
+                "score": 0.9877
+            },
+            "most_negative_example": {
+                "text": "absolutely distraught because the only urgent task for my game rn is writing dialogue and FUCK FUCK FUCK I HATE DOING THAT I HATE WRITINGGGG",
+                "user": "catskulls",
+                "score": -0.9791
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
