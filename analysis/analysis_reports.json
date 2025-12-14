@@ -2392,5 +2392,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-14T14:40:40.616889+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.04805200534759359,
+            "positive_percent": 33.589572192513366,
+            "negative_percent": 26.136363636363637,
+            "neutral_percent": 40.274064171122994,
+            "most_positive_example": {
+                "text": "i love food i love to eat i love the bear i love ethiopian jazz i love my friends i love my boyfriend i love the world",
+                "user": "sphinxie",
+                "score": 0.9877
+            },
+            "most_negative_example": {
+                "text": "ughhhhhh i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die",
+                "user": "acidicalchemist",
+                "score": -0.9927
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
