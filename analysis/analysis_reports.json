@@ -2707,5 +2707,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-22T03:52:50.260551+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.04220046901172529,
+            "positive_percent": 32.26130653266331,
+            "negative_percent": 26.097152428810723,
+            "neutral_percent": 41.641541038525965,
+            "most_positive_example": {
+                "text": "finished slow damage. i LOVE fujieda i LOVE towa i LOVE fujitowa i LOVE love",
+                "user": "ribbondoll",
+                "score": 0.9742
+            },
+            "most_negative_example": {
+                "text": "ughhhhhh i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die i wanna die",
+                "user": "acidicalchemist",
+                "score": -0.9927
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
