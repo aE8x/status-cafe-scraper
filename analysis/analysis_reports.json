@@ -2791,5 +2791,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-24T03:44:07.440604+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.04521317324185249,
+            "positive_percent": 32.14408233276158,
+            "negative_percent": 25.28301886792453,
+            "neutral_percent": 42.5728987993139,
+            "most_positive_example": {
+                "text": "finished slow damage. i LOVE fujieda i LOVE towa i LOVE fujitowa i LOVE love",
+                "user": "ribbondoll",
+                "score": 0.9742
+            },
+            "most_negative_example": {
+                "text": "i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job",
+                "user": "jordanxenergy",
+                "score": -0.9875
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
