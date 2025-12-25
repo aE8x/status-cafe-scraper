@@ -2833,5 +2833,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2025-12-25T03:46:34.610665+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.05927317824153268,
+            "positive_percent": 33.766678070475535,
+            "negative_percent": 25.0769757098871,
+            "neutral_percent": 41.156346219637356,
+            "most_positive_example": {
+                "text": "Happy jolly joy day jolly something jolly hamburger jolly joy",
+                "user": "luckiest_venus",
+                "score": 0.9764
+            },
+            "most_negative_example": {
+                "text": "i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job",
+                "user": "jordanxenergy",
+                "score": -0.9875
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
