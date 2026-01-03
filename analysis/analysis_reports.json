@@ -3232,5 +3232,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2026-01-03T14:41:49.825256+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.1495498422712934,
+            "positive_percent": 43.252716438836316,
+            "negative_percent": 21.100595864002806,
+            "neutral_percent": 35.646687697160885,
+            "most_positive_example": {
+                "text": "Take-off was delayed by two hours but who cares bc I'm hoooooome!!! I love being at home I love bed I love my room I love coming home!!!!",
+                "user": "katbots",
+                "score": 0.986
+            },
+            "most_negative_example": {
+                "text": "i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job i hate my job",
+                "user": "jordanxenergy",
+                "score": -0.9875
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
