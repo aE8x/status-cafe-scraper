@@ -3463,5 +3463,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2026-01-09T03:49:30.922804+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.10848787666433078,
+            "positive_percent": 38.71758934828311,
+            "negative_percent": 22.81009110021023,
+            "neutral_percent": 38.47231955150666,
+            "most_positive_example": {
+                "text": "Take-off was delayed by two hours but who cares bc I'm hoooooome!!! I love being at home I love bed I love my room I love coming home!!!!",
+                "user": "katbots",
+                "score": 0.986
+            },
+            "most_negative_example": {
+                "text": "the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and",
+                "user": "kroert",
+                "score": -0.9849
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
