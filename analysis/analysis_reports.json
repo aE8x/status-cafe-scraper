@@ -3778,5 +3778,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2026-01-16T14:48:50.612053+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.0468803450608931,
+            "positive_percent": 32.84844384303112,
+            "negative_percent": 25.0,
+            "neutral_percent": 42.15155615696888,
+            "most_positive_example": {
+                "text": "i love love love my friends",
+                "user": "undeadghoulie",
+                "score": 0.9493
+            },
+            "most_negative_example": {
+                "text": "the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and the grief and",
+                "user": "kroert",
+                "score": -0.9849
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
