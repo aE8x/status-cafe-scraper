@@ -3883,5 +3883,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2026-01-19T04:00:17.369073+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.0427706964520368,
+            "positive_percent": 32.42444152431012,
+            "negative_percent": 25.558475689881732,
+            "neutral_percent": 42.01708278580815,
+            "most_positive_example": {
+                "text": ":3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3",
+                "user": "pawzeptum",
+                "score": 0.9994
+            },
+            "most_negative_example": {
+                "text": "This week is killing me. This whole year so far been so ass. I failed some exams",
+                "user": "jazislosinghermind",
+                "score": -0.9256
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
