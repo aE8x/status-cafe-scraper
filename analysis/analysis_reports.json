@@ -4072,5 +4072,26 @@
             }
         },
         "summary_message": "No phrases met the trending threshold."
+    },
+    {
+        "report_timestamp_utc": "2026-01-23T14:51:54.983410+00:00",
+        "hot_topics": [],
+        "sentiment_analysis": {
+            "average_score": 0.0500996854356716,
+            "positive_percent": 33.72129600503303,
+            "negative_percent": 25.416797735136836,
+            "neutral_percent": 40.861906259830135,
+            "most_positive_example": {
+                "text": ":3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3",
+                "user": "pawzeptum",
+                "score": 0.9994
+            },
+            "most_negative_example": {
+                "text": "I HATE INSTAGRAM I HATE INSTAGRAM I HATE INSTAGRAM I HATE INSTAGRAM I HATE INSTAGRAM",
+                "user": "orbital",
+                "score": -0.9612
+            }
+        },
+        "summary_message": "No phrases met the trending threshold."
     }
 ]
