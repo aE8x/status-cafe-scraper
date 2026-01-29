@@ -4450,5 +4450,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-01-29T15:04:42.933087+00:00",
+        "hot_topics": [
+            {
+                "ngram": "new england",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hytale",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "snow storm",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life direct",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life direct",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "winter storm",
+                "mentions": 10,
+                "change": "59.6x"
+            },
+            {
+                "ngram": "snowstorm",
+                "mentions": 5,
+                "change": "29.8x"
+            },
+            {
+                "ngram": "kin",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "unbearable",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "rave",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "many people",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "grilled",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "tomodachi life",
+                "mentions": 14,
+                "change": "20.9x"
+            },
+            {
+                "ngram": "direct",
+                "mentions": 10,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "getting somewhere",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "warrior cats",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "collabs",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "entire life",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "hundreds",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "sandwiches",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "theme song",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "entire website",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "temple",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "puppet",
+                "mentions": 3,
+                "change": "17.9x"
+            },
+            {
+                "ngram": "give strength",
+                "mentions": 3,
+                "change": "17.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04959299562226391,
+            "positive_percent": 33.614759224515325,
+            "negative_percent": 25.265791119449656,
+            "neutral_percent": 41.11944965603502,
+            "most_positive_example": {
+                "text": ":3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3 :3",
+                "user": "pawzeptum",
+                "score": 0.9994
+            },
+            "most_negative_example": {
+                "text": "I HATE ALL OF YOU DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE !!",
+                "user": "acidicalchemist",
+                "score": -0.9994
+            }
+        },
+        "summary_message": null
     }
 ]
