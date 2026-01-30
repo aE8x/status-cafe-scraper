@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-01-29 15:04 UTC*
+*Last Updated: 2026-01-30 04:19 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.050` 
-- **Distribution**: 33.6% Positive, 41.1% Neutral, 25.3% Negative
+- **Overall Mood Score**: `0.048` 
+- **Distribution**: 33.4% Positive, 41.2% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `new england` | 4 |
-| 2 | UP 1 | `hytale` | 5 |
-| 3 | UP 1 | `snow storm` | 6 |
-| 4 | NEW | `life direct` | 7 |
-| 5 | NEW | `tomodachi life direct` | 7 |
-| 6 | DOWN 1 | `winter storm` | 10 |
-| 7 | DOWN 1 | `snowstorm` | 5 |
-| 8 | DOWN 1 | `kin` | 4 |
-| 9 | DOWN 1 | `unbearable` | 4 |
-| 10 | DOWN 1 | `rave` | 4 |
-| 11 | DOWN 1 | `many people` | 4 |
-| 12 | DOWN 1 | `grilled` | 4 |
-| 13 | NEW | `tomodachi life` | 14 |
-| 14 | NEW | `direct` | 10 |
-| 15 | DOWN 2 | `getting somewhere` | 3 |
-| 16 | DOWN 2 | `warrior cats` | 3 |
-| 17 | DOWN 16 | `collabs` | 3 |
-| 18 | DOWN 3 | `entire life` | 3 |
-| 19 | DOWN 3 | `hundreds` | 3 |
-| 20 | DOWN 3 | `sandwiches` | 3 |
-| 21 | DOWN 3 | `theme song` | 3 |
-| 22 | DOWN 3 | `entire website` | 3 |
-| 23 | DOWN 3 | `temple` | 3 |
-| 24 | DOWN 3 | `puppet` | 3 |
-| 25 | DOWN 3 | `give strength` | 3 |
+| 1 | - | `new england` | 4 |
+| 2 | - | `hytale` | 5 |
+| 3 | - | `snow storm` | 6 |
+| 4 | - | `life direct` | 8 |
+| 5 | - | `tomodachi life direct` | 8 |
+| 6 | UP 7 | `tomodachi life` | 23 |
+| 7 | - | `snowstorm` | 5 |
+| 8 | NEW | `tomodachi` | 24 |
+| 9 | DOWN 3 | `winter storm` | 9 |
+| 10 | - | `rave` | 4 |
+| 11 | - | `many people` | 4 |
+| 12 | - | `grilled` | 4 |
+| 13 | UP 1 | `direct` | 11 |
+| 14 | UP 1 | `getting somewhere` | 3 |
+| 15 | UP 1 | `warrior cats` | 3 |
+| 16 | UP 1 | `collabs` | 3 |
+| 17 | UP 1 | `entire life` | 3 |
+| 18 | UP 1 | `hundreds` | 3 |
+| 19 | UP 1 | `sandwiches` | 3 |
+| 20 | UP 1 | `theme song` | 3 |
+| 21 | UP 1 | `entire website` | 3 |
+| 22 | UP 1 | `temple` | 3 |
+| 23 | UP 1 | `puppet` | 3 |
+| 24 | UP 1 | `give strength` | 3 |
+| 25 | NEW | `eep` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
