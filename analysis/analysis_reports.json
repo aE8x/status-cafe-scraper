@@ -4891,5 +4891,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-01-31T04:14:42.659345+00:00",
+        "hot_topics": [
+            {
+                "ngram": "new england",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hytale",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "snow storm",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fuck ice",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life direct",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life direct",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life",
+                "mentions": 23,
+                "change": "33.5x"
+            },
+            {
+                "ngram": "many people",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "snowstorm",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "tomodachi",
+                "mentions": 24,
+                "change": "28.0x"
+            },
+            {
+                "ngram": "winter storm",
+                "mentions": 9,
+                "change": "26.2x"
+            },
+            {
+                "ngram": "entire website",
+                "mentions": 4,
+                "change": "23.3x"
+            },
+            {
+                "ngram": "grilled",
+                "mentions": 4,
+                "change": "23.3x"
+            },
+            {
+                "ngram": "terraria",
+                "mentions": 4,
+                "change": "23.3x"
+            },
+            {
+                "ngram": "direct",
+                "mentions": 11,
+                "change": "21.4x"
+            },
+            {
+                "ngram": "iron lung",
+                "mentions": 7,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "hundreds",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "sandwiches",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "theme song",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "temple",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "puppet",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "give strength",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "eep",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "february",
+                "mentions": 3,
+                "change": "17.5x"
+            },
+            {
+                "ngram": "brutal",
+                "mentions": 3,
+                "change": "17.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.046868507781507474,
+            "positive_percent": 33.01800427220019,
+            "negative_percent": 25.267012511443394,
+            "neutral_percent": 41.71498321635642,
+            "most_positive_example": {
+                "text": "IJUST HIT 50,000 WORDS YES YESYE SYES SYE YES YES YES YES YES YES YES",
+                "user": "lacemoss",
+                "score": 0.9808
+            },
+            "most_negative_example": {
+                "text": "I HATE ALL OF YOU DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE !!",
+                "user": "acidicalchemist",
+                "score": -0.9994
+            }
+        },
+        "summary_message": null
     }
 ]
