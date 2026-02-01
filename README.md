@@ -8,7 +8,7 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-01 04:39 UTC*
+*Last Updated: 2026-02-01 14:51 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.047` 
@@ -17,31 +17,31 @@ This page displays the latest automated trend and sentiment analysis from [statu
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `snow storm` | 6 |
-| 2 | UP 2 | `fuck ice` | 5 |
-| 3 | UP 2 | `life direct` | 8 |
-| 4 | UP 2 | `tomodachi life direct` | 8 |
-| 5 | UP 2 | `tomodachi life` | 23 |
-| 6 | DOWN 4 | `hytale` | 5 |
-| 7 | UP 2 | `snowstorm` | 5 |
-| 8 | UP 2 | `tomodachi` | 24 |
-| 9 | UP 2 | `winter storm` | 9 |
-| 10 | UP 3 | `grilled` | 4 |
-| 11 | UP 10 | `eep` | 4 |
-| 12 | UP 2 | `terraria` | 4 |
-| 13 | UP 2 | `direct` | 11 |
-| 14 | UP 2 | `iron lung` | 7 |
-| 15 | NEW | `forest` | 3 |
-| 16 | UP 3 | `puppet` | 3 |
-| 17 | UP 3 | `give strength` | 3 |
-| 18 | UP 4 | `february` | 3 |
-| 19 | DOWN 18 | `new england` | 3 |
-| 20 | NEW | `stock` | 3 |
-| 21 | UP 2 | `brutal` | 3 |
-| 22 | UP 2 | `always makes feel` | 3 |
-| 23 | NEW | `allowing` | 3 |
-| 24 | NEW | `drinks` | 3 |
-| 25 | - | `lua` | 3 |
+| 1 | - | `snow storm` | 6 |
+| 2 | - | `fuck ice` | 5 |
+| 3 | - | `life direct` | 8 |
+| 4 | - | `tomodachi life direct` | 8 |
+| 5 | NEW | `new tomodachi` | 4 |
+| 6 | NEW | `new tomodachi life` | 4 |
+| 7 | DOWN 2 | `tomodachi life` | 25 |
+| 8 | - | `tomodachi` | 26 |
+| 9 | UP 9 | `february` | 5 |
+| 10 | DOWN 3 | `snowstorm` | 5 |
+| 11 | DOWN 2 | `winter storm` | 9 |
+| 12 | DOWN 2 | `grilled` | 4 |
+| 13 | DOWN 2 | `eep` | 4 |
+| 14 | DOWN 2 | `terraria` | 4 |
+| 15 | DOWN 1 | `iron lung` | 8 |
+| 16 | DOWN 3 | `direct` | 11 |
+| 17 | NEW | `derogatory` | 3 |
+| 18 | DOWN 2 | `puppet` | 3 |
+| 19 | DOWN 2 | `give strength` | 3 |
+| 20 | DOWN 1 | `new england` | 3 |
+| 21 | DOWN 1 | `stock` | 3 |
+| 22 | DOWN 1 | `brutal` | 3 |
+| 23 | DOWN 1 | `always makes feel` | 3 |
+| 24 | DOWN 1 | `allowing` | 3 |
+| 25 | DOWN 1 | `drinks` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
