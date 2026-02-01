@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-01-31 14:49 UTC*
+*Last Updated: 2026-02-01 04:39 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 33.1% Positive, 41.4% Neutral, 25.5% Negative
+- **Overall Mood Score**: `0.047` 
+- **Distribution**: 33.3% Positive, 41.3% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `new england` | 4 |
-| 2 | - | `hytale` | 5 |
-| 3 | - | `snow storm` | 6 |
-| 4 | - | `fuck ice` | 5 |
-| 5 | - | `life direct` | 8 |
-| 6 | - | `tomodachi life direct` | 8 |
-| 7 | - | `tomodachi life` | 23 |
-| 8 | - | `many people` | 5 |
-| 9 | - | `snowstorm` | 5 |
-| 10 | - | `tomodachi` | 24 |
-| 11 | - | `winter storm` | 9 |
-| 12 | - | `entire website` | 4 |
-| 13 | - | `grilled` | 4 |
-| 14 | - | `terraria` | 4 |
-| 15 | - | `direct` | 11 |
-| 16 | - | `iron lung` | 7 |
-| 17 | UP 2 | `theme song` | 3 |
-| 18 | UP 2 | `temple` | 3 |
-| 19 | UP 2 | `puppet` | 3 |
-| 20 | UP 2 | `give strength` | 3 |
-| 21 | UP 2 | `eep` | 3 |
-| 22 | UP 2 | `february` | 3 |
-| 23 | UP 2 | `brutal` | 3 |
-| 24 | NEW | `always makes feel` | 3 |
-| 25 | NEW | `lua` | 3 |
+| 1 | UP 2 | `snow storm` | 6 |
+| 2 | UP 2 | `fuck ice` | 5 |
+| 3 | UP 2 | `life direct` | 8 |
+| 4 | UP 2 | `tomodachi life direct` | 8 |
+| 5 | UP 2 | `tomodachi life` | 23 |
+| 6 | DOWN 4 | `hytale` | 5 |
+| 7 | UP 2 | `snowstorm` | 5 |
+| 8 | UP 2 | `tomodachi` | 24 |
+| 9 | UP 2 | `winter storm` | 9 |
+| 10 | UP 3 | `grilled` | 4 |
+| 11 | UP 10 | `eep` | 4 |
+| 12 | UP 2 | `terraria` | 4 |
+| 13 | UP 2 | `direct` | 11 |
+| 14 | UP 2 | `iron lung` | 7 |
+| 15 | NEW | `forest` | 3 |
+| 16 | UP 3 | `puppet` | 3 |
+| 17 | UP 3 | `give strength` | 3 |
+| 18 | UP 4 | `february` | 3 |
+| 19 | DOWN 18 | `new england` | 3 |
+| 20 | NEW | `stock` | 3 |
+| 21 | UP 2 | `brutal` | 3 |
+| 22 | UP 2 | `always makes feel` | 3 |
+| 23 | NEW | `allowing` | 3 |
+| 24 | NEW | `drinks` | 3 |
+| 25 | - | `lua` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
