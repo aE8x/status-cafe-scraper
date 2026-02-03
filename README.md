@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-03 04:25 UTC*
+*Last Updated: 2026-02-03 15:09 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.044` 
-- **Distribution**: 33.1% Positive, 41.2% Neutral, 25.7% Negative
+- **Overall Mood Score**: `0.043` 
+- **Distribution**: 33.1% Positive, 41.1% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `tomodachi life direct` | 8 |
 | 5 | - | `new tomodachi` | 4 |
 | 6 | - | `new tomodachi life` | 4 |
-| 7 | NEW | `saw iron` | 4 |
-| 8 | NEW | `saw iron lung` | 4 |
-| 9 | DOWN 2 | `tomodachi life` | 27 |
-| 10 | DOWN 2 | `iron lung` | 12 |
-| 11 | DOWN 2 | `tomodachi` | 28 |
-| 12 | DOWN 2 | `snowstorm` | 5 |
-| 13 | DOWN 1 | `resident` | 5 |
-| 14 | DOWN 1 | `resident evil` | 5 |
-| 15 | DOWN 4 | `winter storm` | 9 |
-| 16 | DOWN 2 | `lung` | 13 |
-| 17 | DOWN 2 | `terraria` | 4 |
-| 18 | DOWN 2 | `faces` | 4 |
-| 19 | DOWN 2 | `direct` | 11 |
-| 20 | UP 1 | `brutal` | 3 |
-| 21 | UP 1 | `connection` | 3 |
-| 22 | UP 1 | `always makes feel` | 3 |
-| 23 | UP 1 | `rin` | 3 |
-| 24 | UP 1 | `allowing` | 3 |
-| 25 | NEW | `drinks` | 3 |
+| 7 | - | `saw iron` | 4 |
+| 8 | - | `saw iron lung` | 4 |
+| 9 | NEW | `till resident` | 4 |
+| 10 | NEW | `days till resident` | 4 |
+| 11 | NEW | `till resident evil` | 4 |
+| 12 | DOWN 3 | `tomodachi life` | 27 |
+| 13 | DOWN 3 | `iron lung` | 13 |
+| 14 | DOWN 1 | `resident` | 6 |
+| 15 | DOWN 1 | `resident evil` | 6 |
+| 16 | DOWN 5 | `tomodachi` | 28 |
+| 17 | DOWN 5 | `snowstorm` | 5 |
+| 18 | DOWN 2 | `lung` | 14 |
+| 19 | DOWN 4 | `winter storm` | 9 |
+| 20 | DOWN 3 | `terraria` | 4 |
+| 21 | DOWN 3 | `faces` | 4 |
+| 22 | NEW | `evil requiem` | 4 |
+| 23 | NEW | `resident evil requiem` | 4 |
+| 24 | DOWN 5 | `direct` | 11 |
+| 25 | DOWN 3 | `always makes feel` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
