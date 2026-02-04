@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-03 15:09 UTC*
+*Last Updated: 2026-02-04 04:19 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.043` 
-- **Distribution**: 33.1% Positive, 41.1% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.045` 
+- **Distribution**: 33.3% Positive, 41.2% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `fuck ice` | 5 |
 | 3 | - | `life direct` | 8 |
 | 4 | - | `tomodachi life direct` | 8 |
-| 5 | - | `new tomodachi` | 4 |
-| 6 | - | `new tomodachi life` | 4 |
-| 7 | - | `saw iron` | 4 |
-| 8 | - | `saw iron lung` | 4 |
-| 9 | NEW | `till resident` | 4 |
-| 10 | NEW | `days till resident` | 4 |
-| 11 | NEW | `till resident evil` | 4 |
-| 12 | DOWN 3 | `tomodachi life` | 27 |
-| 13 | DOWN 3 | `iron lung` | 13 |
-| 14 | DOWN 1 | `resident` | 6 |
-| 15 | DOWN 1 | `resident evil` | 6 |
-| 16 | DOWN 5 | `tomodachi` | 28 |
-| 17 | DOWN 5 | `snowstorm` | 5 |
-| 18 | DOWN 2 | `lung` | 14 |
-| 19 | DOWN 4 | `winter storm` | 9 |
-| 20 | DOWN 3 | `terraria` | 4 |
-| 21 | DOWN 3 | `faces` | 4 |
-| 22 | NEW | `evil requiem` | 4 |
-| 23 | NEW | `resident evil requiem` | 4 |
-| 24 | DOWN 5 | `direct` | 11 |
-| 25 | DOWN 3 | `always makes feel` | 3 |
+| 5 | NEW | `taxes` | 4 |
+| 6 | DOWN 1 | `new tomodachi` | 4 |
+| 7 | DOWN 1 | `new tomodachi life` | 4 |
+| 8 | DOWN 1 | `saw iron` | 5 |
+| 9 | DOWN 1 | `saw iron lung` | 5 |
+| 10 | DOWN 1 | `till resident` | 4 |
+| 11 | DOWN 1 | `days till resident` | 4 |
+| 12 | DOWN 1 | `till resident evil` | 4 |
+| 13 | - | `iron lung` | 14 |
+| 14 | DOWN 2 | `tomodachi life` | 27 |
+| 15 | DOWN 1 | `resident` | 6 |
+| 16 | DOWN 1 | `resident evil` | 6 |
+| 17 | DOWN 1 | `tomodachi` | 28 |
+| 18 | DOWN 1 | `snowstorm` | 5 |
+| 19 | DOWN 1 | `lung` | 15 |
+| 20 | DOWN 1 | `winter storm` | 9 |
+| 21 | DOWN 1 | `terraria` | 4 |
+| 22 | DOWN 1 | `faces` | 4 |
+| 23 | DOWN 1 | `evil requiem` | 4 |
+| 24 | DOWN 1 | `resident evil requiem` | 4 |
+| 25 | DOWN 1 | `direct` | 11 |
 
 <!-- END_ANALYSIS_SECTION -->
 
