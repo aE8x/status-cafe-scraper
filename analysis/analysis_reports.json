@@ -6655,5 +6655,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-06T04:25:43.275388+00:00",
+        "hot_topics": [
+            {
+                "ngram": "snow storm",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fuck ice",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life direct",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life direct",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "taxes",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tomodachi",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tomodachi life",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "saw iron",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "saw iron lung",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "leaf",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till resident",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till resident",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till resident evil",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "iron lung",
+                "mentions": 18,
+                "change": "51.7x"
+            },
+            {
+                "ngram": "resident",
+                "mentions": 8,
+                "change": "46.0x"
+            },
+            {
+                "ngram": "resident evil",
+                "mentions": 8,
+                "change": "46.0x"
+            },
+            {
+                "ngram": "tomodachi life",
+                "mentions": 27,
+                "change": "38.8x"
+            },
+            {
+                "ngram": "lung",
+                "mentions": 19,
+                "change": "36.4x"
+            },
+            {
+                "ngram": "evil requiem",
+                "mentions": 6,
+                "change": "34.5x"
+            },
+            {
+                "ngram": "resident evil requiem",
+                "mentions": 6,
+                "change": "34.5x"
+            },
+            {
+                "ngram": "tomodachi",
+                "mentions": 29,
+                "change": "33.3x"
+            },
+            {
+                "ngram": "direct",
+                "mentions": 11,
+                "change": "31.6x"
+            },
+            {
+                "ngram": "winter storm",
+                "mentions": 9,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "markiplier",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "terraria",
+                "mentions": 4,
+                "change": "23.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.035647732051667165,
+            "positive_percent": 32.26194052267948,
+            "negative_percent": 26.584559927906277,
+            "neutral_percent": 41.15349954941424,
+            "most_positive_example": {
+                "text": "IJUST HIT 50,000 WORDS YES YESYE SYES SYE YES YES YES YES YES YES YES",
+                "user": "lacemoss",
+                "score": 0.9808
+            },
+            "most_negative_example": {
+                "text": "I HATE ALL OF YOU DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE !!",
+                "user": "acidicalchemist",
+                "score": -0.9994
+            }
+        },
+        "summary_message": null
     }
 ]
