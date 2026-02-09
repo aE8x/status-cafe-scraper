@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-08 14:53 UTC*
+*Last Updated: 2026-02-09 04:37 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.033` 
-- **Distribution**: 31.9% Positive, 41.4% Neutral, 26.7% Negative
+- **Distribution**: 31.8% Positive, 41.5% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -35,13 +35,13 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 16 | - | `till resident evil` | 9 |
 | 17 | - | `hourly` | 4 |
 | 18 | - | `iron lung` | 20 |
-| 19 | - | `evil requiem` | 9 |
+| 19 | - | `evil requiem` | 10 |
 | 20 | - | `resident evil requiem` | 9 |
-| 21 | UP 1 | `tomodachi life` | 27 |
-| 22 | UP 1 | `tomodachi` | 29 |
-| 23 | DOWN 2 | `lung` | 20 |
-| 24 | NEW | `requiem` | 9 |
-| 25 | NEW | `iron` | 22 |
+| 21 | - | `tomodachi life` | 27 |
+| 22 | - | `tomodachi` | 30 |
+| 23 | - | `lung` | 20 |
+| 24 | - | `requiem` | 10 |
+| 25 | - | `iron` | 22 |
 
 <!-- END_ANALYSIS_SECTION -->
 
