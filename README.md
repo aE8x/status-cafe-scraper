@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-09 04:37 UTC*
+*Last Updated: 2026-02-09 15:30 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.033` 
-- **Distribution**: 31.8% Positive, 41.5% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.031` 
+- **Distribution**: 31.4% Positive, 41.6% Neutral, 27.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `life direct` | 8 |
-| 2 | - | `tomodachi life direct` | 8 |
-| 3 | - | `see iron` | 4 |
-| 4 | - | `see iron lung` | 4 |
-| 5 | - | `taxes` | 4 |
-| 6 | - | `new tomodachi` | 4 |
-| 7 | - | `new tomodachi life` | 4 |
-| 8 | - | `saw iron` | 5 |
-| 9 | - | `saw iron lung` | 5 |
-| 10 | - | `leaf` | 6 |
-| 11 | - | `graphics update` | 4 |
-| 12 | - | `update part` | 4 |
-| 13 | - | `graphics update part` | 4 |
-| 14 | - | `till resident` | 9 |
-| 15 | - | `days till resident` | 9 |
-| 16 | - | `till resident evil` | 9 |
-| 17 | - | `hourly` | 4 |
-| 18 | - | `iron lung` | 20 |
-| 19 | - | `evil requiem` | 10 |
-| 20 | - | `resident evil requiem` | 9 |
+| 1 | UP 2 | `see iron` | 4 |
+| 2 | UP 2 | `see iron lung` | 4 |
+| 3 | UP 2 | `taxes` | 4 |
+| 4 | UP 2 | `new tomodachi` | 5 |
+| 5 | UP 2 | `new tomodachi life` | 5 |
+| 6 | UP 2 | `saw iron` | 5 |
+| 7 | UP 2 | `saw iron lung` | 5 |
+| 8 | UP 2 | `leaf` | 6 |
+| 9 | UP 2 | `graphics update` | 4 |
+| 10 | UP 2 | `update part` | 4 |
+| 11 | UP 2 | `graphics update part` | 4 |
+| 12 | UP 2 | `till resident` | 9 |
+| 13 | UP 2 | `days till resident` | 9 |
+| 14 | UP 2 | `till resident evil` | 9 |
+| 15 | UP 2 | `hourly` | 4 |
+| 16 | UP 2 | `iron lung` | 20 |
+| 17 | UP 2 | `evil requiem` | 10 |
+| 18 | UP 2 | `resident evil requiem` | 9 |
+| 19 | DOWN 18 | `life direct` | 7 |
+| 20 | DOWN 18 | `tomodachi life direct` | 7 |
 | 21 | - | `tomodachi life` | 27 |
 | 22 | - | `tomodachi` | 30 |
 | 23 | - | `lung` | 20 |
-| 24 | - | `requiem` | 10 |
-| 25 | - | `iron` | 22 |
+| 24 | NEW | `faces` | 5 |
+| 25 | DOWN 1 | `requiem` | 10 |
 
 <!-- END_ANALYSIS_SECTION -->
 
