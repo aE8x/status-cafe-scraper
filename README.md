@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-10 04:40 UTC*
+*Last Updated: 2026-02-10 15:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.034` 
-- **Distribution**: 32.0% Positive, 41.3% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.035` 
+- **Distribution**: 32.1% Positive, 41.3% Neutral, 26.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `taxes` | 4 |
-| 2 | UP 2 | `new tomodachi` | 5 |
-| 3 | UP 2 | `new tomodachi life` | 5 |
-| 4 | UP 2 | `saw iron` | 5 |
-| 5 | UP 2 | `saw iron lung` | 5 |
-| 6 | UP 2 | `leaf` | 6 |
-| 7 | UP 2 | `graphics update` | 4 |
-| 8 | UP 2 | `update part` | 4 |
-| 9 | UP 2 | `graphics update part` | 4 |
-| 10 | UP 2 | `till resident` | 10 |
-| 11 | UP 2 | `days till resident` | 10 |
-| 12 | UP 2 | `till resident evil` | 10 |
-| 13 | UP 2 | `hourly` | 4 |
-| 14 | NEW | `buenos` | 4 |
-| 15 | NEW | `guten` | 4 |
-| 16 | UP 1 | `evil requiem` | 11 |
-| 17 | UP 1 | `resident evil requiem` | 10 |
-| 18 | DOWN 2 | `iron lung` | 20 |
-| 19 | UP 6 | `requiem` | 11 |
-| 20 | UP 4 | `faces` | 5 |
+| 1 | UP 1 | `new tomodachi` | 5 |
+| 2 | UP 1 | `new tomodachi life` | 5 |
+| 3 | UP 1 | `saw iron` | 6 |
+| 4 | UP 1 | `saw iron lung` | 6 |
+| 5 | UP 1 | `leaf` | 6 |
+| 6 | UP 1 | `graphics update` | 4 |
+| 7 | UP 1 | `update part` | 4 |
+| 8 | UP 1 | `graphics update part` | 4 |
+| 9 | UP 1 | `till resident` | 10 |
+| 10 | UP 1 | `days till resident` | 10 |
+| 11 | UP 1 | `till resident evil` | 10 |
+| 12 | UP 1 | `hourly` | 4 |
+| 13 | UP 1 | `buenos` | 4 |
+| 14 | UP 1 | `guten` | 4 |
+| 15 | UP 1 | `evil requiem` | 11 |
+| 16 | UP 1 | `resident evil requiem` | 10 |
+| 17 | UP 1 | `iron lung` | 21 |
+| 18 | UP 1 | `requiem` | 11 |
+| 19 | UP 1 | `faces` | 5 |
+| 20 | UP 3 | `lung` | 21 |
 | 21 | - | `tomodachi life` | 25 |
 | 22 | - | `tomodachi` | 28 |
-| 23 | - | `lung` | 20 |
-| 24 | NEW | `february` | 16 |
-| 25 | NEW | `bonne` | 4 |
+| 23 | UP 1 | `february` | 16 |
+| 24 | UP 1 | `bonne` | 4 |
+| 25 | NEW | `iron` | 23 |
 
 <!-- END_ANALYSIS_SECTION -->
 
