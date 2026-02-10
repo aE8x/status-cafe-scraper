@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-09 15:30 UTC*
+*Last Updated: 2026-02-10 04:40 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.031` 
-- **Distribution**: 31.4% Positive, 41.6% Neutral, 27.0% Negative
+- **Overall Mood Score**: `0.034` 
+- **Distribution**: 32.0% Positive, 41.3% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `see iron` | 4 |
-| 2 | UP 2 | `see iron lung` | 4 |
-| 3 | UP 2 | `taxes` | 4 |
-| 4 | UP 2 | `new tomodachi` | 5 |
-| 5 | UP 2 | `new tomodachi life` | 5 |
-| 6 | UP 2 | `saw iron` | 5 |
-| 7 | UP 2 | `saw iron lung` | 5 |
-| 8 | UP 2 | `leaf` | 6 |
-| 9 | UP 2 | `graphics update` | 4 |
-| 10 | UP 2 | `update part` | 4 |
-| 11 | UP 2 | `graphics update part` | 4 |
-| 12 | UP 2 | `till resident` | 9 |
-| 13 | UP 2 | `days till resident` | 9 |
-| 14 | UP 2 | `till resident evil` | 9 |
-| 15 | UP 2 | `hourly` | 4 |
-| 16 | UP 2 | `iron lung` | 20 |
-| 17 | UP 2 | `evil requiem` | 10 |
-| 18 | UP 2 | `resident evil requiem` | 9 |
-| 19 | DOWN 18 | `life direct` | 7 |
-| 20 | DOWN 18 | `tomodachi life direct` | 7 |
-| 21 | - | `tomodachi life` | 27 |
-| 22 | - | `tomodachi` | 30 |
+| 1 | UP 2 | `taxes` | 4 |
+| 2 | UP 2 | `new tomodachi` | 5 |
+| 3 | UP 2 | `new tomodachi life` | 5 |
+| 4 | UP 2 | `saw iron` | 5 |
+| 5 | UP 2 | `saw iron lung` | 5 |
+| 6 | UP 2 | `leaf` | 6 |
+| 7 | UP 2 | `graphics update` | 4 |
+| 8 | UP 2 | `update part` | 4 |
+| 9 | UP 2 | `graphics update part` | 4 |
+| 10 | UP 2 | `till resident` | 10 |
+| 11 | UP 2 | `days till resident` | 10 |
+| 12 | UP 2 | `till resident evil` | 10 |
+| 13 | UP 2 | `hourly` | 4 |
+| 14 | NEW | `buenos` | 4 |
+| 15 | NEW | `guten` | 4 |
+| 16 | UP 1 | `evil requiem` | 11 |
+| 17 | UP 1 | `resident evil requiem` | 10 |
+| 18 | DOWN 2 | `iron lung` | 20 |
+| 19 | UP 6 | `requiem` | 11 |
+| 20 | UP 4 | `faces` | 5 |
+| 21 | - | `tomodachi life` | 25 |
+| 22 | - | `tomodachi` | 28 |
 | 23 | - | `lung` | 20 |
-| 24 | NEW | `faces` | 5 |
-| 25 | DOWN 1 | `requiem` | 10 |
+| 24 | NEW | `february` | 16 |
+| 25 | NEW | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
