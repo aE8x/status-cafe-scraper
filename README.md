@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-10 15:41 UTC*
+*Last Updated: 2026-02-11 04:39 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.035` 
-- **Distribution**: 32.1% Positive, 41.3% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.036` 
+- **Distribution**: 32.2% Positive, 41.4% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `new tomodachi` | 5 |
-| 2 | UP 1 | `new tomodachi life` | 5 |
-| 3 | UP 1 | `saw iron` | 6 |
-| 4 | UP 1 | `saw iron lung` | 6 |
-| 5 | UP 1 | `leaf` | 6 |
-| 6 | UP 1 | `graphics update` | 4 |
-| 7 | UP 1 | `update part` | 4 |
-| 8 | UP 1 | `graphics update part` | 4 |
-| 9 | UP 1 | `till resident` | 10 |
-| 10 | UP 1 | `days till resident` | 10 |
-| 11 | UP 1 | `till resident evil` | 10 |
-| 12 | UP 1 | `hourly` | 4 |
-| 13 | UP 1 | `buenos` | 4 |
-| 14 | UP 1 | `guten` | 4 |
-| 15 | UP 1 | `evil requiem` | 11 |
-| 16 | UP 1 | `resident evil requiem` | 10 |
-| 17 | UP 1 | `iron lung` | 21 |
-| 18 | UP 1 | `requiem` | 11 |
-| 19 | UP 1 | `faces` | 5 |
-| 20 | UP 3 | `lung` | 21 |
-| 21 | - | `tomodachi life` | 25 |
-| 22 | - | `tomodachi` | 28 |
-| 23 | UP 1 | `february` | 16 |
-| 24 | UP 1 | `bonne` | 4 |
-| 25 | NEW | `iron` | 23 |
+| 1 | - | `new tomodachi` | 5 |
+| 2 | - | `new tomodachi life` | 5 |
+| 3 | - | `saw iron` | 6 |
+| 4 | - | `saw iron lung` | 6 |
+| 5 | - | `leaf` | 6 |
+| 6 | - | `graphics update` | 4 |
+| 7 | - | `update part` | 4 |
+| 8 | - | `graphics update part` | 4 |
+| 9 | - | `till resident` | 10 |
+| 10 | - | `days till resident` | 10 |
+| 11 | - | `till resident evil` | 10 |
+| 12 | NEW | `valentines` | 4 |
+| 13 | DOWN 1 | `hourly` | 4 |
+| 14 | DOWN 1 | `buenos` | 4 |
+| 15 | DOWN 1 | `guten` | 4 |
+| 16 | DOWN 1 | `evil requiem` | 11 |
+| 17 | DOWN 1 | `resident evil requiem` | 10 |
+| 18 | DOWN 1 | `iron lung` | 21 |
+| 19 | DOWN 1 | `requiem` | 11 |
+| 20 | DOWN 1 | `faces` | 5 |
+| 21 | DOWN 1 | `lung` | 21 |
+| 22 | DOWN 1 | `tomodachi life` | 25 |
+| 23 | DOWN 1 | `tomodachi` | 28 |
+| 24 | NEW | `willing` | 4 |
+| 25 | NEW | `god damn` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
