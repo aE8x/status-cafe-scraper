@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-11 04:39 UTC*
+*Last Updated: 2026-02-11 15:33 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.036` 
-- **Distribution**: 32.2% Positive, 41.4% Neutral, 26.5% Negative
+- **Distribution**: 32.4% Positive, 40.9% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -25,23 +25,23 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 6 | - | `graphics update` | 4 |
 | 7 | - | `update part` | 4 |
 | 8 | - | `graphics update part` | 4 |
-| 9 | - | `till resident` | 10 |
-| 10 | - | `days till resident` | 10 |
-| 11 | - | `till resident evil` | 10 |
-| 12 | NEW | `valentines` | 4 |
-| 13 | DOWN 1 | `hourly` | 4 |
-| 14 | DOWN 1 | `buenos` | 4 |
-| 15 | DOWN 1 | `guten` | 4 |
-| 16 | DOWN 1 | `evil requiem` | 11 |
-| 17 | DOWN 1 | `resident evil requiem` | 10 |
-| 18 | DOWN 1 | `iron lung` | 21 |
-| 19 | DOWN 1 | `requiem` | 11 |
-| 20 | DOWN 1 | `faces` | 5 |
-| 21 | DOWN 1 | `lung` | 21 |
-| 22 | DOWN 1 | `tomodachi life` | 25 |
-| 23 | DOWN 1 | `tomodachi` | 28 |
-| 24 | NEW | `willing` | 4 |
-| 25 | NEW | `god damn` | 4 |
+| 9 | - | `till resident` | 11 |
+| 10 | - | `days till resident` | 11 |
+| 11 | - | `till resident evil` | 11 |
+| 12 | - | `valentines` | 4 |
+| 13 | - | `hourly` | 4 |
+| 14 | - | `buenos` | 4 |
+| 15 | - | `guten` | 4 |
+| 16 | - | `evil requiem` | 12 |
+| 17 | - | `resident evil requiem` | 11 |
+| 18 | - | `iron lung` | 21 |
+| 19 | - | `requiem` | 12 |
+| 20 | - | `faces` | 5 |
+| 21 | - | `lung` | 21 |
+| 22 | - | `tomodachi life` | 25 |
+| 23 | UP 2 | `god damn` | 4 |
+| 24 | NEW | `february` | 16 |
+| 25 | NEW | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 

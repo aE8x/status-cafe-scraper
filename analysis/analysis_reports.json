@@ -8272,5 +8272,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-11T15:33:02.466421+00:00",
+        "hot_topics": [
+            {
+                "ngram": "new tomodachi",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tomodachi life",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "saw iron",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "saw iron lung",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "leaf",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "graphics update",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "update part",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "graphics update part",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till resident",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till resident",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till resident evil",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "valentines",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hourly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buenos",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "guten",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "evil requiem",
+                "mentions": 12,
+                "change": "71.8x"
+            },
+            {
+                "ngram": "resident evil requiem",
+                "mentions": 11,
+                "change": "65.8x"
+            },
+            {
+                "ngram": "iron lung",
+                "mentions": 21,
+                "change": "41.9x"
+            },
+            {
+                "ngram": "requiem",
+                "mentions": 12,
+                "change": "35.9x"
+            },
+            {
+                "ngram": "faces",
+                "mentions": 5,
+                "change": "29.9x"
+            },
+            {
+                "ngram": "lung",
+                "mentions": 21,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "tomodachi life",
+                "mentions": 25,
+                "change": "24.9x"
+            },
+            {
+                "ngram": "god damn",
+                "mentions": 4,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "february",
+                "mentions": 16,
+                "change": "23.9x"
+            },
+            {
+                "ngram": "bonne",
+                "mentions": 4,
+                "change": "23.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.03603445065176909,
+            "positive_percent": 32.402234636871505,
+            "negative_percent": 26.691495965238982,
+            "neutral_percent": 40.90626939788951,
+            "most_positive_example": {
+                "text": "i love my live-in partner i love my girlfriend i love my cat i love my city i love coffee milk tea",
+                "user": "alldaybreakfast",
+                "score": 0.9719
+            },
+            "most_negative_example": {
+                "text": "I HATE ALL OF YOU DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE !!",
+                "user": "acidicalchemist",
+                "score": -0.9994
+            }
+        },
+        "summary_message": null
     }
 ]
