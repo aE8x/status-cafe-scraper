@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-11 15:33 UTC*
+*Last Updated: 2026-02-12 04:35 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.036` 
-- **Distribution**: 32.4% Positive, 40.9% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.035` 
+- **Distribution**: 32.4% Positive, 40.5% Neutral, 27.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -34,14 +34,14 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 15 | - | `guten` | 4 |
 | 16 | - | `evil requiem` | 12 |
 | 17 | - | `resident evil requiem` | 11 |
-| 18 | - | `iron lung` | 21 |
+| 18 | - | `iron lung` | 23 |
 | 19 | - | `requiem` | 12 |
-| 20 | - | `faces` | 5 |
-| 21 | - | `lung` | 21 |
-| 22 | - | `tomodachi life` | 25 |
-| 23 | UP 2 | `god damn` | 4 |
-| 24 | NEW | `february` | 16 |
-| 25 | NEW | `bonne` | 4 |
+| 20 | UP 1 | `lung` | 23 |
+| 21 | UP 1 | `tomodachi life` | 25 |
+| 22 | NEW | `iron` | 25 |
+| 23 | - | `god damn` | 4 |
+| 24 | - | `february` | 16 |
+| 25 | - | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
