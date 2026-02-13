@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-13 04:31 UTC*
+*Last Updated: 2026-02-13 15:07 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.033` 
-- **Distribution**: 32.3% Positive, 40.2% Neutral, 27.5% Negative
+- **Overall Mood Score**: `0.032` 
+- **Distribution**: 32.2% Positive, 40.3% Neutral, 27.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `linkara` | 4 |
-| 2 | UP 2 | `leaf` | 6 |
-| 3 | UP 2 | `graphics update` | 4 |
-| 4 | UP 2 | `update part` | 4 |
-| 5 | UP 2 | `graphics update part` | 4 |
-| 6 | UP 2 | `till resident` | 13 |
-| 7 | UP 2 | `days till resident` | 13 |
-| 8 | UP 2 | `till resident evil` | 13 |
-| 9 | UP 2 | `valentines` | 6 |
-| 10 | NEW | `beating ass` | 4 |
-| 11 | UP 1 | `hourly` | 4 |
-| 12 | UP 1 | `fucking god` | 4 |
-| 13 | NEW | `valentines day` | 5 |
+| 1 | - | `linkara` | 4 |
+| 2 | - | `leaf` | 6 |
+| 3 | - | `graphics update` | 4 |
+| 4 | - | `update part` | 4 |
+| 5 | - | `graphics update part` | 4 |
+| 6 | - | `till resident` | 13 |
+| 7 | - | `days till resident` | 13 |
+| 8 | - | `till resident evil` | 13 |
+| 9 | - | `valentines` | 7 |
+| 10 | - | `beating ass` | 4 |
+| 11 | - | `hourly` | 4 |
+| 12 | - | `fucking god` | 4 |
+| 13 | - | `valentines day` | 6 |
 | 14 | - | `buenos` | 4 |
 | 15 | - | `guten` | 4 |
 | 16 | - | `evil requiem` | 14 |
 | 17 | - | `resident evil requiem` | 13 |
-| 18 | UP 1 | `requiem` | 14 |
-| 19 | DOWN 18 | `saw iron` | 5 |
-| 20 | DOWN 18 | `saw iron lung` | 5 |
-| 21 | UP 4 | `resident` | 14 |
-| 22 | NEW | `resident evil` | 14 |
-| 23 | DOWN 2 | `february` | 17 |
-| 24 | DOWN 1 | `god damn` | 4 |
-| 25 | DOWN 1 | `bonne` | 4 |
+| 18 | - | `requiem` | 14 |
+| 19 | - | `saw iron` | 5 |
+| 20 | - | `saw iron lung` | 5 |
+| 21 | - | `resident` | 14 |
+| 22 | - | `resident evil` | 14 |
+| 23 | - | `february` | 17 |
+| 24 | - | `god damn` | 4 |
+| 25 | - | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
