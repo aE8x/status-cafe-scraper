@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-12 15:15 UTC*
+*Last Updated: 2026-02-13 04:31 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.033` 
-- **Distribution**: 32.3% Positive, 40.3% Neutral, 27.3% Negative
+- **Distribution**: 32.3% Positive, 40.2% Neutral, 27.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `saw iron` | 6 |
-| 2 | UP 2 | `saw iron lung` | 6 |
-| 3 | NEW | `ssi` | 4 |
-| 4 | UP 1 | `leaf` | 6 |
-| 5 | UP 1 | `graphics update` | 4 |
-| 6 | UP 1 | `update part` | 4 |
-| 7 | UP 1 | `graphics update part` | 4 |
-| 8 | UP 1 | `till resident` | 12 |
-| 9 | UP 1 | `days till resident` | 12 |
-| 10 | UP 1 | `till resident evil` | 12 |
-| 11 | UP 1 | `valentines` | 4 |
-| 12 | UP 1 | `hourly` | 4 |
-| 13 | NEW | `fucking god` | 4 |
+| 1 | NEW | `linkara` | 4 |
+| 2 | UP 2 | `leaf` | 6 |
+| 3 | UP 2 | `graphics update` | 4 |
+| 4 | UP 2 | `update part` | 4 |
+| 5 | UP 2 | `graphics update part` | 4 |
+| 6 | UP 2 | `till resident` | 13 |
+| 7 | UP 2 | `days till resident` | 13 |
+| 8 | UP 2 | `till resident evil` | 13 |
+| 9 | UP 2 | `valentines` | 6 |
+| 10 | NEW | `beating ass` | 4 |
+| 11 | UP 1 | `hourly` | 4 |
+| 12 | UP 1 | `fucking god` | 4 |
+| 13 | NEW | `valentines day` | 5 |
 | 14 | - | `buenos` | 4 |
 | 15 | - | `guten` | 4 |
-| 16 | - | `evil requiem` | 13 |
-| 17 | - | `resident evil requiem` | 12 |
-| 18 | - | `iron lung` | 23 |
-| 19 | - | `requiem` | 13 |
-| 20 | - | `lung` | 23 |
-| 21 | UP 3 | `february` | 17 |
-| 22 | - | `iron` | 25 |
-| 23 | - | `god damn` | 4 |
-| 24 | UP 1 | `bonne` | 4 |
-| 25 | NEW | `resident` | 12 |
+| 16 | - | `evil requiem` | 14 |
+| 17 | - | `resident evil requiem` | 13 |
+| 18 | UP 1 | `requiem` | 14 |
+| 19 | DOWN 18 | `saw iron` | 5 |
+| 20 | DOWN 18 | `saw iron lung` | 5 |
+| 21 | UP 4 | `resident` | 14 |
+| 22 | NEW | `resident evil` | 14 |
+| 23 | DOWN 2 | `february` | 17 |
+| 24 | DOWN 1 | `god damn` | 4 |
+| 25 | DOWN 1 | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
