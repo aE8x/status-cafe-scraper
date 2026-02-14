@@ -9154,5 +9154,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-14T14:52:23.070254+00:00",
+        "hot_topics": [
+            {
+                "ngram": "till resident",
+                "mentions": 14,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days till resident",
+                "mentions": 14,
+                "change": "NEW"
+            },
+            {
+                "ngram": "till resident evil",
+                "mentions": 14,
+                "change": "NEW"
+            },
+            {
+                "ngram": "valentines",
+                "mentions": 23,
+                "change": "NEW"
+            },
+            {
+                "ngram": "beating ass",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hourly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fucking god",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "valentines day",
+                "mentions": 16,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buenos",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "guten",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "self hosted",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines day",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "evil requiem",
+                "mentions": 15,
+                "change": "90.4x"
+            },
+            {
+                "ngram": "resident evil requiem",
+                "mentions": 14,
+                "change": "84.4x"
+            },
+            {
+                "ngram": "valentine day",
+                "mentions": 8,
+                "change": "48.2x"
+            },
+            {
+                "ngram": "requiem",
+                "mentions": 15,
+                "change": "45.2x"
+            },
+            {
+                "ngram": "valentine",
+                "mentions": 15,
+                "change": "45.2x"
+            },
+            {
+                "ngram": "leaf",
+                "mentions": 5,
+                "change": "30.1x"
+            },
+            {
+                "ngram": "resident",
+                "mentions": 15,
+                "change": "30.1x"
+            },
+            {
+                "ngram": "resident evil",
+                "mentions": 15,
+                "change": "30.1x"
+            },
+            {
+                "ngram": "february",
+                "mentions": 18,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "outfits",
+                "mentions": 4,
+                "change": "24.1x"
+            },
+            {
+                "ngram": "bonne",
+                "mentions": 4,
+                "change": "24.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.039795470165573256,
+            "positive_percent": 33.14589190877851,
+            "negative_percent": 27.17900656044986,
+            "neutral_percent": 39.675101530771634,
+            "most_positive_example": {
+                "text": "i love my live-in partner i love my girlfriend i love my cat i love my city i love coffee milk tea",
+                "user": "alldaybreakfast",
+                "score": 0.9719
+            },
+            "most_negative_example": {
+                "text": "KILL EMPRENDEDORIA KILL EMPRENDEDORIA KILL EMPRENDEDORIA",
+                "user": "0enoth",
+                "score": -0.9442
+            }
+        },
+        "summary_message": null
     }
 ]

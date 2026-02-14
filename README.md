@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-14 04:20 UTC*
+*Last Updated: 2026-02-14 14:52 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.035` 
-- **Distribution**: 32.8% Positive, 39.8% Neutral, 27.4% Negative
+- **Overall Mood Score**: `0.040` 
+- **Distribution**: 33.1% Positive, 39.7% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 5 | `till resident` | 13 |
-| 2 | UP 5 | `days till resident` | 13 |
-| 3 | UP 5 | `till resident evil` | 13 |
-| 4 | UP 5 | `valentines` | 11 |
-| 5 | UP 5 | `beating ass` | 4 |
-| 6 | UP 5 | `hourly` | 4 |
-| 7 | UP 5 | `fucking god` | 4 |
-| 8 | UP 5 | `valentines day` | 9 |
-| 9 | UP 5 | `buenos` | 4 |
-| 10 | UP 5 | `guten` | 4 |
-| 11 | UP 5 | `evil requiem` | 14 |
-| 12 | UP 5 | `resident evil requiem` | 13 |
-| 13 | UP 5 | `requiem` | 14 |
-| 14 | DOWN 12 | `leaf` | 5 |
-| 15 | UP 6 | `resident` | 14 |
-| 16 | UP 6 | `resident evil` | 14 |
-| 17 | UP 6 | `february` | 18 |
-| 18 | NEW | `outfits` | 4 |
-| 19 | NEW | `valentine` | 8 |
-| 20 | UP 5 | `bonne` | 4 |
-| 21 | NEW | `skins` | 3 |
-| 22 | NEW | `trying get back` | 3 |
-| 23 | NEW | `days till` | 15 |
-| 24 | NEW | `cpu` | 3 |
-| 25 | DOWN 22 | `graphics update` | 3 |
+| 1 | - | `till resident` | 14 |
+| 2 | - | `days till resident` | 14 |
+| 3 | - | `till resident evil` | 14 |
+| 4 | - | `valentines` | 23 |
+| 5 | - | `beating ass` | 4 |
+| 6 | - | `hourly` | 4 |
+| 7 | - | `fucking god` | 4 |
+| 8 | - | `valentines day` | 16 |
+| 9 | - | `buenos` | 4 |
+| 10 | - | `guten` | 4 |
+| 11 | NEW | `self hosted` | 4 |
+| 12 | NEW | `happy valentines` | 11 |
+| 13 | NEW | `happy valentines day` | 7 |
+| 14 | NEW | `happy valentine` | 4 |
+| 15 | DOWN 4 | `evil requiem` | 15 |
+| 16 | DOWN 4 | `resident evil requiem` | 14 |
+| 17 | NEW | `valentine day` | 8 |
+| 18 | DOWN 5 | `requiem` | 15 |
+| 19 | - | `valentine` | 15 |
+| 20 | DOWN 6 | `leaf` | 5 |
+| 21 | DOWN 6 | `resident` | 15 |
+| 22 | DOWN 6 | `resident evil` | 15 |
+| 23 | DOWN 6 | `february` | 18 |
+| 24 | DOWN 6 | `outfits` | 4 |
+| 25 | DOWN 5 | `bonne` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
