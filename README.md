@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-13 15:07 UTC*
+*Last Updated: 2026-02-14 04:20 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.032` 
-- **Distribution**: 32.2% Positive, 40.3% Neutral, 27.6% Negative
+- **Overall Mood Score**: `0.035` 
+- **Distribution**: 32.8% Positive, 39.8% Neutral, 27.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `linkara` | 4 |
-| 2 | - | `leaf` | 6 |
-| 3 | - | `graphics update` | 4 |
-| 4 | - | `update part` | 4 |
-| 5 | - | `graphics update part` | 4 |
-| 6 | - | `till resident` | 13 |
-| 7 | - | `days till resident` | 13 |
-| 8 | - | `till resident evil` | 13 |
-| 9 | - | `valentines` | 7 |
-| 10 | - | `beating ass` | 4 |
-| 11 | - | `hourly` | 4 |
-| 12 | - | `fucking god` | 4 |
-| 13 | - | `valentines day` | 6 |
-| 14 | - | `buenos` | 4 |
-| 15 | - | `guten` | 4 |
-| 16 | - | `evil requiem` | 14 |
-| 17 | - | `resident evil requiem` | 13 |
-| 18 | - | `requiem` | 14 |
-| 19 | - | `saw iron` | 5 |
-| 20 | - | `saw iron lung` | 5 |
-| 21 | - | `resident` | 14 |
-| 22 | - | `resident evil` | 14 |
-| 23 | - | `february` | 17 |
-| 24 | - | `god damn` | 4 |
-| 25 | - | `bonne` | 4 |
+| 1 | UP 5 | `till resident` | 13 |
+| 2 | UP 5 | `days till resident` | 13 |
+| 3 | UP 5 | `till resident evil` | 13 |
+| 4 | UP 5 | `valentines` | 11 |
+| 5 | UP 5 | `beating ass` | 4 |
+| 6 | UP 5 | `hourly` | 4 |
+| 7 | UP 5 | `fucking god` | 4 |
+| 8 | UP 5 | `valentines day` | 9 |
+| 9 | UP 5 | `buenos` | 4 |
+| 10 | UP 5 | `guten` | 4 |
+| 11 | UP 5 | `evil requiem` | 14 |
+| 12 | UP 5 | `resident evil requiem` | 13 |
+| 13 | UP 5 | `requiem` | 14 |
+| 14 | DOWN 12 | `leaf` | 5 |
+| 15 | UP 6 | `resident` | 14 |
+| 16 | UP 6 | `resident evil` | 14 |
+| 17 | UP 6 | `february` | 18 |
+| 18 | NEW | `outfits` | 4 |
+| 19 | NEW | `valentine` | 8 |
+| 20 | UP 5 | `bonne` | 4 |
+| 21 | NEW | `skins` | 3 |
+| 22 | NEW | `trying get back` | 3 |
+| 23 | NEW | `days till` | 15 |
+| 24 | NEW | `cpu` | 3 |
+| 25 | DOWN 22 | `graphics update` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
