@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-14 14:52 UTC*
+*Last Updated: 2026-02-15 04:32 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.040` 
-- **Distribution**: 33.1% Positive, 39.7% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.045` 
+- **Distribution**: 33.5% Positive, 39.5% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `till resident` | 14 |
-| 2 | - | `days till resident` | 14 |
-| 3 | - | `till resident evil` | 14 |
-| 4 | - | `valentines` | 23 |
-| 5 | - | `beating ass` | 4 |
-| 6 | - | `hourly` | 4 |
-| 7 | - | `fucking god` | 4 |
-| 8 | - | `valentines day` | 16 |
-| 9 | - | `buenos` | 4 |
-| 10 | - | `guten` | 4 |
-| 11 | NEW | `self hosted` | 4 |
-| 12 | NEW | `happy valentines` | 11 |
-| 13 | NEW | `happy valentines day` | 7 |
-| 14 | NEW | `happy valentine` | 4 |
-| 15 | DOWN 4 | `evil requiem` | 15 |
-| 16 | DOWN 4 | `resident evil requiem` | 14 |
-| 17 | NEW | `valentine day` | 8 |
-| 18 | DOWN 5 | `requiem` | 15 |
-| 19 | - | `valentine` | 15 |
-| 20 | DOWN 6 | `leaf` | 5 |
-| 21 | DOWN 6 | `resident` | 15 |
-| 22 | DOWN 6 | `resident evil` | 15 |
-| 23 | DOWN 6 | `february` | 18 |
-| 24 | DOWN 6 | `outfits` | 4 |
-| 25 | DOWN 5 | `bonne` | 4 |
+| 1 | UP 3 | `valentines` | 34 |
+| 2 | UP 3 | `beating ass` | 4 |
+| 3 | UP 3 | `hourly` | 4 |
+| 4 | UP 3 | `fucking god` | 4 |
+| 5 | UP 3 | `valentines day` | 27 |
+| 6 | UP 3 | `buenos` | 4 |
+| 7 | UP 3 | `guten` | 4 |
+| 8 | UP 3 | `self hosted` | 4 |
+| 9 | UP 3 | `happy valentines` | 19 |
+| 10 | UP 3 | `happy valentines day` | 15 |
+| 11 | UP 3 | `happy valentine` | 13 |
+| 12 | NEW | `happy valentine day` | 11 |
+| 13 | NEW | `day love` | 6 |
+| 14 | UP 3 | `valentine day` | 21 |
+| 15 | UP 4 | `valentine` | 33 |
+| 16 | DOWN 15 | `till resident` | 13 |
+| 17 | DOWN 15 | `days till resident` | 13 |
+| 18 | DOWN 15 | `till resident evil` | 13 |
+| 19 | DOWN 4 | `evil requiem` | 15 |
+| 20 | DOWN 4 | `resident evil requiem` | 14 |
+| 21 | DOWN 3 | `requiem` | 15 |
+| 22 | UP 1 | `february` | 18 |
+| 23 | UP 1 | `outfits` | 4 |
+| 24 | UP 1 | `bonne` | 4 |
+| 25 | DOWN 4 | `resident` | 15 |
 
 <!-- END_ANALYSIS_SECTION -->
 
