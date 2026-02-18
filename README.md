@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-17 15:13 UTC*
+*Last Updated: 2026-02-18 04:32 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.049` 
-- **Distribution**: 34.0% Positive, 39.2% Neutral, 26.9% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 34.5% Positive, 39.1% Neutral, 26.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `temporarily` | 4 |
 | 3 | - | `valentines day` | 29 |
 | 4 | - | `buenos` | 5 |
-| 5 | NEW | `noches` | 4 |
-| 6 | NEW | `nuit` | 4 |
-| 7 | DOWN 2 | `guten` | 5 |
-| 8 | NEW | `nacht` | 4 |
-| 9 | NEW | `goodnight buenos` | 4 |
-| 10 | NEW | `buenos noches` | 4 |
-| 11 | NEW | `noches bonne` | 4 |
-| 12 | NEW | `bonne nuit` | 4 |
-| 13 | NEW | `nuit guten` | 4 |
-| 14 | NEW | `guten nacht` | 4 |
-| 15 | NEW | `goodnight buenos noches` | 4 |
-| 16 | NEW | `buenos noches bonne` | 4 |
-| 17 | NEW | `noches bonne nuit` | 4 |
-| 18 | NEW | `bonne nuit guten` | 4 |
-| 19 | NEW | `nuit guten nacht` | 4 |
-| 20 | DOWN 14 | `self hosted` | 4 |
-| 21 | DOWN 14 | `happy valentines` | 19 |
-| 22 | DOWN 14 | `happy valentines day` | 15 |
-| 23 | DOWN 14 | `happy valentine` | 15 |
-| 24 | DOWN 14 | `happy valentine day` | 13 |
-| 25 | DOWN 14 | `day love` | 7 |
+| 5 | - | `noches` | 4 |
+| 6 | - | `nuit` | 4 |
+| 7 | - | `guten` | 5 |
+| 8 | - | `nacht` | 4 |
+| 9 | - | `goodnight buenos` | 4 |
+| 10 | - | `buenos noches` | 4 |
+| 11 | - | `noches bonne` | 4 |
+| 12 | - | `bonne nuit` | 4 |
+| 13 | - | `nuit guten` | 4 |
+| 14 | - | `guten nacht` | 4 |
+| 15 | - | `goodnight buenos noches` | 4 |
+| 16 | - | `buenos noches bonne` | 4 |
+| 17 | - | `noches bonne nuit` | 4 |
+| 18 | - | `bonne nuit guten` | 4 |
+| 19 | - | `nuit guten nacht` | 4 |
+| 20 | - | `self hosted` | 4 |
+| 21 | NEW | `dearly` | 4 |
+| 22 | DOWN 1 | `happy valentines` | 19 |
+| 23 | DOWN 1 | `happy valentines day` | 15 |
+| 24 | DOWN 1 | `happy valentine` | 15 |
+| 25 | DOWN 1 | `happy valentine day` | 13 |
 
 <!-- END_ANALYSIS_SECTION -->
 
