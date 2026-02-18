@@ -10330,5 +10330,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-18T15:11:45.908774+00:00",
+        "hot_topics": [
+            {
+                "ngram": "fucking god",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "temporarily",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "valentines day",
+                "mentions": 29,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buenos",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "noches",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "nuit",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "guten",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "nacht",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight buenos",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buenos noches",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "noches bonne",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "bonne nuit",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "nuit guten",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "guten nacht",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight buenos noches",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buenos noches bonne",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "noches bonne nuit",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "bonne nuit guten",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "nuit guten nacht",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "self hosted",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dearly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines",
+                "mentions": 19,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines day",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine day",
+                "mentions": 13,
+                "change": "NEW"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.052583604505632035,
+            "positive_percent": 34.355444305381724,
+            "negative_percent": 26.43929912390488,
+            "neutral_percent": 39.205256570713395,
+            "most_positive_example": {
+                "text": "KITTY WANT A BREAK FROM IT ALL. PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PL < drama queen",
+                "user": "theenderdraco",
+                "score": 0.9693
+            },
+            "most_negative_example": {
+                "text": "stupid stupid stupid stupid why can't I just stop stupid stupid stupid stupid stupid",
+                "user": "wolfsbane",
+                "score": -0.983
+            }
+        },
+        "summary_message": null
     }
 ]
