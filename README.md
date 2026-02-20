@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-20 04:25 UTC*
+*Last Updated: 2026-02-20 15:06 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.056` 
-- **Distribution**: 34.5% Positive, 39.2% Neutral, 26.3% Negative
+- **Distribution**: 34.4% Positive, 39.4% Neutral, 26.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 17 | `self hosted` | 4 |
-| 2 | UP 17 | `dearly` | 4 |
-| 3 | UP 17 | `happy valentines` | 19 |
-| 4 | UP 17 | `happy valentines day` | 15 |
-| 5 | UP 17 | `happy valentine` | 15 |
-| 6 | UP 17 | `happy valentine day` | 13 |
-| 7 | UP 17 | `day love` | 7 |
-| 8 | UP 17 | `happy lunar` | 10 |
-| 9 | NEW | `happy lunar new` | 10 |
-| 10 | NEW | `lunar new` | 14 |
-| 11 | DOWN 10 | `valentines day` | 27 |
-| 12 | NEW | `lunar new year` | 13 |
-| 13 | NEW | `valentines` | 36 |
-| 14 | NEW | `valentine day` | 22 |
-| 15 | NEW | `ramadan` | 7 |
-| 16 | NEW | `valentine` | 34 |
-| 17 | NEW | `lunar` | 14 |
-| 18 | DOWN 16 | `buenos` | 4 |
-| 19 | DOWN 14 | `guten` | 4 |
-| 20 | NEW | `god damn` | 4 |
-| 21 | NEW | `temporarily` | 3 |
-| 22 | DOWN 19 | `noches` | 3 |
-| 23 | DOWN 19 | `nuit` | 3 |
-| 24 | DOWN 18 | `nacht` | 3 |
-| 25 | DOWN 18 | `goodnight buenos` | 3 |
+| 1 | - | `self hosted` | 4 |
+| 2 | - | `dearly` | 4 |
+| 3 | - | `happy valentines` | 19 |
+| 4 | - | `happy valentines day` | 15 |
+| 5 | - | `happy valentine` | 15 |
+| 6 | - | `happy valentine day` | 13 |
+| 7 | - | `day love` | 7 |
+| 8 | - | `happy lunar` | 10 |
+| 9 | - | `happy lunar new` | 10 |
+| 10 | - | `lunar new` | 14 |
+| 11 | - | `valentines day` | 27 |
+| 12 | - | `lunar new year` | 13 |
+| 13 | - | `valentines` | 36 |
+| 14 | - | `valentine day` | 22 |
+| 15 | - | `ramadan` | 8 |
+| 16 | - | `valentine` | 34 |
+| 17 | - | `lunar` | 14 |
+| 18 | - | `buenos` | 4 |
+| 19 | - | `guten` | 4 |
+| 20 | - | `god damn` | 4 |
+| 21 | NEW | `got working` | 4 |
+| 22 | - | `noches` | 3 |
+| 23 | - | `nuit` | 3 |
+| 24 | - | `nacht` | 3 |
+| 25 | - | `goodnight buenos` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
