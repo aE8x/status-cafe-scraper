@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-19 15:13 UTC*
+*Last Updated: 2026-02-20 04:25 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.056` 
-- **Distribution**: 34.6% Positive, 39.1% Neutral, 26.3% Negative
+- **Distribution**: 34.5% Positive, 39.2% Neutral, 26.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `valentines day` | 29 |
-| 2 | UP 1 | `buenos` | 5 |
-| 3 | UP 1 | `noches` | 4 |
-| 4 | UP 1 | `nuit` | 4 |
-| 5 | UP 1 | `guten` | 5 |
-| 6 | UP 1 | `nacht` | 4 |
-| 7 | UP 1 | `goodnight buenos` | 4 |
-| 8 | UP 1 | `buenos noches` | 4 |
-| 9 | UP 1 | `noches bonne` | 4 |
-| 10 | UP 1 | `bonne nuit` | 4 |
-| 11 | UP 1 | `nuit guten` | 4 |
-| 12 | UP 1 | `guten nacht` | 4 |
-| 13 | UP 1 | `goodnight buenos noches` | 4 |
-| 14 | UP 1 | `buenos noches bonne` | 4 |
-| 15 | UP 1 | `noches bonne nuit` | 4 |
-| 16 | UP 1 | `bonne nuit guten` | 4 |
-| 17 | UP 1 | `nuit guten nacht` | 4 |
-| 18 | UP 1 | `self hosted` | 4 |
-| 19 | UP 1 | `dearly` | 4 |
-| 20 | UP 1 | `happy valentines` | 19 |
-| 21 | UP 1 | `happy valentines day` | 15 |
-| 22 | UP 1 | `happy valentine` | 15 |
-| 23 | UP 1 | `happy valentine day` | 13 |
-| 24 | UP 1 | `day love` | 7 |
-| 25 | NEW | `happy lunar` | 10 |
+| 1 | UP 17 | `self hosted` | 4 |
+| 2 | UP 17 | `dearly` | 4 |
+| 3 | UP 17 | `happy valentines` | 19 |
+| 4 | UP 17 | `happy valentines day` | 15 |
+| 5 | UP 17 | `happy valentine` | 15 |
+| 6 | UP 17 | `happy valentine day` | 13 |
+| 7 | UP 17 | `day love` | 7 |
+| 8 | UP 17 | `happy lunar` | 10 |
+| 9 | NEW | `happy lunar new` | 10 |
+| 10 | NEW | `lunar new` | 14 |
+| 11 | DOWN 10 | `valentines day` | 27 |
+| 12 | NEW | `lunar new year` | 13 |
+| 13 | NEW | `valentines` | 36 |
+| 14 | NEW | `valentine day` | 22 |
+| 15 | NEW | `ramadan` | 7 |
+| 16 | NEW | `valentine` | 34 |
+| 17 | NEW | `lunar` | 14 |
+| 18 | DOWN 16 | `buenos` | 4 |
+| 19 | DOWN 14 | `guten` | 4 |
+| 20 | NEW | `god damn` | 4 |
+| 21 | NEW | `temporarily` | 3 |
+| 22 | DOWN 19 | `noches` | 3 |
+| 23 | DOWN 19 | `nuit` | 3 |
+| 24 | DOWN 18 | `nacht` | 3 |
+| 25 | DOWN 18 | `goodnight buenos` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
