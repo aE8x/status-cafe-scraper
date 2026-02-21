@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-20 15:06 UTC*
+*Last Updated: 2026-02-21 04:16 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 34.4% Positive, 39.4% Neutral, 26.2% Negative
+- **Overall Mood Score**: `0.058` 
+- **Distribution**: 34.4% Positive, 39.6% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -30,18 +30,18 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 11 | - | `valentines day` | 27 |
 | 12 | - | `lunar new year` | 13 |
 | 13 | - | `valentines` | 36 |
-| 14 | - | `valentine day` | 22 |
-| 15 | - | `ramadan` | 8 |
-| 16 | - | `valentine` | 34 |
-| 17 | - | `lunar` | 14 |
-| 18 | - | `buenos` | 4 |
-| 19 | - | `guten` | 4 |
-| 20 | - | `god damn` | 4 |
-| 21 | NEW | `got working` | 4 |
-| 22 | - | `noches` | 3 |
-| 23 | - | `nuit` | 3 |
-| 24 | - | `nacht` | 3 |
-| 25 | - | `goodnight buenos` | 3 |
+| 14 | UP 1 | `ramadan` | 8 |
+| 15 | DOWN 1 | `valentine day` | 21 |
+| 16 | UP 1 | `lunar` | 14 |
+| 17 | DOWN 1 | `valentine` | 32 |
+| 18 | UP 2 | `god damn` | 4 |
+| 19 | UP 2 | `got working` | 4 |
+| 20 | NEW | `tboy` | 3 |
+| 21 | NEW | `actually fucking` | 3 |
+| 22 | NEW | `pipe` | 3 |
+| 23 | NEW | `cream cheese` | 3 |
+| 24 | NEW | `deadlock` | 3 |
+| 25 | NEW | `realmente` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
