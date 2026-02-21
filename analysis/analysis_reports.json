@@ -11212,5 +11212,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-21T14:52:17.455717+00:00",
+        "hot_topics": [
+            {
+                "ngram": "self hosted",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dearly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines",
+                "mentions": 19,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines day",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine day",
+                "mentions": 13,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day love",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar new",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "lunar new",
+                "mentions": 14,
+                "change": "84.6x"
+            },
+            {
+                "ngram": "valentines day",
+                "mentions": 27,
+                "change": "81.6x"
+            },
+            {
+                "ngram": "lunar new year",
+                "mentions": 13,
+                "change": "78.6x"
+            },
+            {
+                "ngram": "valentines",
+                "mentions": 36,
+                "change": "72.5x"
+            },
+            {
+                "ngram": "valentine day",
+                "mentions": 21,
+                "change": "42.3x"
+            },
+            {
+                "ngram": "lunar",
+                "mentions": 14,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "valentine",
+                "mentions": 32,
+                "change": "27.6x"
+            },
+            {
+                "ngram": "god damn",
+                "mentions": 4,
+                "change": "24.2x"
+            },
+            {
+                "ngram": "got working",
+                "mentions": 4,
+                "change": "24.2x"
+            },
+            {
+                "ngram": "ramadan",
+                "mentions": 7,
+                "change": "21.2x"
+            },
+            {
+                "ngram": "actually fucking",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "pipe",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "cream cheese",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "deadlock",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "realmente",
+                "mentions": 3,
+                "change": "18.1x"
+            },
+            {
+                "ngram": "let fucking",
+                "mentions": 3,
+                "change": "18.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.056194831321572276,
+            "positive_percent": 34.076137418755806,
+            "negative_percent": 25.998142989786444,
+            "neutral_percent": 39.92571959145776,
+            "most_positive_example": {
+                "text": "KITTY WANT A BREAK FROM IT ALL. PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PL < drama queen",
+                "user": "theenderdraco",
+                "score": 0.9693
+            },
+            "most_negative_example": {
+                "text": "stupid stupid stupid stupid why can't I just stop stupid stupid stupid stupid stupid",
+                "user": "wolfsbane",
+                "score": -0.983
+            }
+        },
+        "summary_message": null
     }
 ]
