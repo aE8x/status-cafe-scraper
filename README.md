@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-24 15:30 UTC*
+*Last Updated: 2026-02-25 04:30 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.055` 
-- **Distribution**: 34.2% Positive, 39.4% Neutral, 26.5% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 34.2% Positive, 39.1% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `day love` | 7 |
 | 8 | - | `happy lunar` | 10 |
 | 9 | - | `happy lunar new` | 10 |
-| 10 | - | `valentines day` | 27 |
-| 11 | - | `valentines` | 36 |
-| 12 | - | `lunar new` | 13 |
-| 13 | - | `lunar new year` | 12 |
-| 14 | - | `foley` | 6 |
-| 15 | - | `flavor foley` | 6 |
-| 16 | - | `valentine day` | 20 |
-| 17 | - | `ramadan` | 9 |
-| 18 | - | `got working` | 4 |
+| 10 | NEW | `fraud` | 4 |
+| 11 | - | `valentines` | 35 |
+| 12 | DOWN 2 | `valentines day` | 26 |
+| 13 | DOWN 1 | `lunar new` | 13 |
+| 14 | DOWN 1 | `lunar new year` | 12 |
+| 15 | DOWN 1 | `foley` | 6 |
+| 16 | DOWN 1 | `flavor foley` | 6 |
+| 17 | DOWN 1 | `valentine day` | 20 |
+| 18 | DOWN 1 | `ramadan` | 9 |
 | 19 | - | `sunlight` | 4 |
-| 20 | - | `valentine` | 30 |
-| 21 | - | `lunar` | 13 |
-| 22 | UP 2 | `michael` | 3 |
-| 23 | UP 2 | `figure skating` | 3 |
-| 24 | NEW | `bad dude` | 3 |
-| 25 | NEW | `court` | 3 |
+| 20 | NEW | `peaks` | 4 |
+| 21 | NEW | `twin peaks` | 4 |
+| 22 | DOWN 2 | `valentine` | 30 |
+| 23 | DOWN 2 | `lunar` | 13 |
+| 24 | - | `bad dude` | 3 |
+| 25 | - | `court` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
