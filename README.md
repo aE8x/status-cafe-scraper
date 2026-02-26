@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-25 15:32 UTC*
+*Last Updated: 2026-02-26 04:27 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.053` 
-- **Distribution**: 34.0% Positive, 39.0% Neutral, 27.0% Negative
+- **Distribution**: 34.3% Positive, 38.9% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `self hosted` | 4 |
-| 2 | - | `dearly` | 4 |
-| 3 | - | `happy valentines` | 19 |
-| 4 | - | `happy valentines day` | 15 |
-| 5 | - | `happy valentine` | 15 |
-| 6 | - | `happy valentine day` | 13 |
-| 7 | - | `day love` | 7 |
+| 1 | UP 1 | `dearly` | 4 |
+| 2 | UP 1 | `happy valentines` | 19 |
+| 3 | UP 1 | `happy valentines day` | 15 |
+| 4 | UP 1 | `happy valentine` | 15 |
+| 5 | UP 1 | `happy valentine day` | 13 |
+| 6 | UP 1 | `day love` | 7 |
+| 7 | NEW | `paris` | 4 |
 | 8 | - | `happy lunar` | 10 |
 | 9 | - | `happy lunar new` | 10 |
-| 10 | NEW | `mubarak` | 4 |
-| 11 | DOWN 1 | `fraud` | 5 |
-| 12 | DOWN 1 | `valentines` | 35 |
-| 13 | DOWN 1 | `valentines day` | 26 |
-| 14 | DOWN 1 | `lunar new` | 13 |
-| 15 | DOWN 1 | `lunar new year` | 12 |
-| 16 | DOWN 1 | `foley` | 6 |
-| 17 | DOWN 1 | `flavor foley` | 6 |
-| 18 | DOWN 1 | `valentine day` | 20 |
-| 19 | DOWN 1 | `ramadan` | 10 |
-| 20 | DOWN 1 | `sunlight` | 4 |
-| 21 | DOWN 1 | `peaks` | 4 |
-| 22 | DOWN 1 | `twin peaks` | 4 |
-| 23 | DOWN 1 | `valentine` | 30 |
-| 24 | DOWN 1 | `lunar` | 13 |
-| 25 | - | `court` | 3 |
+| 10 | - | `mubarak` | 4 |
+| 11 | - | `fraud` | 6 |
+| 12 | - | `valentines` | 35 |
+| 13 | - | `valentines day` | 26 |
+| 14 | - | `lunar new` | 13 |
+| 15 | - | `lunar new year` | 12 |
+| 16 | - | `foley` | 6 |
+| 17 | - | `flavor foley` | 6 |
+| 18 | NEW | `website updates` | 5 |
+| 19 | DOWN 1 | `valentine day` | 20 |
+| 20 | - | `sunlight` | 5 |
+| 21 | DOWN 2 | `ramadan` | 10 |
+| 22 | NEW | `recent` | 4 |
+| 23 | NEW | `much pain` | 4 |
+| 24 | DOWN 3 | `peaks` | 4 |
+| 25 | DOWN 3 | `twin peaks` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 

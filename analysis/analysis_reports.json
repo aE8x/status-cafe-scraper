@@ -12535,5 +12535,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-02-26T04:27:19.307595+00:00",
+        "hot_topics": [
+            {
+                "ngram": "dearly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines",
+                "mentions": 19,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentines day",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine",
+                "mentions": 15,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy valentine day",
+                "mentions": 13,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day love",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "paris",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar new",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "mubarak",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fraud",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "valentines",
+                "mentions": 35,
+                "change": "50.3x"
+            },
+            {
+                "ngram": "valentines day",
+                "mentions": 26,
+                "change": "49.8x"
+            },
+            {
+                "ngram": "lunar new",
+                "mentions": 13,
+                "change": "37.4x"
+            },
+            {
+                "ngram": "lunar new year",
+                "mentions": 12,
+                "change": "34.5x"
+            },
+            {
+                "ngram": "foley",
+                "mentions": 6,
+                "change": "34.5x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 6,
+                "change": "34.5x"
+            },
+            {
+                "ngram": "website updates",
+                "mentions": 5,
+                "change": "28.7x"
+            },
+            {
+                "ngram": "valentine day",
+                "mentions": 20,
+                "change": "28.7x"
+            },
+            {
+                "ngram": "sunlight",
+                "mentions": 5,
+                "change": "28.7x"
+            },
+            {
+                "ngram": "ramadan",
+                "mentions": 10,
+                "change": "28.7x"
+            },
+            {
+                "ngram": "recent",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "much pain",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "peaks",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "twin peaks",
+                "mentions": 4,
+                "change": "23.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05281477978125924,
+            "positive_percent": 34.25953295891221,
+            "negative_percent": 26.869642329293526,
+            "neutral_percent": 38.87082471179426,
+            "most_positive_example": {
+                "text": "KITTY WANT A BREAK FROM IT ALL. PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PL < drama queen",
+                "user": "theenderdraco",
+                "score": 0.9693
+            },
+            "most_negative_example": {
+                "text": "It's very rare for something to make me tremble with hatred. Fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you",
+                "user": "fiddlestyx",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
