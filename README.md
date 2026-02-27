@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-02-27 04:23 UTC*
+*Last Updated: 2026-02-27 15:05 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.054` 
-- **Distribution**: 34.3% Positive, 38.8% Neutral, 27.0% Negative
+- **Overall Mood Score**: `0.053` 
+- **Distribution**: 34.1% Positive, 38.6% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `happy lunar` | 10 |
 | 9 | - | `happy lunar new` | 10 |
 | 10 | - | `mubarak` | 4 |
-| 11 | - | `fraud` | 6 |
-| 12 | UP 2 | `foley` | 6 |
-| 13 | UP 2 | `flavor foley` | 6 |
-| 14 | DOWN 2 | `valentines` | 33 |
-| 15 | UP 1 | `valentine day` | 20 |
-| 16 | UP 1 | `sunlight` | 5 |
-| 17 | UP 1 | `ramadan` | 10 |
-| 18 | DOWN 5 | `valentines day` | 24 |
-| 19 | NEW | `fucking hard` | 4 |
-| 20 | DOWN 1 | `lunar new` | 12 |
-| 21 | DOWN 1 | `much pain` | 4 |
-| 22 | DOWN 1 | `peaks` | 4 |
-| 23 | DOWN 1 | `twin peaks` | 4 |
-| 24 | NEW | `spring break` | 4 |
-| 25 | DOWN 2 | `lunar new year` | 11 |
+| 11 | - | `fraud` | 7 |
+| 12 | - | `foley` | 6 |
+| 13 | - | `flavor foley` | 6 |
+| 14 | UP 1 | `valentine day` | 20 |
+| 15 | UP 1 | `sunlight` | 5 |
+| 16 | UP 1 | `ramadan` | 10 |
+| 17 | UP 5 | `peaks` | 5 |
+| 18 | UP 5 | `twin peaks` | 5 |
+| 19 | DOWN 5 | `valentines` | 32 |
+| 20 | - | `lunar new` | 12 |
+| 21 | - | `much pain` | 4 |
+| 22 | UP 2 | `spring break` | 4 |
+| 23 | DOWN 5 | `valentines day` | 23 |
+| 24 | UP 1 | `lunar new year` | 11 |
+| 25 | NEW | `curse` | 7 |
 
 <!-- END_ANALYSIS_SECTION -->
 
