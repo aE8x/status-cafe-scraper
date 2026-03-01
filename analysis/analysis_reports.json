@@ -13417,5 +13417,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-01T04:32:42.506158+00:00",
+        "hot_topics": [
+            {
+                "ngram": "paris",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy lunar new",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "mubarak",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gregory",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fraud",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "renegade",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ego renegade",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "renegade boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ego renegade boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "foley",
+                "mentions": 6,
+                "change": "34.6x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 6,
+                "change": "34.6x"
+            },
+            {
+                "ngram": "ramadan",
+                "mentions": 11,
+                "change": "31.7x"
+            },
+            {
+                "ngram": "sunlight",
+                "mentions": 5,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "peaks",
+                "mentions": 5,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "twin peaks",
+                "mentions": 5,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "lunar new",
+                "mentions": 12,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "much pain",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "spring break",
+                "mentions": 4,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "lunar new year",
+                "mentions": 11,
+                "change": "21.1x"
+            },
+            {
+                "ngram": "curse",
+                "mentions": 7,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "tradition",
+                "mentions": 3,
+                "change": "17.3x"
+            },
+            {
+                "ngram": "muslim",
+                "mentions": 3,
+                "change": "17.3x"
+            },
+            {
+                "ngram": "india",
+                "mentions": 3,
+                "change": "17.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0448184280247277,
+            "positive_percent": 33.35295849278776,
+            "negative_percent": 27.465410656461586,
+            "neutral_percent": 39.181630850750665,
+            "most_positive_example": {
+                "text": "My art may be slowly improving but I'm drawing and god I feel like my passion has come back? UGHH YESSSSS <3 <3 <3 <3 YAYYYYY I LLOVE LIFE",
+                "user": "town-of-robloxia",
+                "score": 0.9803
+            },
+            "most_negative_example": {
+                "text": "It's very rare for something to make me tremble with hatred. Fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you",
+                "user": "fiddlestyx",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
