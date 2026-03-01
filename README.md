@@ -8,39 +8,39 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-01 04:32 UTC*
+*Last Updated: 2026-03-01 14:48 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 33.4% Positive, 39.2% Neutral, 27.5% Negative
+- **Overall Mood Score**: `0.047` 
+- **Distribution**: 33.8% Positive, 39.0% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `paris` | 4 |
-| 2 | - | `happy lunar` | 10 |
-| 3 | - | `happy lunar new` | 10 |
-| 4 | - | `mubarak` | 4 |
-| 5 | - | `gregory` | 4 |
+| 1 | UP 1 | `happy lunar` | 10 |
+| 2 | UP 1 | `happy lunar new` | 10 |
+| 3 | UP 1 | `mubarak` | 4 |
+| 4 | UP 1 | `gregory` | 5 |
+| 5 | NEW | `gregory house` | 4 |
 | 6 | - | `fraud` | 7 |
-| 7 | NEW | `renegade` | 4 |
-| 8 | NEW | `ego renegade` | 4 |
-| 9 | NEW | `renegade boy` | 4 |
-| 10 | NEW | `ego renegade boy` | 4 |
-| 11 | DOWN 4 | `pokemon day` | 5 |
-| 12 | DOWN 3 | `foley` | 6 |
-| 13 | DOWN 3 | `flavor foley` | 6 |
-| 14 | DOWN 3 | `ramadan` | 11 |
-| 15 | DOWN 3 | `sunlight` | 5 |
-| 16 | DOWN 3 | `peaks` | 5 |
-| 17 | DOWN 3 | `twin peaks` | 5 |
-| 18 | DOWN 3 | `lunar new` | 12 |
-| 19 | DOWN 3 | `much pain` | 4 |
-| 20 | DOWN 3 | `spring break` | 4 |
-| 21 | DOWN 3 | `lunar new year` | 11 |
-| 22 | DOWN 3 | `curse` | 7 |
-| 23 | - | `tradition` | 3 |
-| 24 | - | `muslim` | 3 |
+| 7 | - | `renegade` | 4 |
+| 8 | - | `ego renegade` | 4 |
+| 9 | - | `renegade boy` | 4 |
+| 10 | - | `ego renegade boy` | 4 |
+| 11 | - | `pokemon day` | 5 |
+| 12 | - | `foley` | 6 |
+| 13 | - | `flavor foley` | 6 |
+| 14 | - | `ramadan` | 11 |
+| 15 | - | `sunlight` | 5 |
+| 16 | - | `peaks` | 5 |
+| 17 | - | `twin peaks` | 5 |
+| 18 | UP 6 | `muslim` | 4 |
+| 19 | NEW | `new look` | 4 |
+| 20 | DOWN 1 | `much pain` | 4 |
+| 21 | DOWN 1 | `spring break` | 4 |
+| 22 | DOWN 4 | `lunar new` | 12 |
+| 23 | DOWN 2 | `lunar new year` | 11 |
+| 24 | DOWN 23 | `paris` | 3 |
 | 25 | - | `india` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
