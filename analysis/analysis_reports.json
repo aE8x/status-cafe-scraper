@@ -15328,5 +15328,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-07T14:48:48.941672+00:00",
+        "hot_topics": [
+            {
+                "ngram": "fraud",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "renegade",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ego renegade",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "renegade boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ego renegade boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "peaks",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "twin peaks",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blood moon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spring break",
+                "mentions": 6,
+                "change": "33.3x"
+            },
+            {
+                "ngram": "bio",
+                "mentions": 6,
+                "change": "33.3x"
+            },
+            {
+                "ngram": "motion",
+                "mentions": 5,
+                "change": "27.7x"
+            },
+            {
+                "ngram": "belong",
+                "mentions": 4,
+                "change": "22.2x"
+            },
+            {
+                "ngram": "would love",
+                "mentions": 4,
+                "change": "22.2x"
+            },
+            {
+                "ngram": "feel bit",
+                "mentions": 4,
+                "change": "22.2x"
+            },
+            {
+                "ngram": "day another",
+                "mentions": 4,
+                "change": "22.2x"
+            },
+            {
+                "ngram": "another day another",
+                "mentions": 4,
+                "change": "22.2x"
+            },
+            {
+                "ngram": "good still",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "know really",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "exhaustion",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "got work",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "bit like",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "gotta figure",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "gate",
+                "mentions": 3,
+                "change": "16.6x"
+            },
+            {
+                "ngram": "days row",
+                "mentions": 3,
+                "change": "16.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04604711023400056,
+            "positive_percent": 33.944178178742604,
+            "negative_percent": 26.78319706794474,
+            "neutral_percent": 39.272624753312655,
+            "most_positive_example": {
+                "text": "i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemon",
+                "user": "wowozella",
+                "score": 0.9911
+            },
+            "most_negative_example": {
+                "text": "It's very rare for something to make me tremble with hatred. Fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you",
+                "user": "fiddlestyx",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
