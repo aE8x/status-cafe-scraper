@@ -16504,5 +16504,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-11T15:11:20.137104+00:00",
+        "hot_topics": [
+            {
+                "ngram": "destroy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "purgatory",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokopia",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blood moon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "learn new",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "women day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "miku day",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku day",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "savings",
+                "mentions": 5,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "echo",
+                "mentions": 4,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "gregory",
+                "mentions": 8,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "poker",
+                "mentions": 4,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "currently playing",
+                "mentions": 4,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "stfu",
+                "mentions": 4,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "daylight savings",
+                "mentions": 4,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "say fuck",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "retrograde",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "spring break",
+                "mentions": 6,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "stretch",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "sick still",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "israel",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "spa",
+                "mentions": 3,
+                "change": "16.7x"
+            },
+            {
+                "ngram": "ribbit",
+                "mentions": 3,
+                "change": "16.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05846739803094234,
+            "positive_percent": 35.27426160337553,
+            "negative_percent": 25.17580872011252,
+            "neutral_percent": 39.54992967651195,
+            "most_positive_example": {
+                "text": "i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemon",
+                "user": "wowozella",
+                "score": 0.9911
+            },
+            "most_negative_example": {
+                "text": "Writer's block is killing me. The executive dysfunction hits SOO HARD. I'm not sure how to overcome this mental block. It's almost painful.",
+                "user": "vampireapologist",
+                "score": -0.9565
+            }
+        },
+        "summary_message": null
     }
 ]
