@@ -16651,5 +16651,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-12T04:23:39.043061+00:00",
+        "hot_topics": [
+            {
+                "ngram": "destroy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokemon day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "purgatory",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokopia",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blood moon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "learn new",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "women day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "miku day",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku day",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "savings",
+                "mentions": 5,
+                "change": "28.1x"
+            },
+            {
+                "ngram": "gregory",
+                "mentions": 9,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "poker",
+                "mentions": 4,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "currently playing",
+                "mentions": 4,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "stfu",
+                "mentions": 4,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "daylight savings",
+                "mentions": 4,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "retrograde",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "spring break",
+                "mentions": 6,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "kennedy",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "stretch",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "sick still",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "israel",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "spa",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "page layout",
+                "mentions": 3,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "ribbit",
+                "mentions": 3,
+                "change": "16.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0584381463690308,
+            "positive_percent": 35.20768578694546,
+            "negative_percent": 25.204860129980222,
+            "neutral_percent": 39.58745408307431,
+            "most_positive_example": {
+                "text": "i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemon",
+                "user": "wowozella",
+                "score": 0.9911
+            },
+            "most_negative_example": {
+                "text": "I'm a failure, I'm a bad person. Btw, no more bad bitch",
+                "user": "v4l3ry",
+                "score": -0.9484
+            }
+        },
+        "summary_message": null
     }
 ]
