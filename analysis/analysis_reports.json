@@ -17386,5 +17386,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-14T14:53:54.671348+00:00",
+        "hot_topics": [
+            {
+                "ngram": "purgatory",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pokopia",
+                "mentions": 14,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blood moon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "learn new",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "women day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "miku day",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku day",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "currently playing",
+                "mentions": 5,
+                "change": "28.5x"
+            },
+            {
+                "ngram": "savings",
+                "mentions": 5,
+                "change": "28.5x"
+            },
+            {
+                "ngram": "page layout",
+                "mentions": 4,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "technically",
+                "mentions": 4,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "stfu",
+                "mentions": 4,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "daylight savings",
+                "mentions": 4,
+                "change": "22.8x"
+            },
+            {
+                "ngram": "destroy",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "ribbit",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "east",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "lemonade",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "dreamt",
+                "mentions": 6,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "corporate",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "seja",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "hope one",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "one month",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "bringing",
+                "mentions": 3,
+                "change": "17.1x"
+            },
+            {
+                "ngram": "sleep well",
+                "mentions": 3,
+                "change": "17.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05747644038790645,
+            "positive_percent": 35.22532800912721,
+            "negative_percent": 24.700513405590417,
+            "neutral_percent": 40.07415858528237,
+            "most_positive_example": {
+                "text": "i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemonade i love lemon",
+                "user": "wowozella",
+                "score": 0.9911
+            },
+            "most_negative_example": {
+                "text": "Start killing people i'm so dead serious I HATE KYLE JUSTIN AND JAMES ROLFE",
+                "user": "anabolicfrolic",
+                "score": -0.9529
+            }
+        },
+        "summary_message": null
     }
 ]
