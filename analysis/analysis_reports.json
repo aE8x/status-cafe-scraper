@@ -17827,5 +17827,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-16T05:02:25.600374+00:00",
+        "hot_topics": [
+            {
+                "ngram": "pokopia",
+                "mentions": 17,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blood moon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "learn new",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "women day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "miku day",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy miku day",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "currently playing",
+                "mentions": 5,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "savings",
+                "mentions": 5,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "technically",
+                "mentions": 4,
+                "change": "22.6x"
+            },
+            {
+                "ngram": "poker night",
+                "mentions": 4,
+                "change": "22.6x"
+            },
+            {
+                "ngram": "stfu",
+                "mentions": 4,
+                "change": "22.6x"
+            },
+            {
+                "ngram": "daylight savings",
+                "mentions": 4,
+                "change": "22.6x"
+            },
+            {
+                "ngram": "dreamt",
+                "mentions": 6,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "leather",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "corporate",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "seja",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "hope one",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "purgatory",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "hours day",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "private",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "one month",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "bringing",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "sleep well",
+                "mentions": 3,
+                "change": "16.9x"
+            },
+            {
+                "ngram": "benjamim",
+                "mentions": 3,
+                "change": "16.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.055271606334841634,
+            "positive_percent": 35.237556561085974,
+            "negative_percent": 25.39592760180995,
+            "neutral_percent": 39.366515837104075,
+            "most_positive_example": {
+                "text": "english teacher playing kyle justin in class Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh yes Oh y",
+                "user": "anabolicfrolic",
+                "score": 0.986
+            },
+            "most_negative_example": {
+                "text": "Start killing people i'm so dead serious I HATE KYLE JUSTIN AND JAMES ROLFE",
+                "user": "anabolicfrolic",
+                "score": -0.9529
+            }
+        },
+        "summary_message": null
     }
 ]
