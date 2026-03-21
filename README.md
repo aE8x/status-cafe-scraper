@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-20 15:10 UTC*
+*Last Updated: 2026-03-21 04:15 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 35.3% Positive, 39.7% Neutral, 25.1% Negative
+- **Overall Mood Score**: `0.053` 
+- **Distribution**: 35.1% Positive, 39.5% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `miku day` | 10 |
 | 3 | - | `happy miku` | 6 |
 | 4 | - | `happy miku day` | 6 |
-| 5 | - | `jog` | 5 |
+| 5 | - | `jog` | 6 |
 | 6 | - | `minute jog` | 4 |
 | 7 | - | `tumblr staff` | 4 |
-| 8 | - | `pokopia` | 20 |
-| 9 | - | `savings` | 5 |
-| 10 | - | `daylight` | 5 |
-| 11 | - | `marquees` | 5 |
-| 12 | - | `staff` | 5 |
-| 13 | UP 2 | `daylight savings` | 4 |
-| 14 | UP 2 | `goo` | 4 |
-| 15 | UP 2 | `sbr` | 4 |
-| 16 | UP 3 | `sahur` | 3 |
-| 17 | UP 3 | `white boy` | 3 |
-| 18 | UP 3 | `yeahhh` | 3 |
-| 19 | UP 3 | `change website` | 3 |
-| 20 | UP 3 | `time sit` | 3 |
-| 21 | UP 3 | `english teacher` | 3 |
-| 22 | UP 3 | `overdue` | 3 |
-| 23 | NEW | `follows` | 3 |
-| 24 | NEW | `negative` | 3 |
-| 25 | NEW | `mars` | 3 |
+| 8 | NEW | `new tadc` | 7 |
+| 9 | NEW | `new tadc episode` | 5 |
+| 10 | DOWN 2 | `pokopia` | 20 |
+| 11 | DOWN 2 | `savings` | 5 |
+| 12 | DOWN 2 | `daylight` | 5 |
+| 13 | DOWN 2 | `marquees` | 5 |
+| 14 | - | `goo` | 5 |
+| 15 | DOWN 3 | `staff` | 5 |
+| 16 | NEW | `eid` | 5 |
+| 17 | DOWN 4 | `daylight savings` | 4 |
+| 18 | DOWN 3 | `sbr` | 4 |
+| 19 | NEW | `charge` | 4 |
+| 20 | DOWN 1 | `change website` | 3 |
+| 21 | DOWN 1 | `time sit` | 3 |
+| 22 | NEW | `playthrough` | 3 |
+| 23 | NEW | `job market` | 3 |
+| 24 | DOWN 3 | `english teacher` | 3 |
+| 25 | DOWN 3 | `overdue` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
