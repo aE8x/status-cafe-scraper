@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-21 14:52 UTC*
+*Last Updated: 2026-03-22 04:30 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.051` 
-- **Distribution**: 34.9% Positive, 39.6% Neutral, 25.5% Negative
+- **Overall Mood Score**: `0.050` 
+- **Distribution**: 34.7% Positive, 39.9% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `miku day` | 10 |
 | 3 | - | `happy miku` | 6 |
 | 4 | - | `happy miku day` | 6 |
-| 5 | - | `jog` | 6 |
-| 6 | - | `minute jog` | 4 |
-| 7 | - | `tumblr staff` | 4 |
-| 8 | - | `new tadc` | 7 |
-| 9 | - | `new tadc episode` | 5 |
-| 10 | - | `pokopia` | 20 |
-| 11 | UP 5 | `eid` | 6 |
-| 12 | DOWN 1 | `savings` | 5 |
-| 13 | DOWN 1 | `daylight` | 5 |
-| 14 | DOWN 1 | `marquees` | 5 |
-| 15 | DOWN 1 | `goo` | 5 |
-| 16 | DOWN 1 | `staff` | 5 |
-| 17 | - | `daylight savings` | 4 |
-| 18 | UP 7 | `overdue` | 4 |
-| 19 | DOWN 1 | `sbr` | 4 |
-| 20 | NEW | `ita` | 4 |
-| 21 | NEW | `ita bag` | 4 |
-| 22 | DOWN 3 | `charge` | 4 |
-| 23 | NEW | `lemonade` | 3 |
-| 24 | DOWN 3 | `time sit` | 3 |
-| 25 | DOWN 3 | `playthrough` | 3 |
+| 5 | UP 9 | `marquees` | 6 |
+| 6 | DOWN 1 | `jog` | 6 |
+| 7 | DOWN 1 | `minute jog` | 4 |
+| 8 | NEW | `zoinked` | 4 |
+| 9 | DOWN 2 | `tumblr staff` | 4 |
+| 10 | DOWN 2 | `new tadc` | 7 |
+| 11 | DOWN 2 | `new tadc episode` | 5 |
+| 12 | DOWN 2 | `pokopia` | 19 |
+| 13 | DOWN 2 | `eid` | 7 |
+| 14 | DOWN 2 | `savings` | 5 |
+| 15 | DOWN 2 | `daylight` | 5 |
+| 16 | DOWN 1 | `goo` | 5 |
+| 17 | DOWN 1 | `staff` | 5 |
+| 18 | DOWN 1 | `daylight savings` | 4 |
+| 19 | DOWN 1 | `overdue` | 4 |
+| 20 | NEW | `follows` | 4 |
+| 21 | DOWN 2 | `sbr` | 4 |
+| 22 | DOWN 2 | `ita` | 4 |
+| 23 | DOWN 2 | `ita bag` | 4 |
+| 24 | DOWN 2 | `charge` | 4 |
+| 25 | DOWN 1 | `time sit` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
