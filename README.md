@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-23 04:39 UTC*
+*Last Updated: 2026-03-23 15:35 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.047` 
-- **Distribution**: 34.5% Positive, 39.6% Neutral, 25.9% Negative
+- **Distribution**: 34.3% Positive, 39.8% Neutral, 25.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `miku day` | 10 |
-| 2 | - | `happy miku` | 6 |
-| 3 | - | `happy miku day` | 6 |
-| 4 | - | `marquees` | 6 |
-| 5 | - | `jog` | 7 |
-| 6 | - | `minute jog` | 4 |
-| 7 | - | `zoinked` | 4 |
-| 8 | - | `tumblr staff` | 4 |
-| 9 | - | `new tadc` | 7 |
-| 10 | - | `new tadc episode` | 5 |
-| 11 | UP 1 | `eid` | 8 |
-| 12 | DOWN 1 | `pokopia` | 18 |
-| 13 | - | `goo` | 5 |
-| 14 | - | `staff` | 5 |
-| 15 | - | `overdue` | 4 |
-| 16 | - | `follows` | 4 |
-| 17 | UP 8 | `mars` | 4 |
-| 18 | NEW | `hate school` | 4 |
-| 19 | DOWN 2 | `sbr` | 4 |
-| 20 | DOWN 2 | `maimai` | 4 |
-| 21 | DOWN 2 | `ita` | 4 |
-| 22 | DOWN 2 | `ita bag` | 4 |
-| 23 | DOWN 2 | `charge` | 4 |
-| 24 | NEW | `weeks ago` | 4 |
-| 25 | DOWN 2 | `english teacher` | 3 |
+| 1 | UP 4 | `jog` | 7 |
+| 2 | UP 4 | `minute jog` | 4 |
+| 3 | UP 4 | `zoinked` | 4 |
+| 4 | UP 4 | `tumblr staff` | 4 |
+| 5 | UP 4 | `new tadc` | 7 |
+| 6 | UP 4 | `new tadc episode` | 5 |
+| 7 | UP 4 | `eid` | 8 |
+| 8 | DOWN 6 | `happy miku` | 5 |
+| 9 | DOWN 6 | `happy miku day` | 5 |
+| 10 | UP 3 | `goo` | 5 |
+| 11 | UP 7 | `hate school` | 5 |
+| 12 | UP 2 | `staff` | 5 |
+| 13 | DOWN 9 | `marquees` | 5 |
+| 14 | UP 2 | `follows` | 4 |
+| 15 | UP 2 | `mars` | 4 |
+| 16 | UP 3 | `sbr` | 4 |
+| 17 | UP 3 | `maimai` | 4 |
+| 18 | UP 3 | `ita` | 4 |
+| 19 | UP 3 | `ita bag` | 4 |
+| 20 | UP 3 | `charge` | 4 |
+| 21 | UP 3 | `weeks ago` | 4 |
+| 22 | DOWN 10 | `pokopia` | 16 |
+| 23 | NEW | `negative` | 3 |
+| 24 | NEW | `bisexual` | 3 |
+| 25 | NEW | `handsome` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
