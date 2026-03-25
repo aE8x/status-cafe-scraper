@@ -8,7 +8,7 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-25 04:31 UTC*
+*Last Updated: 2026-03-25 15:44 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.044` 
@@ -17,31 +17,31 @@ This page displays the latest automated trend and sentiment analysis from [statu
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `zoinked` | 5 |
-| 2 | UP 2 | `staff` | 5 |
-| 3 | UP 2 | `tumblr staff` | 4 |
-| 4 | UP 2 | `marquee` | 4 |
-| 5 | UP 2 | `new tadc` | 7 |
-| 6 | UP 2 | `project hail` | 7 |
-| 7 | UP 2 | `hail mary` | 7 |
-| 8 | UP 2 | `project hail mary` | 7 |
-| 9 | UP 2 | `new tadc episode` | 5 |
-| 10 | UP 2 | `eid` | 8 |
-| 11 | DOWN 10 | `jog` | 6 |
-| 12 | UP 1 | `marquees` | 6 |
-| 13 | UP 3 | `mechanism` | 5 |
-| 14 | UP 5 | `sbr` | 4 |
-| 15 | NEW | `time see` | 4 |
-| 16 | UP 4 | `maimai` | 4 |
-| 17 | UP 4 | `coping mechanism` | 4 |
-| 18 | UP 4 | `ita` | 4 |
-| 19 | UP 4 | `ita bag` | 4 |
-| 20 | UP 4 | `charge` | 4 |
-| 21 | UP 4 | `weeks ago` | 4 |
-| 22 | NEW | `hail` | 7 |
-| 23 | NEW | `mary` | 7 |
-| 24 | NEW | `coursework` | 3 |
-| 25 | NEW | `chew` | 3 |
+| 1 | - | `zoinked` | 5 |
+| 2 | - | `staff` | 5 |
+| 3 | - | `tumblr staff` | 4 |
+| 4 | - | `marquee` | 4 |
+| 5 | - | `new tadc` | 7 |
+| 6 | - | `project hail` | 7 |
+| 7 | - | `hail mary` | 7 |
+| 8 | - | `project hail mary` | 7 |
+| 9 | - | `new tadc episode` | 5 |
+| 10 | - | `eid` | 8 |
+| 11 | - | `jog` | 6 |
+| 12 | - | `marquees` | 6 |
+| 13 | UP 3 | `maimai` | 5 |
+| 14 | DOWN 1 | `mechanism` | 5 |
+| 15 | DOWN 1 | `sbr` | 4 |
+| 16 | DOWN 1 | `time see` | 4 |
+| 17 | - | `coping mechanism` | 4 |
+| 18 | - | `ita` | 4 |
+| 19 | - | `ita bag` | 4 |
+| 20 | - | `charge` | 4 |
+| 21 | - | `weeks ago` | 4 |
+| 22 | - | `hail` | 7 |
+| 23 | - | `mary` | 7 |
+| 24 | UP 1 | `chew` | 3 |
+| 25 | NEW | `grip` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
