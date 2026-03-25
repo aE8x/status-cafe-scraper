@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-24 15:40 UTC*
+*Last Updated: 2026-03-25 04:31 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.043` 
-- **Distribution**: 33.8% Positive, 39.9% Neutral, 26.3% Negative
+- **Overall Mood Score**: `0.044` 
+- **Distribution**: 33.8% Positive, 40.0% Neutral, 26.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `jog` | 7 |
-| 2 | - | `minute jog` | 4 |
-| 3 | - | `zoinked` | 4 |
-| 4 | - | `staff` | 5 |
-| 5 | - | `tumblr staff` | 4 |
-| 6 | - | `marquee` | 4 |
-| 7 | - | `new tadc` | 7 |
-| 8 | - | `project hail` | 5 |
-| 9 | - | `hail mary` | 5 |
-| 10 | - | `project hail mary` | 5 |
-| 11 | - | `new tadc episode` | 5 |
-| 12 | - | `eid` | 8 |
-| 13 | - | `marquees` | 6 |
-| 14 | - | `goo` | 5 |
-| 15 | - | `hate school` | 5 |
-| 16 | UP 4 | `mechanism` | 5 |
-| 17 | DOWN 1 | `mars` | 4 |
-| 18 | DOWN 1 | `burden` | 4 |
-| 19 | DOWN 1 | `sbr` | 4 |
-| 20 | DOWN 1 | `maimai` | 4 |
-| 21 | NEW | `coping mechanism` | 4 |
-| 22 | DOWN 1 | `ita` | 4 |
-| 23 | DOWN 1 | `ita bag` | 4 |
-| 24 | DOWN 1 | `charge` | 4 |
-| 25 | DOWN 1 | `weeks ago` | 4 |
+| 1 | UP 2 | `zoinked` | 5 |
+| 2 | UP 2 | `staff` | 5 |
+| 3 | UP 2 | `tumblr staff` | 4 |
+| 4 | UP 2 | `marquee` | 4 |
+| 5 | UP 2 | `new tadc` | 7 |
+| 6 | UP 2 | `project hail` | 7 |
+| 7 | UP 2 | `hail mary` | 7 |
+| 8 | UP 2 | `project hail mary` | 7 |
+| 9 | UP 2 | `new tadc episode` | 5 |
+| 10 | UP 2 | `eid` | 8 |
+| 11 | DOWN 10 | `jog` | 6 |
+| 12 | UP 1 | `marquees` | 6 |
+| 13 | UP 3 | `mechanism` | 5 |
+| 14 | UP 5 | `sbr` | 4 |
+| 15 | NEW | `time see` | 4 |
+| 16 | UP 4 | `maimai` | 4 |
+| 17 | UP 4 | `coping mechanism` | 4 |
+| 18 | UP 4 | `ita` | 4 |
+| 19 | UP 4 | `ita bag` | 4 |
+| 20 | UP 4 | `charge` | 4 |
+| 21 | UP 4 | `weeks ago` | 4 |
+| 22 | NEW | `hail` | 7 |
+| 23 | NEW | `mary` | 7 |
+| 24 | NEW | `coursework` | 3 |
+| 25 | NEW | `chew` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
