@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-26 04:43 UTC*
+*Last Updated: 2026-03-26 15:50 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.044` 
-- **Distribution**: 33.7% Positive, 40.4% Neutral, 26.0% Negative
+- **Distribution**: 33.6% Positive, 40.5% Neutral, 25.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `aos` | 4 |
-| 2 | DOWN 1 | `zoinked` | 6 |
-| 3 | DOWN 1 | `staff` | 5 |
-| 4 | DOWN 1 | `tumblr staff` | 4 |
-| 5 | DOWN 1 | `marquee` | 4 |
-| 6 | DOWN 1 | `new tadc` | 7 |
-| 7 | DOWN 1 | `project hail` | 7 |
-| 8 | DOWN 1 | `hail mary` | 7 |
-| 9 | DOWN 1 | `project hail mary` | 7 |
-| 10 | DOWN 1 | `new tadc episode` | 5 |
-| 11 | NEW | `sora` | 6 |
-| 12 | NEW | `life demo` | 6 |
-| 13 | NEW | `tomodachi life demo` | 6 |
-| 14 | DOWN 4 | `eid` | 8 |
-| 15 | DOWN 4 | `jog` | 7 |
-| 16 | DOWN 4 | `marquees` | 6 |
-| 17 | DOWN 4 | `maimai` | 5 |
-| 18 | DOWN 4 | `mechanism` | 5 |
-| 19 | DOWN 4 | `sbr` | 4 |
-| 20 | NEW | `notas` | 4 |
-| 21 | DOWN 5 | `time see` | 4 |
-| 22 | DOWN 5 | `coping mechanism` | 4 |
-| 23 | DOWN 5 | `ita` | 4 |
-| 24 | DOWN 5 | `ita bag` | 4 |
-| 25 | DOWN 5 | `charge` | 4 |
+| 1 | - | `aos` | 4 |
+| 2 | - | `zoinked` | 6 |
+| 3 | NEW | `org notas` | 4 |
+| 4 | NEW | `neocities org notas` | 4 |
+| 5 | DOWN 2 | `staff` | 5 |
+| 6 | DOWN 2 | `tumblr staff` | 4 |
+| 7 | DOWN 2 | `marquee` | 5 |
+| 8 | DOWN 2 | `new tadc` | 7 |
+| 9 | DOWN 2 | `project hail` | 7 |
+| 10 | DOWN 2 | `hail mary` | 7 |
+| 11 | DOWN 2 | `project hail mary` | 7 |
+| 12 | DOWN 2 | `new tadc episode` | 5 |
+| 13 | DOWN 2 | `sora` | 6 |
+| 14 | DOWN 2 | `life demo` | 9 |
+| 15 | DOWN 2 | `tomodachi life demo` | 9 |
+| 16 | DOWN 2 | `eid` | 8 |
+| 17 | DOWN 2 | `jog` | 7 |
+| 18 | DOWN 2 | `marquees` | 6 |
+| 19 | UP 1 | `notas` | 5 |
+| 20 | DOWN 3 | `maimai` | 5 |
+| 21 | DOWN 3 | `mechanism` | 5 |
+| 22 | DOWN 3 | `sbr` | 4 |
+| 23 | DOWN 2 | `time see` | 4 |
+| 24 | NEW | `dropping` | 4 |
+| 25 | DOWN 3 | `coping mechanism` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
