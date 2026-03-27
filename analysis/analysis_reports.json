@@ -21061,5 +21061,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-27T04:43:54.954284+00:00",
+        "hot_topics": [
+            {
+                "ngram": "aos",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "zoinked",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "org notas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "neocities org notas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "staff",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tumblr staff",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "marquee",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eid",
+                "mentions": 8,
+                "change": "46.6x"
+            },
+            {
+                "ngram": "marquees",
+                "mentions": 6,
+                "change": "34.9x"
+            },
+            {
+                "ngram": "tadc",
+                "mentions": 20,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "notas",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "time see",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "maimai",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "mechanism",
+                "mentions": 5,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "pearl",
+                "mentions": 4,
+                "change": "23.3x"
+            },
+            {
+                "ngram": "sbr",
+                "mentions": 4,
+                "change": "23.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.046946037628278224,
+            "positive_percent": 33.92246294184721,
+            "negative_percent": 25.627137970353473,
+            "neutral_percent": 40.45039908779932,
+            "most_positive_example": {
+                "text": "Lets vaguepost on statuscafe with mama! OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD OH MY GOD",
+                "user": "tennastvtime",
+                "score": 0.979
+            },
+            "most_negative_example": {
+                "text": "Start killing people i'm so dead serious I HATE KYLE JUSTIN AND JAMES ROLFE",
+                "user": "anabolicfrolic",
+                "score": -0.9529
+            }
+        },
+        "summary_message": null
     }
 ]
