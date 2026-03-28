@@ -21502,5 +21502,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-28T14:58:10.152296+00:00",
+        "hot_topics": [
+            {
+                "ngram": "staff",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tumblr staff",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "marquee",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eid",
+                "mentions": 9,
+                "change": "52.2x"
+            },
+            {
+                "ngram": "maimai",
+                "mentions": 6,
+                "change": "34.8x"
+            },
+            {
+                "ngram": "marquees",
+                "mentions": 6,
+                "change": "34.8x"
+            },
+            {
+                "ngram": "time see",
+                "mentions": 5,
+                "change": "29.0x"
+            },
+            {
+                "ngram": "zoinked",
+                "mentions": 5,
+                "change": "29.0x"
+            },
+            {
+                "ngram": "mechanism",
+                "mentions": 5,
+                "change": "29.0x"
+            },
+            {
+                "ngram": "tadc",
+                "mentions": 19,
+                "change": "27.5x"
+            },
+            {
+                "ngram": "dropping",
+                "mentions": 4,
+                "change": "23.2x"
+            },
+            {
+                "ngram": "coping mechanism",
+                "mentions": 4,
+                "change": "23.2x"
+            },
+            {
+                "ngram": "ita",
+                "mentions": 4,
+                "change": "23.2x"
+            },
+            {
+                "ngram": "ita bag",
+                "mentions": 4,
+                "change": "23.2x"
+            },
+            {
+                "ngram": "charge",
+                "mentions": 4,
+                "change": "23.2x"
+            },
+            {
+                "ngram": "spending time",
+                "mentions": 4,
+                "change": "23.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04740812570781426,
+            "positive_percent": 33.91845979614949,
+            "negative_percent": 25.962627406568515,
+            "neutral_percent": 40.11891279728199,
+            "most_positive_example": {
+                "text": "I <3 making out with 7 of my friends at the club. I'm furthering the bisexual agenda of kissing your friends!!! I love kissing it's 5am lmao",
+                "user": "katbots",
+                "score": 0.9787
+            },
+            "most_negative_example": {
+                "text": "itchy itchy. itchyh itchy itchy, itchl itchy itchy itchy ITCHYCITCHY ITCHy itvhy. itchy itchy itchy. tichg ithcg.",
+                "user": "mochasleepy",
+                "score": -0.9524
+            }
+        },
+        "summary_message": null
     }
 ]
