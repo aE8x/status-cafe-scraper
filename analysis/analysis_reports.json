@@ -21796,5 +21796,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-29T15:00:02.236374+00:00",
+        "hot_topics": [
+            {
+                "ngram": "staff",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tumblr staff",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "marquee",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eid",
+                "mentions": 9,
+                "change": "52.6x"
+            },
+            {
+                "ngram": "maimai",
+                "mentions": 6,
+                "change": "35.1x"
+            },
+            {
+                "ngram": "marquees",
+                "mentions": 6,
+                "change": "35.1x"
+            },
+            {
+                "ngram": "zoinked",
+                "mentions": 5,
+                "change": "29.2x"
+            },
+            {
+                "ngram": "mechanism",
+                "mentions": 5,
+                "change": "29.2x"
+            },
+            {
+                "ngram": "tadc",
+                "mentions": 20,
+                "change": "29.2x"
+            },
+            {
+                "ngram": "hail",
+                "mentions": 9,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "mary",
+                "mentions": 9,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "dropping",
+                "mentions": 4,
+                "change": "23.4x"
+            },
+            {
+                "ngram": "handsome",
+                "mentions": 4,
+                "change": "23.4x"
+            },
+            {
+                "ngram": "coping mechanism",
+                "mentions": 4,
+                "change": "23.4x"
+            },
+            {
+                "ngram": "ita",
+                "mentions": 4,
+                "change": "23.4x"
+            },
+            {
+                "ngram": "ita bag",
+                "mentions": 4,
+                "change": "23.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04571116809116809,
+            "positive_percent": 33.78917378917379,
+            "negative_percent": 26.03988603988604,
+            "neutral_percent": 40.17094017094017,
+            "most_positive_example": {
+                "text": "my beautiful stunning breath taking pretty sexy handsome gorgeous girlfriend jimin",
+                "user": "fuchi",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "itchy itchy. itchyh itchy itchy, itchl itchy itchy itchy ITCHYCITCHY ITCHy itvhy. itchy itchy itchy. tichg ithcg.",
+                "user": "mochasleepy",
+                "score": -0.9524
+            }
+        },
+        "summary_message": null
     }
 ]

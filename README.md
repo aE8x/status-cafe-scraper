@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-29 04:58 UTC*
+*Last Updated: 2026-03-29 15:00 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 33.7% Positive, 40.3% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 33.8% Positive, 40.2% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -32,16 +32,16 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 13 | - | `eid` | 9 |
 | 14 | - | `maimai` | 6 |
 | 15 | - | `marquees` | 6 |
-| 16 | NEW | `stray` | 5 |
-| 17 | DOWN 1 | `time see` | 5 |
-| 18 | DOWN 1 | `zoinked` | 5 |
-| 19 | DOWN 1 | `mechanism` | 5 |
-| 20 | DOWN 1 | `tadc` | 20 |
-| 21 | NEW | `hail` | 9 |
-| 22 | NEW | `mary` | 9 |
-| 23 | DOWN 3 | `dropping` | 4 |
-| 24 | NEW | `handsome` | 4 |
-| 25 | DOWN 4 | `coping mechanism` | 4 |
+| 16 | UP 2 | `zoinked` | 5 |
+| 17 | UP 2 | `mechanism` | 5 |
+| 18 | UP 2 | `tadc` | 20 |
+| 19 | UP 2 | `hail` | 9 |
+| 20 | UP 2 | `mary` | 9 |
+| 21 | UP 2 | `dropping` | 4 |
+| 22 | UP 2 | `handsome` | 4 |
+| 23 | UP 2 | `coping mechanism` | 4 |
+| 24 | NEW | `ita` | 4 |
+| 25 | NEW | `ita bag` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
