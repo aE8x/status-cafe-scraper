@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-03-29 15:00 UTC*
+*Last Updated: 2026-03-30 05:09 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.046` 
-- **Distribution**: 33.8% Positive, 40.2% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.048` 
+- **Distribution**: 33.8% Positive, 40.5% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `tadc episode` | 6 |
 | 9 | - | `new tadc episode` | 5 |
 | 10 | - | `sora` | 6 |
-| 11 | - | `life demo` | 10 |
-| 12 | - | `tomodachi life demo` | 10 |
+| 11 | - | `life demo` | 11 |
+| 12 | - | `tomodachi life demo` | 11 |
 | 13 | - | `eid` | 9 |
-| 14 | - | `maimai` | 6 |
-| 15 | - | `marquees` | 6 |
-| 16 | UP 2 | `zoinked` | 5 |
-| 17 | UP 2 | `mechanism` | 5 |
-| 18 | UP 2 | `tadc` | 20 |
-| 19 | UP 2 | `hail` | 9 |
-| 20 | UP 2 | `mary` | 9 |
-| 21 | UP 2 | `dropping` | 4 |
-| 22 | UP 2 | `handsome` | 4 |
-| 23 | UP 2 | `coping mechanism` | 4 |
-| 24 | NEW | `ita` | 4 |
-| 25 | NEW | `ita bag` | 4 |
+| 14 | UP 1 | `marquees` | 6 |
+| 15 | UP 2 | `mechanism` | 5 |
+| 16 | UP 2 | `tadc` | 20 |
+| 17 | UP 2 | `hail` | 9 |
+| 18 | UP 2 | `mary` | 9 |
+| 19 | UP 2 | `dropping` | 4 |
+| 20 | UP 2 | `handsome` | 4 |
+| 21 | UP 2 | `coping mechanism` | 4 |
+| 22 | UP 2 | `ita` | 4 |
+| 23 | UP 2 | `ita bag` | 4 |
+| 24 | NEW | `charge` | 4 |
+| 25 | NEW | `spending time` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
