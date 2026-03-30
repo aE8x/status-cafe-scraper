@@ -22090,5 +22090,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-30T15:50:43.975916+00:00",
+        "hot_topics": [
+            {
+                "ngram": "staff",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tumblr staff",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "marquee",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eid",
+                "mentions": 9,
+                "change": "53.0x"
+            },
+            {
+                "ngram": "marquees",
+                "mentions": 6,
+                "change": "35.4x"
+            },
+            {
+                "ngram": "mechanism",
+                "mentions": 5,
+                "change": "29.5x"
+            },
+            {
+                "ngram": "tadc",
+                "mentions": 20,
+                "change": "29.5x"
+            },
+            {
+                "ngram": "hail",
+                "mentions": 9,
+                "change": "26.5x"
+            },
+            {
+                "ngram": "mary",
+                "mentions": 9,
+                "change": "26.5x"
+            },
+            {
+                "ngram": "handsome",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "coping mechanism",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "ita",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "ita bag",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "charge",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "spending time",
+                "mentions": 4,
+                "change": "23.6x"
+            },
+            {
+                "ngram": "org notas",
+                "mentions": 4,
+                "change": "23.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04747314974182444,
+            "positive_percent": 34.02180149168101,
+            "negative_percent": 25.760183591508895,
+            "neutral_percent": 40.2180149168101,
+            "most_positive_example": {
+                "text": "my beautiful stunning breath taking pretty sexy handsome gorgeous girlfriend jimin",
+                "user": "fuchi",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCR",
+                "user": "petergriffen",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
