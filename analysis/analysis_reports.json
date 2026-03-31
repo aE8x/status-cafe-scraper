@@ -22384,5 +22384,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-03-31T15:45:27.334953+00:00",
+        "hot_topics": [
+            {
+                "ngram": "marquee",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eid",
+                "mentions": 9,
+                "change": "54.1x"
+            },
+            {
+                "ngram": "tadc",
+                "mentions": 20,
+                "change": "30.0x"
+            },
+            {
+                "ngram": "org notas",
+                "mentions": 5,
+                "change": "30.0x"
+            },
+            {
+                "ngram": "neocities org notas",
+                "mentions": 5,
+                "change": "30.0x"
+            },
+            {
+                "ngram": "hail",
+                "mentions": 9,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "mary",
+                "mentions": 9,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "charge",
+                "mentions": 4,
+                "change": "24.0x"
+            },
+            {
+                "ngram": "spending time",
+                "mentions": 4,
+                "change": "24.0x"
+            },
+            {
+                "ngram": "fucking awesome",
+                "mentions": 4,
+                "change": "24.0x"
+            },
+            {
+                "ngram": "weeks ago",
+                "mentions": 4,
+                "change": "24.0x"
+            },
+            {
+                "ngram": "brains",
+                "mentions": 3,
+                "change": "18.0x"
+            },
+            {
+                "ngram": "malaysia",
+                "mentions": 3,
+                "change": "18.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.044624540414356574,
+            "positive_percent": 33.907207470090455,
+            "negative_percent": 25.765976072366502,
+            "neutral_percent": 40.32681645754304,
+            "most_positive_example": {
+                "text": "my beautiful stunning breath taking pretty sexy handsome gorgeous girlfriend jimin",
+                "user": "fuchi",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCR",
+                "user": "petergriffen",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
