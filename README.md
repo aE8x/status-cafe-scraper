@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-03 04:40 UTC*
+*Last Updated: 2026-04-03 15:08 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.046` 
-- **Distribution**: 33.7% Positive, 40.6% Neutral, 25.7% Negative
+- **Overall Mood Score**: `0.043` 
+- **Distribution**: 33.4% Positive, 40.6% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 3 | `tadc episode` | 6 |
-| 2 | UP 3 | `new tadc episode` | 5 |
-| 3 | UP 3 | `feel safe` | 4 |
-| 4 | UP 3 | `sora` | 6 |
-| 5 | UP 3 | `life demo` | 11 |
-| 6 | UP 3 | `tomodachi life demo` | 11 |
-| 7 | UP 3 | `ltd` | 4 |
-| 8 | UP 3 | `life ltd` | 4 |
-| 9 | UP 3 | `tomodachi life ltd` | 4 |
-| 10 | UP 3 | `tdov` | 5 |
-| 11 | UP 3 | `artemis` | 8 |
-| 12 | UP 3 | `visibility` | 7 |
-| 13 | UP 3 | `transgender day` | 4 |
-| 14 | UP 3 | `day visibility` | 5 |
-| 15 | UP 3 | `april fools` | 18 |
-| 16 | UP 3 | `fools` | 19 |
-| 17 | DOWN 16 | `project hail` | 9 |
-| 18 | DOWN 16 | `hail mary` | 9 |
-| 19 | DOWN 16 | `project hail mary` | 9 |
-| 20 | - | `new tadc` | 6 |
-| 21 | UP 3 | `eid` | 8 |
-| 22 | UP 3 | `easter break` | 4 |
-| 23 | NEW | `first month` | 3 |
-| 24 | NEW | `closest` | 3 |
-| 25 | NEW | `convince` | 3 |
+| 1 | UP 2 | `feel safe` | 4 |
+| 2 | UP 2 | `sora` | 6 |
+| 3 | UP 2 | `life demo` | 11 |
+| 4 | UP 2 | `tomodachi life demo` | 11 |
+| 5 | UP 2 | `ltd` | 4 |
+| 6 | UP 2 | `life ltd` | 4 |
+| 7 | UP 2 | `tomodachi life ltd` | 4 |
+| 8 | UP 2 | `tdov` | 5 |
+| 9 | UP 2 | `artemis` | 8 |
+| 10 | UP 2 | `visibility` | 7 |
+| 11 | UP 2 | `transgender day` | 4 |
+| 12 | UP 2 | `day visibility` | 5 |
+| 13 | UP 2 | `april fools` | 19 |
+| 14 | UP 2 | `fools` | 20 |
+| 15 | UP 2 | `project hail` | 9 |
+| 16 | UP 2 | `hail mary` | 9 |
+| 17 | UP 2 | `project hail mary` | 9 |
+| 18 | DOWN 17 | `tadc episode` | 5 |
+| 19 | DOWN 17 | `new tadc episode` | 4 |
+| 20 | UP 2 | `easter break` | 4 |
+| 21 | NEW | `chuck` | 3 |
+| 22 | NEW | `unemployed` | 3 |
+| 23 | NEW | `purpose` | 6 |
+| 24 | NEW | `acts` | 3 |
+| 25 | NEW | `screams` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

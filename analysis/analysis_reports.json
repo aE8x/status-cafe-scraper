@@ -23266,5 +23266,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-03T15:08:06.034622+00:00",
+        "hot_topics": [
+            {
+                "ngram": "feel safe",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tdov",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artemis",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "visibility",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "transgender day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day visibility",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "april fools",
+                "mentions": 19,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fools",
+                "mentions": 20,
+                "change": "121.3x"
+            },
+            {
+                "ngram": "project hail",
+                "mentions": 9,
+                "change": "54.6x"
+            },
+            {
+                "ngram": "hail mary",
+                "mentions": 9,
+                "change": "54.6x"
+            },
+            {
+                "ngram": "project hail mary",
+                "mentions": 9,
+                "change": "54.6x"
+            },
+            {
+                "ngram": "tadc episode",
+                "mentions": 5,
+                "change": "30.3x"
+            },
+            {
+                "ngram": "new tadc episode",
+                "mentions": 4,
+                "change": "24.3x"
+            },
+            {
+                "ngram": "easter break",
+                "mentions": 4,
+                "change": "24.3x"
+            },
+            {
+                "ngram": "chuck",
+                "mentions": 3,
+                "change": "18.2x"
+            },
+            {
+                "ngram": "unemployed",
+                "mentions": 3,
+                "change": "18.2x"
+            },
+            {
+                "ngram": "purpose",
+                "mentions": 6,
+                "change": "18.2x"
+            },
+            {
+                "ngram": "acts",
+                "mentions": 3,
+                "change": "18.2x"
+            },
+            {
+                "ngram": "screams",
+                "mentions": 3,
+                "change": "18.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04279027248754762,
+            "positive_percent": 33.43099912100791,
+            "negative_percent": 25.959566363902724,
+            "neutral_percent": 40.60943451508937,
+            "most_positive_example": {
+                "text": "the web makes me more creative, life makes me more creative, media makes me more creative, art makes me more creative, feelings make more creative, pinterest makes me more creative",
+                "user": "mewnjelli",
+                "score": 0.9593
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCR",
+                "user": "petergriffen",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
