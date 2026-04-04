@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-04 04:28 UTC*
+*Last Updated: 2026-04-04 14:59 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.046` 
-- **Distribution**: 33.8% Positive, 40.4% Neutral, 25.8% Negative
+- **Distribution**: 33.9% Positive, 40.3% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `sora` | 6 |
-| 2 | UP 1 | `life demo` | 11 |
-| 3 | UP 1 | `tomodachi life demo` | 11 |
-| 4 | UP 1 | `ltd` | 4 |
-| 5 | UP 1 | `life ltd` | 4 |
-| 6 | UP 1 | `tomodachi life ltd` | 4 |
-| 7 | UP 1 | `tdov` | 5 |
-| 8 | UP 1 | `artemis` | 8 |
-| 9 | UP 1 | `visibility` | 7 |
-| 10 | UP 1 | `transgender day` | 4 |
-| 11 | UP 1 | `day visibility` | 5 |
-| 12 | UP 1 | `april fools` | 20 |
-| 13 | NEW | `good friday` | 4 |
+| 1 | - | `sora` | 6 |
+| 2 | - | `life demo` | 11 |
+| 3 | - | `tomodachi life demo` | 11 |
+| 4 | - | `ltd` | 4 |
+| 5 | - | `life ltd` | 4 |
+| 6 | - | `tomodachi life ltd` | 4 |
+| 7 | - | `tdov` | 5 |
+| 8 | - | `artemis` | 8 |
+| 9 | - | `visibility` | 7 |
+| 10 | - | `transgender day` | 4 |
+| 11 | - | `day visibility` | 5 |
+| 12 | - | `april fools` | 20 |
+| 13 | - | `good friday` | 4 |
 | 14 | - | `fools` | 21 |
-| 15 | - | `project hail` | 10 |
-| 16 | - | `hail mary` | 10 |
-| 17 | - | `project hail mary` | 10 |
-| 18 | UP 2 | `easter break` | 4 |
-| 19 | NEW | `hail` | 10 |
-| 20 | NEW | `mary` | 10 |
-| 21 | UP 3 | `acts` | 3 |
-| 22 | UP 3 | `screams` | 3 |
-| 23 | NEW | `shops` | 3 |
-| 24 | NEW | `mario galaxy` | 3 |
-| 25 | NEW | `galaxy movie` | 3 |
+| 15 | - | `project hail` | 11 |
+| 16 | - | `hail mary` | 11 |
+| 17 | - | `project hail mary` | 11 |
+| 18 | - | `easter break` | 4 |
+| 19 | - | `hail` | 11 |
+| 20 | - | `mary` | 11 |
+| 21 | NEW | `forever since` | 3 |
+| 22 | - | `screams` | 3 |
+| 23 | - | `shops` | 3 |
+| 24 | - | `mario galaxy` | 3 |
+| 25 | - | `galaxy movie` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
