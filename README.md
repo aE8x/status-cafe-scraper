@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-03 15:08 UTC*
+*Last Updated: 2026-04-04 04:28 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.043` 
-- **Distribution**: 33.4% Positive, 40.6% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 33.8% Positive, 40.4% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `feel safe` | 4 |
-| 2 | UP 2 | `sora` | 6 |
-| 3 | UP 2 | `life demo` | 11 |
-| 4 | UP 2 | `tomodachi life demo` | 11 |
-| 5 | UP 2 | `ltd` | 4 |
-| 6 | UP 2 | `life ltd` | 4 |
-| 7 | UP 2 | `tomodachi life ltd` | 4 |
-| 8 | UP 2 | `tdov` | 5 |
-| 9 | UP 2 | `artemis` | 8 |
-| 10 | UP 2 | `visibility` | 7 |
-| 11 | UP 2 | `transgender day` | 4 |
-| 12 | UP 2 | `day visibility` | 5 |
-| 13 | UP 2 | `april fools` | 19 |
-| 14 | UP 2 | `fools` | 20 |
-| 15 | UP 2 | `project hail` | 9 |
-| 16 | UP 2 | `hail mary` | 9 |
-| 17 | UP 2 | `project hail mary` | 9 |
-| 18 | DOWN 17 | `tadc episode` | 5 |
-| 19 | DOWN 17 | `new tadc episode` | 4 |
-| 20 | UP 2 | `easter break` | 4 |
-| 21 | NEW | `chuck` | 3 |
-| 22 | NEW | `unemployed` | 3 |
-| 23 | NEW | `purpose` | 6 |
-| 24 | NEW | `acts` | 3 |
-| 25 | NEW | `screams` | 3 |
+| 1 | UP 1 | `sora` | 6 |
+| 2 | UP 1 | `life demo` | 11 |
+| 3 | UP 1 | `tomodachi life demo` | 11 |
+| 4 | UP 1 | `ltd` | 4 |
+| 5 | UP 1 | `life ltd` | 4 |
+| 6 | UP 1 | `tomodachi life ltd` | 4 |
+| 7 | UP 1 | `tdov` | 5 |
+| 8 | UP 1 | `artemis` | 8 |
+| 9 | UP 1 | `visibility` | 7 |
+| 10 | UP 1 | `transgender day` | 4 |
+| 11 | UP 1 | `day visibility` | 5 |
+| 12 | UP 1 | `april fools` | 20 |
+| 13 | NEW | `good friday` | 4 |
+| 14 | - | `fools` | 21 |
+| 15 | - | `project hail` | 10 |
+| 16 | - | `hail mary` | 10 |
+| 17 | - | `project hail mary` | 10 |
+| 18 | UP 2 | `easter break` | 4 |
+| 19 | NEW | `hail` | 10 |
+| 20 | NEW | `mary` | 10 |
+| 21 | UP 3 | `acts` | 3 |
+| 22 | UP 3 | `screams` | 3 |
+| 23 | NEW | `shops` | 3 |
+| 24 | NEW | `mario galaxy` | 3 |
+| 25 | NEW | `galaxy movie` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
