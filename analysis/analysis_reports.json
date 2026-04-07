@@ -24442,5 +24442,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-07T15:53:50.747002+00:00",
+        "hot_topics": [
+            {
+                "ngram": "lexapro",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sora",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life ltd",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tdov",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artemis",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "champions",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "visibility",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "transgender day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day visibility",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "april fools",
+                "mentions": 20,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy easter",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "good friday",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fools",
+                "mentions": 21,
+                "change": "129.8x"
+            },
+            {
+                "ngram": "webmaster",
+                "mentions": 4,
+                "change": "24.7x"
+            },
+            {
+                "ngram": "ups",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "pollen",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "purse",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "feel safe",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "back bed",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "standards",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "slice",
+                "mentions": 3,
+                "change": "18.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05289003548196333,
+            "positive_percent": 34.6836191602602,
+            "negative_percent": 25.487876995860436,
+            "neutral_percent": 39.82850384387936,
+            "most_positive_example": {
+                "text": "I know it's late but: Happy (belated) Trans visibility day and happy International ace day,and happy Easter...and happy bday to me ig",
+                "user": "clockworkcookie",
+                "score": 0.9726
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCR",
+                "user": "petergriffen",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
