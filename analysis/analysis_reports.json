@@ -24736,5 +24736,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-08T15:54:41.043292+00:00",
+        "hot_topics": [
+            {
+                "ngram": "tdov",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artemis",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "champions",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "visibility",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "transgender day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day visibility",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "april fools",
+                "mentions": 20,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy easter",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "good friday",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fools",
+                "mentions": 21,
+                "change": "131.8x"
+            },
+            {
+                "ngram": "football",
+                "mentions": 6,
+                "change": "37.7x"
+            },
+            {
+                "ngram": "life demo",
+                "mentions": 9,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "tomodachi life demo",
+                "mentions": 9,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "creator",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "webmaster",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "slice",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "idk put",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "grocery shopping",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "new website layout",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "plotting",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "meaningful",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "thirsty",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "lexapro",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "atelier anime",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "hat atelier anime",
+                "mentions": 3,
+                "change": "18.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05141845647621897,
+            "positive_percent": 34.519892312294346,
+            "negative_percent": 25.665569847442416,
+            "neutral_percent": 39.814537840263235,
+            "most_positive_example": {
+                "text": "I know it's late but: Happy (belated) Trans visibility day and happy International ace day,and happy Easter...and happy bday to me ig",
+                "user": "clockworkcookie",
+                "score": 0.9726
+            },
+            "most_negative_example": {
+                "text": "I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING",
+                "user": "geekforever",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
