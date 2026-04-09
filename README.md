@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-09 04:44 UTC*
+*Last Updated: 2026-04-09 16:00 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.051` 
-- **Distribution**: 34.5% Positive, 39.5% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.050` 
+- **Distribution**: 34.7% Positive, 39.0% Neutral, 26.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `april fools` | 20 |
 | 8 | - | `happy easter` | 8 |
 | 9 | - | `good friday` | 4 |
-| 10 | - | `fools` | 21 |
-| 11 | - | `football` | 7 |
-| 12 | UP 2 | `creator` | 5 |
-| 13 | UP 2 | `webmaster` | 4 |
-| 14 | UP 6 | `plotting` | 3 |
-| 15 | UP 6 | `meaningful` | 3 |
-| 16 | UP 6 | `thirsty` | 3 |
-| 17 | NEW | `stuffy` | 3 |
-| 18 | UP 5 | `lexapro` | 3 |
-| 19 | UP 5 | `atelier anime` | 3 |
-| 20 | UP 5 | `hat atelier anime` | 3 |
-| 21 | NEW | `ian` | 3 |
-| 22 | NEW | `ever watched` | 3 |
-| 23 | NEW | `care day` | 3 |
-| 24 | NEW | `self care day` | 3 |
-| 25 | NEW | `manner` | 3 |
+| 10 | NEW | `tomodachi life week` | 4 |
+| 11 | NEW | `life week away` | 4 |
+| 12 | DOWN 2 | `fools` | 21 |
+| 13 | DOWN 2 | `football` | 7 |
+| 14 | DOWN 1 | `webmaster` | 4 |
+| 15 | NEW | `life week` | 4 |
+| 16 | NEW | `week away` | 4 |
+| 17 | DOWN 1 | `thirsty` | 3 |
+| 18 | DOWN 1 | `stuffy` | 3 |
+| 19 | DOWN 1 | `lexapro` | 3 |
+| 20 | DOWN 1 | `atelier anime` | 3 |
+| 21 | DOWN 1 | `hat atelier anime` | 3 |
+| 22 | DOWN 1 | `ian` | 3 |
+| 23 | DOWN 1 | `ever watched` | 3 |
+| 24 | NEW | `biked` | 3 |
+| 25 | NEW | `eternity` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
