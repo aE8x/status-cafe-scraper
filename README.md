@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-11 04:31 UTC*
+*Last Updated: 2026-04-11 15:01 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.047` 
-- **Distribution**: 34.6% Positive, 38.9% Neutral, 26.5% Negative
+- **Overall Mood Score**: `0.048` 
+- **Distribution**: 34.7% Positive, 38.8% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -30,18 +30,18 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 11 | - | `tomodachi life week` | 4 |
 | 12 | - | `life week away` | 4 |
 | 13 | - | `fools` | 21 |
-| 14 | - | `football` | 7 |
-| 15 | UP 3 | `week away` | 5 |
-| 16 | UP 1 | `life week` | 4 |
-| 17 | UP 4 | `ian` | 3 |
-| 18 | UP 4 | `ever watched` | 3 |
-| 19 | UP 4 | `biked` | 3 |
-| 20 | UP 4 | `eternity` | 3 |
-| 21 | UP 4 | `care day` | 3 |
-| 22 | NEW | `self care day` | 3 |
-| 23 | NEW | `manner` | 3 |
-| 24 | NEW | `adventure time` | 3 |
-| 25 | NEW | `seattle` | 3 |
+| 14 | UP 1 | `week away` | 5 |
+| 15 | UP 1 | `life week` | 4 |
+| 16 | UP 4 | `eternity` | 3 |
+| 17 | UP 4 | `care day` | 3 |
+| 18 | UP 4 | `self care day` | 3 |
+| 19 | UP 4 | `manner` | 3 |
+| 20 | UP 4 | `adventure time` | 3 |
+| 21 | UP 4 | `seattle` | 3 |
+| 22 | NEW | `household` | 3 |
+| 23 | NEW | `img` | 3 |
+| 24 | NEW | `jade` | 3 |
+| 25 | NEW | `working making` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
