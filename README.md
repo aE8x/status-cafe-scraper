@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-12 15:03 UTC*
+*Last Updated: 2026-04-13 05:25 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.051` 
-- **Distribution**: 34.8% Positive, 38.7% Neutral, 26.4% Negative
+- **Overall Mood Score**: `0.050` 
+- **Distribution**: 35.0% Positive, 38.5% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `artemis` | 17 |
-| 2 | UP 1 | `champions` | 5 |
-| 3 | UP 1 | `visibility` | 8 |
-| 4 | UP 1 | `transgender day` | 4 |
-| 5 | UP 1 | `day visibility` | 5 |
-| 6 | UP 1 | `april fools` | 20 |
-| 7 | UP 1 | `happy easter` | 9 |
-| 8 | UP 1 | `good friday` | 4 |
-| 9 | UP 1 | `immortality` | 5 |
-| 10 | UP 1 | `tomodachi life week` | 4 |
-| 11 | UP 1 | `life week away` | 4 |
-| 12 | UP 1 | `fools` | 21 |
-| 13 | UP 1 | `week away` | 5 |
-| 14 | DOWN 13 | `tdov` | 4 |
+| 1 | - | `artemis` | 17 |
+| 2 | - | `champions` | 5 |
+| 3 | - | `visibility` | 8 |
+| 4 | - | `transgender day` | 4 |
+| 5 | - | `day visibility` | 5 |
+| 6 | - | `april fools` | 20 |
+| 7 | - | `happy easter` | 9 |
+| 8 | - | `good friday` | 4 |
+| 9 | - | `immortality` | 5 |
+| 10 | - | `tomodachi life week` | 4 |
+| 11 | - | `life week away` | 4 |
+| 12 | - | `fools` | 21 |
+| 13 | - | `week away` | 5 |
+| 14 | - | `tdov` | 4 |
 | 15 | - | `life week` | 4 |
-| 16 | UP 2 | `manner` | 3 |
-| 17 | UP 2 | `faggot` | 3 |
-| 18 | UP 2 | `adventure time` | 3 |
-| 19 | UP 2 | `seattle` | 3 |
-| 20 | UP 2 | `household` | 3 |
-| 21 | UP 2 | `img` | 3 |
-| 22 | UP 2 | `jade` | 3 |
-| 23 | UP 2 | `working making` | 3 |
-| 24 | NEW | `thank much` | 3 |
-| 25 | NEW | `rat` | 3 |
+| 16 | UP 5 | `img` | 3 |
+| 17 | UP 5 | `jade` | 3 |
+| 18 | UP 5 | `working making` | 3 |
+| 19 | UP 5 | `thank much` | 3 |
+| 20 | UP 5 | `rat` | 3 |
+| 21 | NEW | `football` | 6 |
+| 22 | NEW | `brain fried` | 3 |
+| 23 | NEW | `worthless` | 3 |
+| 24 | NEW | `exited` | 3 |
+| 25 | NEW | `april fool` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
