@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-14 05:08 UTC*
+*Last Updated: 2026-04-14 15:48 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.054` 
-- **Distribution**: 35.1% Positive, 38.8% Neutral, 26.1% Negative
+- **Overall Mood Score**: `0.052` 
+- **Distribution**: 34.9% Positive, 38.9% Neutral, 26.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `visibility` | 8 |
-| 2 | UP 1 | `transgender day` | 4 |
-| 3 | UP 1 | `day visibility` | 5 |
-| 4 | UP 1 | `april fools` | 20 |
-| 5 | UP 1 | `happy april` | 4 |
-| 6 | UP 1 | `happy easter` | 9 |
-| 7 | UP 1 | `good friday` | 4 |
-| 8 | UP 1 | `immortality` | 5 |
-| 9 | UP 1 | `tomodachi life week` | 4 |
-| 10 | UP 1 | `life week away` | 4 |
-| 11 | UP 1 | `fools` | 21 |
-| 12 | UP 1 | `artemis` | 16 |
-| 13 | UP 1 | `week away` | 5 |
-| 14 | UP 1 | `tdov` | 4 |
-| 15 | UP 1 | `like someone` | 4 |
-| 16 | DOWN 15 | `champions` | 4 |
-| 17 | - | `life week` | 4 |
-| 18 | UP 2 | `rat` | 3 |
-| 19 | NEW | `need tomodachi` | 3 |
-| 20 | UP 1 | `football` | 6 |
-| 21 | UP 1 | `brain fried` | 3 |
-| 22 | UP 1 | `worthless` | 3 |
-| 23 | UP 1 | `exited` | 3 |
-| 24 | UP 1 | `april fool` | 3 |
-| 25 | NEW | `nowww` | 3 |
+| 1 | UP 1 | `transgender day` | 4 |
+| 2 | UP 2 | `april fools` | 20 |
+| 3 | UP 2 | `happy april` | 4 |
+| 4 | UP 2 | `happy easter` | 9 |
+| 5 | UP 2 | `good friday` | 4 |
+| 6 | UP 2 | `immortality` | 5 |
+| 7 | UP 2 | `tomodachi life week` | 4 |
+| 8 | UP 2 | `life week away` | 4 |
+| 9 | UP 2 | `fools` | 21 |
+| 10 | UP 2 | `artemis` | 16 |
+| 11 | UP 2 | `week away` | 5 |
+| 12 | UP 3 | `like someone` | 4 |
+| 13 | UP 3 | `champions` | 4 |
+| 14 | UP 3 | `life week` | 4 |
+| 15 | DOWN 14 | `visibility` | 6 |
+| 16 | UP 5 | `brain fried` | 3 |
+| 17 | UP 5 | `worthless` | 3 |
+| 18 | UP 5 | `exited` | 3 |
+| 19 | NEW | `could work` | 3 |
+| 20 | UP 4 | `april fool` | 3 |
+| 21 | UP 4 | `nowww` | 3 |
+| 22 | NEW | `thought could` | 3 |
+| 23 | NEW | `good good` | 3 |
+| 24 | NEW | `everything feels` | 3 |
+| 25 | NEW | `sammy` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
