@@ -26794,5 +26794,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-15T15:46:27.718006+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy easter",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "good friday",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "immortality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life week",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life week away",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artemis",
+                "mentions": 15,
+                "change": "47.1x"
+            },
+            {
+                "ngram": "week away",
+                "mentions": 5,
+                "change": "31.4x"
+            },
+            {
+                "ngram": "like someone",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "champions",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "life week",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "happy april",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "nowww",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "thought could",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "good good",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "everything feels",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "sammy",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "rhythm",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "write blog",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "stopping",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "printer",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "dayz",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "bed day",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "maths",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "aging",
+                "mentions": 5,
+                "change": "15.7x"
+            },
+            {
+                "ngram": "april fools",
+                "mentions": 14,
+                "change": "14.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05036641967990516,
+            "positive_percent": 34.61766449318316,
+            "negative_percent": 26.022525192649677,
+            "neutral_percent": 39.35981031416716,
+            "most_positive_example": {
+                "text": "I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope and I hope a",
+                "user": "imaluvfool",
+                "score": 0.9879
+            },
+            "most_negative_example": {
+                "text": "I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING",
+                "user": "geekforever",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
