@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-16 05:14 UTC*
+*Last Updated: 2026-04-16 16:03 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.050` 
-- **Distribution**: 34.5% Positive, 39.5% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 34.6% Positive, 39.3% Neutral, 26.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -22,26 +22,26 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 3 | - | `immortality` | 5 |
 | 4 | - | `tomodachi life week` | 4 |
 | 5 | - | `life week away` | 4 |
-| 6 | NEW | `life tomorrow` | 4 |
+| 6 | - | `life tomorrow` | 4 |
 | 7 | - | `week away` | 5 |
-| 8 | UP 1 | `champions` | 4 |
-| 9 | UP 1 | `life week` | 4 |
-| 10 | NEW | `dat` | 3 |
-| 11 | UP 2 | `thought could` | 3 |
-| 12 | UP 2 | `good good` | 3 |
-| 13 | UP 2 | `everything feels` | 3 |
-| 14 | UP 2 | `sammy` | 3 |
-| 15 | UP 2 | `rhythm` | 3 |
-| 16 | UP 2 | `write blog` | 3 |
-| 17 | UP 2 | `stopping` | 3 |
-| 18 | UP 2 | `printer` | 3 |
-| 19 | UP 2 | `dayz` | 3 |
-| 20 | UP 2 | `bed day` | 3 |
-| 21 | UP 2 | `maths` | 3 |
-| 22 | NEW | `get see` | 5 |
-| 23 | UP 1 | `aging` | 5 |
-| 24 | NEW | `creator` | 4 |
-| 25 | NEW | `crafting` | 2 |
+| 8 | - | `champions` | 4 |
+| 9 | - | `life week` | 4 |
+| 10 | - | `dat` | 3 |
+| 11 | - | `thought could` | 3 |
+| 12 | - | `good good` | 3 |
+| 13 | - | `everything feels` | 3 |
+| 14 | - | `sammy` | 3 |
+| 15 | - | `rhythm` | 3 |
+| 16 | - | `write blog` | 3 |
+| 17 | - | `stopping` | 3 |
+| 18 | - | `printer` | 3 |
+| 19 | - | `dayz` | 3 |
+| 20 | - | `bed day` | 3 |
+| 21 | - | `maths` | 3 |
+| 22 | NEW | `yume nikki` | 3 |
+| 23 | DOWN 1 | `get see` | 5 |
+| 24 | DOWN 1 | `aging` | 5 |
+| 25 | NEW | `anything anymore` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
