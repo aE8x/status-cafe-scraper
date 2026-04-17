@@ -27382,5 +27382,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-17T15:36:23.856570+00:00",
+        "hot_topics": [
+            {
+                "ngram": "immortality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life week",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life week away",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life tomorrow",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy easter",
+                "mentions": 8,
+                "change": "49.3x"
+            },
+            {
+                "ngram": "week away",
+                "mentions": 5,
+                "change": "30.8x"
+            },
+            {
+                "ngram": "champions",
+                "mentions": 4,
+                "change": "24.6x"
+            },
+            {
+                "ngram": "want spend",
+                "mentions": 4,
+                "change": "24.6x"
+            },
+            {
+                "ngram": "maths",
+                "mentions": 4,
+                "change": "24.6x"
+            },
+            {
+                "ngram": "life week",
+                "mentions": 4,
+                "change": "24.6x"
+            },
+            {
+                "ngram": "good good",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "everything feels",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "sammy",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "rhythm",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "write blog",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "supposed make",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "stopping",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "day celebrate",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "printer",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "buff",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "dayz",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "sacrifice",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "bed day",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "personal website",
+                "mentions": 3,
+                "change": "18.5x"
+            },
+            {
+                "ngram": "yume nikki",
+                "mentions": 3,
+                "change": "18.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05506919513607412,
+            "positive_percent": 35.321366531557615,
+            "negative_percent": 25.796178343949045,
+            "neutral_percent": 38.88245512449334,
+            "most_positive_example": {
+                "text": "wow! wow! wow! wow! wow! wow! wow! wow! wow! w",
+                "user": "cufusti",
+                "score": 0.9894
+            },
+            "most_negative_example": {
+                "text": "I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING",
+                "user": "geekforever",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
