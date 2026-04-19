@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-18 15:04 UTC*
+*Last Updated: 2026-04-19 05:13 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 35.2% Positive, 39.3% Neutral, 25.6% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 35.1% Positive, 39.3% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -20,28 +20,28 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 1 | - | `immortality` | 5 |
 | 2 | - | `tomodachi life week` | 4 |
 | 3 | - | `life week away` | 4 |
-| 4 | - | `life tomorrow` | 4 |
-| 5 | - | `happy easter` | 8 |
-| 6 | - | `week away` | 5 |
-| 7 | - | `bru` | 4 |
-| 8 | - | `champions` | 4 |
-| 9 | - | `want spend` | 4 |
-| 10 | - | `maths` | 4 |
-| 11 | - | `life week` | 4 |
-| 12 | - | `sammy` | 3 |
-| 13 | - | `rhythm` | 3 |
-| 14 | - | `write blog` | 3 |
-| 15 | - | `supposed make` | 3 |
-| 16 | - | `grave` | 3 |
-| 17 | - | `stopping` | 3 |
-| 18 | - | `day celebrate` | 3 |
-| 19 | - | `printer` | 3 |
-| 20 | - | `buff` | 3 |
-| 21 | - | `dayz` | 3 |
-| 22 | - | `sacrifice` | 3 |
-| 23 | - | `bed day` | 3 |
-| 24 | NEW | `cant stop thinking` | 3 |
-| 25 | NEW | `china` | 3 |
+| 4 | - | `life tomorrow` | 5 |
+| 5 | NEW | `tomodachi life tomorrow` | 4 |
+| 6 | NEW | `buy tomodachi` | 4 |
+| 7 | NEW | `buy tomodachi life` | 4 |
+| 8 | DOWN 3 | `happy easter` | 8 |
+| 9 | DOWN 3 | `week away` | 5 |
+| 10 | DOWN 3 | `bru` | 4 |
+| 11 | DOWN 3 | `champions` | 4 |
+| 12 | DOWN 3 | `want spend` | 4 |
+| 13 | DOWN 3 | `maths` | 4 |
+| 14 | DOWN 3 | `life week` | 4 |
+| 15 | DOWN 2 | `rhythm` | 3 |
+| 16 | DOWN 2 | `write blog` | 3 |
+| 17 | DOWN 2 | `supposed make` | 3 |
+| 18 | NEW | `avoiding` | 3 |
+| 19 | DOWN 3 | `grave` | 3 |
+| 20 | DOWN 3 | `stopping` | 3 |
+| 21 | DOWN 3 | `day celebrate` | 3 |
+| 22 | DOWN 3 | `printer` | 3 |
+| 23 | NEW | `made good` | 3 |
+| 24 | DOWN 4 | `buff` | 3 |
+| 25 | DOWN 4 | `dayz` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
