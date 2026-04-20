@@ -28264,5 +28264,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-20T15:52:11.005316+00:00",
+        "hot_topics": [
+            {
+                "ngram": "immortality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life week",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life week away",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "life tomorrow",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tomodachi life tomorrow",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buy tomodachi",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buy tomodachi life",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "bru",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "week away",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "want spend",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "maths",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "life week",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "playing tomodachi life",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "life got",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "day celebrate",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "hopefully getting",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "printer",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "buff",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "dayz",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "sacrifice",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "bed day",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "cant stop thinking",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "maxxing",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "china",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "personal website",
+                "mentions": 3,
+                "change": "18.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.056181453266920596,
+            "positive_percent": 35.15968356284793,
+            "negative_percent": 25.285672428948143,
+            "neutral_percent": 39.55464400820393,
+            "most_positive_example": {
+                "text": "wow! wow! wow! wow! wow! wow! wow! wow! wow! w",
+                "user": "cufusti",
+                "score": 0.9894
+            },
+            "most_negative_example": {
+                "text": "I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING I HATE DRAWING",
+                "user": "geekforever",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
