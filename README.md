@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-22 05:10 UTC*
+*Last Updated: 2026-04-22 15:49 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.059` 
-- **Distribution**: 35.4% Positive, 39.6% Neutral, 24.9% Negative
+- **Overall Mood Score**: `0.060` 
+- **Distribution**: 35.6% Positive, 39.7% Neutral, 24.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `tomodachi life week` | 4 |
 | 2 | - | `life week away` | 4 |
-| 3 | NEW | `copy tomodachi` | 4 |
-| 4 | NEW | `copy tomodachi life` | 4 |
-| 5 | DOWN 2 | `life tomorrow` | 5 |
-| 6 | DOWN 2 | `tomodachi life tomorrow` | 4 |
-| 7 | DOWN 2 | `buy tomodachi` | 5 |
-| 8 | DOWN 2 | `buy tomodachi life` | 5 |
-| 9 | DOWN 2 | `raiders` | 6 |
-| 10 | DOWN 2 | `splatoon raiders` | 6 |
-| 11 | DOWN 2 | `bru` | 5 |
-| 12 | DOWN 2 | `week away` | 5 |
-| 13 | UP 2 | `playing tomodachi life` | 5 |
-| 14 | DOWN 3 | `maths` | 4 |
-| 15 | DOWN 3 | `immortality` | 4 |
-| 16 | DOWN 3 | `life week` | 4 |
-| 17 | DOWN 3 | `china` | 4 |
-| 18 | DOWN 2 | `play tomodachi` | 4 |
-| 19 | DOWN 2 | `play tomodachi life` | 4 |
-| 20 | NEW | `resisting` | 4 |
-| 21 | NEW | `life living dream` | 21 |
-| 22 | - | `cyberdeck` | 3 |
-| 23 | - | `cant stop thinking` | 3 |
-| 24 | - | `maxxing` | 3 |
-| 25 | - | `personal website` | 3 |
+| 3 | - | `copy tomodachi` | 4 |
+| 4 | - | `copy tomodachi life` | 4 |
+| 5 | - | `life tomorrow` | 5 |
+| 6 | - | `tomodachi life tomorrow` | 4 |
+| 7 | - | `buy tomodachi` | 5 |
+| 8 | - | `buy tomodachi life` | 5 |
+| 9 | - | `raiders` | 6 |
+| 10 | - | `splatoon raiders` | 6 |
+| 11 | - | `bru` | 5 |
+| 12 | - | `week away` | 5 |
+| 13 | - | `playing tomodachi life` | 5 |
+| 14 | UP 2 | `life week` | 4 |
+| 15 | UP 2 | `china` | 4 |
+| 16 | UP 2 | `play tomodachi` | 4 |
+| 17 | UP 2 | `play tomodachi life` | 4 |
+| 18 | UP 2 | `resisting` | 4 |
+| 19 | NEW | `babey` | 3 |
+| 20 | UP 2 | `cyberdeck` | 3 |
+| 21 | UP 2 | `cant stop thinking` | 3 |
+| 22 | UP 2 | `maxxing` | 3 |
+| 23 | UP 2 | `personal website` | 3 |
+| 24 | NEW | `find one` | 3 |
+| 25 | NEW | `odd` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
