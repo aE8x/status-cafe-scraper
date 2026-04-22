@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-21 15:51 UTC*
+*Last Updated: 2026-04-22 05:10 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 34.9% Positive, 39.9% Neutral, 25.2% Negative
+- **Overall Mood Score**: `0.059` 
+- **Distribution**: 35.4% Positive, 39.6% Neutral, 24.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `tomodachi life week` | 4 |
 | 2 | - | `life week away` | 4 |
-| 3 | - | `life tomorrow` | 5 |
-| 4 | - | `tomodachi life tomorrow` | 4 |
-| 5 | - | `buy tomodachi` | 4 |
-| 6 | - | `buy tomodachi life` | 4 |
-| 7 | NEW | `raiders` | 4 |
-| 8 | NEW | `splatoon raiders` | 4 |
-| 9 | DOWN 2 | `bru` | 5 |
-| 10 | DOWN 2 | `week away` | 5 |
-| 11 | DOWN 2 | `maths` | 4 |
-| 12 | DOWN 2 | `immortality` | 4 |
-| 13 | DOWN 2 | `life week` | 4 |
-| 14 | UP 6 | `china` | 4 |
-| 15 | DOWN 3 | `playing tomodachi life` | 4 |
-| 16 | UP 9 | `play tomodachi` | 4 |
-| 17 | NEW | `play tomodachi life` | 4 |
-| 18 | DOWN 5 | `buff` | 3 |
-| 19 | DOWN 5 | `dayz` | 3 |
-| 20 | DOWN 5 | `sacrifice` | 3 |
-| 21 | DOWN 5 | `bed day` | 3 |
-| 22 | DOWN 5 | `cyberdeck` | 3 |
-| 23 | DOWN 5 | `cant stop thinking` | 3 |
-| 24 | DOWN 5 | `maxxing` | 3 |
-| 25 | DOWN 4 | `personal website` | 3 |
+| 3 | NEW | `copy tomodachi` | 4 |
+| 4 | NEW | `copy tomodachi life` | 4 |
+| 5 | DOWN 2 | `life tomorrow` | 5 |
+| 6 | DOWN 2 | `tomodachi life tomorrow` | 4 |
+| 7 | DOWN 2 | `buy tomodachi` | 5 |
+| 8 | DOWN 2 | `buy tomodachi life` | 5 |
+| 9 | DOWN 2 | `raiders` | 6 |
+| 10 | DOWN 2 | `splatoon raiders` | 6 |
+| 11 | DOWN 2 | `bru` | 5 |
+| 12 | DOWN 2 | `week away` | 5 |
+| 13 | UP 2 | `playing tomodachi life` | 5 |
+| 14 | DOWN 3 | `maths` | 4 |
+| 15 | DOWN 3 | `immortality` | 4 |
+| 16 | DOWN 3 | `life week` | 4 |
+| 17 | DOWN 3 | `china` | 4 |
+| 18 | DOWN 2 | `play tomodachi` | 4 |
+| 19 | DOWN 2 | `play tomodachi life` | 4 |
+| 20 | NEW | `resisting` | 4 |
+| 21 | NEW | `life living dream` | 21 |
+| 22 | - | `cyberdeck` | 3 |
+| 23 | - | `cant stop thinking` | 3 |
+| 24 | - | `maxxing` | 3 |
+| 25 | - | `personal website` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
