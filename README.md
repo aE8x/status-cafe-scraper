@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-22 15:49 UTC*
+*Last Updated: 2026-04-23 05:14 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.060` 
-- **Distribution**: 35.6% Positive, 39.7% Neutral, 24.7% Negative
+- **Overall Mood Score**: `0.063` 
+- **Distribution**: 36.0% Positive, 39.4% Neutral, 24.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `buy tomodachi life` | 5 |
 | 9 | - | `raiders` | 6 |
 | 10 | - | `splatoon raiders` | 6 |
-| 11 | - | `bru` | 5 |
-| 12 | - | `week away` | 5 |
-| 13 | - | `playing tomodachi life` | 5 |
-| 14 | UP 2 | `life week` | 4 |
-| 15 | UP 2 | `china` | 4 |
-| 16 | UP 2 | `play tomodachi` | 4 |
-| 17 | UP 2 | `play tomodachi life` | 4 |
-| 18 | UP 2 | `resisting` | 4 |
-| 19 | NEW | `babey` | 3 |
-| 20 | UP 2 | `cyberdeck` | 3 |
-| 21 | UP 2 | `cant stop thinking` | 3 |
-| 22 | UP 2 | `maxxing` | 3 |
-| 23 | UP 2 | `personal website` | 3 |
-| 24 | NEW | `find one` | 3 |
-| 25 | NEW | `odd` | 3 |
+| 11 | NEW | `happy earth` | 4 |
+| 12 | NEW | `earth day` | 7 |
+| 13 | NEW | `happy earth day` | 4 |
+| 14 | DOWN 3 | `bru` | 5 |
+| 15 | DOWN 3 | `week away` | 5 |
+| 16 | DOWN 3 | `playing tomodachi life` | 5 |
+| 17 | DOWN 3 | `life week` | 4 |
+| 18 | DOWN 3 | `china` | 4 |
+| 19 | DOWN 3 | `play tomodachi` | 4 |
+| 20 | DOWN 3 | `play tomodachi life` | 4 |
+| 21 | DOWN 3 | `resisting` | 4 |
+| 22 | DOWN 2 | `cyberdeck` | 3 |
+| 23 | DOWN 2 | `cant stop thinking` | 3 |
+| 24 | DOWN 2 | `maxxing` | 3 |
+| 25 | DOWN 2 | `personal website` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
