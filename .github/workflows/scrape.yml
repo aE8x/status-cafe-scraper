@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5.4.0
       with:
         python-version: '3.10'
 
@@ -50,10 +50,21 @@ jobs:
         git config --global user.email "actions-bot@github.com"
         git add data/
         git diff --staged --quiet || git commit -m "Chore: Update scraped data"
-        git push
+
+        # Retry push up to 3 times to handle transient GitHub server errors
+        for attempt in 1 2 3; do
+          echo "Push attempt $attempt..."
+          git push && break
+          if [ $attempt -eq 3 ]; then
+            echo "::error::git push failed after 3 attempts."
+            exit 1
+          fi
+          echo "Push failed, retrying in 15 seconds..."
+          sleep 15
+        done
 
     - name: Upload data artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v4.6.2
       with:
         name: scraped-data
         path: data/
@@ -67,16 +78,16 @@ jobs:
 
     steps:
     - name: Check out repo
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2
 
     - name: Download data artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v4.2.1
       with:
         name: scraped-data
         path: data/
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5.4.0
       with:
         python-version: '3.10'
 
@@ -106,11 +117,20 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to analysis report or README. Skipping commit."
         else
-          # If there are changes, commit and push them.
           git commit -m "Feat: Generate daily analysis report and update README"
           
           # Pull changes from the 'scrape' job's push before pushing our own commit
           git pull --rebase
-          
-          git push
+
+          # Retry push up to 3 times to handle transient GitHub server errors
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt..."
+            git push && break
+            if [ $attempt -eq 3 ]; then
+              echo "::error::git push failed after 3 attempts."
+              exit 1
+            fi
+            echo "Push failed, retrying in 15 seconds..."
+            sleep 15
+          done
         fi
