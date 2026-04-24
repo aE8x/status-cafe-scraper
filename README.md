@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-23 05:14 UTC*
+*Last Updated: 2026-04-24 05:19 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.063` 
-- **Distribution**: 36.0% Positive, 39.4% Neutral, 24.6% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 36.0% Positive, 40.0% Neutral, 24.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `tomodachi life week` | 4 |
-| 2 | - | `life week away` | 4 |
-| 3 | - | `copy tomodachi` | 4 |
-| 4 | - | `copy tomodachi life` | 4 |
-| 5 | - | `life tomorrow` | 5 |
-| 6 | - | `tomodachi life tomorrow` | 4 |
-| 7 | - | `buy tomodachi` | 5 |
-| 8 | - | `buy tomodachi life` | 5 |
-| 9 | - | `raiders` | 6 |
-| 10 | - | `splatoon raiders` | 6 |
-| 11 | NEW | `happy earth` | 4 |
-| 12 | NEW | `earth day` | 7 |
-| 13 | NEW | `happy earth day` | 4 |
-| 14 | DOWN 3 | `bru` | 5 |
-| 15 | DOWN 3 | `week away` | 5 |
-| 16 | DOWN 3 | `playing tomodachi life` | 5 |
-| 17 | DOWN 3 | `life week` | 4 |
-| 18 | DOWN 3 | `china` | 4 |
-| 19 | DOWN 3 | `play tomodachi` | 4 |
-| 20 | DOWN 3 | `play tomodachi life` | 4 |
-| 21 | DOWN 3 | `resisting` | 4 |
-| 22 | DOWN 2 | `cyberdeck` | 3 |
-| 23 | DOWN 2 | `cant stop thinking` | 3 |
-| 24 | DOWN 2 | `maxxing` | 3 |
-| 25 | DOWN 2 | `personal website` | 3 |
+| 1 | NEW | `life soon` | 4 |
+| 2 | UP 1 | `copy tomodachi` | 4 |
+| 3 | UP 1 | `copy tomodachi life` | 4 |
+| 4 | UP 1 | `life tomorrow` | 5 |
+| 5 | UP 1 | `tomodachi life tomorrow` | 4 |
+| 6 | UP 1 | `buy tomodachi` | 5 |
+| 7 | UP 1 | `buy tomodachi life` | 5 |
+| 8 | UP 1 | `raiders` | 6 |
+| 9 | UP 1 | `splatoon raiders` | 6 |
+| 10 | UP 1 | `happy earth` | 4 |
+| 11 | UP 1 | `earth day` | 7 |
+| 12 | UP 1 | `happy earth day` | 4 |
+| 13 | UP 1 | `bru` | 5 |
+| 14 | UP 4 | `china` | 5 |
+| 15 | UP 1 | `playing tomodachi life` | 5 |
+| 16 | UP 3 | `play tomodachi` | 5 |
+| 17 | UP 3 | `play tomodachi life` | 5 |
+| 18 | NEW | `connect` | 4 |
+| 19 | UP 2 | `resisting` | 4 |
+| 20 | NEW | `old man` | 3 |
+| 21 | UP 2 | `cant stop thinking` | 3 |
+| 22 | UP 2 | `maxxing` | 3 |
+| 23 | UP 2 | `personal website` | 3 |
+| 24 | NEW | `invincible` | 3 |
+| 25 | NEW | `find one` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
