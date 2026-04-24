@@ -8,7 +8,7 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-24 05:19 UTC*
+*Last Updated: 2026-04-24 15:46 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.065` 
@@ -17,31 +17,31 @@ This page displays the latest automated trend and sentiment analysis from [statu
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `life soon` | 4 |
-| 2 | UP 1 | `copy tomodachi` | 4 |
-| 3 | UP 1 | `copy tomodachi life` | 4 |
-| 4 | UP 1 | `life tomorrow` | 5 |
-| 5 | UP 1 | `tomodachi life tomorrow` | 4 |
-| 6 | UP 1 | `buy tomodachi` | 5 |
-| 7 | UP 1 | `buy tomodachi life` | 5 |
-| 8 | UP 1 | `raiders` | 6 |
-| 9 | UP 1 | `splatoon raiders` | 6 |
-| 10 | UP 1 | `happy earth` | 4 |
-| 11 | UP 1 | `earth day` | 7 |
-| 12 | UP 1 | `happy earth day` | 4 |
-| 13 | UP 1 | `bru` | 5 |
-| 14 | UP 4 | `china` | 5 |
-| 15 | UP 1 | `playing tomodachi life` | 5 |
-| 16 | UP 3 | `play tomodachi` | 5 |
-| 17 | UP 3 | `play tomodachi life` | 5 |
-| 18 | NEW | `connect` | 4 |
-| 19 | UP 2 | `resisting` | 4 |
-| 20 | NEW | `old man` | 3 |
-| 21 | UP 2 | `cant stop thinking` | 3 |
-| 22 | UP 2 | `maxxing` | 3 |
-| 23 | UP 2 | `personal website` | 3 |
-| 24 | NEW | `invincible` | 3 |
-| 25 | NEW | `find one` | 3 |
+| 1 | - | `life soon` | 4 |
+| 2 | - | `copy tomodachi` | 4 |
+| 3 | - | `copy tomodachi life` | 4 |
+| 4 | - | `life tomorrow` | 5 |
+| 5 | - | `tomodachi life tomorrow` | 4 |
+| 6 | - | `buy tomodachi` | 5 |
+| 7 | - | `buy tomodachi life` | 5 |
+| 8 | - | `raiders` | 6 |
+| 9 | - | `splatoon raiders` | 6 |
+| 10 | - | `happy earth` | 4 |
+| 11 | - | `earth day` | 7 |
+| 12 | - | `happy earth day` | 4 |
+| 13 | - | `bru` | 5 |
+| 14 | - | `china` | 5 |
+| 15 | - | `playing tomodachi life` | 5 |
+| 16 | - | `play tomodachi` | 5 |
+| 17 | - | `play tomodachi life` | 5 |
+| 18 | - | `connect` | 4 |
+| 19 | - | `resisting` | 4 |
+| 20 | - | `old man` | 3 |
+| 21 | - | `cant stop thinking` | 3 |
+| 22 | - | `maxxing` | 3 |
+| 23 | - | `personal website` | 3 |
+| 24 | - | `invincible` | 3 |
+| 25 | - | `find one` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
