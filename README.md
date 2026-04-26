@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-25 15:07 UTC*
+*Last Updated: 2026-04-26 05:23 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.069` 
-- **Distribution**: 36.2% Positive, 40.1% Neutral, 23.7% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 35.6% Positive, 40.5% Neutral, 23.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -29,19 +29,19 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 10 | - | `happy earth` | 4 |
 | 11 | - | `earth day` | 7 |
 | 12 | - | `happy earth day` | 4 |
-| 13 | NEW | `skate` | 4 |
-| 14 | DOWN 1 | `play tomodachi` | 6 |
-| 15 | DOWN 1 | `play tomodachi life` | 6 |
-| 16 | DOWN 1 | `bru` | 5 |
-| 17 | DOWN 1 | `china` | 5 |
-| 18 | DOWN 1 | `playing tomodachi life` | 5 |
-| 19 | DOWN 1 | `connect` | 4 |
-| 20 | DOWN 1 | `resisting` | 4 |
-| 21 | DOWN 1 | `fomo` | 4 |
-| 22 | NEW | `doremi` | 4 |
-| 23 | DOWN 1 | `personal website` | 3 |
-| 24 | DOWN 1 | `invincible` | 3 |
-| 25 | DOWN 1 | `find one` | 3 |
+| 13 | - | `skate` | 5 |
+| 14 | UP 4 | `playing tomodachi life` | 6 |
+| 15 | DOWN 1 | `play tomodachi` | 6 |
+| 16 | DOWN 1 | `play tomodachi life` | 6 |
+| 17 | UP 2 | `connect` | 4 |
+| 18 | UP 2 | `resisting` | 4 |
+| 19 | UP 2 | `fomo` | 4 |
+| 20 | UP 2 | `doremi` | 4 |
+| 21 | NEW | `letters` | 3 |
+| 22 | NEW | `odd` | 3 |
+| 23 | NEW | `loom` | 3 |
+| 24 | NEW | `yume nikki` | 3 |
+| 25 | NEW | `tos` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
