@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-04-26 15:07 UTC*
+*Last Updated: 2026-04-27 05:37 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.067` 
-- **Distribution**: 35.7% Positive, 40.6% Neutral, 23.6% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 35.8% Positive, 40.2% Neutral, 24.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `alchemised` | 4 |
-| 2 | DOWN 1 | `life soon` | 4 |
-| 3 | DOWN 1 | `copy tomodachi` | 4 |
-| 4 | DOWN 1 | `copy tomodachi life` | 4 |
-| 5 | DOWN 1 | `life tomorrow` | 5 |
-| 6 | DOWN 1 | `tomodachi life tomorrow` | 4 |
-| 7 | DOWN 1 | `buy tomodachi` | 5 |
-| 8 | DOWN 1 | `buy tomodachi life` | 5 |
-| 9 | DOWN 1 | `raiders` | 6 |
-| 10 | DOWN 1 | `splatoon raiders` | 6 |
-| 11 | DOWN 1 | `happy earth` | 4 |
-| 12 | DOWN 1 | `earth day` | 7 |
-| 13 | DOWN 1 | `happy earth day` | 4 |
-| 14 | DOWN 1 | `skate` | 5 |
-| 15 | DOWN 1 | `playing tomodachi life` | 8 |
-| 16 | DOWN 1 | `play tomodachi` | 6 |
-| 17 | DOWN 1 | `play tomodachi life` | 6 |
-| 18 | DOWN 1 | `connect` | 4 |
-| 19 | NEW | `pit` | 4 |
-| 20 | DOWN 2 | `resisting` | 4 |
-| 21 | DOWN 2 | `fomo` | 4 |
-| 22 | DOWN 2 | `doremi` | 4 |
-| 23 | UP 1 | `yume nikki` | 3 |
-| 24 | NEW | `three weeks` | 3 |
-| 25 | - | `tos` | 3 |
+| 1 | - | `alchemised` | 4 |
+| 2 | - | `life soon` | 4 |
+| 3 | - | `copy tomodachi` | 4 |
+| 4 | - | `copy tomodachi life` | 4 |
+| 5 | - | `life tomorrow` | 5 |
+| 6 | - | `tomodachi life tomorrow` | 4 |
+| 7 | - | `buy tomodachi` | 5 |
+| 8 | - | `buy tomodachi life` | 5 |
+| 9 | - | `raiders` | 6 |
+| 10 | - | `splatoon raiders` | 6 |
+| 11 | - | `happy earth` | 4 |
+| 12 | - | `earth day` | 7 |
+| 13 | - | `happy earth day` | 4 |
+| 14 | - | `skate` | 5 |
+| 15 | - | `playing tomodachi life` | 8 |
+| 16 | - | `play tomodachi` | 6 |
+| 17 | - | `play tomodachi life` | 6 |
+| 18 | - | `connect` | 4 |
+| 19 | - | `pit` | 4 |
+| 20 | - | `resisting` | 4 |
+| 21 | - | `fomo` | 4 |
+| 22 | - | `doremi` | 4 |
+| 23 | UP 1 | `three weeks` | 3 |
+| 24 | UP 1 | `tos` | 3 |
+| 25 | NEW | `let live` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
