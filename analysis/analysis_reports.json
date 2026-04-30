@@ -30910,5 +30910,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-30T05:42:14.650847+00:00",
+        "hot_topics": [
+            {
+                "ngram": "buy tomodachi",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "buy tomodachi life",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy happy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "splatoon raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "earth day",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "skate",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "state testing",
+                "mentions": 5,
+                "change": "32.1x"
+            },
+            {
+                "ngram": "batman",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "pit",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "miku expo",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "resisting",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "fomo",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "doremi",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "playing tomodachi life",
+                "mentions": 7,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "actually lock",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "instantly",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "closet",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "copy tomodachi",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "copy tomodachi life",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "site bad",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "addicted tomodachi",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "addicted tomodachi life",
+                "mentions": 3,
+                "change": "19.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06905115589804386,
+            "positive_percent": 36.69235328986366,
+            "negative_percent": 23.888559573206877,
+            "neutral_percent": 39.41908713692946,
+            "most_positive_example": {
+                "text": "lol borrowing is fun\r\nsuch an adrenaline rush\r\nalso.. free stuff!! haha so fun wow",
+                "user": "bliss",
+                "score": 0.9655
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT  I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASC",
+                "user": "anabolicfrolic",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
