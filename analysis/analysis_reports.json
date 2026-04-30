@@ -31057,5 +31057,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-04-30T15:59:41.110051+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy happy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "splatoon raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "earth day",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "skate",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "state testing",
+                "mentions": 5,
+                "change": "32.1x"
+            },
+            {
+                "ngram": "batman",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "pit",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "miku expo",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "resisting",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "buy tomodachi",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "buy tomodachi life",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "fomo",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "doremi",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "playing tomodachi life",
+                "mentions": 7,
+                "change": "22.5x"
+            },
+            {
+                "ngram": "closet",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "copy tomodachi",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "copy tomodachi life",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "site bad",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "addicted tomodachi",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "addicted tomodachi life",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "alchemised",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "like think",
+                "mentions": 3,
+                "change": "19.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06758180740740741,
+            "positive_percent": 36.50370370370371,
+            "negative_percent": 24.059259259259257,
+            "neutral_percent": 39.43703703703704,
+            "most_positive_example": {
+                "text": "https://www.youtube.com/watch?v=Yjg03soDllolove love love love love love love",
+                "user": "byrdseed",
+                "score": 0.9803
+            },
+            "most_negative_example": {
+                "text": "I HATE JAVASCRIPT I HATE JAVASCRIPT  I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASCRIPT I HATE JAVASC",
+                "user": "anabolicfrolic",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
