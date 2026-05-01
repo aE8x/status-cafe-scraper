@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-01 05:51 UTC*
+*Last Updated: 2026-05-01 15:32 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.070` 
-- **Distribution**: 36.8% Positive, 39.2% Neutral, 24.0% Negative
+- **Overall Mood Score**: `0.069` 
+- **Distribution**: 36.6% Positive, 39.3% Neutral, 24.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `earth day` | 7 |
 | 6 | - | `happy earth day` | 4 |
 | 7 | - | `skate` | 6 |
-| 8 | - | `state testing` | 5 |
-| 9 | UP 1 | `pit` | 4 |
-| 10 | UP 1 | `miku expo` | 4 |
-| 11 | UP 1 | `resisting` | 4 |
-| 12 | UP 1 | `buy tomodachi` | 4 |
-| 13 | UP 1 | `buy tomodachi life` | 4 |
-| 14 | UP 1 | `fomo` | 4 |
-| 15 | UP 1 | `doremi` | 4 |
-| 16 | UP 1 | `playing tomodachi life` | 7 |
-| 17 | UP 5 | `addicted tomodachi` | 3 |
-| 18 | UP 5 | `addicted tomodachi life` | 3 |
-| 19 | UP 5 | `alchemised` | 3 |
-| 20 | UP 5 | `like think` | 3 |
-| 21 | NEW | `hours tomodachi` | 3 |
-| 22 | NEW | `hours tomodachi life` | 3 |
-| 23 | NEW | `remains` | 3 |
-| 24 | NEW | `mayb` | 3 |
-| 25 | NEW | `finch` | 3 |
+| 8 | UP 3 | `resisting` | 5 |
+| 9 | DOWN 1 | `state testing` | 5 |
+| 10 | DOWN 1 | `pit` | 4 |
+| 11 | DOWN 1 | `miku expo` | 4 |
+| 12 | - | `buy tomodachi` | 4 |
+| 13 | - | `buy tomodachi life` | 4 |
+| 14 | - | `fomo` | 4 |
+| 15 | - | `doremi` | 4 |
+| 16 | - | `playing tomodachi life` | 7 |
+| 17 | NEW | `joints` | 3 |
+| 18 | UP 1 | `alchemised` | 3 |
+| 19 | UP 1 | `like think` | 3 |
+| 20 | UP 1 | `hours tomodachi` | 3 |
+| 21 | UP 1 | `hours tomodachi life` | 3 |
+| 22 | UP 1 | `remains` | 3 |
+| 23 | UP 1 | `mayb` | 3 |
+| 24 | UP 1 | `finch` | 3 |
+| 25 | NEW | `json` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
