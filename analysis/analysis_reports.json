@@ -31498,5 +31498,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-02T05:21:44.810386+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy happy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "splatoon raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "earth day",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "skate",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "state testing",
+                "mentions": 5,
+                "change": "32.4x"
+            },
+            {
+                "ngram": "buy tomodachi",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "buy tomodachi life",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "fomo",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "resisting",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "doremi",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "playing tomodachi life",
+                "mentions": 7,
+                "change": "22.7x"
+            },
+            {
+                "ngram": "like think",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "flip",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "hours tomodachi",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "hours tomodachi life",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "remains",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "art fight",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "mayb",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "finch",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "json",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "ojamajo",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "old friends",
+                "mentions": 3,
+                "change": "19.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06880599105812221,
+            "positive_percent": 36.51266766020864,
+            "negative_percent": 24.2026825633383,
+            "neutral_percent": 39.28464977645306,
+            "most_positive_example": {
+                "text": "https://www.youtube.com/watch?v=Yjg03soDllolove love love love love love love",
+                "user": "byrdseed",
+                "score": 0.9803
+            },
+            "most_negative_example": {
+                "text": "I wanna make an edit but ik ill end up failing at it miserably cry cry",
+                "user": "dokidokiluv",
+                "score": -0.9705
+            }
+        },
+        "summary_message": null
     }
 ]
