@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-05 05:26 UTC*
+*Last Updated: 2026-05-05 16:43 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.061` 
-- **Distribution**: 35.9% Positive, 39.2% Neutral, 24.9% Negative
+- **Overall Mood Score**: `0.062` 
+- **Distribution**: 36.1% Positive, 39.0% Neutral, 24.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `raiders` | 6 |
-| 2 | - | `splatoon raiders` | 6 |
-| 3 | - | `happy earth` | 4 |
-| 4 | - | `earth day` | 7 |
-| 5 | - | `happy earth day` | 4 |
-| 6 | - | `skate` | 6 |
-| 7 | - | `state testing` | 5 |
-| 8 | UP 1 | `doremi` | 4 |
-| 9 | UP 1 | `art fight` | 4 |
-| 10 | UP 5 | `mayb` | 4 |
-| 11 | UP 3 | `math class` | 3 |
-| 12 | NEW | `refs` | 3 |
-| 13 | UP 3 | `fortnite` | 3 |
-| 14 | UP 3 | `summer break` | 3 |
-| 15 | UP 3 | `finch` | 3 |
-| 16 | UP 3 | `json` | 3 |
-| 17 | UP 3 | `ojamajo` | 3 |
-| 18 | UP 3 | `old friends` | 3 |
-| 19 | UP 3 | `jealousy` | 3 |
-| 20 | UP 3 | `actually really` | 3 |
-| 21 | UP 3 | `back drawing` | 3 |
-| 22 | UP 3 | `spamton` | 3 |
-| 23 | NEW | `next year` | 3 |
-| 24 | NEW | `block tales` | 3 |
-| 25 | NEW | `happy happy` | 3 |
+| 1 | UP 2 | `happy earth` | 4 |
+| 2 | UP 2 | `earth day` | 7 |
+| 3 | UP 2 | `happy earth day` | 4 |
+| 4 | UP 2 | `skate` | 6 |
+| 5 | UP 2 | `state testing` | 5 |
+| 6 | UP 3 | `art fight` | 4 |
+| 7 | UP 3 | `mayb` | 4 |
+| 8 | UP 4 | `refs` | 3 |
+| 9 | UP 4 | `fortnite` | 3 |
+| 10 | UP 4 | `summer break` | 3 |
+| 11 | UP 4 | `finch` | 3 |
+| 12 | UP 4 | `json` | 3 |
+| 13 | UP 4 | `ojamajo` | 3 |
+| 14 | UP 4 | `old friends` | 3 |
+| 15 | UP 4 | `jealousy` | 3 |
+| 16 | UP 4 | `actually really` | 3 |
+| 17 | UP 4 | `back drawing` | 3 |
+| 18 | UP 4 | `spamton` | 3 |
+| 19 | UP 4 | `next year` | 3 |
+| 20 | UP 4 | `block tales` | 3 |
+| 21 | UP 4 | `happy happy` | 3 |
+| 22 | NEW | `juggling` | 3 |
+| 23 | NEW | `joe` | 3 |
+| 24 | NEW | `sherlock` | 3 |
+| 25 | NEW | `valor` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
