@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-04 16:18 UTC*
+*Last Updated: 2026-05-05 05:26 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.065` 
-- **Distribution**: 36.3% Positive, 39.0% Neutral, 24.7% Negative
+- **Overall Mood Score**: `0.061` 
+- **Distribution**: 35.9% Positive, 39.2% Neutral, 24.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `happy earth day` | 4 |
 | 6 | - | `skate` | 6 |
 | 7 | - | `state testing` | 5 |
-| 8 | - | `fire emblem` | 4 |
-| 9 | - | `doremi` | 4 |
-| 10 | - | `art fight` | 4 |
-| 11 | UP 2 | `reread` | 3 |
-| 12 | UP 2 | `gotta love` | 3 |
-| 13 | UP 2 | `remains` | 3 |
-| 14 | UP 2 | `math class` | 3 |
-| 15 | UP 2 | `mayb` | 3 |
-| 16 | UP 2 | `fortnite` | 3 |
-| 17 | UP 2 | `summer break` | 3 |
-| 18 | UP 2 | `finch` | 3 |
-| 19 | UP 2 | `json` | 3 |
-| 20 | UP 2 | `ojamajo` | 3 |
-| 21 | UP 2 | `old friends` | 3 |
-| 22 | UP 2 | `jealousy` | 3 |
-| 23 | UP 2 | `actually really` | 3 |
-| 24 | NEW | `back drawing` | 3 |
-| 25 | NEW | `spamton` | 3 |
+| 8 | UP 1 | `doremi` | 4 |
+| 9 | UP 1 | `art fight` | 4 |
+| 10 | UP 5 | `mayb` | 4 |
+| 11 | UP 3 | `math class` | 3 |
+| 12 | NEW | `refs` | 3 |
+| 13 | UP 3 | `fortnite` | 3 |
+| 14 | UP 3 | `summer break` | 3 |
+| 15 | UP 3 | `finch` | 3 |
+| 16 | UP 3 | `json` | 3 |
+| 17 | UP 3 | `ojamajo` | 3 |
+| 18 | UP 3 | `old friends` | 3 |
+| 19 | UP 3 | `jealousy` | 3 |
+| 20 | UP 3 | `actually really` | 3 |
+| 21 | UP 3 | `back drawing` | 3 |
+| 22 | UP 3 | `spamton` | 3 |
+| 23 | NEW | `next year` | 3 |
+| 24 | NEW | `block tales` | 3 |
+| 25 | NEW | `happy happy` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

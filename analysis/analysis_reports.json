@@ -32380,5 +32380,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-05T05:26:07.868952+00:00",
+        "hot_topics": [
+            {
+                "ngram": "raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "splatoon raiders",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "earth day",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy earth day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "skate",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "state testing",
+                "mentions": 5,
+                "change": "31.7x"
+            },
+            {
+                "ngram": "doremi",
+                "mentions": 4,
+                "change": "25.4x"
+            },
+            {
+                "ngram": "art fight",
+                "mentions": 4,
+                "change": "25.4x"
+            },
+            {
+                "ngram": "mayb",
+                "mentions": 4,
+                "change": "25.4x"
+            },
+            {
+                "ngram": "math class",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "refs",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "fortnite",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "summer break",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "finch",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "json",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "ojamajo",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "old friends",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "jealousy",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "actually really",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "back drawing",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "spamton",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "next year",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "block tales",
+                "mentions": 3,
+                "change": "19.0x"
+            },
+            {
+                "ngram": "happy happy",
+                "mentions": 3,
+                "change": "19.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.060768568920105355,
+            "positive_percent": 35.937957272461226,
+            "negative_percent": 24.875621890547265,
+            "neutral_percent": 39.186420836991516,
+            "most_positive_example": {
+                "text": "https://www.youtube.com/watch?v=Yjg03soDllolove love love love love love love",
+                "user": "byrdseed",
+                "score": 0.9803
+            },
+            "most_negative_example": {
+                "text": "I wanna make an edit but ik ill end up failing at it miserably cry cry",
+                "user": "dokidokiluv",
+                "score": -0.9705
+            }
+        },
+        "summary_message": null
     }
 ]
