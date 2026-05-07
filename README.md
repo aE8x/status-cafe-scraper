@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-07 05:43 UTC*
+*Last Updated: 2026-05-07 16:21 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.055` 
-- **Distribution**: 35.2% Positive, 39.1% Neutral, 25.7% Negative
+- **Overall Mood Score**: `0.053` 
+- **Distribution**: 35.1% Positive, 39.0% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `skate` | 6 |
-| 2 | - | `state testing` | 5 |
-| 3 | UP 1 | `old friends` | 4 |
-| 4 | UP 1 | `finch` | 3 |
-| 5 | UP 1 | `json` | 3 |
-| 6 | UP 1 | `ojamajo` | 3 |
-| 7 | UP 1 | `jealousy` | 3 |
-| 8 | UP 1 | `actually really` | 3 |
-| 9 | UP 1 | `back drawing` | 3 |
-| 10 | UP 1 | `spamton` | 3 |
-| 11 | UP 1 | `next year` | 3 |
-| 12 | UP 1 | `block tales` | 3 |
-| 13 | NEW | `aero` | 3 |
-| 14 | - | `happy happy` | 3 |
-| 15 | - | `juggling` | 3 |
-| 16 | - | `jail` | 3 |
-| 17 | - | `joe` | 3 |
-| 18 | - | `sherlock` | 3 |
-| 19 | - | `like site` | 3 |
-| 20 | - | `valor` | 3 |
-| 21 | - | `hook` | 3 |
-| 22 | - | `dip` | 3 |
-| 23 | - | `goodnight everyone` | 3 |
-| 24 | - | `playing video` | 3 |
-| 25 | - | `playing video games` | 3 |
+| 1 | NEW | `varingblaar` | 4 |
+| 2 | NEW | `https varingblaar` | 4 |
+| 3 | NEW | `varingblaar neocities` | 4 |
+| 4 | NEW | `https varingblaar neocities` | 4 |
+| 5 | NEW | `varingblaar neocities org` | 4 |
+| 6 | NEW | `neocities org posts` | 4 |
+| 7 | DOWN 5 | `state testing` | 5 |
+| 8 | NEW | `org posts` | 4 |
+| 9 | DOWN 2 | `jealousy` | 3 |
+| 10 | DOWN 2 | `actually really` | 3 |
+| 11 | DOWN 2 | `back drawing` | 3 |
+| 12 | DOWN 2 | `spamton` | 3 |
+| 13 | DOWN 2 | `next year` | 3 |
+| 14 | DOWN 2 | `block tales` | 3 |
+| 15 | DOWN 2 | `aero` | 3 |
+| 16 | DOWN 2 | `happy happy` | 3 |
+| 17 | DOWN 2 | `juggling` | 3 |
+| 18 | DOWN 2 | `jail` | 3 |
+| 19 | DOWN 2 | `joe` | 3 |
+| 20 | DOWN 2 | `sherlock` | 3 |
+| 21 | DOWN 2 | `like site` | 3 |
+| 22 | DOWN 2 | `valor` | 3 |
+| 23 | DOWN 2 | `hook` | 3 |
+| 24 | DOWN 2 | `dip` | 3 |
+| 25 | DOWN 2 | `goodnight everyone` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
