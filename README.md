@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-07 16:21 UTC*
+*Last Updated: 2026-05-08 05:13 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.053` 
-- **Distribution**: 35.1% Positive, 39.0% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 34.7% Positive, 39.1% Neutral, 26.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `varingblaar` | 4 |
-| 2 | NEW | `https varingblaar` | 4 |
-| 3 | NEW | `varingblaar neocities` | 4 |
-| 4 | NEW | `https varingblaar neocities` | 4 |
-| 5 | NEW | `varingblaar neocities org` | 4 |
-| 6 | NEW | `neocities org posts` | 4 |
-| 7 | DOWN 5 | `state testing` | 5 |
-| 8 | NEW | `org posts` | 4 |
-| 9 | DOWN 2 | `jealousy` | 3 |
-| 10 | DOWN 2 | `actually really` | 3 |
-| 11 | DOWN 2 | `back drawing` | 3 |
-| 12 | DOWN 2 | `spamton` | 3 |
-| 13 | DOWN 2 | `next year` | 3 |
-| 14 | DOWN 2 | `block tales` | 3 |
-| 15 | DOWN 2 | `aero` | 3 |
-| 16 | DOWN 2 | `happy happy` | 3 |
-| 17 | DOWN 2 | `juggling` | 3 |
-| 18 | DOWN 2 | `jail` | 3 |
-| 19 | DOWN 2 | `joe` | 3 |
-| 20 | DOWN 2 | `sherlock` | 3 |
-| 21 | DOWN 2 | `like site` | 3 |
-| 22 | DOWN 2 | `valor` | 3 |
-| 23 | DOWN 2 | `hook` | 3 |
-| 24 | DOWN 2 | `dip` | 3 |
-| 25 | DOWN 2 | `goodnight everyone` | 3 |
+| 1 | - | `varingblaar` | 4 |
+| 2 | - | `https varingblaar` | 4 |
+| 3 | - | `varingblaar neocities` | 4 |
+| 4 | - | `https varingblaar neocities` | 4 |
+| 5 | - | `varingblaar neocities org` | 4 |
+| 6 | - | `neocities org posts` | 4 |
+| 7 | - | `state testing` | 5 |
+| 8 | UP 16 | `dip` | 4 |
+| 9 | DOWN 1 | `org posts` | 4 |
+| 10 | UP 1 | `back drawing` | 3 |
+| 11 | UP 1 | `spamton` | 3 |
+| 12 | UP 1 | `next year` | 3 |
+| 13 | UP 1 | `block tales` | 3 |
+| 14 | UP 1 | `aero` | 3 |
+| 15 | UP 1 | `happy happy` | 3 |
+| 16 | UP 1 | `juggling` | 3 |
+| 17 | UP 1 | `jail` | 3 |
+| 18 | UP 1 | `joe` | 3 |
+| 19 | UP 1 | `sherlock` | 3 |
+| 20 | UP 1 | `like site` | 3 |
+| 21 | UP 1 | `valor` | 3 |
+| 22 | UP 1 | `hook` | 3 |
+| 23 | UP 2 | `goodnight everyone` | 3 |
+| 24 | NEW | `summer break` | 6 |
+| 25 | NEW | `playing video` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
