@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-10 15:30 UTC*
+*Last Updated: 2026-05-11 06:10 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 34.1% Positive, 39.4% Neutral, 26.5% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 34.4% Positive, 39.5% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `https varingblaar neocities` | 5 |
 | 5 | - | `varingblaar neocities org` | 5 |
 | 6 | - | `neocities org posts` | 5 |
-| 7 | NEW | `mother day` | 4 |
-| 8 | DOWN 1 | `state testing` | 5 |
-| 9 | DOWN 1 | `org posts` | 5 |
-| 10 | DOWN 1 | `dip` | 4 |
-| 11 | DOWN 1 | `summer break` | 8 |
-| 12 | - | `juggling` | 3 |
-| 13 | - | `memes` | 3 |
-| 14 | - | `jail` | 3 |
-| 15 | - | `joe` | 3 |
-| 16 | - | `sherlock` | 3 |
-| 17 | - | `like site` | 3 |
-| 18 | - | `valor` | 3 |
-| 19 | - | `hook` | 3 |
-| 20 | - | `swamp` | 3 |
-| 21 | - | `goodnight everyone` | 3 |
-| 22 | - | `today least` | 3 |
-| 23 | - | `playing video` | 3 |
-| 24 | - | `playing video games` | 3 |
-| 25 | - | `navigation` | 3 |
+| 7 | - | `mother day` | 9 |
+| 8 | NEW | `happy mother` | 5 |
+| 9 | NEW | `happy mother day` | 5 |
+| 10 | DOWN 1 | `org posts` | 5 |
+| 11 | UP 4 | `joe` | 4 |
+| 12 | DOWN 2 | `dip` | 4 |
+| 13 | DOWN 2 | `summer break` | 8 |
+| 14 | NEW | `petty` | 4 |
+| 15 | UP 1 | `sherlock` | 3 |
+| 16 | UP 1 | `like site` | 3 |
+| 17 | UP 1 | `valor` | 3 |
+| 18 | UP 1 | `hook` | 3 |
+| 19 | UP 1 | `swamp` | 3 |
+| 20 | UP 1 | `goodnight everyone` | 3 |
+| 21 | UP 1 | `today least` | 3 |
+| 22 | UP 1 | `playing video` | 3 |
+| 23 | UP 1 | `playing video games` | 3 |
+| 24 | UP 1 | `navigation` | 3 |
+| 25 | NEW | `website soon` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

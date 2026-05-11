@@ -34144,5 +34144,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-11T06:10:59.110973+00:00",
+        "hot_topics": [
+            {
+                "ngram": "varingblaar",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "https varingblaar",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "varingblaar neocities",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "https varingblaar neocities",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "varingblaar neocities org",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "neocities org posts",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "mother day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy mother",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy mother day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "org posts",
+                "mentions": 5,
+                "change": "31.4x"
+            },
+            {
+                "ngram": "joe",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "dip",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "summer break",
+                "mentions": 8,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "petty",
+                "mentions": 4,
+                "change": "25.1x"
+            },
+            {
+                "ngram": "sherlock",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "like site",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "valor",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "hook",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "swamp",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "goodnight everyone",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "today least",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "playing video",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "playing video games",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "navigation",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "website soon",
+                "mentions": 3,
+                "change": "18.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0505267609699769,
+            "positive_percent": 34.43995381062356,
+            "negative_percent": 26.010392609699768,
+            "neutral_percent": 39.54965357967667,
+            "most_positive_example": {
+                "text": "im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky (claim)",
+                "user": "disturb-the-premise",
+                "score": 0.9914
+            },
+            "most_negative_example": {
+                "text": "I HATE BEING ON MY PERIOD FUCK FUCK FUCK FUCK FUCK FUCK",
+                "user": "splatterautopsy",
+                "score": -0.9769
+            }
+        },
+        "summary_message": null
     }
 ]
