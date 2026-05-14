@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-14 05:59 UTC*
+*Last Updated: 2026-05-14 16:26 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.052` 
-- **Distribution**: 34.1% Positive, 40.0% Neutral, 26.0% Negative
+- **Distribution**: 34.1% Positive, 39.9% Neutral, 25.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `varingblaar` | 6 |
+| 1 | - | `varingblaar` | 7 |
 | 2 | - | `https varingblaar` | 5 |
-| 3 | - | `varingblaar neocities` | 6 |
+| 3 | - | `varingblaar neocities` | 7 |
 | 4 | - | `https varingblaar neocities` | 5 |
-| 5 | - | `varingblaar neocities org` | 6 |
-| 6 | - | `neocities org posts` | 6 |
+| 5 | - | `varingblaar neocities org` | 7 |
+| 6 | - | `neocities org posts` | 7 |
 | 7 | - | `dorm` | 5 |
 | 8 | - | `aikoto` | 4 |
 | 9 | - | `board game` | 5 |
 | 10 | - | `mother day` | 9 |
 | 11 | - | `happy mother` | 5 |
 | 12 | - | `happy mother day` | 5 |
-| 13 | - | `cozy talk` | 5 |
-| 14 | - | `org posts` | 6 |
+| 13 | - | `cozy talk` | 6 |
+| 14 | - | `org posts` | 7 |
 | 15 | - | `website soon` | 3 |
-| 16 | NEW | `like really` | 3 |
-| 17 | DOWN 1 | `refresh` | 3 |
-| 18 | DOWN 1 | `lock finish` | 3 |
-| 19 | NEW | `walkin` | 3 |
-| 20 | DOWN 2 | `fearful` | 3 |
-| 21 | DOWN 2 | `mano` | 3 |
-| 22 | NEW | `missing like` | 3 |
-| 23 | DOWN 3 | `going stuff` | 3 |
-| 24 | DOWN 3 | `start next` | 3 |
-| 25 | DOWN 3 | `gary` | 3 |
+| 16 | - | `like really` | 3 |
+| 17 | - | `refresh` | 3 |
+| 18 | - | `lock finish` | 3 |
+| 19 | - | `walkin` | 3 |
+| 20 | - | `fearful` | 3 |
+| 21 | - | `mano` | 3 |
+| 22 | - | `missing like` | 3 |
+| 23 | - | `going stuff` | 3 |
+| 24 | - | `start next` | 3 |
+| 25 | - | `gary` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
