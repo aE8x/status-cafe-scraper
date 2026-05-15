@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-15 06:07 UTC*
+*Last Updated: 2026-05-15 16:18 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.052` 
-- **Distribution**: 33.9% Positive, 40.3% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 33.9% Positive, 40.4% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `https varingblaar neocities` | 5 |
 | 5 | - | `varingblaar neocities org` | 7 |
 | 6 | - | `neocities org posts` | 7 |
-| 7 | - | `dorm` | 5 |
-| 8 | - | `aikoto` | 4 |
-| 9 | - | `board game` | 5 |
-| 10 | - | `mother day` | 9 |
-| 11 | - | `happy mother` | 5 |
-| 12 | - | `happy mother day` | 5 |
-| 13 | - | `cozy talk` | 6 |
-| 14 | - | `org posts` | 7 |
-| 15 | UP 2 | `refresh` | 3 |
-| 16 | UP 2 | `lock finish` | 3 |
-| 17 | UP 2 | `walkin` | 3 |
-| 18 | UP 2 | `fearful` | 3 |
-| 19 | UP 2 | `mano` | 3 |
-| 20 | UP 2 | `missing like` | 3 |
-| 21 | UP 2 | `going stuff` | 3 |
-| 22 | UP 2 | `start next` | 3 |
-| 23 | UP 2 | `gary` | 3 |
-| 24 | NEW | `organize` | 3 |
-| 25 | NEW | `see soon` | 3 |
+| 7 | NEW | `codeberg` | 4 |
+| 8 | DOWN 1 | `dorm` | 5 |
+| 9 | DOWN 1 | `aikoto` | 4 |
+| 10 | DOWN 1 | `board game` | 5 |
+| 11 | DOWN 1 | `mother day` | 9 |
+| 12 | DOWN 1 | `happy mother` | 5 |
+| 13 | DOWN 1 | `happy mother day` | 5 |
+| 14 | DOWN 1 | `cozy talk` | 8 |
+| 15 | DOWN 1 | `org posts` | 7 |
+| 16 | UP 1 | `walkin` | 3 |
+| 17 | UP 1 | `fearful` | 3 |
+| 18 | UP 1 | `mano` | 3 |
+| 19 | NEW | `summer break` | 9 |
+| 20 | - | `missing like` | 3 |
+| 21 | - | `going stuff` | 3 |
+| 22 | - | `start next` | 3 |
+| 23 | - | `gary` | 3 |
+| 24 | - | `organize` | 3 |
+| 25 | - | `see soon` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
