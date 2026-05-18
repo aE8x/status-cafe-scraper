@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-18 06:35 UTC*
+*Last Updated: 2026-05-18 17:16 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.053` 
-- **Distribution**: 33.9% Positive, 40.2% Neutral, 25.9% Negative
+- **Distribution**: 33.9% Positive, 40.3% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `board game` | 5 |
-| 2 | UP 1 | `mother day` | 9 |
-| 3 | UP 1 | `happy mother` | 5 |
-| 4 | UP 1 | `happy mother day` | 5 |
-| 5 | UP 1 | `fanlore` | 4 |
-| 6 | UP 1 | `cozy talk` | 9 |
-| 7 | UP 1 | `subnautica` | 4 |
-| 8 | UP 1 | `gameoverse` | 4 |
-| 9 | UP 1 | `varingblaar` | 6 |
-| 10 | UP 1 | `varingblaar neocities` | 6 |
-| 11 | UP 1 | `varingblaar neocities org` | 6 |
-| 12 | UP 1 | `neocities org posts` | 6 |
-| 13 | UP 2 | `https varingblaar` | 4 |
-| 14 | UP 2 | `https varingblaar neocities` | 4 |
-| 15 | UP 2 | `dorm` | 4 |
-| 16 | NEW | `morning world` | 4 |
-| 17 | NEW | `good morning world` | 4 |
-| 18 | - | `finished exams` | 4 |
-| 19 | UP 1 | `org posts` | 6 |
-| 20 | DOWN 19 | `aikoto` | 3 |
-| 21 | UP 1 | `site homepage` | 3 |
-| 22 | UP 1 | `going stuff` | 3 |
-| 23 | UP 1 | `week school` | 3 |
-| 24 | UP 1 | `rave` | 3 |
-| 25 | NEW | `start next` | 3 |
+| 1 | UP 1 | `mother day` | 9 |
+| 2 | UP 1 | `happy mother` | 5 |
+| 3 | UP 1 | `happy mother day` | 5 |
+| 4 | UP 1 | `fanlore` | 4 |
+| 5 | UP 1 | `cozy talk` | 9 |
+| 6 | UP 1 | `subnautica` | 5 |
+| 7 | UP 1 | `gameoverse` | 6 |
+| 8 | DOWN 7 | `board game` | 4 |
+| 9 | UP 6 | `dorm` | 4 |
+| 10 | NEW | `organize` | 4 |
+| 11 | UP 5 | `morning world` | 4 |
+| 12 | UP 5 | `good morning world` | 4 |
+| 13 | NEW | `sue` | 4 |
+| 14 | UP 4 | `finished exams` | 4 |
+| 15 | UP 5 | `aikoto` | 3 |
+| 16 | UP 5 | `site homepage` | 3 |
+| 17 | UP 5 | `going stuff` | 3 |
+| 18 | UP 5 | `week school` | 3 |
+| 19 | UP 5 | `rave` | 3 |
+| 20 | UP 5 | `start next` | 3 |
+| 21 | NEW | `codeberg` | 3 |
+| 22 | NEW | `things coming` | 3 |
+| 23 | DOWN 14 | `varingblaar` | 6 |
+| 24 | DOWN 14 | `varingblaar neocities` | 6 |
+| 25 | DOWN 14 | `varingblaar neocities org` | 6 |
 
 <!-- END_ANALYSIS_SECTION -->
 

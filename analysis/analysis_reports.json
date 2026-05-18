@@ -36349,5 +36349,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-18T17:16:39.858111+00:00",
+        "hot_topics": [
+            {
+                "ngram": "mother day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy mother",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy mother day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fanlore",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "cozy talk",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "subnautica",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gameoverse",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "board game",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "dorm",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "organize",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "morning world",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "good morning world",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "sue",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "finished exams",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "aikoto",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "site homepage",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "going stuff",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "week school",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "rave",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "start next",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "codeberg",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "things coming",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "varingblaar",
+                "mentions": 6,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "varingblaar neocities",
+                "mentions": 6,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "varingblaar neocities org",
+                "mentions": 6,
+                "change": "18.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05291159052453469,
+            "positive_percent": 33.86914833615341,
+            "negative_percent": 25.831923293852228,
+            "neutral_percent": 40.29892836999436,
+            "most_positive_example": {
+                "text": "im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky (claim)",
+                "user": "disturb-the-premise",
+                "score": 0.9914
+            },
+            "most_negative_example": {
+                "text": "I HATE BEING ON MY PERIOD FUCK FUCK FUCK FUCK FUCK FUCK",
+                "user": "splatterautopsy",
+                "score": -0.9769
+            }
+        },
+        "summary_message": null
     }
 ]
