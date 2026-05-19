@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-19 06:30 UTC*
+*Last Updated: 2026-05-19 17:25 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.055` 
-- **Distribution**: 34.1% Positive, 40.1% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.053` 
+- **Distribution**: 34.1% Positive, 39.9% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `mother day` | 9 |
-| 2 | NEW | `may walk` | 4 |
-| 3 | DOWN 1 | `happy mother` | 5 |
-| 4 | DOWN 1 | `happy mother day` | 5 |
-| 5 | DOWN 1 | `fanlore` | 4 |
-| 6 | DOWN 1 | `cozy talk` | 10 |
-| 7 | DOWN 1 | `subnautica` | 5 |
-| 8 | DOWN 1 | `gameoverse` | 7 |
-| 9 | UP 1 | `organize` | 6 |
-| 10 | DOWN 2 | `board game` | 4 |
-| 11 | DOWN 2 | `dorm` | 4 |
-| 12 | DOWN 1 | `morning world` | 4 |
-| 13 | DOWN 1 | `good morning world` | 4 |
-| 14 | DOWN 1 | `sue` | 4 |
-| 15 | DOWN 1 | `finished exams` | 4 |
-| 16 | NEW | `graduated` | 7 |
-| 17 | DOWN 2 | `aikoto` | 3 |
-| 18 | DOWN 2 | `site homepage` | 3 |
-| 19 | DOWN 2 | `going stuff` | 3 |
-| 20 | DOWN 2 | `week school` | 3 |
-| 21 | DOWN 2 | `rave` | 3 |
-| 22 | DOWN 2 | `start next` | 3 |
-| 23 | DOWN 2 | `codeberg` | 3 |
-| 24 | DOWN 2 | `things coming` | 3 |
-| 25 | DOWN 2 | `varingblaar` | 6 |
+| 2 | - | `may walk` | 4 |
+| 3 | - | `happy mother` | 5 |
+| 4 | - | `happy mother day` | 5 |
+| 5 | - | `fanlore` | 4 |
+| 6 | - | `cozy talk` | 10 |
+| 7 | - | `subnautica` | 5 |
+| 8 | - | `gameoverse` | 7 |
+| 9 | - | `organize` | 6 |
+| 10 | UP 5 | `finished exams` | 5 |
+| 11 | DOWN 1 | `board game` | 4 |
+| 12 | DOWN 1 | `dorm` | 4 |
+| 13 | DOWN 1 | `morning world` | 4 |
+| 14 | DOWN 1 | `good morning world` | 4 |
+| 15 | DOWN 1 | `sue` | 4 |
+| 16 | UP 9 | `varingblaar` | 7 |
+| 17 | NEW | `varingblaar neocities` | 7 |
+| 18 | NEW | `varingblaar neocities org` | 7 |
+| 19 | NEW | `neocities org posts` | 7 |
+| 20 | DOWN 4 | `graduated` | 7 |
+| 21 | NEW | `people online` | 3 |
+| 22 | DOWN 1 | `rave` | 3 |
+| 23 | DOWN 1 | `start next` | 3 |
+| 24 | DOWN 1 | `codeberg` | 3 |
+| 25 | DOWN 1 | `things coming` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
