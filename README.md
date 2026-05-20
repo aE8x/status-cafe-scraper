@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-19 17:25 UTC*
+*Last Updated: 2026-05-20 06:30 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.053` 
-- **Distribution**: 34.1% Positive, 39.9% Neutral, 26.0% Negative
+- **Distribution**: 34.0% Positive, 40.2% Neutral, 25.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `fanlore` | 4 |
 | 6 | - | `cozy talk` | 10 |
 | 7 | - | `subnautica` | 5 |
-| 8 | - | `gameoverse` | 7 |
+| 8 | - | `gameoverse` | 8 |
 | 9 | - | `organize` | 6 |
-| 10 | UP 5 | `finished exams` | 5 |
-| 11 | DOWN 1 | `board game` | 4 |
-| 12 | DOWN 1 | `dorm` | 4 |
-| 13 | DOWN 1 | `morning world` | 4 |
-| 14 | DOWN 1 | `good morning world` | 4 |
-| 15 | DOWN 1 | `sue` | 4 |
-| 16 | UP 9 | `varingblaar` | 7 |
-| 17 | NEW | `varingblaar neocities` | 7 |
-| 18 | NEW | `varingblaar neocities org` | 7 |
-| 19 | NEW | `neocities org posts` | 7 |
-| 20 | DOWN 4 | `graduated` | 7 |
-| 21 | NEW | `people online` | 3 |
-| 22 | DOWN 1 | `rave` | 3 |
-| 23 | DOWN 1 | `start next` | 3 |
-| 24 | DOWN 1 | `codeberg` | 3 |
-| 25 | DOWN 1 | `things coming` | 3 |
+| 10 | - | `finished exams` | 5 |
+| 11 | - | `board game` | 4 |
+| 12 | - | `dorm` | 4 |
+| 13 | - | `morning world` | 4 |
+| 14 | - | `good morning world` | 4 |
+| 15 | - | `sue` | 4 |
+| 16 | NEW | `much like` | 4 |
+| 17 | NEW | `training practice` | 4 |
+| 18 | DOWN 2 | `varingblaar` | 7 |
+| 19 | DOWN 2 | `varingblaar neocities` | 7 |
+| 20 | DOWN 2 | `varingblaar neocities org` | 7 |
+| 21 | DOWN 2 | `neocities org posts` | 7 |
+| 22 | DOWN 2 | `graduated` | 7 |
+| 23 | UP 2 | `things coming` | 3 |
+| 24 | NEW | `slashdiv` | 3 |
+| 25 | NEW | `gary` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
