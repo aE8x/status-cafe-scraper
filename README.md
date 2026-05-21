@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-20 17:38 UTC*
+*Last Updated: 2026-05-21 06:31 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.053` 
-- **Distribution**: 34.1% Positive, 40.1% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.056` 
+- **Distribution**: 34.4% Positive, 40.0% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `mother day` | 9 |
-| 2 | - | `may walk` | 4 |
-| 3 | - | `happy mother` | 5 |
-| 4 | - | `happy mother day` | 5 |
-| 5 | - | `fanlore` | 4 |
-| 6 | - | `cozy talk` | 10 |
-| 7 | - | `subnautica` | 5 |
-| 8 | - | `gameoverse` | 8 |
+| 1 | UP 1 | `may walk` | 4 |
+| 2 | UP 1 | `happy mother` | 5 |
+| 3 | UP 1 | `happy mother day` | 5 |
+| 4 | UP 1 | `fanlore` | 4 |
+| 5 | UP 1 | `cozy talk` | 10 |
+| 6 | UP 1 | `subnautica` | 5 |
+| 7 | UP 1 | `gameoverse` | 9 |
+| 8 | DOWN 7 | `mother day` | 8 |
 | 9 | - | `organize` | 6 |
 | 10 | - | `finished exams` | 5 |
-| 11 | - | `board game` | 4 |
-| 12 | - | `dorm` | 4 |
-| 13 | - | `morning world` | 4 |
-| 14 | - | `good morning world` | 4 |
-| 15 | - | `sue` | 4 |
-| 16 | - | `much like` | 4 |
-| 17 | - | `training practice` | 4 |
-| 18 | NEW | `ezfg` | 4 |
-| 19 | UP 3 | `graduated` | 7 |
-| 20 | UP 5 | `gary` | 3 |
-| 21 | NEW | `nunca` | 3 |
-| 22 | NEW | `stranger heaven` | 3 |
-| 23 | NEW | `illustration` | 3 |
-| 24 | NEW | `month ago` | 3 |
-| 25 | NEW | `see soon` | 3 |
+| 11 | NEW | `archived` | 5 |
+| 12 | DOWN 1 | `board game` | 4 |
+| 13 | DOWN 1 | `dorm` | 4 |
+| 14 | DOWN 1 | `morning world` | 4 |
+| 15 | DOWN 1 | `good morning world` | 4 |
+| 16 | DOWN 1 | `sue` | 4 |
+| 17 | DOWN 1 | `much like` | 4 |
+| 18 | DOWN 1 | `training practice` | 4 |
+| 19 | DOWN 1 | `ezfg` | 4 |
+| 20 | DOWN 1 | `graduated` | 7 |
+| 21 | UP 2 | `illustration` | 3 |
+| 22 | UP 2 | `month ago` | 3 |
+| 23 | UP 2 | `see soon` | 3 |
+| 24 | NEW | `delusion` | 3 |
+| 25 | NEW | `open https` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
