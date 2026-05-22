@@ -37525,5 +37525,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-22T16:40:43.883242+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy mother",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy mother day",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fanlore",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "cozy talk",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "subnautica",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gameoverse",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "mother day",
+                "mentions": 8,
+                "change": "49.1x"
+            },
+            {
+                "ngram": "organize",
+                "mentions": 6,
+                "change": "36.8x"
+            },
+            {
+                "ngram": "finished exams",
+                "mentions": 6,
+                "change": "36.8x"
+            },
+            {
+                "ngram": "training practice",
+                "mentions": 5,
+                "change": "30.7x"
+            },
+            {
+                "ngram": "archived",
+                "mentions": 5,
+                "change": "30.7x"
+            },
+            {
+                "ngram": "morning world",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "good morning world",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "sue",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "much like",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "graduated",
+                "mentions": 8,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "walls",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "ezfg",
+                "mentions": 4,
+                "change": "24.5x"
+            },
+            {
+                "ngram": "month ago",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "may walk",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "see soon",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "delusion",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "open https",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "blacksmith",
+                "mentions": 3,
+                "change": "18.4x"
+            },
+            {
+                "ngram": "blacksmith quiz",
+                "mentions": 3,
+                "change": "18.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05791388888888889,
+            "positive_percent": 34.792368125701465,
+            "negative_percent": 25.813692480359148,
+            "neutral_percent": 39.39393939393939,
+            "most_positive_example": {
+                "text": "im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky im so lucky lucky (claim)",
+                "user": "disturb-the-premise",
+                "score": 0.9914
+            },
+            "most_negative_example": {
+                "text": "driving actually sucks so bad I HATE IT I HATE IT I HATE DRIVING",
+                "user": "sundaylverr",
+                "score": -0.9723
+            }
+        },
+        "summary_message": null
     }
 ]
