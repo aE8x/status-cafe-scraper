@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-21 17:11 UTC*
+*Last Updated: 2026-05-22 06:29 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.059` 
-- **Distribution**: 34.6% Positive, 39.9% Neutral, 25.4% Negative
+- **Distribution**: 34.8% Positive, 39.7% Neutral, 25.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `may walk` | 4 |
-| 2 | - | `happy mother` | 5 |
-| 3 | - | `happy mother day` | 5 |
-| 4 | - | `fanlore` | 4 |
-| 5 | - | `cozy talk` | 10 |
-| 6 | - | `subnautica` | 5 |
-| 7 | - | `gameoverse` | 9 |
-| 8 | - | `mother day` | 8 |
-| 9 | - | `organize` | 6 |
-| 10 | - | `finished exams` | 6 |
-| 11 | UP 2 | `dorm` | 5 |
-| 12 | DOWN 1 | `archived` | 5 |
-| 13 | DOWN 1 | `board game` | 4 |
-| 14 | - | `morning world` | 4 |
-| 15 | - | `good morning world` | 4 |
-| 16 | - | `sue` | 4 |
-| 17 | - | `much like` | 4 |
-| 18 | - | `training practice` | 4 |
-| 19 | - | `ezfg` | 4 |
-| 20 | - | `graduated` | 7 |
-| 21 | NEW | `troubleshooting` | 3 |
-| 22 | DOWN 1 | `illustration` | 3 |
-| 23 | NEW | `posts books` | 3 |
-| 24 | NEW | `org posts books` | 3 |
-| 25 | DOWN 3 | `month ago` | 3 |
+| 1 | UP 1 | `happy mother` | 5 |
+| 2 | UP 1 | `happy mother day` | 5 |
+| 3 | UP 1 | `fanlore` | 4 |
+| 4 | UP 1 | `cozy talk` | 11 |
+| 5 | UP 1 | `subnautica` | 5 |
+| 6 | UP 1 | `gameoverse` | 9 |
+| 7 | UP 1 | `mother day` | 8 |
+| 8 | UP 1 | `organize` | 6 |
+| 9 | UP 1 | `finished exams` | 6 |
+| 10 | UP 8 | `training practice` | 5 |
+| 11 | UP 1 | `archived` | 5 |
+| 12 | UP 2 | `morning world` | 4 |
+| 13 | UP 2 | `good morning world` | 4 |
+| 14 | UP 2 | `sue` | 4 |
+| 15 | UP 2 | `much like` | 4 |
+| 16 | UP 4 | `graduated` | 8 |
+| 17 | NEW | `walls` | 4 |
+| 18 | UP 1 | `ezfg` | 4 |
+| 19 | UP 3 | `illustration` | 3 |
+| 20 | UP 3 | `posts books` | 3 |
+| 21 | UP 3 | `org posts books` | 3 |
+| 22 | UP 3 | `month ago` | 3 |
+| 23 | DOWN 22 | `may walk` | 3 |
+| 24 | NEW | `see soon` | 3 |
+| 25 | NEW | `delusion` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
