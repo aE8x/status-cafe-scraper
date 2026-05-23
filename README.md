@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-22 16:40 UTC*
+*Last Updated: 2026-05-23 05:50 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.058` 
-- **Distribution**: 34.8% Positive, 39.4% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.060` 
+- **Distribution**: 35.1% Positive, 39.3% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `subnautica` | 5 |
 | 6 | - | `gameoverse` | 9 |
 | 7 | - | `mother day` | 8 |
-| 8 | - | `organize` | 6 |
-| 9 | - | `finished exams` | 6 |
-| 10 | - | `training practice` | 5 |
-| 11 | - | `archived` | 5 |
-| 12 | - | `morning world` | 4 |
-| 13 | - | `good morning world` | 4 |
-| 14 | - | `sue` | 4 |
-| 15 | - | `much like` | 4 |
-| 16 | - | `graduated` | 8 |
-| 17 | - | `walls` | 4 |
-| 18 | - | `ezfg` | 4 |
-| 19 | UP 3 | `month ago` | 3 |
-| 20 | UP 3 | `may walk` | 3 |
-| 21 | UP 3 | `see soon` | 3 |
-| 22 | UP 3 | `delusion` | 3 |
-| 23 | NEW | `open https` | 3 |
-| 24 | NEW | `blacksmith` | 3 |
-| 25 | NEW | `blacksmith quiz` | 3 |
+| 8 | UP 1 | `finished exams` | 6 |
+| 9 | UP 1 | `training practice` | 5 |
+| 10 | UP 1 | `archived` | 5 |
+| 11 | UP 1 | `morning world` | 4 |
+| 12 | UP 1 | `good morning world` | 4 |
+| 13 | UP 1 | `sue` | 4 |
+| 14 | UP 1 | `much like` | 4 |
+| 15 | UP 1 | `graduated` | 8 |
+| 16 | UP 1 | `walls` | 4 |
+| 17 | UP 1 | `ezfg` | 4 |
+| 18 | UP 3 | `see soon` | 3 |
+| 19 | UP 3 | `delusion` | 3 |
+| 20 | UP 3 | `open https` | 3 |
+| 21 | UP 3 | `blacksmith` | 3 |
+| 22 | UP 3 | `blacksmith quiz` | 3 |
+| 23 | NEW | `website instead` | 3 |
+| 24 | NEW | `shoe` | 3 |
+| 25 | NEW | `urgh` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
