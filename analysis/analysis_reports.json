@@ -38848,5 +38848,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-05-27T06:42:47.596147+00:00",
+        "hot_topics": [
+            {
+                "ngram": "subnautica",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gameoverse",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "anime north",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "syslog",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "paralives",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "meu deus",
+                "mentions": 4,
+                "change": "25.8x"
+            },
+            {
+                "ngram": "walls",
+                "mentions": 4,
+                "change": "25.8x"
+            },
+            {
+                "ngram": "north",
+                "mentions": 4,
+                "change": "25.8x"
+            },
+            {
+                "ngram": "ezfg",
+                "mentions": 4,
+                "change": "25.8x"
+            },
+            {
+                "ngram": "mobile responsive",
+                "mentions": 4,
+                "change": "25.8x"
+            },
+            {
+                "ngram": "brunch",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "fanlore",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "want something",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "onhttps",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "ireland",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "know still",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "arizona",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "victim",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "eurovision",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "kun",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "kombat",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "mortal kombat",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "fascinated",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "body hurts",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "regardless",
+                "mentions": 3,
+                "change": "19.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05610303915838691,
+            "positive_percent": 35.27177089421391,
+            "negative_percent": 26.212741087083575,
+            "neutral_percent": 38.51548801870251,
+            "most_positive_example": {
+                "text": "the same friend i hung out with invited me to go KYACKING! the next day! lol, super last minute, but I said yes anyway! it was super fun.",
+                "user": "tyebean",
+                "score": 0.9669
+            },
+            "most_negative_example": {
+                "text": "driving actually sucks so bad I HATE IT I HATE IT I HATE DRIVING",
+                "user": "sundaylverr",
+                "score": -0.9723
+            }
+        },
+        "summary_message": null
     }
 ]
