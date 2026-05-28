@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-27 17:40 UTC*
+*Last Updated: 2026-05-28 06:35 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 35.4% Positive, 38.4% Neutral, 26.2% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 35.4% Positive, 38.1% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -20,28 +20,28 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 1 | - | `subnautica` | 5 |
 | 2 | - | `gameoverse` | 9 |
 | 3 | - | `anime north` | 4 |
-| 4 | - | `syslog` | 7 |
+| 4 | - | `syslog` | 8 |
 | 5 | - | `paralives` | 5 |
-| 6 | NEW | `protocol` | 4 |
-| 7 | DOWN 1 | `meu deus` | 4 |
-| 8 | DOWN 1 | `walls` | 4 |
-| 9 | DOWN 1 | `north` | 4 |
-| 10 | DOWN 1 | `ezfg` | 4 |
-| 11 | DOWN 1 | `mobile responsive` | 4 |
-| 12 | UP 1 | `want something` | 3 |
-| 13 | UP 1 | `onhttps` | 3 |
-| 14 | UP 1 | `ireland` | 3 |
-| 15 | UP 1 | `know still` | 3 |
-| 16 | UP 1 | `arizona` | 3 |
-| 17 | UP 1 | `victim` | 3 |
-| 18 | UP 1 | `eurovision` | 3 |
-| 19 | UP 1 | `kun` | 3 |
-| 20 | UP 1 | `kombat` | 3 |
-| 21 | UP 1 | `mortal kombat` | 3 |
-| 22 | UP 1 | `fascinated` | 3 |
-| 23 | UP 1 | `body hurts` | 3 |
-| 24 | UP 1 | `regardless` | 3 |
-| 25 | NEW | `open https vgen` | 3 |
+| 6 | - | `protocol` | 4 |
+| 7 | UP 1 | `walls` | 4 |
+| 8 | UP 1 | `north` | 4 |
+| 9 | UP 1 | `ezfg` | 4 |
+| 10 | UP 1 | `mobile responsive` | 4 |
+| 11 | NEW | `overheating` | 3 |
+| 12 | UP 4 | `arizona` | 3 |
+| 13 | UP 4 | `victim` | 3 |
+| 14 | UP 4 | `eurovision` | 3 |
+| 15 | UP 4 | `kun` | 3 |
+| 16 | UP 4 | `kombat` | 3 |
+| 17 | UP 4 | `mortal kombat` | 3 |
+| 18 | UP 4 | `fascinated` | 3 |
+| 19 | UP 4 | `body hurts` | 3 |
+| 20 | UP 4 | `regardless` | 3 |
+| 21 | UP 4 | `open https vgen` | 3 |
+| 22 | NEW | `lmaoo` | 3 |
+| 23 | NEW | `volume` | 3 |
+| 24 | NEW | `balcony` | 3 |
+| 25 | NEW | `church` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
