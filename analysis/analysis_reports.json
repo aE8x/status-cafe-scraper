@@ -40318,5 +40318,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-01T07:26:52.549808+00:00",
+        "hot_topics": [
+            {
+                "ngram": "aaaaaa",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "paralives",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "protocol",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 17,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 16,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "syslog",
+                "mentions": 14,
+                "change": "91.9x"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 25,
+                "change": "54.7x"
+            },
+            {
+                "ngram": "steps",
+                "mentions": 5,
+                "change": "32.8x"
+            },
+            {
+                "ngram": "ezfg",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "mobile responsive",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "balcony",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "wordpress",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "volume",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "hot dogs",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "xbox",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "help feel",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "brunch",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "going explode",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "cant get",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "custom domain",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "absurd",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "naps",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "grandma",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "church",
+                "mentions": 3,
+                "change": "19.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06002522255192879,
+            "positive_percent": 36.409495548961424,
+            "negative_percent": 25.93471810089021,
+            "neutral_percent": 37.65578635014837,
+            "most_positive_example": {
+                "text": "the same friend i hung out with invited me to go KYACKING! the next day! lol, super last minute, but I said yes anyway! it was super fun.",
+                "user": "tyebean",
+                "score": 0.9669
+            },
+            "most_negative_example": {
+                "text": "driving actually sucks so bad I HATE IT I HATE IT I HATE DRIVING",
+                "user": "sundaylverr",
+                "score": -0.9723
+            }
+        },
+        "summary_message": null
     }
 ]

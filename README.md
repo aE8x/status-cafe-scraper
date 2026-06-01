@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-05-31 15:47 UTC*
+*Last Updated: 2026-06-01 07:26 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 35.9% Positive, 37.8% Neutral, 26.2% Negative
+- **Overall Mood Score**: `0.060` 
+- **Distribution**: 36.4% Positive, 37.7% Neutral, 25.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `syslog` | 15 |
-| 2 | - | `firmware` | 4 |
-| 3 | - | `aaaaaa` | 4 |
-| 4 | - | `paralives` | 6 |
-| 5 | - | `protocol` | 5 |
-| 6 | - | `steps` | 5 |
-| 7 | - | `ezfg` | 4 |
-| 8 | - | `mobile responsive` | 4 |
-| 9 | - | `balcony` | 4 |
-| 10 | - | `wordpress` | 4 |
-| 11 | UP 1 | `larping` | 3 |
-| 12 | UP 1 | `open https vgen` | 3 |
-| 13 | UP 1 | `fiance` | 3 |
-| 14 | UP 1 | `lmaoo` | 3 |
-| 15 | UP 1 | `volume` | 3 |
-| 16 | UP 1 | `xbox` | 3 |
-| 17 | UP 1 | `help feel` | 3 |
-| 18 | UP 1 | `going explode` | 3 |
-| 19 | NEW | `custom domain` | 3 |
-| 20 | - | `naps` | 3 |
-| 21 | - | `grandma` | 3 |
-| 22 | - | `church` | 3 |
-| 23 | - | `hatoful` | 3 |
-| 24 | - | `hatoful boyfriend` | 3 |
-| 25 | NEW | `pixels` | 3 |
+| 1 | UP 2 | `aaaaaa` | 4 |
+| 2 | UP 2 | `paralives` | 6 |
+| 3 | UP 2 | `protocol` | 6 |
+| 4 | NEW | `pride month` | 17 |
+| 5 | NEW | `happy pride` | 16 |
+| 6 | NEW | `happy pride month` | 10 |
+| 7 | DOWN 6 | `syslog` | 14 |
+| 8 | NEW | `pride` | 25 |
+| 9 | DOWN 3 | `steps` | 5 |
+| 10 | DOWN 3 | `ezfg` | 4 |
+| 11 | DOWN 3 | `mobile responsive` | 4 |
+| 12 | DOWN 3 | `balcony` | 4 |
+| 13 | DOWN 3 | `wordpress` | 4 |
+| 14 | UP 1 | `volume` | 3 |
+| 15 | NEW | `hot dogs` | 3 |
+| 16 | - | `xbox` | 3 |
+| 17 | - | `help feel` | 3 |
+| 18 | NEW | `brunch` | 3 |
+| 19 | DOWN 1 | `going explode` | 3 |
+| 20 | NEW | `cant get` | 3 |
+| 21 | DOWN 2 | `custom domain` | 3 |
+| 22 | NEW | `absurd` | 3 |
+| 23 | DOWN 3 | `naps` | 3 |
+| 24 | DOWN 3 | `grandma` | 3 |
+| 25 | DOWN 3 | `church` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
