@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-02 07:01 UTC*
+*Last Updated: 2026-06-02 18:13 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.070` 
-- **Distribution**: 37.3% Positive, 37.1% Neutral, 25.7% Negative
+- **Overall Mood Score**: `0.073` 
+- **Distribution**: 37.4% Positive, 37.3% Neutral, 25.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `paralives` | 6 |
 | 2 | - | `protocol` | 7 |
-| 3 | - | `pride month` | 51 |
-| 4 | - | `happy pride` | 58 |
-| 5 | - | `happy pride month` | 36 |
+| 3 | - | `pride month` | 53 |
+| 4 | - | `happy pride` | 62 |
+| 5 | - | `happy pride month` | 37 |
 | 6 | - | `gay month` | 5 |
-| 7 | - | `pride` | 79 |
+| 7 | - | `pride` | 85 |
 | 8 | - | `syslog` | 14 |
 | 9 | - | `steps` | 5 |
-| 10 | UP 1 | `balcony` | 4 |
-| 11 | UP 2 | `exe` | 8 |
-| 12 | - | `wordpress` | 4 |
-| 13 | NEW | `backrooms movie` | 10 |
-| 14 | UP 1 | `going explode` | 3 |
-| 15 | UP 1 | `cant get` | 3 |
-| 16 | UP 1 | `custom domain` | 3 |
-| 17 | UP 1 | `default` | 3 |
-| 18 | NEW | `nicovideo watch` | 3 |
-| 19 | NEW | `www nicovideo watch` | 3 |
-| 20 | DOWN 1 | `absurd` | 3 |
-| 21 | DOWN 1 | `naps` | 3 |
-| 22 | DOWN 1 | `grandma` | 3 |
-| 23 | DOWN 1 | `church` | 3 |
-| 24 | DOWN 1 | `trash` | 3 |
-| 25 | DOWN 1 | `lsat` | 3 |
+| 10 | UP 1 | `exe` | 9 |
+| 11 | UP 1 | `wordpress` | 4 |
+| 12 | NEW | `pixels` | 4 |
+| 13 | - | `backrooms movie` | 10 |
+| 14 | NEW | `backrooms` | 19 |
+| 15 | UP 2 | `default` | 3 |
+| 16 | UP 2 | `nicovideo watch` | 3 |
+| 17 | UP 2 | `www nicovideo watch` | 3 |
+| 18 | UP 2 | `absurd` | 3 |
+| 19 | UP 2 | `naps` | 3 |
+| 20 | UP 2 | `grandma` | 3 |
+| 21 | UP 2 | `church` | 3 |
+| 22 | UP 2 | `trash` | 3 |
+| 23 | UP 2 | `lsat` | 3 |
+| 24 | NEW | `yuri jam` | 3 |
+| 25 | NEW | `toxic yuri jam` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
