@@ -41053,5 +41053,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-03T18:34:41.494220+00:00",
+        "hot_topics": [
+            {
+                "ngram": "paralives",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "wordpress",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "protocol",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 58,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 70,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 41,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 96,
+                "change": "317.2x"
+            },
+            {
+                "ngram": "syslog",
+                "mentions": 14,
+                "change": "92.5x"
+            },
+            {
+                "ngram": "exe",
+                "mentions": 11,
+                "change": "36.3x"
+            },
+            {
+                "ngram": "steps",
+                "mentions": 5,
+                "change": "33.0x"
+            },
+            {
+                "ngram": "lsat",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "pixels",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "backrooms movie",
+                "mentions": 12,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "backrooms",
+                "mentions": 22,
+                "change": "24.2x"
+            },
+            {
+                "ngram": "trash",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "yuri jam",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "toxic yuri jam",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "destiny",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "hatoful",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "hatoful boyfriend",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "tamagotchi paradise",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "detected",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "currently watching",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "aaaaaa",
+                "mentions": 3,
+                "change": "19.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.07508558236520703,
+            "positive_percent": 37.7718200774501,
+            "negative_percent": 25.439380399165923,
+            "neutral_percent": 36.78879952338397,
+            "most_positive_example": {
+                "text": "the same friend i hung out with invited me to go KYACKING! the next day! lol, super last minute, but I said yes anyway! it was super fun.",
+                "user": "tyebean",
+                "score": 0.9669
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
