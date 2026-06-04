@@ -41200,5 +41200,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-04T06:58:59.285386+00:00",
+        "hot_topics": [
+            {
+                "ngram": "playing final",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "currently playing final",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "playing final fantasy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "protocol",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 59,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 70,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 41,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 97,
+                "change": "319.4x"
+            },
+            {
+                "ngram": "syslog",
+                "mentions": 14,
+                "change": "92.2x"
+            },
+            {
+                "ngram": "steps",
+                "mentions": 5,
+                "change": "32.9x"
+            },
+            {
+                "ngram": "backrooms movie",
+                "mentions": 12,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "pixels",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "backrooms",
+                "mentions": 23,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "exe",
+                "mentions": 11,
+                "change": "24.1x"
+            },
+            {
+                "ngram": "destiny",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "hatoful",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "hatoful boyfriend",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "tamagotchi paradise",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "detected",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "currently watching",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "aaaaaa",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "hot weather",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "deployed",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "firmware",
+                "mentions": 3,
+                "change": "19.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0780905256905257,
+            "positive_percent": 37.986337986337986,
+            "negative_percent": 25.096525096525095,
+            "neutral_percent": 36.917136917136915,
+            "most_positive_example": {
+                "text": "Something possessed me - an image of you, my love /\r\nVideo visions that play on my mind /\r\nNobody blessed me with power to reach my love /\r\nOne cheap illusion can still be divine ♪",
+                "user": "miska",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
