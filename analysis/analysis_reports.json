@@ -41641,5 +41641,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-05T16:58:30.570680+00:00",
+        "hot_topics": [
+            {
+                "ngram": "steps today",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "melatonin",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status cafe",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 64,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 73,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 42,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jun",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 106,
+                "change": "345.0x"
+            },
+            {
+                "ngram": "syslog",
+                "mentions": 13,
+                "change": "42.3x"
+            },
+            {
+                "ngram": "steps",
+                "mentions": 6,
+                "change": "39.1x"
+            },
+            {
+                "ngram": "protocol",
+                "mentions": 6,
+                "change": "39.1x"
+            },
+            {
+                "ngram": "nonstop",
+                "mentions": 6,
+                "change": "39.1x"
+            },
+            {
+                "ngram": "backrooms movie",
+                "mentions": 13,
+                "change": "28.2x"
+            },
+            {
+                "ngram": "love writing",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "spent much money",
+                "mentions": 4,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "exe",
+                "mentions": 12,
+                "change": "26.0x"
+            },
+            {
+                "ngram": "backrooms",
+                "mentions": 23,
+                "change": "21.4x"
+            },
+            {
+                "ngram": "currently watching",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "dammit",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "aaaaaa",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "ans",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "technique",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "hot weather",
+                "mentions": 3,
+                "change": "19.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.07764296187683284,
+            "positive_percent": 37.712609970674485,
+            "negative_percent": 25.24926686217009,
+            "neutral_percent": 37.038123167155426,
+            "most_positive_example": {
+                "text": "Something possessed me - an image of you, my love /\r\nVideo visions that play on my mind /\r\nNobody blessed me with power to reach my love /\r\nOne cheap illusion can still be divine ♪",
+                "user": "miska",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
