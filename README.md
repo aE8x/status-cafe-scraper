@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-09 06:30 UTC*
+*Last Updated: 2026-06-09 17:08 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.078` 
-- **Distribution**: 37.7% Positive, 36.8% Neutral, 25.5% Negative
+- **Overall Mood Score**: `0.076` 
+- **Distribution**: 37.5% Positive, 37.1% Neutral, 25.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `ridiculously` | 5 |
-| 2 | - | `melatonin` | 4 |
-| 3 | - | `goodnight status` | 6 |
-| 4 | - | `goodnight status cafe` | 6 |
-| 5 | - | `pride month` | 68 |
-| 6 | - | `happy pride` | 79 |
-| 7 | - | `happy pride month` | 44 |
-| 8 | - | `gay month` | 6 |
-| 9 | - | `jun` | 5 |
-| 10 | - | `circus finale` | 4 |
-| 11 | - | `digital circus finale` | 4 |
-| 12 | - | `tadc finale` | 6 |
-| 13 | - | `pride` | 119 |
-| 14 | - | `backrooms movie` | 15 |
-| 15 | - | `exe` | 12 |
-| 16 | - | `nonstop` | 6 |
-| 17 | UP 3 | `slip` | 5 |
-| 18 | DOWN 1 | `neocities back` | 5 |
-| 19 | DOWN 1 | `backrooms` | 27 |
-| 20 | DOWN 1 | `spent much money` | 4 |
-| 21 | - | `persona` | 16 |
-| 22 | UP 3 | `new post` | 3 |
-| 23 | NEW | `onehttps` | 3 |
-| 24 | NEW | `temp` | 3 |
-| 25 | NEW | `amazon` | 3 |
+| 2 | NEW | `ocarina` | 5 |
+| 3 | NEW | `ocarina time` | 5 |
+| 4 | DOWN 2 | `melatonin` | 4 |
+| 5 | DOWN 2 | `goodnight status` | 6 |
+| 6 | DOWN 2 | `goodnight status cafe` | 6 |
+| 7 | DOWN 2 | `pride month` | 68 |
+| 8 | DOWN 2 | `happy pride` | 79 |
+| 9 | DOWN 2 | `happy pride month` | 44 |
+| 10 | DOWN 2 | `gay month` | 6 |
+| 11 | DOWN 2 | `jun` | 5 |
+| 12 | DOWN 2 | `circus finale` | 4 |
+| 13 | DOWN 2 | `digital circus finale` | 4 |
+| 14 | DOWN 2 | `tadc finale` | 7 |
+| 15 | DOWN 2 | `pride` | 119 |
+| 16 | DOWN 2 | `backrooms movie` | 16 |
+| 17 | DOWN 2 | `exe` | 12 |
+| 18 | DOWN 2 | `nonstop` | 6 |
+| 19 | - | `backrooms` | 28 |
+| 20 | DOWN 3 | `slip` | 5 |
+| 21 | DOWN 3 | `neocities back` | 5 |
+| 22 | DOWN 1 | `persona` | 16 |
+| 23 | - | `onehttps` | 3 |
+| 24 | - | `temp` | 3 |
+| 25 | - | `amazon` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
