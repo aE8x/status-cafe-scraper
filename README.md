@@ -8,18 +8,18 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-10 06:46 UTC*
+*Last Updated: 2026-06-10 17:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.076` 
-- **Distribution**: 37.4% Positive, 37.5% Neutral, 25.2% Negative
+- **Overall Mood Score**: `0.075` 
+- **Distribution**: 37.2% Positive, 37.7% Neutral, 25.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `ocarina` | 5 |
-| 2 | UP 1 | `ocarina time` | 5 |
-| 3 | NEW | `sitemap` | 4 |
+| 1 | - | `ocarina` | 5 |
+| 2 | - | `ocarina time` | 5 |
+| 3 | - | `sitemap` | 4 |
 | 4 | - | `melatonin` | 4 |
 | 5 | - | `goodnight status` | 6 |
 | 6 | - | `goodnight status cafe` | 6 |
@@ -35,13 +35,13 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 16 | - | `backrooms movie` | 16 |
 | 17 | - | `exe` | 12 |
 | 18 | - | `nonstop` | 6 |
-| 19 | UP 1 | `slip` | 5 |
-| 20 | UP 1 | `neocities back` | 5 |
-| 21 | DOWN 2 | `backrooms` | 28 |
-| 22 | NEW | `deltarune chapter` | 9 |
-| 23 | DOWN 22 | `ridiculously` | 4 |
-| 24 | NEW | `finally back` | 4 |
-| 25 | DOWN 3 | `persona` | 16 |
+| 19 | UP 1 | `neocities back` | 5 |
+| 20 | UP 1 | `backrooms` | 28 |
+| 21 | UP 1 | `deltarune chapter` | 9 |
+| 22 | NEW | `deltarune tomorrow` | 9 |
+| 23 | - | `ridiculously` | 4 |
+| 24 | - | `finally back` | 4 |
+| 25 | NEW | `kingdom hearts` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
