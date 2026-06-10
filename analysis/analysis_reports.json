@@ -42964,5 +42964,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-10T06:46:11.677986+00:00",
+        "hot_topics": [
+            {
+                "ngram": "ocarina",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ocarina time",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sitemap",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "melatonin",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status cafe",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 68,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 79,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 44,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jun",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "digital circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc finale",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 119,
+                "change": "369.6x"
+            },
+            {
+                "ngram": "backrooms movie",
+                "mentions": 16,
+                "change": "99.4x"
+            },
+            {
+                "ngram": "exe",
+                "mentions": 12,
+                "change": "37.3x"
+            },
+            {
+                "ngram": "nonstop",
+                "mentions": 6,
+                "change": "37.3x"
+            },
+            {
+                "ngram": "slip",
+                "mentions": 5,
+                "change": "31.1x"
+            },
+            {
+                "ngram": "neocities back",
+                "mentions": 5,
+                "change": "31.1x"
+            },
+            {
+                "ngram": "backrooms",
+                "mentions": 28,
+                "change": "29.0x"
+            },
+            {
+                "ngram": "deltarune chapter",
+                "mentions": 9,
+                "change": "28.0x"
+            },
+            {
+                "ngram": "ridiculously",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "finally back",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "persona",
+                "mentions": 16,
+                "change": "19.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.07622152289969092,
+            "positive_percent": 37.37004776622646,
+            "negative_percent": 25.175611126720987,
+            "neutral_percent": 37.45434110705254,
+            "most_positive_example": {
+                "text": "Something possessed me - an image of you, my love /\r\nVideo visions that play on my mind /\r\nNobody blessed me with power to reach my love /\r\nOne cheap illusion can still be divine ♪",
+                "user": "miska",
+                "score": 0.9652
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
