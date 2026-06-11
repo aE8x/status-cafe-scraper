@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-10 17:41 UTC*
+*Last Updated: 2026-06-11 07:12 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.075` 
-- **Distribution**: 37.2% Positive, 37.7% Neutral, 25.1% Negative
+- **Distribution**: 37.2% Positive, 37.8% Neutral, 25.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `goodnight status` | 6 |
 | 6 | - | `goodnight status cafe` | 6 |
 | 7 | - | `pride month` | 68 |
-| 8 | - | `happy pride` | 79 |
+| 8 | - | `happy pride` | 80 |
 | 9 | - | `happy pride month` | 44 |
 | 10 | - | `gay month` | 6 |
 | 11 | - | `jun` | 6 |
 | 12 | - | `circus finale` | 4 |
 | 13 | - | `digital circus finale` | 4 |
-| 14 | - | `tadc finale` | 7 |
-| 15 | - | `pride` | 119 |
+| 14 | - | `tadc finale` | 8 |
+| 15 | - | `pride` | 120 |
 | 16 | - | `backrooms movie` | 16 |
 | 17 | - | `exe` | 12 |
 | 18 | - | `nonstop` | 6 |
-| 19 | UP 1 | `neocities back` | 5 |
-| 20 | UP 1 | `backrooms` | 28 |
-| 21 | UP 1 | `deltarune chapter` | 9 |
-| 22 | NEW | `deltarune tomorrow` | 9 |
+| 19 | UP 1 | `backrooms` | 30 |
+| 20 | DOWN 1 | `neocities back` | 5 |
+| 21 | - | `deltarune chapter` | 9 |
+| 22 | - | `deltarune tomorrow` | 9 |
 | 23 | - | `ridiculously` | 4 |
 | 24 | - | `finally back` | 4 |
-| 25 | NEW | `kingdom hearts` | 4 |
+| 25 | - | `kingdom hearts` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 

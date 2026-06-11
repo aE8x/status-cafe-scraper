@@ -43258,5 +43258,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-11T07:12:03.619408+00:00",
+        "hot_topics": [
+            {
+                "ngram": "ocarina",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ocarina time",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sitemap",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "melatonin",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnight status cafe",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride month",
+                "mentions": 68,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 80,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 44,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jun",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "digital circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc finale",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 120,
+                "change": "372.1x"
+            },
+            {
+                "ngram": "backrooms movie",
+                "mentions": 16,
+                "change": "99.2x"
+            },
+            {
+                "ngram": "exe",
+                "mentions": 12,
+                "change": "37.2x"
+            },
+            {
+                "ngram": "nonstop",
+                "mentions": 6,
+                "change": "37.2x"
+            },
+            {
+                "ngram": "backrooms",
+                "mentions": 30,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "neocities back",
+                "mentions": 5,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "deltarune chapter",
+                "mentions": 9,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "deltarune tomorrow",
+                "mentions": 9,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "ridiculously",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "finally back",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "kingdom hearts",
+                "mentions": 4,
+                "change": "24.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.07472484559236384,
+            "positive_percent": 37.19820325659742,
+            "negative_percent": 25.014037057832677,
+            "neutral_percent": 37.7877596855699,
+            "most_positive_example": {
+                "text": "HAPPY PRIDE MONTH!!! god when will something lesbian happen to me pls allow me to live a beautiful butchfemme relationship... amen",
+                "user": "coeur",
+                "score": 0.9489
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
