@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-11 17:49 UTC*
+*Last Updated: 2026-06-12 06:58 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.078` 
-- **Distribution**: 37.3% Positive, 38.0% Neutral, 24.7% Negative
+- **Overall Mood Score**: `0.080` 
+- **Distribution**: 37.4% Positive, 38.4% Neutral, 24.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `ocarina` | 5 |
-| 2 | - | `ocarina time` | 5 |
-| 3 | - | `sitemap` | 4 |
-| 4 | - | `melatonin` | 4 |
-| 5 | - | `goodnight status` | 6 |
-| 6 | - | `goodnight status cafe` | 6 |
-| 7 | - | `pride month` | 70 |
-| 8 | - | `happy pride` | 81 |
-| 9 | - | `happy pride month` | 45 |
-| 10 | - | `gay month` | 6 |
-| 11 | - | `jun` | 6 |
-| 12 | - | `circus finale` | 4 |
-| 13 | - | `digital circus finale` | 4 |
-| 14 | - | `tadc finale` | 8 |
-| 15 | - | `pride` | 122 |
-| 16 | - | `backrooms movie` | 16 |
-| 17 | UP 1 | `nonstop` | 6 |
-| 18 | UP 2 | `neocities back` | 5 |
-| 19 | UP 2 | `deltarune chapter` | 9 |
-| 20 | UP 2 | `deltarune tomorrow` | 9 |
-| 21 | DOWN 2 | `backrooms` | 29 |
-| 22 | UP 2 | `finally back` | 4 |
-| 23 | UP 2 | `kingdom hearts` | 4 |
-| 24 | DOWN 7 | `exe` | 11 |
-| 25 | NEW | `persona` | 16 |
+| 1 | UP 2 | `sitemap` | 4 |
+| 2 | UP 2 | `melatonin` | 4 |
+| 3 | UP 2 | `goodnight status` | 6 |
+| 4 | UP 2 | `goodnight status cafe` | 6 |
+| 5 | UP 2 | `pride month` | 70 |
+| 6 | UP 2 | `happy pride` | 81 |
+| 7 | UP 2 | `happy pride month` | 45 |
+| 8 | UP 2 | `gay month` | 6 |
+| 9 | UP 2 | `jun` | 6 |
+| 10 | UP 2 | `circus finale` | 4 |
+| 11 | UP 2 | `digital circus finale` | 4 |
+| 12 | UP 2 | `tadc finale` | 8 |
+| 13 | UP 2 | `pride` | 123 |
+| 14 | UP 2 | `backrooms movie` | 15 |
+| 15 | DOWN 14 | `ocarina` | 5 |
+| 16 | DOWN 14 | `ocarina time` | 5 |
+| 17 | UP 1 | `neocities back` | 5 |
+| 18 | UP 5 | `kingdom hearts` | 5 |
+| 19 | - | `deltarune chapter` | 9 |
+| 20 | - | `deltarune tomorrow` | 9 |
+| 21 | - | `backrooms` | 30 |
+| 22 | UP 2 | `exe` | 11 |
+| 23 | UP 2 | `persona` | 16 |
+| 24 | NEW | `deltarune` | 43 |
+| 25 | NEW | `theaters` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
