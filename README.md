@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-13 15:56 UTC*
+*Last Updated: 2026-06-14 07:01 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.077` 
-- **Distribution**: 36.9% Positive, 38.6% Neutral, 24.5% Negative
+- **Overall Mood Score**: `0.081` 
+- **Distribution**: 37.2% Positive, 38.8% Neutral, 24.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `melatonin` | 4 |
-| 2 | - | `goodnight status` | 7 |
-| 3 | - | `goodnight status cafe` | 7 |
-| 4 | - | `pride month` | 71 |
-| 5 | - | `happy pride` | 82 |
-| 6 | - | `happy pride month` | 46 |
-| 7 | - | `gay month` | 6 |
-| 8 | - | `saw backrooms` | 4 |
-| 9 | - | `jun` | 6 |
-| 10 | - | `watching backrooms` | 5 |
-| 11 | - | `circus finale` | 4 |
-| 12 | - | `digital circus finale` | 4 |
-| 13 | - | `tadc finale` | 8 |
-| 14 | - | `pride` | 124 |
+| 1 | UP 3 | `pride month` | 72 |
+| 2 | UP 3 | `happy pride` | 83 |
+| 3 | UP 3 | `happy pride month` | 47 |
+| 4 | UP 3 | `gay month` | 6 |
+| 5 | UP 3 | `saw backrooms` | 4 |
+| 6 | NEW | `texas` | 4 |
+| 7 | UP 2 | `jun` | 6 |
+| 8 | UP 2 | `watching backrooms` | 5 |
+| 9 | UP 2 | `circus finale` | 4 |
+| 10 | UP 2 | `digital circus finale` | 4 |
+| 11 | UP 2 | `tadc finale` | 8 |
+| 12 | UP 2 | `pride` | 125 |
+| 13 | DOWN 11 | `goodnight status` | 6 |
+| 14 | DOWN 11 | `goodnight status cafe` | 6 |
 | 15 | - | `ocarina` | 5 |
 | 16 | - | `ocarina time` | 5 |
 | 17 | - | `neocities back` | 5 |
 | 18 | - | `kingdom hearts` | 5 |
-| 19 | UP 2 | `persona` | 18 |
-| 20 | DOWN 1 | `deltarune chapter` | 9 |
-| 21 | DOWN 1 | `deltarune tomorrow` | 9 |
-| 22 | - | `deltarune` | 44 |
-| 23 | NEW | `acab` | 3 |
-| 24 | NEW | `like man` | 3 |
-| 25 | NEW | `artfight prep` | 3 |
+| 19 | - | `persona` | 18 |
+| 20 | - | `deltarune chapter` | 9 |
+| 21 | - | `deltarune tomorrow` | 9 |
+| 22 | DOWN 21 | `melatonin` | 4 |
+| 23 | DOWN 1 | `deltarune` | 44 |
+| 24 | UP 1 | `artfight prep` | 3 |
+| 25 | NEW | `rivals` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

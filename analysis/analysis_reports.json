@@ -44140,5 +44140,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-14T07:01:13.680178+00:00",
+        "hot_topics": [
+            {
+                "ngram": "pride month",
+                "mentions": 72,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride",
+                "mentions": 83,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy pride month",
+                "mentions": 47,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gay month",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "saw backrooms",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "texas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jun",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "watching backrooms",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "digital circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc finale",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pride",
+                "mentions": 125,
+                "change": "259.9x"
+            },
+            {
+                "ngram": "goodnight status",
+                "mentions": 6,
+                "change": "37.4x"
+            },
+            {
+                "ngram": "goodnight status cafe",
+                "mentions": 6,
+                "change": "37.4x"
+            },
+            {
+                "ngram": "ocarina",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "ocarina time",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "neocities back",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "kingdom hearts",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "persona",
+                "mentions": 18,
+                "change": "28.1x"
+            },
+            {
+                "ngram": "deltarune chapter",
+                "mentions": 9,
+                "change": "28.1x"
+            },
+            {
+                "ngram": "deltarune tomorrow",
+                "mentions": 9,
+                "change": "28.1x"
+            },
+            {
+                "ngram": "melatonin",
+                "mentions": 4,
+                "change": "24.9x"
+            },
+            {
+                "ngram": "deltarune",
+                "mentions": 44,
+                "change": "21.1x"
+            },
+            {
+                "ngram": "artfight prep",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "rivals",
+                "mentions": 3,
+                "change": "18.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.08089991532599491,
+            "positive_percent": 37.228337567033584,
+            "negative_percent": 23.99096810612475,
+            "neutral_percent": 38.780694326841655,
+            "most_positive_example": {
+                "text": "love love love my gf SUPER LOVE!!!!",
+                "user": "vivarism",
+                "score": 0.9657
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
