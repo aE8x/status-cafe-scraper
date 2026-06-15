@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-14 16:04 UTC*
+*Last Updated: 2026-06-15 07:42 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.079` 
-- **Distribution**: 36.9% Positive, 39.0% Neutral, 24.1% Negative
+- **Overall Mood Score**: `0.073` 
+- **Distribution**: 36.3% Positive, 39.4% Neutral, 24.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 3 | `gay month` | 6 |
-| 2 | UP 3 | `saw backrooms` | 4 |
-| 3 | UP 3 | `texas` | 4 |
-| 4 | UP 3 | `jun` | 6 |
-| 5 | UP 3 | `watching backrooms` | 5 |
-| 6 | UP 3 | `circus finale` | 4 |
-| 7 | UP 3 | `digital circus finale` | 4 |
-| 8 | UP 3 | `tadc finale` | 8 |
-| 9 | DOWN 6 | `happy pride month` | 46 |
-| 10 | DOWN 8 | `happy pride` | 81 |
-| 11 | DOWN 10 | `pride month` | 70 |
-| 12 | - | `pride` | 123 |
-| 13 | - | `goodnight status` | 6 |
-| 14 | - | `goodnight status cafe` | 6 |
-| 15 | - | `ocarina` | 5 |
-| 16 | - | `ocarina time` | 5 |
-| 17 | - | `neocities back` | 5 |
-| 18 | - | `kingdom hearts` | 5 |
-| 19 | - | `persona` | 18 |
-| 20 | - | `deltarune chapter` | 9 |
-| 21 | - | `deltarune tomorrow` | 9 |
-| 22 | UP 1 | `deltarune` | 44 |
-| 23 | UP 2 | `rivals` | 3 |
-| 24 | NEW | `combination` | 3 |
-| 25 | NEW | `wanna start` | 3 |
+| 1 | UP 2 | `texas` | 4 |
+| 2 | UP 2 | `jun` | 7 |
+| 3 | UP 2 | `watching backrooms` | 5 |
+| 4 | UP 2 | `circus finale` | 4 |
+| 5 | UP 2 | `digital circus finale` | 4 |
+| 6 | UP 2 | `tadc finale` | 8 |
+| 7 | NEW | `teams` | 5 |
+| 8 | NEW | `team tragedy` | 5 |
+| 9 | UP 4 | `goodnight status` | 7 |
+| 10 | UP 4 | `goodnight status cafe` | 7 |
+| 11 | UP 6 | `neocities back` | 5 |
+| 12 | UP 6 | `kingdom hearts` | 5 |
+| 13 | UP 7 | `deltarune chapter` | 9 |
+| 14 | UP 7 | `deltarune tomorrow` | 9 |
+| 15 | DOWN 5 | `happy pride` | 67 |
+| 16 | DOWN 14 | `saw backrooms` | 4 |
+| 17 | DOWN 5 | `pride` | 103 |
+| 18 | DOWN 9 | `happy pride month` | 37 |
+| 19 | UP 3 | `deltarune` | 45 |
+| 20 | DOWN 9 | `pride month` | 55 |
+| 21 | NEW | `one ever` | 3 |
+| 22 | NEW | `virus` | 3 |
+| 23 | NEW | `announcing` | 3 |
+| 24 | UP 1 | `wanna start` | 3 |
+| 25 | NEW | `oooh` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
