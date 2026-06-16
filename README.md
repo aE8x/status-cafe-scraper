@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-15 18:49 UTC*
+*Last Updated: 2026-06-16 08:23 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.067` 
-- **Distribution**: 35.6% Positive, 39.7% Neutral, 24.7% Negative
+- **Overall Mood Score**: `0.064` 
+- **Distribution**: 35.2% Positive, 40.1% Neutral, 24.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `watching backrooms` | 5 |
-| 2 | UP 2 | `circus finale` | 4 |
-| 3 | UP 2 | `digital circus finale` | 4 |
-| 4 | UP 2 | `tadc finale` | 8 |
-| 5 | NEW | `deltarune days` | 4 |
-| 6 | UP 1 | `teams` | 6 |
-| 7 | NEW | `artfight teams` | 4 |
+| 1 | UP 1 | `circus finale` | 4 |
+| 2 | UP 1 | `digital circus finale` | 4 |
+| 3 | UP 1 | `tadc finale` | 8 |
+| 4 | UP 1 | `deltarune days` | 5 |
+| 5 | NEW | `artfight net` | 4 |
+| 6 | - | `teams` | 6 |
+| 7 | - | `artfight teams` | 4 |
 | 8 | - | `team tragedy` | 6 |
-| 9 | - | `goodnight status` | 7 |
-| 10 | - | `goodnight status cafe` | 7 |
-| 11 | DOWN 9 | `jun` | 6 |
-| 12 | NEW | `artfight soon` | 5 |
-| 13 | DOWN 2 | `neocities back` | 5 |
-| 14 | DOWN 2 | `kingdom hearts` | 5 |
-| 15 | DOWN 2 | `deltarune chapter` | 9 |
-| 16 | DOWN 2 | `deltarune tomorrow` | 9 |
-| 17 | DOWN 1 | `saw backrooms` | 4 |
-| 18 | UP 1 | `deltarune` | 46 |
-| 19 | DOWN 18 | `texas` | 3 |
-| 20 | UP 2 | `virus` | 3 |
-| 21 | UP 2 | `announcing` | 3 |
-| 22 | UP 2 | `wanna start` | 3 |
-| 23 | UP 2 | `oooh` | 3 |
-| 24 | NEW | `cassette` | 3 |
-| 25 | NEW | `edition` | 3 |
+| 9 | UP 3 | `artfight soon` | 7 |
+| 10 | UP 1 | `jun` | 6 |
+| 11 | UP 2 | `neocities back` | 5 |
+| 12 | UP 2 | `kingdom hearts` | 5 |
+| 13 | UP 2 | `deltarune chapter` | 9 |
+| 14 | UP 2 | `deltarune tomorrow` | 9 |
+| 15 | UP 2 | `saw backrooms` | 4 |
+| 16 | UP 2 | `deltarune` | 47 |
+| 17 | NEW | `dynamic` | 3 |
+| 18 | UP 2 | `virus` | 3 |
+| 19 | UP 2 | `announcing` | 3 |
+| 20 | UP 2 | `wanna start` | 3 |
+| 21 | UP 2 | `oooh` | 3 |
+| 22 | UP 2 | `cassette` | 3 |
+| 23 | UP 2 | `edition` | 3 |
+| 24 | NEW | `phoebe` | 3 |
+| 25 | DOWN 16 | `goodnight status` | 6 |
 
 <!-- END_ANALYSIS_SECTION -->
 
