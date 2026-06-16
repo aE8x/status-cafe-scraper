@@ -44875,5 +44875,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-16T18:42:44.843944+00:00",
+        "hot_topics": [
+            {
+                "ngram": "circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "digital circus finale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tadc finale",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune days",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight net",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "teams",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight teams",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team tragedy",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight soon",
+                "mentions": 8,
+                "change": "49.7x"
+            },
+            {
+                "ngram": "neocities back",
+                "mentions": 5,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "kingdom hearts",
+                "mentions": 5,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "deltarune chapter",
+                "mentions": 9,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "deltarune tomorrow",
+                "mentions": 9,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "saw backrooms",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "deltarune",
+                "mentions": 47,
+                "change": "22.4x"
+            },
+            {
+                "ngram": "announcing",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "wanna start",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "oooh",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "cassette",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "edition",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "phoebe",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "goodnight status",
+                "mentions": 6,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "goodnight status cafe",
+                "mentions": 6,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "square",
+                "mentions": 3,
+                "change": "18.6x"
+            },
+            {
+                "ngram": "last act",
+                "mentions": 6,
+                "change": "18.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06384062412145065,
+            "positive_percent": 35.31065504638741,
+            "negative_percent": 24.85240371099241,
+            "neutral_percent": 39.836941242620185,
+            "most_positive_example": {
+                "text": "I feel like exploding but in confetti :D also happy pride to fellow gays and the theys and more! <3",
+                "user": "zeraphinecharmeine",
+                "score": 0.9684
+            },
+            "most_negative_example": {
+                "text": "I finished my side project, but i decided to delay it, just to add THE ENTIRETY OF KILL LA KILL 2 ED remade just because it would be fun..",
+                "user": "memoca",
+                "score": -0.9692
+            }
+        },
+        "summary_message": null
     }
 ]
