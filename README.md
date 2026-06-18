@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-18 07:13 UTC*
+*Last Updated: 2026-06-18 17:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.057` 
-- **Distribution**: 34.6% Positive, 40.4% Neutral, 25.1% Negative
+- **Overall Mood Score**: `0.056` 
+- **Distribution**: 34.4% Positive, 40.5% Neutral, 25.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `circus finale` | 4 |
-| 2 | - | `digital circus finale` | 4 |
-| 3 | - | `tadc finale` | 8 |
-| 4 | NEW | `goodnighthttps` | 4 |
-| 5 | NEW | `goodnighthttps cozy` | 4 |
-| 6 | DOWN 2 | `deltarune days` | 5 |
-| 7 | DOWN 2 | `comedy` | 4 |
-| 8 | DOWN 2 | `team comedy` | 4 |
-| 9 | DOWN 2 | `artfight net` | 5 |
-| 10 | DOWN 2 | `teams` | 6 |
-| 11 | DOWN 2 | `artfight teams` | 4 |
-| 12 | DOWN 2 | `https artfight` | 4 |
-| 13 | DOWN 2 | `https artfight net` | 4 |
-| 14 | DOWN 2 | `olivia` | 4 |
-| 15 | DOWN 2 | `team tragedy` | 6 |
-| 16 | DOWN 2 | `neocities back` | 5 |
-| 17 | DOWN 2 | `kingdom hearts` | 5 |
-| 18 | DOWN 2 | `deltarune chapter` | 9 |
-| 19 | DOWN 2 | `deltarune tomorrow` | 9 |
-| 20 | DOWN 2 | `phil` | 4 |
-| 21 | DOWN 2 | `saw backrooms` | 4 |
-| 22 | DOWN 2 | `fight year` | 4 |
-| 23 | DOWN 2 | `art fight year` | 4 |
-| 24 | DOWN 2 | `deltarune` | 50 |
-| 25 | NEW | `announced` | 7 |
+| 1 | UP 2 | `tadc finale` | 8 |
+| 2 | UP 2 | `goodnighthttps` | 4 |
+| 3 | UP 2 | `goodnighthttps cozy` | 4 |
+| 4 | UP 2 | `deltarune days` | 5 |
+| 5 | NEW | `victorian` | 4 |
+| 6 | UP 1 | `comedy` | 4 |
+| 7 | UP 1 | `team comedy` | 4 |
+| 8 | UP 1 | `artfight net` | 5 |
+| 9 | UP 1 | `teams` | 6 |
+| 10 | UP 1 | `artfight teams` | 4 |
+| 11 | UP 1 | `https artfight` | 4 |
+| 12 | UP 1 | `https artfight net` | 4 |
+| 13 | UP 1 | `olivia` | 4 |
+| 14 | UP 1 | `team tragedy` | 6 |
+| 15 | UP 1 | `neocities back` | 5 |
+| 16 | UP 2 | `deltarune chapter` | 10 |
+| 17 | - | `kingdom hearts` | 5 |
+| 18 | UP 1 | `deltarune tomorrow` | 9 |
+| 19 | UP 5 | `deltarune` | 51 |
+| 20 | - | `phil` | 4 |
+| 21 | - | `saw backrooms` | 4 |
+| 22 | NEW | `fucks` | 4 |
+| 23 | DOWN 1 | `fight year` | 4 |
+| 24 | DOWN 1 | `art fight year` | 4 |
+| 25 | - | `announced` | 7 |
 
 <!-- END_ANALYSIS_SECTION -->
 
