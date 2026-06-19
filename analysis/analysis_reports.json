@@ -45610,5 +45610,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-19T07:34:39.700998+00:00",
+        "hot_topics": [
+            {
+                "ngram": "goodnighthttps",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "goodnighthttps cozy",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune days",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "victorian",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "comedy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team comedy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight net",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "teams",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight teams",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "https artfight",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "https artfight net",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "olivia",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team tragedy",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "neocities back",
+                "mentions": 5,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "deltarune chapter",
+                "mentions": 10,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "kingdom hearts",
+                "mentions": 5,
+                "change": "31.0x"
+            },
+            {
+                "ngram": "deltarune tomorrow",
+                "mentions": 9,
+                "change": "27.9x"
+            },
+            {
+                "ngram": "deltarune",
+                "mentions": 51,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "phil",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "saw backrooms",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "fucks",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "fight year",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "art fight year",
+                "mentions": 4,
+                "change": "24.8x"
+            },
+            {
+                "ngram": "announced",
+                "mentions": 7,
+                "change": "21.7x"
+            },
+            {
+                "ngram": "artfight soon",
+                "mentions": 7,
+                "change": "21.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05709324894514768,
+            "positive_percent": 34.627285513361464,
+            "negative_percent": 25.11954992967651,
+            "neutral_percent": 40.25316455696203,
+            "most_positive_example": {
+                "text": "I feel like exploding but in confetti :D also happy pride to fellow gays and the theys and more! <3",
+                "user": "zeraphinecharmeine",
+                "score": 0.9684
+            },
+            "most_negative_example": {
+                "text": "sick n tired sick n tired sick n tired",
+                "user": "korenara",
+                "score": -0.9559
+            }
+        },
+        "summary_message": null
     }
 ]
