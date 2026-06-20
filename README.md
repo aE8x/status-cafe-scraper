@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-20 06:44 UTC*
+*Last Updated: 2026-06-20 15:58 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.060` 
-- **Distribution**: 34.7% Positive, 41.0% Neutral, 24.4% Negative
+- **Overall Mood Score**: `0.059` 
+- **Distribution**: 34.5% Positive, 41.1% Neutral, 24.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -30,18 +30,18 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 11 | - | `https artfight net` | 5 |
 | 12 | - | `olivia` | 5 |
 | 13 | - | `team tragedy` | 7 |
-| 14 | NEW | `think ill` | 4 |
-| 15 | DOWN 1 | `deltarune chapter` | 11 |
+| 14 | - | `think ill` | 4 |
+| 15 | - | `deltarune chapter` | 11 |
 | 16 | - | `kingdom hearts` | 5 |
 | 17 | - | `deltarune tomorrow` | 9 |
-| 18 | - | `deltarune` | 52 |
-| 19 | UP 1 | `fucks` | 4 |
-| 20 | UP 1 | `fight year` | 4 |
-| 21 | UP 1 | `art fight year` | 4 |
-| 22 | UP 1 | `artfight soon` | 8 |
-| 23 | UP 1 | `announced` | 7 |
-| 24 | NEW | `time good` | 3 |
-| 25 | NEW | `came back` | 3 |
+| 18 | - | `deltarune` | 53 |
+| 19 | - | `fucks` | 4 |
+| 20 | - | `fight year` | 4 |
+| 21 | - | `art fight year` | 4 |
+| 22 | - | `artfight soon` | 8 |
+| 23 | - | `announced` | 7 |
+| 24 | NEW | `hades` | 3 |
+| 25 | NEW | `artfight refs` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
