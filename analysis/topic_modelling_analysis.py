@@ -49,27 +49,7 @@ class Config:
         'status', 'cafe', 'update', 'sitemap', 'site', 'website', 'button', 'layout', 
         'marquee', 'marquees', 'webmaster', 'domain', 'blog', 'post', 'posts', 'page', 
         'online', 'offline', 'link', 'url', 'http', 'https', 'www', 'com', 'org', 'net', 
-        'neocities', 'html', 'css', 'web', 'internet', 'codeberg', 'wordpress', 'vgen',
-        
-        # 3. Temporal, Dates, & Countdowns
-        'goodnight', 'morning', 'evening', 'night', 'day', 'days', 'today', 'tomorrow', 
-        'yesterday', 'week', 'weeks', 'month', 'months', 'year', 'years', 'time', 'hour', 
-        'hours', 'minute', 'minutes', 'till', 'ago', 'another', 'still', 'already', 'always', 
-        'never', 'sometimes', 'soon', 'hourly', 'currently', 'recently',
-        'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 
-        'october', 'november', 'december', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec',
-        
-        # 4. Conversational Fillers, Adverbs, & Expletives
-        'like', 'man', 'one', 'ever', 'realsies', 'oooh', 'really', 'actually', 'fucking', 
-        'fuck', 'shit', 'damn', 'god', 'bruh', 'bru', 'lmaoo', 'lmao', 'lmfao', 'omg', 
-        'omggg', 'aaaaaa', 'yeah', 'yeahhh', 'urgh', 'ugh', 'much', 'many', 'every', 
-        'everything', 'nothing', 'anything', 'someone', 'everyone', 'anyone', 'noone', 
-        'way', 'least', 'whatever', 'whoever', 'whenever', 'however', 'good', 'bad', 
-        'better', 'worse', 'best', 'worst', 'well', 'bit', 'lot', 'lots', 'stuff', 'things', 
-        'thing', 'back', 'around', 'away', 'even', 'boy', 'girl', 'guy', 'dude',
-        
-        # 5. Multilingual Greetings & Common Bleed-over
-        'buenos', 'noches', 'guten', 'nacht', 'bonne', 'nuit', 'meu', 'deus', 'bom', 'dia', 'ita'
+        'neocities', 'html', 'css', 'web', 'internet', 'codeberg', 'wordpress', 'vgen'
     ]
 
     # Sentiment Analysis Parameters
