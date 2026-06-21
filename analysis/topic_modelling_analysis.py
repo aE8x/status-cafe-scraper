@@ -33,6 +33,45 @@ class Config:
     NGRAM_SPIKE_MULTIPLIER: float = 2.5
     TOP_N_NGRAMS_TO_SHOW: int = 25
 
+    # --- NLP Filtering Parameters ---
+    SUB_NGRAM_OVERLAP_THRESHOLD: float = 0.80  # Filter out smaller phrase if 80%+ is in a larger phrase
+    
+    # Expanded stopwords targeting status.cafe culture, temporal words, and conversational filler
+    CUSTOM_STOPWORDS: List[str] = [
+        # 1. NLTK Gaps, Contractions, & Basic Verbs
+        'im', 'ive', 'gonna', 'wan', 'na', 'ill', 'id', 'dont', 'cant', 'youre', 'theyre',
+        'got', 'get', 'getting', 'gotta', 'make', 'making', 'made', 'say', 'said', 'saying', 
+        'going', 'go', 'went', 'want', 'wants', 'wanted', 'need', 'needs', 'needed', 
+        'think', 'thought', 'know', 'knew', 'feel', 'feels', 'feeling', 'look', 'looks', 
+        'looking', 'put', 'putting', 'come', 'came', 'see', 'saw', 'seeing', 'try', 'trying',
+        
+        # 2. Status.cafe & Webmaster Meta
+        'status', 'cafe', 'update', 'sitemap', 'site', 'website', 'button', 'layout', 
+        'marquee', 'marquees', 'webmaster', 'domain', 'blog', 'post', 'posts', 'page', 
+        'online', 'offline', 'link', 'url', 'http', 'https', 'www', 'com', 'org', 'net', 
+        'neocities', 'html', 'css', 'web', 'internet', 'codeberg', 'wordpress', 'vgen',
+        
+        # 3. Temporal, Dates, & Countdowns
+        'goodnight', 'morning', 'evening', 'night', 'day', 'days', 'today', 'tomorrow', 
+        'yesterday', 'week', 'weeks', 'month', 'months', 'year', 'years', 'time', 'hour', 
+        'hours', 'minute', 'minutes', 'till', 'ago', 'another', 'still', 'already', 'always', 
+        'never', 'sometimes', 'soon', 'hourly', 'currently', 'recently',
+        'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 
+        'october', 'november', 'december', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec',
+        
+        # 4. Conversational Fillers, Adverbs, & Expletives
+        'like', 'man', 'one', 'ever', 'realsies', 'oooh', 'really', 'actually', 'fucking', 
+        'fuck', 'shit', 'damn', 'god', 'bruh', 'bru', 'lmaoo', 'lmao', 'lmfao', 'omg', 
+        'omggg', 'aaaaaa', 'yeah', 'yeahhh', 'urgh', 'ugh', 'much', 'many', 'every', 
+        'everything', 'nothing', 'anything', 'someone', 'everyone', 'anyone', 'noone', 
+        'way', 'least', 'whatever', 'whoever', 'whenever', 'however', 'good', 'bad', 
+        'better', 'worse', 'best', 'worst', 'well', 'bit', 'lot', 'lots', 'stuff', 'things', 
+        'thing', 'back', 'around', 'away', 'even', 'boy', 'girl', 'guy', 'dude',
+        
+        # 5. Multilingual Greetings & Common Bleed-over
+        'buenos', 'noches', 'guten', 'nacht', 'bonne', 'nuit', 'meu', 'deus', 'bom', 'dia', 'ita'
+    ]
+
     # Sentiment Analysis Parameters
     SENTIMENT_ANALYSIS_HOURS: int = 336
 
@@ -60,7 +99,11 @@ class TrendSentimentAnalyzer:
     def __init__(self):
         self.report_filepath = os.path.join(Config.REPORT_DIR, Config.REPORT_JSON_FILENAME)
         self.df = None
-        self.stop_words = set(stopwords.words('english')).union(['im', 'ive', 'gonna', 'wan', 'na'])
+        
+        # Combine base English stopwords with our custom community list
+        base_stopwords = set(stopwords.words('english'))
+        self.stop_words = base_stopwords.union(Config.CUSTOM_STOPWORDS)
+        
         self.sia = SentimentIntensityAnalyzer()
 
     def _discover_and_load_monthly_files(self, start_date: pd.Timestamp, end_date: pd.Timestamp) -> Dict[str, Dict[str, Any]]:
@@ -70,9 +113,7 @@ class TrendSentimentAnalyzer:
         """
         all_data = {}
         
-        # Start at the beginning of the start month
         current_date = start_date.replace(day=1)
-        # End at the end of the end month
         end_month = end_date.replace(day=1)
         
         logging.info(f"Searching for monthly files from {current_date.strftime('%Y-%m')} to {end_month.strftime('%Y-%m')}")
@@ -81,7 +122,6 @@ class TrendSentimentAnalyzer:
             year = current_date.year
             month = current_date.month
             
-            # Construct the filepath for this month
             year_dir = os.path.join(Config.DATA_DIR, str(year))
             filepath = os.path.join(year_dir, f"statuses_{year}_{month:02d}.json")
             
@@ -96,7 +136,6 @@ class TrendSentimentAnalyzer:
             else:
                 logging.info(f"Monthly file not found: {filepath}")
             
-            # Move to next month
             if month == 12:
                 current_date = current_date.replace(year=year + 1, month=1)
             else:
@@ -112,19 +151,14 @@ class TrendSentimentAnalyzer:
         
         now = pd.Timestamp.now(tz='UTC')
         
-        # Calculate how far back we need to load data
         total_hours_needed = Config.CURRENT_ANALYSIS_HOURS + Config.HISTORICAL_BASELINE_HOURS
         earliest_date_needed = now - pd.Timedelta(hours=total_hours_needed)
-        
-        # Also load sentiment data period
         earliest_sentiment_date = now - pd.Timedelta(hours=Config.SENTIMENT_ANALYSIS_HOURS)
         
-        # Use the earlier of the two dates
         start_date = min(earliest_date_needed, earliest_sentiment_date)
         
         logging.info(f"Loading data from {start_date.strftime('%Y-%m-%d')} to {now.strftime('%Y-%m-%d')}")
         
-        # Load all monthly files in the required range
         all_data = self._discover_and_load_monthly_files(start_date, now)
         
         if not all_data:
@@ -133,7 +167,6 @@ class TrendSentimentAnalyzer:
         
         logging.info(f"Total statuses loaded from all months: {len(all_data)}")
         
-        # Convert to DataFrame
         self.df = pd.DataFrame.from_dict(all_data, orient='index')
         self.df['timestamp'] = pd.to_datetime(self.df['timestamp_iso'], errors='coerce')
         self.df.dropna(subset=['text', 'timestamp'], inplace=True)
@@ -167,7 +200,14 @@ class TrendSentimentAnalyzer:
 
     def _preprocess_text(self, text: str) -> List[str]:
         if not isinstance(text, str): return []
-        raw_words = re.findall(r'\b[a-z]{3,}\b', text.lower())
+        
+        # 1. Strip URLs (including raw domains and trailing paths like site.neocities.org/page)
+        text_no_urls = re.sub(r'(?:http[s]?://\S+|www\.\S+|\b\S+\.(?:com|org|net|co|io|cafe)(?:/\S*)?)', '', text.lower())
+        
+        # 2. Tokenize into clean words (3+ characters, a-z only)
+        raw_words = re.findall(r'\b[a-z]{3,}\b', text_no_urls)
+        
+        # 3. Filter using the combined stop words
         return [w for w in raw_words if w not in self.stop_words]
 
     # --- Part 1: N-Gram Trend Analysis ---
@@ -177,19 +217,51 @@ class TrendSentimentAnalyzer:
         current_ngrams = self._get_ngrams_from_dataframe(df_current)
         baseline_freq = {ng: len(ids) / len(df_baseline) * 1000 for ng, ids in baseline_ngrams.items()} if len(df_baseline) > 0 else {}
         current_freq = {ng: len(ids) / len(df_current) * 1000 for ng, ids in current_ngrams.items()} if len(df_current) > 0 else {}
+        
         spiking_ngrams = []
         for ngram, freq in current_freq.items():
             count = len(current_ngrams[ngram])
             base_freq = baseline_freq.get(ngram, 0)
             is_new = (base_freq == 0)
+            
             if is_new:
                 if count < Config.MIN_MENTIONS_FOR_NEW_TREND: continue
             else:
                 if count < Config.MIN_MENTIONS_FOR_NGRAM_TREND: continue
+            
             change = float('inf') if is_new else freq / base_freq
             if change >= Config.NGRAM_SPIKE_MULTIPLIER:
                 spiking_ngrams.append({'ngram': ngram, 'count': count, 'change': change})
-        return spiking_ngrams
+
+        # === Sub-ngram Redundancy Filter ===
+        # Sort by word length (longest first), then count (highest first)
+        spiking_ngrams.sort(key=lambda x: (len(x['ngram'].split()), x['count']), reverse=True)
+        
+        filtered_spikes = []
+        
+        for spike in spiking_ngrams:
+            is_redundant = False
+            
+            # Pad with spaces to ensure accurate word-boundary matching
+            padded_spike = f" {spike['ngram']} "
+            
+            for kept in filtered_spikes:
+                padded_kept = f" {kept['ngram']} "
+                
+                # If the smaller string is perfectly nested inside the larger string
+                if padded_spike in padded_kept:
+                    # Calculate how much of the smaller phrase is accounted for by the larger phrase
+                    overlap_ratio = kept['count'] / spike['count']
+                    
+                    if overlap_ratio >= Config.SUB_NGRAM_OVERLAP_THRESHOLD:
+                        is_redundant = True
+                        logging.debug(f"Filtered redundant n-gram: '{spike['ngram']}' (Absorbed by '{kept['ngram']}')")
+                        break
+            
+            if not is_redundant:
+                filtered_spikes.append(spike)
+
+        return filtered_spikes
 
     def _get_ngrams_from_dataframe(self, df_period: pd.DataFrame) -> Dict[str, set]:
         ngrams_by_status_id = defaultdict(set)
@@ -289,7 +361,8 @@ class TrendSentimentAnalyzer:
             print(no_trends_msg)
             report_data_structured["summary_message"] = no_trends_msg
         else:
-            sorted_ngrams = sorted(spiking_ngrams, key=lambda x: x['change'], reverse=True)[:Config.TOP_N_NGRAMS_TO_SHOW]
+            # Sort by change (descending) then by count (descending) to resolve 'inf' ties fairly
+            sorted_ngrams = sorted(spiking_ngrams, key=lambda x: (x['change'], x['count']), reverse=True)[:Config.TOP_N_NGRAMS_TO_SHOW]
             for item in sorted_ngrams:
                 change_str = "NEW" if item['change'] == float('inf') else f"{item['change']:.1f}x"
                 print(f"- \"{item['ngram']}\" ({item['count']} mentions, {change_str} increase)")
@@ -311,7 +384,6 @@ class TrendSentimentAnalyzer:
     def run_analysis(self):
         if not self._load_and_prepare_data(): return
 
-        # Trend analysis remains conditional on sufficient historical data
         spiking_ngrams = []
         if self._has_sufficient_data_span():
             now = pd.Timestamp.now(tz='UTC')
@@ -322,7 +394,6 @@ class TrendSentimentAnalyzer:
             logging.info(f"Trend analysis windows: {len(df_current)} current, {len(df_baseline)} baseline.")
             spiking_ngrams = self._run_ngram_analysis(df_current, df_baseline)
         
-        # Sentiment analysis runs independently on recent data
         now = pd.Timestamp.now(tz='UTC')
         sentiment_boundary = now - pd.Timedelta(hours=Config.SENTIMENT_ANALYSIS_HOURS)
         df_sentiment_window = self.df[self.df['timestamp'] >= sentiment_boundary].copy()
