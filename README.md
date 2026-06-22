@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-21 16:14 UTC*
+*Last Updated: 2026-06-22 07:45 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.062` 
-- **Distribution**: 34.8% Positive, 41.3% Neutral, 23.9% Negative
+- **Overall Mood Score**: `0.064` 
+- **Distribution**: 34.9% Positive, 41.4% Neutral, 23.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `deltarune days` | 6 |
-| 2 | - | `victorian` | 4 |
-| 3 | - | `comedy` | 4 |
-| 4 | - | `team comedy` | 4 |
-| 5 | - | `artfight net` | 6 |
-| 6 | - | `teams` | 6 |
+| 1 | - | `deltarune days` | 7 |
+| 2 | UP 9 | `team tragedy` | 7 |
+| 3 | UP 3 | `teams` | 6 |
+| 4 | UP 6 | `olivia` | 5 |
+| 5 | NEW | `walk away` | 4 |
+| 6 | DOWN 2 | `team comedy` | 4 |
 | 7 | - | `artfight teams` | 4 |
-| 8 | - | `https artfight` | 5 |
-| 9 | - | `https artfight net` | 5 |
-| 10 | - | `olivia` | 5 |
-| 11 | - | `team tragedy` | 7 |
-| 12 | - | `think ill` | 4 |
-| 13 | - | `deltarune chapter` | 11 |
-| 14 | - | `kingdom hearts` | 5 |
-| 15 | UP 1 | `deltarune` | 54 |
-| 16 | DOWN 1 | `deltarune tomorrow` | 9 |
-| 17 | - | `goodnighthttps` | 4 |
-| 18 | - | `goodnighthttps cozy` | 4 |
-| 19 | - | `fucks` | 4 |
-| 20 | - | `fight year` | 4 |
-| 21 | - | `art fight year` | 4 |
-| 22 | - | `artfight soon` | 8 |
-| 23 | - | `tragedy` | 8 |
-| 24 | UP 1 | `feeling creative` | 3 |
-| 25 | NEW | `weave` | 3 |
+| 8 | DOWN 6 | `victorian` | 4 |
+| 9 | NEW | `solstice` | 4 |
+| 10 | UP 3 | `deltarune chapter` | 11 |
+| 11 | UP 3 | `kingdom hearts` | 5 |
+| 12 | UP 3 | `deltarune` | 59 |
+| 13 | UP 3 | `deltarune tomorrow` | 9 |
+| 14 | UP 8 | `artfight soon` | 8 |
+| 15 | UP 6 | `art fight year` | 4 |
+| 16 | NEW | `tadc finale` | 15 |
+| 17 | NEW | `prepping artfight` | 6 |
+| 18 | NEW | `request` | 6 |
+| 19 | NEW | `woke today` | 3 |
+| 20 | NEW | `birthday tomorrow` | 3 |
+| 21 | NEW | `due tomorrow` | 3 |
+| 22 | NEW | `cleaned room` | 3 |
+| 23 | NEW | `counting days` | 3 |
+| 24 | UP 1 | `weave` | 3 |
+| 25 | NEW | `spark` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
