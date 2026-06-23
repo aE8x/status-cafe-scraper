@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-22 18:31 UTC*
+*Last Updated: 2026-06-23 06:30 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.061` 
-- **Distribution**: 34.6% Positive, 41.4% Neutral, 24.0% Negative
+- **Distribution**: 34.5% Positive, 41.3% Neutral, 24.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `deltarune days` | 7 |
+| 1 | - | `deltarune days` | 8 |
 | 2 | - | `team tragedy` | 7 |
 | 3 | - | `teams` | 6 |
 | 4 | - | `olivia` | 5 |
-| 5 | UP 4 | `solstice` | 5 |
-| 6 | DOWN 1 | `walk away` | 4 |
-| 7 | DOWN 1 | `team comedy` | 4 |
-| 8 | DOWN 1 | `artfight teams` | 4 |
-| 9 | DOWN 1 | `victorian` | 4 |
-| 10 | - | `deltarune chapter` | 11 |
-| 11 | UP 1 | `deltarune` | 60 |
-| 12 | DOWN 1 | `kingdom hearts` | 5 |
-| 13 | - | `deltarune tomorrow` | 9 |
-| 14 | - | `artfight soon` | 8 |
-| 15 | - | `art fight year` | 4 |
-| 16 | - | `tadc finale` | 15 |
-| 17 | - | `prepping artfight` | 6 |
-| 18 | - | `request` | 6 |
-| 19 | - | `woke today` | 3 |
-| 20 | - | `birthday tomorrow` | 3 |
-| 21 | - | `due tomorrow` | 3 |
-| 22 | - | `cleaned room` | 3 |
-| 23 | NEW | `much coffee` | 3 |
-| 24 | DOWN 1 | `counting days` | 3 |
-| 25 | DOWN 1 | `weave` | 3 |
+| 5 | - | `solstice` | 5 |
+| 6 | UP 1 | `team comedy` | 4 |
+| 7 | UP 1 | `artfight teams` | 4 |
+| 8 | UP 1 | `victorian` | 4 |
+| 9 | UP 1 | `deltarune chapter` | 12 |
+| 10 | UP 3 | `deltarune tomorrow` | 12 |
+| 11 | - | `deltarune` | 66 |
+| 12 | - | `kingdom hearts` | 5 |
+| 13 | UP 1 | `artfight soon` | 8 |
+| 14 | UP 1 | `art fight year` | 4 |
+| 15 | UP 2 | `prepping artfight` | 6 |
+| 16 | UP 2 | `request` | 6 |
+| 17 | UP 3 | `birthday tomorrow` | 3 |
+| 18 | UP 3 | `due tomorrow` | 3 |
+| 19 | UP 3 | `cleaned room` | 3 |
+| 20 | UP 3 | `much coffee` | 3 |
+| 21 | UP 3 | `counting days` | 3 |
+| 22 | NEW | `spark` | 3 |
+| 23 | NEW | `neovim` | 3 |
+| 24 | NEW | `semanas` | 3 |
+| 25 | NEW | `edition` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
