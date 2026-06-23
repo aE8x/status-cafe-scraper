@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-23 06:30 UTC*
+*Last Updated: 2026-06-23 17:00 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.061` 
-- **Distribution**: 34.5% Positive, 41.3% Neutral, 24.2% Negative
+- **Overall Mood Score**: `0.057` 
+- **Distribution**: 34.2% Positive, 41.3% Neutral, 24.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -20,28 +20,28 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 1 | - | `deltarune days` | 8 |
 | 2 | - | `team tragedy` | 7 |
 | 3 | - | `teams` | 6 |
-| 4 | - | `olivia` | 5 |
-| 5 | - | `solstice` | 5 |
-| 6 | UP 1 | `team comedy` | 4 |
-| 7 | UP 1 | `artfight teams` | 4 |
-| 8 | UP 1 | `victorian` | 4 |
-| 9 | UP 1 | `deltarune chapter` | 12 |
-| 10 | UP 3 | `deltarune tomorrow` | 12 |
-| 11 | - | `deltarune` | 66 |
-| 12 | - | `kingdom hearts` | 5 |
-| 13 | UP 1 | `artfight soon` | 8 |
-| 14 | UP 1 | `art fight year` | 4 |
-| 15 | UP 2 | `prepping artfight` | 6 |
-| 16 | UP 2 | `request` | 6 |
-| 17 | UP 3 | `birthday tomorrow` | 3 |
-| 18 | UP 3 | `due tomorrow` | 3 |
-| 19 | UP 3 | `cleaned room` | 3 |
-| 20 | UP 3 | `much coffee` | 3 |
-| 21 | UP 3 | `counting days` | 3 |
-| 22 | NEW | `spark` | 3 |
-| 23 | NEW | `neovim` | 3 |
-| 24 | NEW | `semanas` | 3 |
-| 25 | NEW | `edition` | 3 |
+| 4 | UP 2 | `team comedy` | 5 |
+| 5 | DOWN 1 | `olivia` | 5 |
+| 6 | DOWN 1 | `solstice` | 5 |
+| 7 | - | `artfight teams` | 4 |
+| 8 | - | `victorian` | 4 |
+| 9 | UP 4 | `artfight soon` | 8 |
+| 10 | UP 4 | `art fight year` | 4 |
+| 11 | DOWN 1 | `deltarune tomorrow` | 19 |
+| 12 | UP 3 | `prepping artfight` | 6 |
+| 13 | UP 3 | `request` | 6 |
+| 14 | UP 4 | `due tomorrow` | 3 |
+| 15 | NEW | `world cup` | 3 |
+| 16 | UP 3 | `cleaned room` | 3 |
+| 17 | UP 3 | `much coffee` | 3 |
+| 18 | UP 3 | `counting days` | 3 |
+| 19 | NEW | `replay` | 3 |
+| 20 | NEW | `photoshop` | 3 |
+| 21 | NEW | `sits` | 3 |
+| 22 | NEW | `oreo` | 3 |
+| 23 | NEW | `expansion` | 3 |
+| 24 | NEW | `sapphic` | 3 |
+| 25 | NEW | `excited artfight` | 5 |
 
 <!-- END_ANALYSIS_SECTION -->
 
