@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-23 17:00 UTC*
+*Last Updated: 2026-06-24 06:27 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.057` 
-- **Distribution**: 34.2% Positive, 41.3% Neutral, 24.5% Negative
+- **Overall Mood Score**: `0.059` 
+- **Distribution**: 34.3% Positive, 41.4% Neutral, 24.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `deltarune days` | 8 |
-| 2 | - | `team tragedy` | 7 |
-| 3 | - | `teams` | 6 |
-| 4 | UP 2 | `team comedy` | 5 |
-| 5 | DOWN 1 | `olivia` | 5 |
-| 6 | DOWN 1 | `solstice` | 5 |
-| 7 | - | `artfight teams` | 4 |
-| 8 | - | `victorian` | 4 |
-| 9 | UP 4 | `artfight soon` | 8 |
-| 10 | UP 4 | `art fight year` | 4 |
-| 11 | DOWN 1 | `deltarune tomorrow` | 19 |
-| 12 | UP 3 | `prepping artfight` | 6 |
-| 13 | UP 3 | `request` | 6 |
-| 14 | UP 4 | `due tomorrow` | 3 |
-| 15 | NEW | `world cup` | 3 |
-| 16 | UP 3 | `cleaned room` | 3 |
-| 17 | UP 3 | `much coffee` | 3 |
-| 18 | UP 3 | `counting days` | 3 |
-| 19 | NEW | `replay` | 3 |
-| 20 | NEW | `photoshop` | 3 |
-| 21 | NEW | `sits` | 3 |
-| 22 | NEW | `oreo` | 3 |
-| 23 | NEW | `expansion` | 3 |
-| 24 | NEW | `sapphic` | 3 |
-| 25 | NEW | `excited artfight` | 5 |
+| 1 | UP 1 | `team tragedy` | 7 |
+| 2 | UP 1 | `teams` | 6 |
+| 3 | UP 3 | `solstice` | 6 |
+| 4 | - | `team comedy` | 5 |
+| 5 | - | `olivia` | 5 |
+| 6 | UP 1 | `artfight teams` | 4 |
+| 7 | UP 1 | `victorian` | 4 |
+| 8 | DOWN 7 | `deltarune days` | 7 |
+| 9 | - | `artfight soon` | 8 |
+| 10 | - | `art fight year` | 4 |
+| 11 | UP 8 | `replay` | 4 |
+| 12 | DOWN 1 | `deltarune tomorrow` | 25 |
+| 13 | DOWN 1 | `prepping artfight` | 6 |
+| 14 | - | `due tomorrow` | 3 |
+| 15 | - | `world cup` | 3 |
+| 16 | - | `cleaned room` | 3 |
+| 17 | - | `much coffee` | 3 |
+| 18 | - | `counting days` | 3 |
+| 19 | NEW | `root canal` | 3 |
+| 20 | - | `photoshop` | 3 |
+| 21 | - | `sits` | 3 |
+| 22 | - | `oreo` | 3 |
+| 23 | NEW | `cosas` | 3 |
+| 24 | DOWN 1 | `expansion` | 3 |
+| 25 | NEW | `vomit` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

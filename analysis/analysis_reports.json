@@ -47080,5 +47080,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-24T06:27:19.246519+00:00",
+        "hot_topics": [
+            {
+                "ngram": "team tragedy",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "teams",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "solstice",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team comedy",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "olivia",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight teams",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "victorian",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune days",
+                "mentions": 7,
+                "change": "44.8x"
+            },
+            {
+                "ngram": "artfight soon",
+                "mentions": 8,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "art fight year",
+                "mentions": 4,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "replay",
+                "mentions": 4,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "deltarune tomorrow",
+                "mentions": 25,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "prepping artfight",
+                "mentions": 6,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "due tomorrow",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "world cup",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "cleaned room",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "much coffee",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "counting days",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "root canal",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "photoshop",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "sits",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "oreo",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "cosas",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "expansion",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "vomit",
+                "mentions": 3,
+                "change": "19.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05929566599248773,
+            "positive_percent": 34.29644611383993,
+            "negative_percent": 24.32822883559665,
+            "neutral_percent": 41.37532505056342,
+            "most_positive_example": {
+                "text": "I feel like exploding but in confetti :D also happy pride to fellow gays and the theys and more! <3",
+                "user": "zeraphinecharmeine",
+                "score": 0.9684
+            },
+            "most_negative_example": {
+                "text": "i love niGHTS to death but i can't play it bc i suck so bad at all these random ass games that i love.. i don't understand and i need to",
+                "user": "cobie",
+                "score": -0.9598
+            }
+        },
+        "summary_message": null
     }
 ]
