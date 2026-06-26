@@ -47815,5 +47815,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-26T16:31:45.358554+00:00",
+        "hot_topics": [
+            {
+                "ngram": "deltarune today",
+                "mentions": 20,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team tragedy",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "solstice",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy deltarune",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "teams",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "team comedy",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "olivia",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy summer solstice",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight teams",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "play deltarune",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "powercuts",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "heatwave",
+                "mentions": 14,
+                "change": "29.8x"
+            },
+            {
+                "ngram": "artfight soon",
+                "mentions": 8,
+                "change": "25.5x"
+            },
+            {
+                "ngram": "prepping artfight",
+                "mentions": 6,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "deltarune days",
+                "mentions": 6,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "art fight soon",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "cleaned room",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "much coffee",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "around house",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "counting days",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "ready artfight",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "root canal",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "kinda sucks",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "fucking hours",
+                "mentions": 3,
+                "change": "19.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0514891129032258,
+            "positive_percent": 33.294930875576036,
+            "negative_percent": 25.115207373271893,
+            "neutral_percent": 41.58986175115207,
+            "most_positive_example": {
+                "text": "I feel like exploding but in confetti :D also happy pride to fellow gays and the theys and more! <3",
+                "user": "zeraphinecharmeine",
+                "score": 0.9684
+            },
+            "most_negative_example": {
+                "text": "i love niGHTS to death but i can't play it bc i suck so bad at all these random ass games that i love.. i don't understand and i need to",
+                "user": "cobie",
+                "score": -0.9598
+            }
+        },
+        "summary_message": null
     }
 ]
