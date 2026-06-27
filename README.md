@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-26 16:31 UTC*
+*Last Updated: 2026-06-27 06:06 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.051` 
-- **Distribution**: 33.3% Positive, 41.6% Neutral, 25.1% Negative
+- **Overall Mood Score**: `0.049` 
+- **Distribution**: 33.1% Positive, 41.6% Neutral, 25.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `olivia` | 5 |
 | 8 | - | `happy summer solstice` | 4 |
 | 9 | - | `artfight teams` | 4 |
-| 10 | - | `deltarune day` | 4 |
-| 11 | NEW | `play deltarune` | 4 |
-| 12 | DOWN 1 | `powercuts` | 4 |
-| 13 | DOWN 1 | `heatwave` | 14 |
-| 14 | DOWN 1 | `artfight soon` | 8 |
-| 15 | DOWN 1 | `prepping artfight` | 6 |
-| 16 | DOWN 1 | `deltarune days` | 6 |
-| 17 | NEW | `art fight soon` | 3 |
-| 18 | DOWN 2 | `cleaned room` | 3 |
-| 19 | DOWN 2 | `much coffee` | 3 |
-| 20 | DOWN 2 | `around house` | 3 |
-| 21 | DOWN 2 | `counting days` | 3 |
-| 22 | NEW | `ready artfight` | 3 |
-| 23 | DOWN 3 | `root canal` | 3 |
-| 24 | DOWN 3 | `kinda sucks` | 3 |
-| 25 | DOWN 3 | `fucking hours` | 3 |
+| 10 | NEW | `dan phil` | 4 |
+| 11 | DOWN 1 | `deltarune day` | 4 |
+| 12 | DOWN 1 | `play deltarune` | 4 |
+| 13 | DOWN 1 | `powercuts` | 4 |
+| 14 | - | `artfight soon` | 8 |
+| 15 | DOWN 2 | `heatwave` | 14 |
+| 16 | - | `deltarune days` | 6 |
+| 17 | NEW | `phil` | 6 |
+| 18 | DOWN 1 | `art fight soon` | 3 |
+| 19 | DOWN 1 | `cleaned room` | 3 |
+| 20 | DOWN 1 | `much coffee` | 3 |
+| 21 | DOWN 1 | `around house` | 3 |
+| 22 | DOWN 1 | `counting days` | 3 |
+| 23 | DOWN 1 | `ready artfight` | 3 |
+| 24 | DOWN 1 | `root canal` | 3 |
+| 25 | DOWN 1 | `kinda sucks` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
