@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-06-28 15:47 UTC*
+*Last Updated: 2026-06-29 07:10 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.047` 
-- **Distribution**: 33.3% Positive, 40.9% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 33.6% Positive, 41.0% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `deltarune today` | 20 |
-| 2 | - | `team tragedy` | 7 |
-| 3 | - | `solstice` | 7 |
-| 4 | - | `happy deltarune` | 6 |
-| 5 | - | `teams` | 6 |
-| 6 | - | `team comedy` | 5 |
-| 7 | - | `olivia` | 5 |
-| 8 | - | `happy summer solstice` | 4 |
-| 9 | - | `artfight teams` | 4 |
-| 10 | - | `dan phil` | 4 |
-| 11 | - | `finished deltarune` | 4 |
-| 12 | - | `deltarune day` | 4 |
-| 13 | - | `play deltarune` | 4 |
-| 14 | NEW | `weird route` | 4 |
-| 15 | - | `heatwave` | 17 |
-| 16 | - | `artfight soon` | 8 |
-| 17 | - | `deltarune days` | 6 |
-| 18 | - | `phil` | 6 |
-| 19 | - | `art fight soon` | 3 |
-| 20 | - | `much coffee` | 3 |
-| 21 | - | `omg love` | 3 |
-| 22 | - | `around house` | 3 |
-| 23 | - | `counting days` | 3 |
-| 24 | - | `ready artfight` | 3 |
-| 25 | - | `god please` | 3 |
+| 2 | UP 1 | `solstice` | 7 |
+| 3 | UP 1 | `happy deltarune` | 6 |
+| 4 | UP 4 | `happy summer solstice` | 4 |
+| 5 | UP 6 | `finished deltarune` | 4 |
+| 6 | UP 6 | `deltarune day` | 4 |
+| 7 | UP 6 | `play deltarune` | 4 |
+| 8 | UP 6 | `weird route` | 4 |
+| 9 | NEW | `venezuela` | 4 |
+| 10 | UP 5 | `heatwave` | 18 |
+| 11 | UP 13 | `ready artfight` | 4 |
+| 12 | DOWN 5 | `olivia` | 4 |
+| 13 | UP 6 | `art fight soon` | 3 |
+| 14 | UP 7 | `omg love` | 3 |
+| 15 | UP 8 | `counting days` | 3 |
+| 16 | NEW | `take away` | 3 |
+| 17 | UP 8 | `god please` | 3 |
+| 18 | NEW | `coding new` | 3 |
+| 19 | NEW | `root canal` | 3 |
+| 20 | NEW | `good idea` | 3 |
+| 21 | NEW | `kinda sucks` | 3 |
+| 22 | NEW | `happy back` | 3 |
+| 23 | NEW | `watching tadc` | 3 |
+| 24 | DOWN 14 | `dan phil` | 3 |
+| 25 | NEW | `cute little` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
