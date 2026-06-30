@@ -48991,5 +48991,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-06-30T16:35:50.787633+00:00",
+        "hot_topics": [
+            {
+                "ngram": "deltarune today",
+                "mentions": 20,
+                "change": "NEW"
+            },
+            {
+                "ngram": "solstice",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy deltarune",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "finished deltarune",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy summer solstice",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "play deltarune",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "weird route",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "venezuela",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "heatwave",
+                "mentions": 22,
+                "change": "35.6x"
+            },
+            {
+                "ngram": "kinda sucks",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "poll",
+                "mentions": 6,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "root canal",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "good idea",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "happy back",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "watching tadc",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "dan phil",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "cute little",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "fucking hours",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "mio",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "victorian",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "stamp",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "jolly",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "len",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "anytime",
+                "mentions": 3,
+                "change": "19.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.049544840689856776,
+            "positive_percent": 33.73282665887167,
+            "negative_percent": 25.401929260450164,
+            "neutral_percent": 40.86524408067817,
+            "most_positive_example": {
+                "text": "He had all his guns, all his guns were blazing\r\nPut his arms around me, so amazing\r\nAmazing, amazing, amazing",
+                "user": "thedawn",
+                "score": 0.9669
+            },
+            "most_negative_example": {
+                "text": "I might need to go back on my mental health break... So much evil bad awful shit evil bad",
+                "user": "asmodeusvulcan",
+                "score": -0.9763
+            }
+        },
+        "summary_message": null
     }
 ]
