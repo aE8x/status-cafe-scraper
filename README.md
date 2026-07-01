@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-01 06:49 UTC*
+*Last Updated: 2026-07-01 16:43 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.049` 
-- **Distribution**: 33.8% Positive, 40.9% Neutral, 25.4% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 33.4% Positive, 41.0% Neutral, 25.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `solstice` | 7 |
 | 3 | - | `happy deltarune` | 6 |
 | 4 | - | `finished deltarune` | 5 |
-| 5 | - | `happy summer solstice` | 4 |
-| 6 | - | `deltarune day` | 4 |
-| 7 | - | `play deltarune` | 4 |
-| 8 | - | `weird route` | 4 |
-| 9 | NEW | `artfight tomorrow` | 4 |
-| 10 | DOWN 1 | `venezuela` | 4 |
-| 11 | DOWN 1 | `heatwave` | 25 |
-| 12 | DOWN 1 | `kinda sucks` | 4 |
-| 13 | DOWN 1 | `poll` | 6 |
-| 14 | DOWN 1 | `root canal` | 3 |
-| 15 | DOWN 1 | `good idea` | 3 |
-| 16 | DOWN 1 | `happy back` | 3 |
-| 17 | DOWN 1 | `watching tadc` | 3 |
-| 18 | DOWN 1 | `dan phil` | 3 |
-| 19 | DOWN 1 | `cute little` | 3 |
-| 20 | DOWN 1 | `fucking hours` | 3 |
-| 21 | DOWN 1 | `mio` | 3 |
-| 22 | DOWN 1 | `victorian` | 3 |
-| 23 | DOWN 1 | `stamp` | 3 |
-| 24 | DOWN 1 | `jolly` | 3 |
-| 25 | DOWN 1 | `len` | 3 |
+| 5 | UP 4 | `artfight tomorrow` | 5 |
+| 6 | DOWN 1 | `happy summer solstice` | 4 |
+| 7 | DOWN 1 | `deltarune day` | 4 |
+| 8 | DOWN 1 | `play deltarune` | 4 |
+| 9 | DOWN 1 | `weird route` | 4 |
+| 10 | - | `venezuela` | 4 |
+| 11 | - | `heatwave` | 26 |
+| 12 | - | `kinda sucks` | 4 |
+| 13 | UP 1 | `root canal` | 3 |
+| 14 | UP 1 | `good idea` | 3 |
+| 15 | UP 1 | `happy back` | 3 |
+| 16 | UP 1 | `watching tadc` | 3 |
+| 17 | UP 1 | `dan phil` | 3 |
+| 18 | UP 1 | `cute little` | 3 |
+| 19 | UP 1 | `fucking hours` | 3 |
+| 20 | UP 1 | `mio` | 3 |
+| 21 | UP 1 | `victorian` | 3 |
+| 22 | UP 1 | `stamp` | 3 |
+| 23 | UP 1 | `jolly` | 3 |
+| 24 | UP 1 | `len` | 3 |
+| 25 | NEW | `anytime` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
