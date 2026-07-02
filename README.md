@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-02 06:13 UTC*
+*Last Updated: 2026-07-02 16:18 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.049` 
-- **Distribution**: 33.9% Positive, 40.8% Neutral, 25.3% Negative
+- **Distribution**: 33.9% Positive, 40.7% Neutral, 25.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `finished deltarune` | 5 |
 | 5 | - | `artfight tomorrow` | 5 |
 | 6 | - | `happy summer solstice` | 4 |
-| 7 | NEW | `happy artfight` | 4 |
-| 8 | DOWN 1 | `deltarune day` | 4 |
-| 9 | DOWN 1 | `play deltarune` | 4 |
-| 10 | DOWN 1 | `weird route` | 4 |
-| 11 | DOWN 1 | `venezuela` | 4 |
-| 12 | DOWN 1 | `heatwave` | 26 |
-| 13 | DOWN 1 | `kinda sucks` | 4 |
-| 14 | NEW | `artfight first time` | 3 |
-| 15 | DOWN 1 | `good idea` | 3 |
-| 16 | DOWN 1 | `happy back` | 3 |
-| 17 | DOWN 1 | `watching tadc` | 3 |
-| 18 | DOWN 1 | `dan phil` | 3 |
-| 19 | DOWN 1 | `cute little` | 3 |
-| 20 | DOWN 1 | `fucking hours` | 3 |
-| 21 | NEW | `artfight time` | 3 |
-| 22 | UP 1 | `jolly` | 3 |
-| 23 | UP 1 | `len` | 3 |
-| 24 | UP 1 | `anytime` | 3 |
-| 25 | NEW | `powercuts` | 3 |
+| 7 | - | `happy artfight` | 4 |
+| 8 | - | `deltarune day` | 4 |
+| 9 | - | `play deltarune` | 4 |
+| 10 | - | `weird route` | 4 |
+| 11 | - | `venezuela` | 4 |
+| 12 | - | `heatwave` | 26 |
+| 13 | - | `kinda sucks` | 4 |
+| 14 | UP 7 | `artfight time` | 4 |
+| 15 | DOWN 1 | `artfight first time` | 3 |
+| 16 | DOWN 1 | `good idea` | 3 |
+| 17 | DOWN 1 | `happy back` | 3 |
+| 18 | DOWN 1 | `watching tadc` | 3 |
+| 19 | DOWN 1 | `dan phil` | 3 |
+| 20 | DOWN 1 | `cute little` | 3 |
+| 21 | DOWN 1 | `fucking hours` | 3 |
+| 22 | - | `jolly` | 3 |
+| 23 | - | `len` | 3 |
+| 24 | NEW | `participating` | 3 |
+| 25 | DOWN 1 | `anytime` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
