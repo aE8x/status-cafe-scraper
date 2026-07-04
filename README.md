@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-03 16:05 UTC*
+*Last Updated: 2026-07-04 05:57 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.046` 
-- **Distribution**: 33.5% Positive, 40.9% Neutral, 25.6% Negative
+- **Overall Mood Score**: `0.041` 
+- **Distribution**: 33.4% Positive, 40.0% Neutral, 26.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `deltarune day` | 4 |
 | 8 | - | `play deltarune` | 4 |
 | 9 | - | `weird route` | 4 |
-| 10 | NEW | `supergirl` | 4 |
-| 11 | DOWN 1 | `venezuela` | 4 |
-| 12 | DOWN 1 | `heatwave` | 28 |
-| 13 | DOWN 1 | `artfight time` | 4 |
-| 14 | DOWN 1 | `participating` | 4 |
-| 15 | DOWN 1 | `sony` | 4 |
-| 16 | DOWN 1 | `toby` | 9 |
-| 17 | DOWN 1 | `artfight first time` | 3 |
-| 18 | DOWN 1 | `happy back` | 3 |
-| 19 | DOWN 1 | `watching tadc` | 3 |
-| 20 | DOWN 1 | `happy artfight` | 3 |
-| 21 | DOWN 1 | `dan phil` | 3 |
-| 22 | DOWN 1 | `cute little` | 3 |
-| 23 | DOWN 1 | `fucking hours` | 3 |
-| 24 | - | `len` | 3 |
-| 25 | - | `anytime` | 3 |
+| 10 | - | `supergirl` | 4 |
+| 11 | - | `venezuela` | 4 |
+| 12 | - | `heatwave` | 29 |
+| 13 | - | `artfight time` | 4 |
+| 14 | UP 1 | `sony` | 4 |
+| 15 | UP 1 | `toby` | 9 |
+| 16 | UP 4 | `happy artfight` | 3 |
+| 17 | UP 4 | `dan phil` | 3 |
+| 18 | UP 4 | `cute little` | 3 |
+| 19 | NEW | `toy story` | 3 |
+| 20 | UP 3 | `fucking hours` | 3 |
+| 21 | NEW | `replacing` | 3 |
+| 22 | UP 3 | `anytime` | 3 |
+| 23 | NEW | `powercuts` | 3 |
+| 24 | NEW | `subscription` | 3 |
+| 25 | NEW | `boarding` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
