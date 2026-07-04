@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-04 05:57 UTC*
+*Last Updated: 2026-07-04 15:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.041` 
-- **Distribution**: 33.4% Positive, 40.0% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.042` 
+- **Distribution**: 33.4% Positive, 39.9% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -25,23 +25,23 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 6 | - | `happy summer solstice` | 4 |
 | 7 | - | `deltarune day` | 4 |
 | 8 | - | `play deltarune` | 4 |
-| 9 | - | `weird route` | 4 |
-| 10 | - | `supergirl` | 4 |
-| 11 | - | `venezuela` | 4 |
-| 12 | - | `heatwave` | 29 |
-| 13 | - | `artfight time` | 4 |
-| 14 | UP 1 | `sony` | 4 |
-| 15 | UP 1 | `toby` | 9 |
-| 16 | UP 4 | `happy artfight` | 3 |
-| 17 | UP 4 | `dan phil` | 3 |
-| 18 | UP 4 | `cute little` | 3 |
-| 19 | NEW | `toy story` | 3 |
-| 20 | UP 3 | `fucking hours` | 3 |
-| 21 | NEW | `replacing` | 3 |
-| 22 | UP 3 | `anytime` | 3 |
-| 23 | NEW | `powercuts` | 3 |
-| 24 | NEW | `subscription` | 3 |
-| 25 | NEW | `boarding` | 3 |
+| 9 | NEW | `summer sale` | 4 |
+| 10 | DOWN 1 | `weird route` | 4 |
+| 11 | DOWN 1 | `supergirl` | 4 |
+| 12 | DOWN 1 | `venezuela` | 4 |
+| 13 | DOWN 1 | `heatwave` | 29 |
+| 14 | DOWN 1 | `artfight time` | 4 |
+| 15 | DOWN 1 | `sony` | 4 |
+| 16 | - | `happy artfight` | 3 |
+| 17 | - | `dan phil` | 3 |
+| 18 | - | `cute little` | 3 |
+| 19 | - | `toy story` | 3 |
+| 20 | - | `fucking hours` | 3 |
+| 21 | UP 2 | `powercuts` | 3 |
+| 22 | UP 2 | `subscription` | 3 |
+| 23 | UP 2 | `boarding` | 3 |
+| 24 | NEW | `miitopia` | 3 |
+| 25 | NEW | `burrito` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
