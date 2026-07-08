@@ -51196,5 +51196,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-08T05:34:11.572298+00:00",
+        "hot_topics": [
+            {
+                "ngram": "weird route",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "artfight tomorrow",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "play deltarune",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "summer sale",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "doodle challenge",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ctrl alt",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy july",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "supergirl",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "venezuela",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "deltarune today",
+                "mentions": 19,
+                "change": "127.0x"
+            },
+            {
+                "ngram": "fireworks",
+                "mentions": 8,
+                "change": "53.5x"
+            },
+            {
+                "ngram": "toby fox",
+                "mentions": 6,
+                "change": "40.1x"
+            },
+            {
+                "ngram": "happy deltarune",
+                "mentions": 5,
+                "change": "33.4x"
+            },
+            {
+                "ngram": "artfight time",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "finished deltarune",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "brasil",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "ordering",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "diet",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "mexico",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "deltarune day",
+                "mentions": 3,
+                "change": "20.1x"
+            },
+            {
+                "ngram": "live action",
+                "mentions": 3,
+                "change": "20.1x"
+            },
+            {
+                "ngram": "jazz fest",
+                "mentions": 3,
+                "change": "20.1x"
+            },
+            {
+                "ngram": "heat wave",
+                "mentions": 3,
+                "change": "20.1x"
+            },
+            {
+                "ngram": "lockdown",
+                "mentions": 3,
+                "change": "20.1x"
+            },
+            {
+                "ngram": "console",
+                "mentions": 3,
+                "change": "20.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.038949122276029056,
+            "positive_percent": 33.958837772397096,
+            "negative_percent": 27.69370460048426,
+            "neutral_percent": 38.347457627118644,
+            "most_positive_example": {
+                "text": "may be broke but i had a super fun time w my friends who knew learning n recording tiktok dances was fun also supergirl was good",
+                "user": "kimt1nez",
+                "score": 0.9731
+            },
+            "most_negative_example": {
+                "text": "I might need to go back on my mental health break... So much evil bad awful shit evil bad",
+                "user": "asmodeusvulcan",
+                "score": -0.9763
+            }
+        },
+        "summary_message": null
     }
 ]

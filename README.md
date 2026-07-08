@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-07 16:44 UTC*
+*Last Updated: 2026-07-08 05:34 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.041` 
-- **Distribution**: 34.1% Positive, 38.4% Neutral, 27.5% Negative
+- **Overall Mood Score**: `0.039` 
+- **Distribution**: 34.0% Positive, 38.3% Neutral, 27.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `deltarune today` | 20 |
-| 2 | - | `happy deltarune` | 6 |
-| 3 | - | `weird route` | 5 |
-| 4 | - | `artfight tomorrow` | 5 |
-| 5 | UP 1 | `play deltarune` | 4 |
-| 6 | UP 1 | `summer sale` | 4 |
-| 7 | UP 1 | `doodle challenge` | 4 |
-| 8 | UP 1 | `ctrl alt` | 4 |
-| 9 | UP 1 | `happy july` | 4 |
-| 10 | UP 1 | `supergirl` | 4 |
-| 11 | UP 1 | `venezuela` | 4 |
-| 12 | UP 1 | `fireworks` | 8 |
-| 13 | UP 1 | `toby fox` | 6 |
-| 14 | UP 2 | `toy story` | 4 |
-| 15 | UP 2 | `artfight time` | 4 |
-| 16 | UP 2 | `finished deltarune` | 4 |
-| 17 | UP 2 | `brasil` | 4 |
-| 18 | UP 2 | `ordering` | 4 |
-| 19 | UP 2 | `diet` | 4 |
-| 20 | UP 2 | `mexico` | 4 |
-| 21 | DOWN 6 | `heatwave` | 27 |
-| 22 | UP 2 | `fucking hours` | 3 |
-| 23 | DOWN 18 | `deltarune day` | 3 |
-| 24 | UP 1 | `live action` | 3 |
-| 25 | NEW | `jazz fest` | 3 |
+| 1 | UP 2 | `weird route` | 5 |
+| 2 | UP 2 | `artfight tomorrow` | 5 |
+| 3 | UP 2 | `play deltarune` | 4 |
+| 4 | UP 2 | `summer sale` | 4 |
+| 5 | UP 2 | `doodle challenge` | 4 |
+| 6 | UP 2 | `ctrl alt` | 4 |
+| 7 | UP 2 | `happy july` | 4 |
+| 8 | UP 2 | `supergirl` | 4 |
+| 9 | UP 2 | `venezuela` | 4 |
+| 10 | DOWN 9 | `deltarune today` | 19 |
+| 11 | UP 1 | `fireworks` | 8 |
+| 12 | UP 1 | `toby fox` | 6 |
+| 13 | DOWN 11 | `happy deltarune` | 5 |
+| 14 | UP 1 | `artfight time` | 4 |
+| 15 | UP 1 | `finished deltarune` | 4 |
+| 16 | UP 1 | `brasil` | 4 |
+| 17 | UP 1 | `ordering` | 4 |
+| 18 | UP 1 | `diet` | 4 |
+| 19 | UP 1 | `mexico` | 4 |
+| 20 | UP 3 | `deltarune day` | 3 |
+| 21 | UP 3 | `live action` | 3 |
+| 22 | UP 3 | `jazz fest` | 3 |
+| 23 | NEW | `heat wave` | 3 |
+| 24 | NEW | `lockdown` | 3 |
+| 25 | NEW | `console` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
