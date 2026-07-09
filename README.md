@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-08 16:14 UTC*
+*Last Updated: 2026-07-09 06:34 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.041` 
-- **Distribution**: 34.4% Positive, 37.9% Neutral, 27.7% Negative
+- **Overall Mood Score**: `0.040` 
+- **Distribution**: 34.4% Positive, 37.7% Neutral, 27.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 4 | `doodle challenge` | 5 |
-| 2 | DOWN 1 | `weird route` | 5 |
-| 3 | DOWN 1 | `artfight tomorrow` | 5 |
-| 4 | - | `summer sale` | 4 |
-| 5 | UP 1 | `ctrl alt` | 4 |
-| 6 | UP 1 | `happy july` | 4 |
-| 7 | UP 1 | `supergirl` | 4 |
-| 8 | UP 1 | `venezuela` | 4 |
-| 9 | UP 2 | `fireworks` | 8 |
-| 10 | UP 2 | `toby fox` | 6 |
-| 11 | UP 3 | `artfight time` | 4 |
-| 12 | UP 3 | `finished deltarune` | 4 |
-| 13 | UP 3 | `brasil` | 4 |
-| 14 | UP 3 | `ordering` | 4 |
-| 15 | UP 3 | `diet` | 4 |
-| 16 | UP 3 | `mexico` | 4 |
-| 17 | NEW | `attacks` | 15 |
-| 18 | DOWN 15 | `play deltarune` | 3 |
-| 19 | UP 2 | `live action` | 3 |
-| 20 | UP 2 | `jazz fest` | 3 |
-| 21 | UP 2 | `heat wave` | 3 |
-| 22 | UP 3 | `console` | 3 |
-| 23 | NEW | `headed` | 3 |
-| 24 | NEW | `laptops` | 3 |
-| 25 | NEW | `salmon` | 3 |
+| 1 | - | `doodle challenge` | 5 |
+| 2 | - | `weird route` | 5 |
+| 3 | - | `artfight tomorrow` | 5 |
+| 4 | UP 1 | `ctrl alt` | 4 |
+| 5 | UP 1 | `happy july` | 4 |
+| 6 | UP 1 | `supergirl` | 4 |
+| 7 | UP 1 | `venezuela` | 4 |
+| 8 | UP 1 | `fireworks` | 8 |
+| 9 | UP 3 | `finished deltarune` | 4 |
+| 10 | UP 10 | `jazz fest` | 4 |
+| 11 | UP 2 | `brasil` | 4 |
+| 12 | UP 2 | `ordering` | 4 |
+| 13 | UP 2 | `diet` | 4 |
+| 14 | NEW | `boot` | 4 |
+| 15 | UP 1 | `mexico` | 4 |
+| 16 | UP 1 | `attacks` | 16 |
+| 17 | NEW | `route` | 9 |
+| 18 | UP 1 | `live action` | 3 |
+| 19 | DOWN 15 | `summer sale` | 3 |
+| 20 | UP 1 | `heat wave` | 3 |
+| 21 | NEW | `much shit` | 3 |
+| 22 | NEW | `wanna eat` | 3 |
+| 23 | NEW | `thunderstorms` | 3 |
+| 24 | NEW | `absent` | 3 |
+| 25 | NEW | `exploding` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
