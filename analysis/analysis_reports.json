@@ -51784,5 +51784,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-10T06:23:45.332370+00:00",
+        "hot_topics": [
+            {
+                "ngram": "artfight tomorrow",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "love cat",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "ctrl alt",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy july",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "diet",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fireworks",
+                "mentions": 8,
+                "change": "54.0x"
+            },
+            {
+                "ngram": "jazz fest",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "wobble",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "ordering",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "europe",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "boot",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "mexico",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "attacks",
+                "mentions": 18,
+                "change": "24.3x"
+            },
+            {
+                "ngram": "live action",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "summer sale",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "heat wave",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "much shit",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "lovely love",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "wanna eat",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "would rather",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "day finally",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "argentina",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "venezuela",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "everyones",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "supergirl",
+                "mentions": 3,
+                "change": "20.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04214102015882712,
+            "positive_percent": 34.63653023824068,
+            "negative_percent": 27.611484422724498,
+            "neutral_percent": 37.751985339034825,
+            "most_positive_example": {
+                "text": "may be broke but i had a super fun time w my friends who knew learning n recording tiktok dances was fun also supergirl was good",
+                "user": "kimt1nez",
+                "score": 0.9731
+            },
+            "most_negative_example": {
+                "text": "terrible horrible bad pain week. terrible horrible bad 2 pain weeks. ugh. ack. dies.",
+                "user": "prtypsn",
+                "score": -0.9828
+            }
+        },
+        "summary_message": null
     }
 ]
