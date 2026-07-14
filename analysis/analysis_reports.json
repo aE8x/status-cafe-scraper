@@ -53107,5 +53107,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-14T15:56:04.723151+00:00",
+        "hot_topics": [
+            {
+                "ngram": "artfight attack",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy july",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "diet",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "haaland",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fireworks",
+                "mentions": 8,
+                "change": "54.3x"
+            },
+            {
+                "ngram": "states",
+                "mentions": 5,
+                "change": "33.9x"
+            },
+            {
+                "ngram": "boot",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "usa",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "celebrating",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "mexico",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "attacks",
+                "mentions": 18,
+                "change": "24.4x"
+            },
+            {
+                "ngram": "wanna eat",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "would rather",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "bit much",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "attack artfight",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "day finally",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "working homepage",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "helppp",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "oooo",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "coloring",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "poster",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "sitio",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "norway",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "noon",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "july",
+                "mentions": 32,
+                "change": "19.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05083118477593616,
+            "positive_percent": 35.11356660527931,
+            "negative_percent": 27.56292203806016,
+            "neutral_percent": 37.323511356660525,
+            "most_positive_example": {
+                "text": "lol lol lol lol lol lol lol lol lol lol lol lol lol",
+                "user": "jasxy_",
+                "score": 0.9866
+            },
+            "most_negative_example": {
+                "text": "terrible horrible bad pain week. terrible horrible bad 2 pain weeks. ugh. ack. dies.",
+                "user": "prtypsn",
+                "score": -0.9828
+            }
+        },
+        "summary_message": null
     }
 ]
