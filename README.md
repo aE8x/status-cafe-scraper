@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-16 15:54 UTC*
+*Last Updated: 2026-07-17 05:25 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.047` 
-- **Distribution**: 34.5% Positive, 37.4% Neutral, 28.1% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 34.2% Positive, 37.7% Neutral, 28.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `achieved` | 5 |
-| 2 | - | `happy july` | 4 |
+| 1 | UP 1 | `happy july` | 5 |
+| 2 | DOWN 1 | `achieved` | 5 |
 | 3 | - | `haaland` | 4 |
 | 4 | - | `zeke` | 4 |
 | 5 | - | `fireworks` | 9 |
 | 6 | - | `states` | 5 |
-| 7 | - | `diet` | 4 |
-| 8 | - | `usa` | 4 |
-| 9 | - | `celebrating` | 4 |
-| 10 | - | `mexico` | 4 |
-| 11 | UP 9 | `noon` | 4 |
-| 12 | DOWN 1 | `bit much` | 3 |
-| 13 | DOWN 1 | `attack artfight` | 3 |
-| 14 | DOWN 1 | `head wall` | 3 |
-| 15 | DOWN 1 | `day finally` | 3 |
-| 16 | DOWN 1 | `working homepage` | 3 |
-| 17 | NEW | `hopeless` | 3 |
-| 18 | DOWN 2 | `coloring` | 3 |
-| 19 | DOWN 2 | `poster` | 3 |
-| 20 | DOWN 2 | `sitio` | 3 |
-| 21 | DOWN 2 | `norway` | 3 |
-| 22 | DOWN 1 | `poder` | 3 |
+| 7 | UP 1 | `usa` | 4 |
+| 8 | UP 1 | `celebrating` | 4 |
+| 9 | UP 1 | `mexico` | 4 |
+| 10 | UP 1 | `noon` | 4 |
+| 11 | UP 3 | `head wall` | 3 |
+| 12 | UP 3 | `day finally` | 3 |
+| 13 | UP 3 | `working homepage` | 3 |
+| 14 | NEW | `much little` | 3 |
+| 15 | NEW | `ralsei` | 3 |
+| 16 | UP 1 | `hopeless` | 3 |
+| 17 | UP 1 | `coloring` | 3 |
+| 18 | UP 1 | `poster` | 3 |
+| 19 | UP 1 | `sitio` | 3 |
+| 20 | UP 1 | `norway` | 3 |
+| 21 | UP 1 | `poder` | 3 |
+| 22 | NEW | `cops` | 3 |
 | 23 | - | `brasil` | 5 |
 | 24 | - | `argentina` | 5 |
-| 25 | NEW | `rhythm heaven` | 4 |
+| 25 | NEW | `artfight attack` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
