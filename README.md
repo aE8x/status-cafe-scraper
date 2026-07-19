@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-18 15:29 UTC*
+*Last Updated: 2026-07-19 05:34 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.052` 
-- **Distribution**: 34.8% Positive, 37.5% Neutral, 27.7% Negative
+- **Overall Mood Score**: `0.050` 
+- **Distribution**: 34.5% Positive, 37.7% Neutral, 27.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `air quality` | 5 |
 | 2 | - | `achieved` | 5 |
-| 3 | - | `haaland` | 4 |
-| 4 | - | `zeke` | 4 |
-| 5 | - | `states` | 5 |
-| 6 | - | `usa` | 5 |
-| 7 | - | `fireworks` | 8 |
-| 8 | UP 2 | `celebrating` | 4 |
-| 9 | UP 2 | `mexico` | 4 |
-| 10 | UP 2 | `noon` | 4 |
-| 11 | UP 2 | `head wall` | 3 |
-| 12 | UP 2 | `day finally` | 3 |
-| 13 | UP 2 | `working homepage` | 3 |
-| 14 | UP 2 | `much little` | 3 |
-| 15 | UP 3 | `england` | 3 |
-| 16 | NEW | `ima` | 3 |
-| 17 | UP 2 | `sitio` | 3 |
-| 18 | UP 2 | `saga` | 3 |
-| 19 | UP 2 | `norway` | 3 |
-| 20 | NEW | `crossword` | 3 |
-| 21 | UP 1 | `tgif` | 3 |
-| 22 | UP 1 | `danny` | 3 |
-| 23 | UP 1 | `poder` | 3 |
-| 24 | UP 1 | `wildfire` | 3 |
-| 25 | NEW | `cops` | 3 |
+| 3 | UP 1 | `zeke` | 5 |
+| 4 | DOWN 1 | `haaland` | 4 |
+| 5 | UP 4 | `mexico` | 4 |
+| 6 | UP 4 | `noon` | 4 |
+| 7 | UP 5 | `day finally` | 3 |
+| 8 | UP 5 | `working homepage` | 3 |
+| 9 | UP 5 | `much little` | 3 |
+| 10 | UP 6 | `ima` | 3 |
+| 11 | UP 6 | `sitio` | 3 |
+| 12 | UP 6 | `saga` | 3 |
+| 13 | UP 6 | `norway` | 3 |
+| 14 | UP 6 | `crossword` | 3 |
+| 15 | UP 6 | `tgif` | 3 |
+| 16 | NEW | `animate` | 3 |
+| 17 | UP 5 | `danny` | 3 |
+| 18 | UP 5 | `poder` | 3 |
+| 19 | NEW | `patrick` | 3 |
+| 20 | UP 4 | `wildfire` | 3 |
+| 21 | UP 4 | `cops` | 3 |
+| 22 | NEW | `brasil` | 5 |
+| 23 | NEW | `argentina` | 5 |
+| 24 | NEW | `artfight attack` | 4 |
+| 25 | DOWN 20 | `states` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
