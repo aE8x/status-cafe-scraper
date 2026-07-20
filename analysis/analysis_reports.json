@@ -54724,5 +54724,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-20T05:52:00.084984+00:00",
+        "hot_topics": [
+            {
+                "ngram": "air quality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "zeke",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spain",
+                "mentions": 5,
+                "change": "33.4x"
+            },
+            {
+                "ngram": "achieved",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "saga",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "noon",
+                "mentions": 4,
+                "change": "26.7x"
+            },
+            {
+                "ngram": "argentina",
+                "mentions": 7,
+                "change": "23.4x"
+            },
+            {
+                "ngram": "play sims",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "day finally",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "working homepage",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "much little",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "friends watching",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "odyssey movie",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "ima",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "haaland",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "sitio",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "chipped",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "norway",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "crossword",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "tgif",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "animate",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "danny",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "poder",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "jude",
+                "mentions": 3,
+                "change": "20.0x"
+            },
+            {
+                "ngram": "coworkers",
+                "mentions": 3,
+                "change": "20.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05269779522802778,
+            "positive_percent": 34.6723044397463,
+            "negative_percent": 27.302929628511023,
+            "neutral_percent": 38.02476593174268,
+            "most_positive_example": {
+                "text": "lol lol lol lol lol lol lol lol lol lol lol lol lol",
+                "user": "jasxy_",
+                "score": 0.9866
+            },
+            "most_negative_example": {
+                "text": "terrible horrible bad pain week. terrible horrible bad 2 pain weeks. ugh. ack. dies.",
+                "user": "prtypsn",
+                "score": -0.9828
+            }
+        },
+        "summary_message": null
     }
 ]
