@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-22 15:58 UTC*
+*Last Updated: 2026-07-23 05:37 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.058` 
-- **Distribution**: 34.8% Positive, 38.3% Neutral, 26.9% Negative
+- **Overall Mood Score**: `0.061` 
+- **Distribution**: 35.2% Positive, 38.0% Neutral, 26.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `zeke` | 6 |
 | 2 | - | `air quality` | 5 |
-| 3 | - | `saga` | 4 |
-| 4 | - | `noon` | 4 |
-| 5 | - | `haze` | 4 |
-| 6 | - | `cops` | 4 |
-| 7 | NEW | `spain` | 6 |
-| 8 | DOWN 1 | `music much` | 3 |
-| 9 | DOWN 1 | `working homepage` | 3 |
-| 10 | DOWN 1 | `much little` | 3 |
-| 11 | DOWN 1 | `friends watching` | 3 |
-| 12 | DOWN 1 | `odyssey movie` | 3 |
-| 13 | - | `norway` | 3 |
-| 14 | - | `crossword` | 3 |
-| 15 | - | `tgif` | 3 |
-| 16 | - | `animate` | 3 |
-| 17 | - | `danny` | 3 |
+| 3 | UP 2 | `haze` | 4 |
+| 4 | UP 2 | `cops` | 4 |
+| 5 | UP 2 | `spain` | 6 |
+| 6 | NEW | `late playing` | 3 |
+| 7 | UP 1 | `music much` | 3 |
+| 8 | UP 1 | `working homepage` | 3 |
+| 9 | NEW | `time draw` | 3 |
+| 10 | - | `much little` | 3 |
+| 11 | - | `friends watching` | 3 |
+| 12 | - | `odyssey movie` | 3 |
+| 13 | UP 2 | `tgif` | 3 |
+| 14 | NEW | `sigo` | 3 |
+| 15 | UP 1 | `animate` | 3 |
+| 16 | UP 1 | `danny` | 3 |
+| 17 | NEW | `tofu` | 3 |
 | 18 | - | `poder` | 3 |
 | 19 | - | `serve` | 3 |
 | 20 | - | `jude` | 3 |
-| 21 | - | `coworkers` | 3 |
-| 22 | - | `patrick` | 3 |
-| 23 | - | `wildfire` | 3 |
-| 24 | - | `quase` | 3 |
-| 25 | - | `minds` | 3 |
+| 21 | DOWN 18 | `saga` | 3 |
+| 22 | DOWN 1 | `coworkers` | 3 |
+| 23 | DOWN 1 | `patrick` | 3 |
+| 24 | DOWN 1 | `wildfire` | 3 |
+| 25 | DOWN 1 | `quase` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
