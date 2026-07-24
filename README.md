@@ -8,17 +8,17 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-23 16:07 UTC*
+*Last Updated: 2026-07-24 05:32 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.062` 
-- **Distribution**: 35.3% Positive, 37.9% Neutral, 26.8% Negative
+- **Overall Mood Score**: `0.061` 
+- **Distribution**: 35.0% Positive, 38.1% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `air quality` | 5 |
-| 2 | DOWN 1 | `zeke` | 5 |
+| 1 | - | `air quality` | 5 |
+| 2 | UP 22 | `wildfire` | 4 |
 | 3 | - | `haze` | 4 |
 | 4 | - | `cops` | 4 |
 | 5 | - | `spain` | 6 |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `working homepage` | 3 |
 | 9 | - | `time draw` | 3 |
 | 10 | - | `much little` | 3 |
-| 11 | - | `friends watching` | 3 |
-| 12 | - | `odyssey movie` | 3 |
-| 13 | NEW | `sleep deprived` | 3 |
-| 14 | - | `sigo` | 3 |
-| 15 | - | `animate` | 3 |
-| 16 | - | `danny` | 3 |
-| 17 | - | `tofu` | 3 |
-| 18 | - | `poder` | 3 |
-| 19 | - | `serve` | 3 |
-| 20 | - | `jude` | 3 |
-| 21 | - | `saga` | 3 |
-| 22 | - | `coworkers` | 3 |
-| 23 | - | `patrick` | 3 |
-| 24 | - | `wildfire` | 3 |
-| 25 | - | `quase` | 3 |
+| 11 | NEW | `job job` | 3 |
+| 12 | DOWN 1 | `friends watching` | 3 |
+| 13 | DOWN 1 | `odyssey movie` | 3 |
+| 14 | DOWN 1 | `sleep deprived` | 3 |
+| 15 | NEW | `friend group` | 3 |
+| 16 | DOWN 2 | `sigo` | 3 |
+| 17 | DOWN 2 | `animate` | 3 |
+| 18 | DOWN 2 | `danny` | 3 |
+| 19 | DOWN 2 | `tofu` | 3 |
+| 20 | DOWN 2 | `poder` | 3 |
+| 21 | DOWN 2 | `serve` | 3 |
+| 22 | DOWN 2 | `jude` | 3 |
+| 23 | DOWN 2 | `saga` | 3 |
+| 24 | DOWN 2 | `coworkers` | 3 |
+| 25 | DOWN 2 | `patrick` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
