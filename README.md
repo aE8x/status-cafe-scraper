@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-26 05:43 UTC*
+*Last Updated: 2026-07-26 15:37 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.056` 
-- **Distribution**: 34.4% Positive, 38.4% Neutral, 27.3% Negative
+- **Overall Mood Score**: `0.058` 
+- **Distribution**: 34.7% Positive, 38.2% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -20,28 +20,28 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 1 | - | `air quality` | 5 |
 | 2 | - | `cansada` | 4 |
 | 3 | - | `retrograde` | 4 |
-| 4 | NEW | `lyrc` | 4 |
-| 5 | DOWN 1 | `wildfire` | 4 |
-| 6 | DOWN 1 | `haze` | 4 |
-| 7 | DOWN 1 | `cops` | 4 |
-| 8 | DOWN 1 | `bien` | 4 |
-| 9 | DOWN 1 | `spain` | 6 |
-| 10 | - | `time draw` | 3 |
-| 11 | - | `much little` | 3 |
-| 12 | - | `job job` | 3 |
-| 13 | - | `friends watching` | 3 |
-| 14 | - | `excited new` | 3 |
-| 15 | - | `odyssey movie` | 3 |
-| 16 | - | `sleep deprived` | 3 |
-| 17 | - | `friend group` | 3 |
-| 18 | UP 3 | `jude` | 3 |
-| 19 | UP 3 | `saga` | 3 |
-| 20 | UP 3 | `coworkers` | 3 |
-| 21 | UP 3 | `patrick` | 3 |
-| 22 | UP 3 | `quase` | 3 |
-| 23 | NEW | `minds` | 3 |
-| 24 | NEW | `mercury` | 3 |
-| 25 | NEW | `bellingham` | 3 |
+| 4 | - | `lyrc` | 4 |
+| 5 | - | `wildfire` | 4 |
+| 6 | - | `haze` | 4 |
+| 7 | - | `cops` | 4 |
+| 8 | - | `bien` | 4 |
+| 9 | - | `spain` | 6 |
+| 10 | UP 1 | `much little` | 3 |
+| 11 | UP 1 | `job job` | 3 |
+| 12 | UP 1 | `friends watching` | 3 |
+| 13 | UP 1 | `excited new` | 3 |
+| 14 | UP 1 | `odyssey movie` | 3 |
+| 15 | UP 1 | `sleep deprived` | 3 |
+| 16 | UP 1 | `friend group` | 3 |
+| 17 | UP 1 | `jude` | 3 |
+| 18 | UP 1 | `saga` | 3 |
+| 19 | UP 1 | `coworkers` | 3 |
+| 20 | UP 1 | `patrick` | 3 |
+| 21 | NEW | `mal` | 3 |
+| 22 | - | `quase` | 3 |
+| 23 | NEW | `oopsie` | 3 |
+| 24 | DOWN 1 | `minds` | 3 |
+| 25 | DOWN 1 | `mercury` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
