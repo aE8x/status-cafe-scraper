@@ -56488,5 +56488,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-26T05:43:46.394744+00:00",
+        "hot_topics": [
+            {
+                "ngram": "air quality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "cansada",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "retrograde",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "lyrc",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "wildfire",
+                "mentions": 4,
+                "change": "26.2x"
+            },
+            {
+                "ngram": "haze",
+                "mentions": 4,
+                "change": "26.2x"
+            },
+            {
+                "ngram": "cops",
+                "mentions": 4,
+                "change": "26.2x"
+            },
+            {
+                "ngram": "bien",
+                "mentions": 4,
+                "change": "26.2x"
+            },
+            {
+                "ngram": "spain",
+                "mentions": 6,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "time draw",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "much little",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "job job",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "friends watching",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "excited new",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "odyssey movie",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "sleep deprived",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "jude",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "saga",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "coworkers",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "patrick",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "quase",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "minds",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "mercury",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "bellingham",
+                "mentions": 3,
+                "change": "19.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05580995838287753,
+            "positive_percent": 34.36385255648038,
+            "negative_percent": 27.25921521997622,
+            "neutral_percent": 38.376932223543406,
+            "most_positive_example": {
+                "text": "lol lol lol lol lol lol lol lol lol lol lol lol lol",
+                "user": "jasxy_",
+                "score": 0.9866
+            },
+            "most_negative_example": {
+                "text": "I HATE STUDYINGGGG I HATE STUDYINGGGG  HATE THINKING!!!!! SOMEBODY KILL ME!!!! THIS STUPID FYP AND THIS STUPID FYP I HATE IT ALL!!!!!!!",
+                "user": "korelle",
+                "score": -0.9826
+            }
+        },
+        "summary_message": null
     }
 ]
