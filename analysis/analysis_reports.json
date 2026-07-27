@@ -56929,5 +56929,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-27T16:38:35.817705+00:00",
+        "hot_topics": [
+            {
+                "ngram": "air quality",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "retrograde",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "lyrc",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "wildfire",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "haze",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "cops",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "bien",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "spain",
+                "mentions": 6,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "started learning",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "job job",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "friends watching",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "excited new",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "odyssey movie",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "sleep deprived",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "labyrinth",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "coworkers",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "patrick",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "mal",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "quase",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "oopsie",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "minds",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "mercury",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "bellingham",
+                "mentions": 3,
+                "change": "19.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0542341897810219,
+            "positive_percent": 34.36496350364963,
+            "negative_percent": 27.386861313868614,
+            "neutral_percent": 38.24817518248175,
+            "most_positive_example": {
+                "text": "the world looks like its ending but at least something good happened for my boyfriend today lol im happy for zeke :3",
+                "user": "kittywizardry",
+                "score": 0.9628
+            },
+            "most_negative_example": {
+                "text": "if you ever make a reservation 30 minutes before closing time, DIE DIE DIE DIE DIE",
+                "user": "nekofetti",
+                "score": -0.978
+            }
+        },
+        "summary_message": null
     }
 ]
