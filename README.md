@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-27 16:38 UTC*
+*Last Updated: 2026-07-28 05:27 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.054` 
-- **Distribution**: 34.4% Positive, 38.2% Neutral, 27.4% Negative
+- **Overall Mood Score**: `0.053` 
+- **Distribution**: 34.3% Positive, 38.4% Neutral, 27.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -33,15 +33,15 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 14 | - | `odyssey movie` | 3 |
 | 15 | - | `sleep deprived` | 3 |
 | 16 | - | `friend group` | 3 |
-| 17 | NEW | `labyrinth` | 3 |
-| 18 | DOWN 1 | `coworkers` | 3 |
-| 19 | DOWN 1 | `patrick` | 3 |
-| 20 | DOWN 1 | `mal` | 3 |
-| 21 | DOWN 1 | `quase` | 3 |
-| 22 | DOWN 1 | `oopsie` | 3 |
-| 23 | DOWN 1 | `minds` | 3 |
-| 24 | DOWN 1 | `mercury` | 3 |
-| 25 | DOWN 1 | `bellingham` | 3 |
+| 17 | UP 3 | `mal` | 3 |
+| 18 | UP 3 | `quase` | 3 |
+| 19 | UP 3 | `oopsie` | 3 |
+| 20 | UP 3 | `minds` | 3 |
+| 21 | UP 3 | `mercury` | 3 |
+| 22 | UP 3 | `bellingham` | 3 |
+| 23 | NEW | `stone` | 3 |
+| 24 | NEW | `osu` | 3 |
+| 25 | NEW | `gorai` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
