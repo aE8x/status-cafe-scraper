@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-28 16:17 UTC*
+*Last Updated: 2026-07-29 05:34 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.054` 
-- **Distribution**: 34.4% Positive, 38.5% Neutral, 27.1% Negative
+- **Overall Mood Score**: `0.056` 
+- **Distribution**: 34.8% Positive, 38.3% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `air quality` | 5 |
-| 2 | UP 1 | `lyrc` | 4 |
-| 3 | UP 1 | `wildfire` | 4 |
-| 4 | UP 1 | `haze` | 4 |
-| 5 | UP 1 | `cops` | 4 |
-| 6 | UP 1 | `bien` | 4 |
-| 7 | UP 18 | `gorai` | 4 |
-| 8 | - | `postal` | 4 |
-| 9 | - | `spain` | 6 |
-| 10 | UP 2 | `friends watching` | 3 |
-| 11 | UP 2 | `excited new` | 3 |
-| 12 | UP 2 | `odyssey movie` | 3 |
-| 13 | UP 2 | `sleep deprived` | 3 |
-| 14 | UP 2 | `friend group` | 3 |
-| 15 | UP 3 | `quase` | 3 |
-| 16 | UP 3 | `oopsie` | 3 |
-| 17 | UP 3 | `minds` | 3 |
-| 18 | UP 3 | `mercury` | 3 |
-| 19 | NEW | `jul` | 3 |
-| 20 | UP 2 | `bellingham` | 3 |
-| 21 | NEW | `pollcode` | 3 |
-| 22 | UP 1 | `stone` | 3 |
-| 23 | NEW | `trabajar` | 3 |
-| 24 | - | `osu` | 3 |
-| 25 | DOWN 23 | `retrograde` | 3 |
+| 2 | - | `lyrc` | 4 |
+| 3 | UP 5 | `postal` | 4 |
+| 4 | UP 2 | `bien` | 4 |
+| 5 | UP 2 | `gorai` | 4 |
+| 6 | NEW | `good day today` | 3 |
+| 7 | UP 3 | `friends watching` | 3 |
+| 8 | UP 3 | `excited new` | 3 |
+| 9 | UP 3 | `odyssey movie` | 3 |
+| 10 | UP 3 | `sleep deprived` | 3 |
+| 11 | UP 3 | `friend group` | 3 |
+| 12 | UP 4 | `oopsie` | 3 |
+| 13 | UP 4 | `minds` | 3 |
+| 14 | UP 4 | `mercury` | 3 |
+| 15 | UP 4 | `jul` | 3 |
+| 16 | UP 4 | `bellingham` | 3 |
+| 17 | UP 4 | `pollcode` | 3 |
+| 18 | NEW | `besties` | 3 |
+| 19 | UP 3 | `stone` | 3 |
+| 20 | UP 3 | `trabajar` | 3 |
+| 21 | UP 3 | `osu` | 3 |
+| 22 | UP 3 | `retrograde` | 3 |
+| 23 | NEW | `downtown` | 3 |
+| 24 | NEW | `cansada` | 3 |
+| 25 | NEW | `love forever` | 6 |
 
 <!-- END_ANALYSIS_SECTION -->
 
