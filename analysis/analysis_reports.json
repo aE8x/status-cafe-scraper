@@ -57811,5 +57811,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-07-30T16:06:50.534297+00:00",
+        "hot_topics": [
+            {
+                "ngram": "lyrc",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "bien",
+                "mentions": 4,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "gorai",
+                "mentions": 4,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "penguin",
+                "mentions": 4,
+                "change": "25.6x"
+            },
+            {
+                "ngram": "day work today",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "excited new",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "odyssey movie",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "sleep deprived",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "tails",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "stone",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "trabajar",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "osu",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "retrograde",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "downtown",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "observer",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "blues",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "cansada",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "perfume",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "refreshing",
+                "mentions": 4,
+                "change": "12.8x"
+            },
+            {
+                "ngram": "yap",
+                "mentions": 4,
+                "change": "12.8x"
+            },
+            {
+                "ngram": "nuts",
+                "mentions": 4,
+                "change": "12.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0631239041496201,
+            "positive_percent": 35.3302162478083,
+            "negative_percent": 26.329631794272355,
+            "neutral_percent": 38.340151957919346,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "if you ever make a reservation 30 minutes before closing time, DIE DIE DIE DIE DIE",
+                "user": "nekofetti",
+                "score": -0.978
+            }
+        },
+        "summary_message": null
     }
 ]

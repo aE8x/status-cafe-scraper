@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-30 05:21 UTC*
+*Last Updated: 2026-07-30 16:06 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.060` 
-- **Distribution**: 35.2% Positive, 38.3% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.063` 
+- **Distribution**: 35.3% Positive, 38.3% Neutral, 26.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `lyrc` | 4 |
 | 2 | - | `postal` | 4 |
-| 3 | - | `air quality` | 4 |
-| 4 | - | `bien` | 4 |
-| 5 | - | `gorai` | 4 |
-| 6 | UP 19 | `penguin` | 4 |
-| 7 | DOWN 1 | `good day today` | 3 |
-| 8 | DOWN 1 | `excited new` | 3 |
-| 9 | DOWN 1 | `odyssey movie` | 3 |
-| 10 | DOWN 1 | `sleep deprived` | 3 |
-| 11 | DOWN 1 | `friend group` | 3 |
-| 12 | NEW | `could probably` | 3 |
-| 13 | DOWN 1 | `pollcode` | 3 |
-| 14 | DOWN 1 | `tails` | 3 |
-| 15 | DOWN 1 | `stone` | 3 |
-| 16 | DOWN 1 | `trabajar` | 3 |
-| 17 | DOWN 1 | `osu` | 3 |
-| 18 | DOWN 1 | `retrograde` | 3 |
-| 19 | DOWN 1 | `downtown` | 3 |
-| 20 | DOWN 1 | `observer` | 3 |
-| 21 | NEW | `blues` | 3 |
-| 22 | DOWN 2 | `cansada` | 3 |
-| 23 | NEW | `perfume` | 3 |
-| 24 | DOWN 2 | `palworld` | 4 |
-| 25 | DOWN 2 | `refreshing` | 4 |
+| 3 | UP 1 | `bien` | 4 |
+| 4 | UP 1 | `gorai` | 4 |
+| 5 | UP 1 | `penguin` | 4 |
+| 6 | NEW | `day work today` | 3 |
+| 7 | - | `good day today` | 3 |
+| 8 | - | `excited new` | 3 |
+| 9 | - | `odyssey movie` | 3 |
+| 10 | - | `sleep deprived` | 3 |
+| 11 | - | `friend group` | 3 |
+| 12 | - | `could probably` | 3 |
+| 13 | UP 1 | `tails` | 3 |
+| 14 | UP 1 | `stone` | 3 |
+| 15 | UP 1 | `trabajar` | 3 |
+| 16 | UP 1 | `osu` | 3 |
+| 17 | UP 1 | `retrograde` | 3 |
+| 18 | UP 1 | `downtown` | 3 |
+| 19 | UP 1 | `observer` | 3 |
+| 20 | UP 1 | `blues` | 3 |
+| 21 | UP 1 | `cansada` | 3 |
+| 22 | UP 1 | `perfume` | 3 |
+| 23 | UP 2 | `refreshing` | 4 |
+| 24 | NEW | `yap` | 4 |
+| 25 | NEW | `nuts` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
