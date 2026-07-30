@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-07-29 16:00 UTC*
+*Last Updated: 2026-07-30 05:21 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.057` 
-- **Distribution**: 34.8% Positive, 38.5% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.060` 
+- **Distribution**: 35.2% Positive, 38.3% Neutral, 26.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `lyrc` | 4 |
-| 2 | UP 1 | `postal` | 4 |
-| 3 | DOWN 2 | `air quality` | 4 |
+| 1 | - | `lyrc` | 4 |
+| 2 | - | `postal` | 4 |
+| 3 | - | `air quality` | 4 |
 | 4 | - | `bien` | 4 |
 | 5 | - | `gorai` | 4 |
-| 6 | - | `good day today` | 3 |
-| 7 | UP 1 | `excited new` | 3 |
-| 8 | UP 1 | `odyssey movie` | 3 |
-| 9 | UP 1 | `sleep deprived` | 3 |
-| 10 | UP 1 | `friend group` | 3 |
-| 11 | UP 5 | `bellingham` | 3 |
-| 12 | UP 5 | `pollcode` | 3 |
-| 13 | NEW | `tails` | 3 |
-| 14 | UP 5 | `stone` | 3 |
-| 15 | UP 5 | `trabajar` | 3 |
-| 16 | UP 5 | `osu` | 3 |
-| 17 | UP 5 | `retrograde` | 3 |
-| 18 | UP 5 | `downtown` | 3 |
-| 19 | NEW | `observer` | 3 |
-| 20 | UP 4 | `cansada` | 3 |
-| 21 | UP 4 | `love forever` | 6 |
-| 22 | NEW | `palworld` | 4 |
-| 23 | NEW | `refreshing` | 4 |
-| 24 | NEW | `nuts` | 4 |
-| 25 | NEW | `penguin` | 4 |
+| 6 | UP 19 | `penguin` | 4 |
+| 7 | DOWN 1 | `good day today` | 3 |
+| 8 | DOWN 1 | `excited new` | 3 |
+| 9 | DOWN 1 | `odyssey movie` | 3 |
+| 10 | DOWN 1 | `sleep deprived` | 3 |
+| 11 | DOWN 1 | `friend group` | 3 |
+| 12 | NEW | `could probably` | 3 |
+| 13 | DOWN 1 | `pollcode` | 3 |
+| 14 | DOWN 1 | `tails` | 3 |
+| 15 | DOWN 1 | `stone` | 3 |
+| 16 | DOWN 1 | `trabajar` | 3 |
+| 17 | DOWN 1 | `osu` | 3 |
+| 18 | DOWN 1 | `retrograde` | 3 |
+| 19 | DOWN 1 | `downtown` | 3 |
+| 20 | DOWN 1 | `observer` | 3 |
+| 21 | NEW | `blues` | 3 |
+| 22 | DOWN 2 | `cansada` | 3 |
+| 23 | NEW | `perfume` | 3 |
+| 24 | DOWN 2 | `palworld` | 4 |
+| 25 | DOWN 2 | `refreshing` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
