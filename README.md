@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-01 15:35 UTC*
+*Last Updated: 2026-08-02 05:39 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.065` 
-- **Distribution**: 35.5% Positive, 38.4% Neutral, 26.1% Negative
+- **Overall Mood Score**: `0.067` 
+- **Distribution**: 35.6% Positive, 38.5% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `spider man` | 5 |
-| 2 | UP 1 | `walten files` | 5 |
-| 3 | DOWN 1 | `petal` | 5 |
-| 4 | - | `lowpoly` | 4 |
-| 5 | - | `postal` | 4 |
-| 6 | UP 4 | `conversations` | 6 |
-| 7 | DOWN 1 | `odyssey movie` | 4 |
-| 8 | DOWN 1 | `friend group` | 4 |
-| 9 | - | `penguin` | 4 |
-| 10 | UP 1 | `blues` | 4 |
-| 11 | UP 1 | `good day today` | 3 |
-| 12 | UP 2 | `sleep deprived` | 3 |
-| 13 | UP 2 | `fun playing` | 3 |
-| 14 | UP 2 | `week today` | 3 |
-| 15 | UP 2 | `new dolls` | 3 |
-| 16 | UP 2 | `could probably` | 3 |
-| 17 | NEW | `files good` | 3 |
-| 18 | UP 1 | `value` | 3 |
-| 19 | UP 1 | `retrograde` | 3 |
-| 20 | UP 1 | `downtown` | 3 |
-| 21 | UP 1 | `revenges` | 3 |
-| 22 | UP 1 | `observer` | 3 |
-| 23 | NEW | `dvd` | 3 |
-| 24 | - | `cansada` | 3 |
-| 25 | - | `mascot` | 3 |
+| 1 | NEW | `yaoi day` | 9 |
+| 2 | DOWN 1 | `spider man` | 5 |
+| 3 | DOWN 1 | `walten files` | 5 |
+| 4 | DOWN 1 | `petal` | 5 |
+| 5 | NEW | `happy yaoi day` | 4 |
+| 6 | DOWN 2 | `lowpoly` | 4 |
+| 7 | DOWN 2 | `postal` | 4 |
+| 8 | DOWN 2 | `conversations` | 6 |
+| 9 | DOWN 1 | `friend group` | 4 |
+| 10 | - | `blues` | 4 |
+| 11 | - | `good day today` | 3 |
+| 12 | - | `sleep deprived` | 3 |
+| 13 | - | `fun playing` | 3 |
+| 14 | - | `week today` | 3 |
+| 15 | - | `new dolls` | 3 |
+| 16 | - | `could probably` | 3 |
+| 17 | NEW | `period pain` | 3 |
+| 18 | DOWN 1 | `files good` | 3 |
+| 19 | UP 3 | `observer` | 3 |
+| 20 | UP 3 | `dvd` | 3 |
+| 21 | NEW | `sigo` | 3 |
+| 22 | UP 2 | `cansada` | 3 |
+| 23 | NEW | `author` | 3 |
+| 24 | UP 1 | `mascot` | 3 |
+| 25 | NEW | `applying` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
