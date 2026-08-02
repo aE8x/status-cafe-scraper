@@ -58693,5 +58693,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-02T15:37:05.961365+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "lowpoly",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 4,
+                "change": "25.3x"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 4,
+                "change": "25.3x"
+            },
+            {
+                "ngram": "blues",
+                "mentions": 4,
+                "change": "25.3x"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 4,
+                "change": "25.3x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "sleep deprived",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "fun playing",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "week today",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "new dolls",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "observer",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "dvd",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "sigo",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "cansada",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "author",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "mascot",
+                "mentions": 3,
+                "change": "18.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06554909560723514,
+            "positive_percent": 35.400516795865634,
+            "negative_percent": 26.098191214470283,
+            "neutral_percent": 38.50129198966408,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "po pi po pi po po pi po",
+                "user": "klaha2009",
+                "score": -0.9584
+            }
+        },
+        "summary_message": null
     }
 ]

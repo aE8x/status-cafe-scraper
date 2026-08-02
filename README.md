@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-02 05:39 UTC*
+*Last Updated: 2026-08-02 15:37 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.067` 
-- **Distribution**: 35.6% Positive, 38.5% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.066` 
+- **Distribution**: 35.4% Positive, 38.5% Neutral, 26.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `yaoi day` | 9 |
-| 2 | DOWN 1 | `spider man` | 5 |
-| 3 | DOWN 1 | `walten files` | 5 |
-| 4 | DOWN 1 | `petal` | 5 |
-| 5 | NEW | `happy yaoi day` | 4 |
-| 6 | DOWN 2 | `lowpoly` | 4 |
-| 7 | DOWN 2 | `postal` | 4 |
-| 8 | DOWN 2 | `conversations` | 6 |
-| 9 | DOWN 1 | `friend group` | 4 |
-| 10 | - | `blues` | 4 |
+| 1 | - | `yaoi day` | 9 |
+| 2 | UP 1 | `walten files` | 5 |
+| 3 | UP 1 | `petal` | 5 |
+| 4 | UP 1 | `happy yaoi day` | 4 |
+| 5 | UP 1 | `lowpoly` | 4 |
+| 6 | UP 1 | `postal` | 4 |
+| 7 | UP 2 | `friend group` | 4 |
+| 8 | DOWN 6 | `spider man` | 4 |
+| 9 | UP 1 | `blues` | 4 |
+| 10 | NEW | `beda` | 4 |
 | 11 | - | `good day today` | 3 |
 | 12 | - | `sleep deprived` | 3 |
 | 13 | - | `fun playing` | 3 |
 | 14 | - | `week today` | 3 |
 | 15 | - | `new dolls` | 3 |
 | 16 | - | `could probably` | 3 |
-| 17 | NEW | `period pain` | 3 |
-| 18 | DOWN 1 | `files good` | 3 |
-| 19 | UP 3 | `observer` | 3 |
-| 20 | UP 3 | `dvd` | 3 |
-| 21 | NEW | `sigo` | 3 |
-| 22 | UP 2 | `cansada` | 3 |
-| 23 | NEW | `author` | 3 |
-| 24 | UP 1 | `mascot` | 3 |
-| 25 | NEW | `applying` | 3 |
+| 17 | - | `period pain` | 3 |
+| 18 | NEW | `artfight almost` | 3 |
+| 19 | DOWN 1 | `files good` | 3 |
+| 20 | DOWN 1 | `observer` | 3 |
+| 21 | DOWN 1 | `dvd` | 3 |
+| 22 | DOWN 1 | `sigo` | 3 |
+| 23 | DOWN 1 | `cansada` | 3 |
+| 24 | DOWN 1 | `author` | 3 |
+| 25 | DOWN 1 | `mascot` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
