@@ -58840,5 +58840,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-03T05:55:12.484755+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 5,
+                "change": "31.5x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "blues",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "fim",
+                "mentions": 4,
+                "change": "25.2x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "fun playing",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "week today",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "new dolls",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "dvd",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "sigo",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "cansada",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "author",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "mascot",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "applying",
+                "mentions": 3,
+                "change": "18.9x"
+            },
+            {
+                "ngram": "cicadas",
+                "mentions": 3,
+                "change": "18.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06206650429799428,
+            "positive_percent": 35.21489971346705,
+            "negative_percent": 26.275071633237822,
+            "neutral_percent": 38.51002865329513,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "finaly made my home page mobile optimized(prolly)and updated pages, added poems etc. BUT IM SO FUCKING MAD AT MY FAMILY RN PMO I HATE U ALL",
+                "user": "aner",
+                "score": -0.9555
+            }
+        },
+        "summary_message": null
     }
 ]
