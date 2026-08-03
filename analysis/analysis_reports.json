@@ -58987,5 +58987,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-03T16:56:16.581294+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "fim",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "spiderman",
+                "mentions": 6,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "fun playing",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "week today",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "new dolls",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "hard today",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "dvd",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "sigo",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "cansada",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "author",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "mascot",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "applying",
+                "mentions": 3,
+                "change": "18.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.06103243166287016,
+            "positive_percent": 35.27904328018223,
+            "negative_percent": 26.42369020501139,
+            "neutral_percent": 38.297266514806374,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "MAD MEW MEW IN COOP DX REAL FUCK YUO SONIC ADVANCE FUCK YOU SONIC ADVANCE FUCK OUAS SONIC CAVNDACNCE",
+                "user": "whitefelinewonder",
+                "score": -0.9565
+            }
+        },
+        "summary_message": null
     }
 ]
