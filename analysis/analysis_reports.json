@@ -59281,5 +59281,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-04T16:26:46.397148+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 5,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "friend group",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "fim",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "spiderman",
+                "mentions": 7,
+                "change": "21.9x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "new dolls",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "hard today",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "week time",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "satan",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "author",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "lion",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "mascot",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "applying",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "cicadas",
+                "mentions": 3,
+                "change": "18.7x"
+            },
+            {
+                "ngram": "tom",
+                "mentions": 3,
+                "change": "18.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.060661125319693095,
+            "positive_percent": 35.12361466325661,
+            "negative_percent": 26.03012219380506,
+            "neutral_percent": 38.846263142938334,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "so disgustingly stressed i feel nothing but sick, in pain, drained, and i'm biting tf out of my fingers until they hurt. holy hell.",
+                "user": "goopygoo",
+                "score": -0.9665
+            }
+        },
+        "summary_message": null
     }
 ]
