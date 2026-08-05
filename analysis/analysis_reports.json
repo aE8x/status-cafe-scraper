@@ -59428,5 +59428,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-05T05:27:16.365576+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "postal",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 5,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "fim",
+                "mentions": 4,
+                "change": "25.0x"
+            },
+            {
+                "ngram": "spiderman",
+                "mentions": 7,
+                "change": "21.9x"
+            },
+            {
+                "ngram": "good day today",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "new dolls",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "hard today",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "still find",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "could probably",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "week time",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "fields mistria",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "author",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "lion",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "mascot",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "applying",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "cicadas",
+                "mentions": 3,
+                "change": "18.8x"
+            },
+            {
+                "ngram": "tom",
+                "mentions": 3,
+                "change": "18.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.058930611664295876,
+            "positive_percent": 34.93598862019915,
+            "negative_percent": 26.088193456614512,
+            "neutral_percent": 38.97581792318635,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "all company slogans are \"Verb. Verb. Verb.\" lazy lazy lazy lazy lazy lazy lazy lazy lazy soul sucking lazy lazy lazy (normal for them)",
+                "user": "uppy",
+                "score": -0.9776
+            }
+        },
+        "summary_message": null
     }
 ]
