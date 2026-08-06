@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-05 16:14 UTC*
+*Last Updated: 2026-08-06 05:29 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.060` 
-- **Distribution**: 34.9% Positive, 39.3% Neutral, 25.8% Negative
+- **Overall Mood Score**: `0.058` 
+- **Distribution**: 34.7% Positive, 39.3% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `walten files` | 5 |
 | 3 | - | `petal` | 5 |
 | 4 | - | `happy yaoi day` | 4 |
-| 5 | - | `postal` | 4 |
-| 6 | NEW | `kidney` | 4 |
-| 7 | DOWN 1 | `spider man` | 5 |
-| 8 | DOWN 1 | `beda` | 5 |
-| 9 | DOWN 1 | `artfight almost` | 4 |
-| 10 | DOWN 1 | `fim` | 4 |
-| 11 | DOWN 1 | `spiderman` | 7 |
-| 12 | DOWN 1 | `good day today` | 3 |
-| 13 | DOWN 1 | `new dolls` | 3 |
-| 14 | DOWN 1 | `hard today` | 3 |
-| 15 | DOWN 1 | `still find` | 3 |
-| 16 | DOWN 1 | `could probably` | 3 |
-| 17 | DOWN 1 | `week time` | 3 |
-| 18 | DOWN 1 | `period pain` | 3 |
-| 19 | DOWN 1 | `files good` | 3 |
-| 20 | NEW | `brand new` | 3 |
-| 21 | DOWN 2 | `fields mistria` | 3 |
-| 22 | DOWN 2 | `author` | 3 |
-| 23 | DOWN 2 | `lion` | 3 |
-| 24 | DOWN 2 | `mascot` | 3 |
-| 25 | DOWN 2 | `applying` | 3 |
+| 5 | UP 1 | `kidney` | 4 |
+| 6 | UP 1 | `spider man` | 5 |
+| 7 | UP 1 | `beda` | 5 |
+| 8 | UP 1 | `artfight almost` | 4 |
+| 9 | UP 12 | `fields mistria` | 4 |
+| 10 | - | `fim` | 4 |
+| 11 | - | `spiderman` | 7 |
+| 12 | UP 2 | `hard today` | 3 |
+| 13 | UP 2 | `still find` | 3 |
+| 14 | UP 2 | `could probably` | 3 |
+| 15 | UP 2 | `week time` | 3 |
+| 16 | UP 2 | `period pain` | 3 |
+| 17 | UP 2 | `files good` | 3 |
+| 18 | UP 2 | `brand new` | 3 |
+| 19 | UP 4 | `lion` | 3 |
+| 20 | UP 4 | `mascot` | 3 |
+| 21 | UP 4 | `applying` | 3 |
+| 22 | DOWN 17 | `postal` | 3 |
+| 23 | NEW | `cicadas` | 3 |
+| 24 | NEW | `rider` | 3 |
+| 25 | NEW | `tom` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
