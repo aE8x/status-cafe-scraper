@@ -60310,5 +60310,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-08T14:58:00.685856+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "kidney",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 6,
+                "change": "38.3x"
+            },
+            {
+                "ngram": "fields mistria",
+                "mentions": 6,
+                "change": "38.3x"
+            },
+            {
+                "ngram": "beda",
+                "mentions": 5,
+                "change": "31.9x"
+            },
+            {
+                "ngram": "spiderman",
+                "mentions": 8,
+                "change": "25.5x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.5x"
+            },
+            {
+                "ngram": "forgot much",
+                "mentions": 4,
+                "change": "25.5x"
+            },
+            {
+                "ngram": "lowpoly",
+                "mentions": 4,
+                "change": "25.5x"
+            },
+            {
+                "ngram": "august",
+                "mentions": 14,
+                "change": "22.3x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "brand new",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "fast enough",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "song like",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "rider",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "tom",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "hadestown",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "hora",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "decides",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "senior",
+                "mentions": 3,
+                "change": "19.1x"
+            },
+            {
+                "ngram": "endacopia",
+                "mentions": 3,
+                "change": "19.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05529081691772885,
+            "positive_percent": 34.907300115874854,
+            "negative_percent": 25.7531865585168,
+            "neutral_percent": 39.339513325608344,
+            "most_positive_example": {
+                "text": "i love inspiring people to write. one of my friends wants to write a fanfic after reading mine Aghh I LOVE MY FRIENDS",
+                "user": "merold",
+                "score": 0.9631
+            },
+            "most_negative_example": {
+                "text": "all company slogans are \"Verb. Verb. Verb.\" lazy lazy lazy lazy lazy lazy lazy lazy lazy soul sucking lazy lazy lazy (normal for them)",
+                "user": "uppy",
+                "score": -0.9776
+            }
+        },
+        "summary_message": null
     }
 ]
