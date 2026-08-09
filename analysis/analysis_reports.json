@@ -60604,5 +60604,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-09T15:00:32.348708+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "petal",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "walten files",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "kidney",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spider man",
+                "mentions": 7,
+                "change": "44.9x"
+            },
+            {
+                "ngram": "fields mistria",
+                "mentions": 6,
+                "change": "38.5x"
+            },
+            {
+                "ngram": "spiderman",
+                "mentions": 9,
+                "change": "28.9x"
+            },
+            {
+                "ngram": "artfight almost",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "forgot much",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "lowpoly",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "august",
+                "mentions": 15,
+                "change": "24.1x"
+            },
+            {
+                "ngram": "always comes back",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "period pain",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "files good",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "brand new",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "fast enough",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "song like",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "decides",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "senior",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "mindset",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "endacopia",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "pillow",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "corru",
+                "mentions": 3,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "selfship",
+                "mentions": 3,
+                "change": "19.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0544246288209607,
+            "positive_percent": 34.49781659388647,
+            "negative_percent": 25.502183406113538,
+            "neutral_percent": 40.0,
+            "most_positive_example": {
+                "text": "HAPPY BIRTHDAY FNAF HAPPY BIRTHDAY FNAF HAPPY BIRTHDAY FNAF HAPPY BIRTHDAY FNAF HAPPY BIRTHDAY FNAF HAPPY BIRTHDAY FNAF",
+                "user": "laby",
+                "score": 0.9726
+            },
+            "most_negative_example": {
+                "text": "all company slogans are \"Verb. Verb. Verb.\" lazy lazy lazy lazy lazy lazy lazy lazy lazy soul sucking lazy lazy lazy (normal for them)",
+                "user": "uppy",
+                "score": -0.9776
+            }
+        },
+        "summary_message": null
     }
 ]
