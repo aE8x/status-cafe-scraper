@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-12 15:28 UTC*
+*Last Updated: 2026-08-13 04:23 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.057` 
-- **Distribution**: 34.8% Positive, 40.0% Neutral, 25.3% Negative
+- **Overall Mood Score**: `0.056` 
+- **Distribution**: 34.6% Positive, 40.0% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `eclipse` | 11 |
-| 2 | DOWN 1 | `yaoi day` | 9 |
-| 3 | DOWN 1 | `petal` | 6 |
-| 4 | NEW | `solar eclipse` | 5 |
-| 5 | DOWN 1 | `happy yaoi day` | 4 |
-| 6 | DOWN 1 | `false memory` | 4 |
-| 7 | DOWN 1 | `kidney` | 4 |
-| 8 | DOWN 1 | `fields mistria` | 8 |
-| 9 | DOWN 6 | `walten files` | 4 |
-| 10 | DOWN 2 | `forgot much` | 4 |
-| 11 | UP 11 | `queria` | 4 |
-| 12 | DOWN 3 | `august` | 15 |
-| 13 | DOWN 2 | `beda` | 7 |
-| 14 | DOWN 4 | `spider man` | 6 |
-| 15 | DOWN 3 | `always comes back` | 3 |
-| 16 | DOWN 2 | `brand new` | 3 |
-| 17 | DOWN 2 | `fast enough` | 3 |
-| 18 | DOWN 2 | `song like` | 3 |
-| 19 | DOWN 2 | `took long` | 3 |
-| 20 | - | `flavored` | 3 |
-| 21 | - | `jersey` | 3 |
-| 22 | UP 1 | `selfship` | 3 |
-| 23 | UP 1 | `disgustingly` | 3 |
-| 24 | UP 1 | `haunted` | 3 |
-| 25 | NEW | `webbedsite` | 3 |
+| 1 | - | `eclipse` | 23 |
+| 2 | - | `yaoi day` | 9 |
+| 3 | UP 1 | `solar eclipse` | 8 |
+| 4 | DOWN 1 | `petal` | 6 |
+| 5 | - | `happy yaoi day` | 4 |
+| 6 | - | `false memory` | 4 |
+| 7 | UP 1 | `fields mistria` | 8 |
+| 8 | UP 3 | `queria` | 5 |
+| 9 | UP 3 | `august` | 16 |
+| 10 | DOWN 1 | `walten files` | 4 |
+| 11 | DOWN 1 | `forgot much` | 4 |
+| 12 | UP 2 | `spider man` | 7 |
+| 13 | UP 2 | `always comes back` | 3 |
+| 14 | UP 2 | `brand new` | 3 |
+| 15 | UP 2 | `fast enough` | 3 |
+| 16 | UP 2 | `song like` | 3 |
+| 17 | UP 2 | `took long` | 3 |
+| 18 | NEW | `jai` | 3 |
+| 19 | DOWN 12 | `kidney` | 3 |
+| 20 | UP 1 | `jersey` | 3 |
+| 21 | UP 1 | `selfship` | 3 |
+| 22 | UP 1 | `disgustingly` | 3 |
+| 23 | UP 1 | `haunted` | 3 |
+| 24 | UP 1 | `webbedsite` | 3 |
+| 25 | NEW | `goggles` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
