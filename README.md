@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-14 04:20 UTC*
+*Last Updated: 2026-08-14 15:21 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.053` 
-- **Distribution**: 34.2% Positive, 40.4% Neutral, 25.4% Negative
+- **Overall Mood Score**: `0.055` 
+- **Distribution**: 34.5% Positive, 40.1% Neutral, 25.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `eclipse` | 25 |
+| 1 | - | `eclipse` | 26 |
 | 2 | - | `yaoi day` | 9 |
 | 3 | - | `solar eclipse` | 8 |
-| 4 | UP 1 | `happy yaoi day` | 4 |
-| 5 | UP 1 | `false memory` | 4 |
-| 6 | UP 1 | `fields mistria` | 8 |
-| 7 | DOWN 3 | `petal` | 5 |
-| 8 | - | `queria` | 5 |
-| 9 | - | `august` | 18 |
-| 10 | - | `walten files` | 4 |
-| 11 | - | `forgot much` | 4 |
-| 12 | - | `spider man` | 7 |
-| 13 | - | `always comes back` | 3 |
-| 14 | - | `brand new` | 3 |
-| 15 | - | `fast enough` | 3 |
-| 16 | - | `song like` | 3 |
-| 17 | - | `took long` | 3 |
-| 18 | - | `jai` | 3 |
-| 19 | - | `kidney` | 3 |
-| 20 | - | `jersey` | 3 |
-| 21 | - | `selfship` | 3 |
-| 22 | - | `disgustingly` | 3 |
-| 23 | - | `haunted` | 3 |
-| 24 | - | `webbedsite` | 3 |
-| 25 | - | `goggles` | 3 |
+| 4 | - | `happy yaoi day` | 4 |
+| 5 | - | `false memory` | 4 |
+| 6 | - | `fields mistria` | 8 |
+| 7 | UP 1 | `queria` | 5 |
+| 8 | UP 1 | `august` | 18 |
+| 9 | UP 1 | `walten files` | 4 |
+| 10 | UP 1 | `forgot much` | 4 |
+| 11 | UP 2 | `always comes back` | 3 |
+| 12 | UP 2 | `brand new` | 3 |
+| 13 | UP 2 | `fast enough` | 3 |
+| 14 | UP 2 | `song like` | 3 |
+| 15 | UP 2 | `took long` | 3 |
+| 16 | UP 2 | `jai` | 3 |
+| 17 | UP 2 | `kidney` | 3 |
+| 18 | UP 2 | `jersey` | 3 |
+| 19 | UP 2 | `selfship` | 3 |
+| 20 | UP 2 | `disgustingly` | 3 |
+| 21 | UP 2 | `haunted` | 3 |
+| 22 | UP 2 | `webbedsite` | 3 |
+| 23 | UP 2 | `goggles` | 3 |
+| 24 | NEW | `sou` | 3 |
+| 25 | NEW | `thus` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
