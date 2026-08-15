@@ -62221,5 +62221,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-15T03:09:40.136545+00:00",
+        "hot_topics": [
+            {
+                "ngram": "eclipse",
+                "mentions": 28,
+                "change": "NEW"
+            },
+            {
+                "ngram": "yaoi day",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "solar eclipse",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy yaoi day",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "somehow managed",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fields mistria",
+                "mentions": 8,
+                "change": "51.7x"
+            },
+            {
+                "ngram": "queria",
+                "mentions": 6,
+                "change": "38.8x"
+            },
+            {
+                "ngram": "forgot much",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "haunted",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "august",
+                "mentions": 18,
+                "change": "23.3x"
+            },
+            {
+                "ngram": "always comes back",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "false memory",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "fast enough",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "song like",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "took long",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "almost years",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "kidney",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "jersey",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "selfship",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "disgustingly",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "webbedsite",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "goggles",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "sou",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "thus",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "nicely",
+                "mentions": 3,
+                "change": "19.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05072739244951713,
+            "positive_percent": 34.03570383377231,
+            "negative_percent": 25.431665203394793,
+            "neutral_percent": 40.5326309628329,
+            "most_positive_example": {
+                "text": "My name...? well, its Sweetie Darling Happiness Smile Beauty Sparkle Rainbow Stuffed Animal Cutie Princess 1000..!",
+                "user": "telepathicdesert",
+                "score": 0.9738
+            },
+            "most_negative_example": {
+                "text": "all company slogans are \"Verb. Verb. Verb.\" lazy lazy lazy lazy lazy lazy lazy lazy lazy soul sucking lazy lazy lazy (normal for them)",
+                "user": "uppy",
+                "score": -0.9776
+            }
+        },
+        "summary_message": null
     }
 ]
