@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-23 03:26 UTC*
+*Last Updated: 2026-08-23 14:48 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.042` 
-- **Distribution**: 33.5% Positive, 40.0% Neutral, 26.5% Negative
+- **Distribution**: 33.5% Positive, 39.9% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,16 +21,16 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `sally face` | 4 |
 | 3 | - | `dreadful` | 4 |
 | 4 | - | `vest` | 4 |
-| 5 | NEW | `natsume` | 4 |
-| 6 | DOWN 1 | `eclipse` | 29 |
-| 7 | NEW | `slow damage` | 5 |
-| 8 | DOWN 1 | `queria` | 7 |
-| 9 | DOWN 1 | `drawing tablet` | 3 |
-| 10 | DOWN 1 | `friends like` | 3 |
-| 11 | DOWN 1 | `fun today` | 3 |
-| 12 | DOWN 1 | `good one` | 3 |
-| 13 | DOWN 1 | `ita bag` | 3 |
-| 14 | DOWN 1 | `watch party` | 3 |
+| 5 | - | `natsume` | 4 |
+| 6 | - | `eclipse` | 29 |
+| 7 | - | `slow damage` | 5 |
+| 8 | UP 1 | `drawing tablet` | 3 |
+| 9 | NEW | `love new` | 3 |
+| 10 | - | `friends like` | 3 |
+| 11 | - | `fun today` | 3 |
+| 12 | - | `good one` | 3 |
+| 13 | - | `ita bag` | 3 |
+| 14 | - | `watch party` | 3 |
 | 15 | - | `faggot` | 3 |
 | 16 | - | `puto` | 3 |
 | 17 | - | `ankle` | 3 |
@@ -40,8 +40,8 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 21 | - | `piercings` | 3 |
 | 22 | - | `translate` | 3 |
 | 23 | - | `tally` | 3 |
-| 24 | - | `school starts` | 5 |
-| 25 | NEW | `doc` | 5 |
+| 24 | NEW | `crown` | 3 |
+| 25 | DOWN 1 | `school starts` | 5 |
 
 <!-- END_ANALYSIS_SECTION -->
 
