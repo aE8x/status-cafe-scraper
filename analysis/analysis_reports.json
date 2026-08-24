@@ -65014,5 +65014,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-24T15:10:06.765084+00:00",
+        "hot_topics": [
+            {
+                "ngram": "solar eclipse",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sally face",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dreadful",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "vest",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "natsume",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eclipse",
+                "mentions": 29,
+                "change": "197.1x"
+            },
+            {
+                "ngram": "slow damage",
+                "mentions": 5,
+                "change": "34.0x"
+            },
+            {
+                "ngram": "ankle",
+                "mentions": 4,
+                "change": "27.2x"
+            },
+            {
+                "ngram": "blank",
+                "mentions": 6,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "love new",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "friends like",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "fun today",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "good one",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "ita bag",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "watch party",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "actually finished",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "beatles",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "procrastination",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "snezhnaya",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "gulp",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "amv",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "noo",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "piercings",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "translate",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "tally",
+                "mentions": 3,
+                "change": "20.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04293599257884972,
+            "positive_percent": 33.95176252319109,
+            "negative_percent": 26.87074829931973,
+            "neutral_percent": 39.17748917748918,
+            "most_positive_example": {
+                "text": "My name...? well, its Sweetie Darling Happiness Smile Beauty Sparkle Rainbow Stuffed Animal Cutie Princess 1000..!",
+                "user": "telepathicdesert",
+                "score": 0.9738
+            },
+            "most_negative_example": {
+                "text": "Hatred in my heart. Hatred in my heart. Hatred in my heart. Hatred in my heart.Hatred in m",
+                "user": "arlequinade",
+                "score": -0.9571
+            }
+        },
+        "summary_message": null
     }
 ]
