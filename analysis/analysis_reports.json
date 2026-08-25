@@ -65161,5 +65161,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-25T03:23:21.906490+00:00",
+        "hot_topics": [
+            {
+                "ngram": "solar eclipse",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sally face",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dreadful",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "vest",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "natsume",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "eclipse",
+                "mentions": 29,
+                "change": "196.6x"
+            },
+            {
+                "ngram": "slow damage",
+                "mentions": 5,
+                "change": "33.9x"
+            },
+            {
+                "ngram": "ankle",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "blank",
+                "mentions": 6,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "friends like",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "fun today",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "good one",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "ita bag",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "school starting",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "watch party",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "actually finished",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "procrastination",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "snezhnaya",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "gulp",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "amv",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "noo",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "piercings",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "translate",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "tally",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "crown",
+                "mentions": 3,
+                "change": "20.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04381373033014502,
+            "positive_percent": 33.847577908053076,
+            "negative_percent": 26.812712125887074,
+            "neutral_percent": 39.33970996605986,
+            "most_positive_example": {
+                "text": "pulpo cookie is so cute cute cute cute cute cute cute aaaaghhh 🥹🥹🥹🥹🥹",
+                "user": "kawaii",
+                "score": 0.9819
+            },
+            "most_negative_example": {
+                "text": "Hatred in my heart. Hatred in my heart. Hatred in my heart. Hatred in my heart.Hatred in m",
+                "user": "arlequinade",
+                "score": -0.9571
+            }
+        },
+        "summary_message": null
     }
 ]
