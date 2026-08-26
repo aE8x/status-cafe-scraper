@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-25 15:13 UTC*
+*Last Updated: 2026-08-26 03:29 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.042` 
-- **Distribution**: 33.5% Positive, 39.7% Neutral, 26.8% Negative
+- **Overall Mood Score**: `0.039` 
+- **Distribution**: 33.2% Positive, 39.6% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `solar eclipse` | 9 |
-| 2 | - | `sally face` | 4 |
-| 3 | - | `dreadful` | 4 |
-| 4 | - | `vest` | 4 |
-| 5 | - | `natsume` | 4 |
-| 6 | - | `eclipse` | 29 |
-| 7 | - | `slow damage` | 5 |
-| 8 | - | `ankle` | 4 |
-| 9 | - | `blank` | 6 |
-| 10 | UP 2 | `good one` | 3 |
-| 11 | UP 2 | `ita bag` | 3 |
-| 12 | UP 2 | `school starting` | 3 |
-| 13 | UP 2 | `watch party` | 3 |
-| 14 | UP 2 | `actually finished` | 3 |
-| 15 | UP 3 | `snezhnaya` | 3 |
-| 16 | UP 3 | `gulp` | 3 |
-| 17 | UP 3 | `amv` | 3 |
-| 18 | UP 3 | `noo` | 3 |
-| 19 | UP 3 | `piercings` | 3 |
-| 20 | UP 3 | `translate` | 3 |
-| 21 | UP 3 | `tally` | 3 |
-| 22 | UP 3 | `crown` | 3 |
-| 23 | NEW | `sendo` | 3 |
-| 24 | NEW | `mah` | 3 |
-| 25 | NEW | `tenho` | 5 |
+| 1 | NEW | `dolly` | 28 |
+| 2 | NEW | `dolly parton` | 18 |
+| 3 | DOWN 2 | `solar eclipse` | 9 |
+| 4 | NEW | `rip dolly parton` | 6 |
+| 5 | NEW | `rest peace dolly` | 5 |
+| 6 | DOWN 4 | `sally face` | 4 |
+| 7 | DOWN 4 | `dreadful` | 4 |
+| 8 | DOWN 4 | `vest` | 4 |
+| 9 | DOWN 4 | `natsume` | 4 |
+| 10 | DOWN 4 | `eclipse` | 29 |
+| 11 | DOWN 4 | `slow damage` | 5 |
+| 12 | DOWN 2 | `good one` | 3 |
+| 13 | DOWN 2 | `ita bag` | 3 |
+| 14 | DOWN 2 | `school starting` | 3 |
+| 15 | DOWN 2 | `watch party` | 3 |
+| 16 | DOWN 2 | `actually finished` | 3 |
+| 17 | NEW | `fly high` | 3 |
+| 18 | DOWN 3 | `snezhnaya` | 3 |
+| 19 | DOWN 3 | `gulp` | 3 |
+| 20 | DOWN 3 | `amv` | 3 |
+| 21 | DOWN 3 | `noo` | 3 |
+| 22 | DOWN 3 | `piercings` | 3 |
+| 23 | DOWN 3 | `translate` | 3 |
+| 24 | DOWN 3 | `tally` | 3 |
+| 25 | DOWN 3 | `crown` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
