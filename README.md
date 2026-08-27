@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-26 15:59 UTC*
+*Last Updated: 2026-08-27 12:56 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.040` 
-- **Distribution**: 33.0% Positive, 40.0% Neutral, 27.0% Negative
+- **Overall Mood Score**: `0.036` 
+- **Distribution**: 32.9% Positive, 39.6% Neutral, 27.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `dolly` | 33 |
-| 2 | - | `dolly parton` | 21 |
-| 3 | UP 1 | `rip dolly parton` | 6 |
-| 4 | UP 1 | `rest peace dolly` | 6 |
-| 5 | UP 1 | `sally face` | 4 |
-| 6 | UP 1 | `dreadful` | 4 |
-| 7 | UP 1 | `vest` | 4 |
-| 8 | UP 1 | `natsume` | 4 |
-| 9 | UP 2 | `slow damage` | 5 |
-| 10 | UP 3 | `ita bag` | 3 |
-| 11 | UP 3 | `school starting` | 3 |
-| 12 | UP 3 | `watch party` | 3 |
-| 13 | UP 3 | `actually finished` | 3 |
-| 14 | UP 3 | `fly high` | 3 |
-| 15 | UP 5 | `amv` | 3 |
-| 16 | UP 5 | `noo` | 3 |
-| 17 | UP 5 | `piercings` | 3 |
-| 18 | NEW | `contemplating` | 3 |
-| 19 | NEW | `royal` | 3 |
-| 20 | UP 3 | `translate` | 3 |
-| 21 | NEW | `tim` | 3 |
-| 22 | UP 3 | `crown` | 3 |
-| 23 | NEW | `mah` | 3 |
-| 24 | NEW | `toys` | 5 |
-| 25 | NEW | `weeks doodle challenge` | 2 |
+| 1 | - | `dolly` | 40 |
+| 2 | - | `dolly parton` | 26 |
+| 3 | NEW | `tim curry` | 10 |
+| 4 | DOWN 1 | `rip dolly parton` | 8 |
+| 5 | DOWN 1 | `rest peace dolly` | 7 |
+| 6 | NEW | `peace dolly parton` | 4 |
+| 7 | DOWN 2 | `sally face` | 4 |
+| 8 | DOWN 2 | `dreadful` | 4 |
+| 9 | DOWN 2 | `vest` | 4 |
+| 10 | DOWN 2 | `natsume` | 4 |
+| 11 | DOWN 2 | `slow damage` | 5 |
+| 12 | DOWN 2 | `ita bag` | 3 |
+| 13 | DOWN 2 | `school starting` | 3 |
+| 14 | DOWN 2 | `watch party` | 3 |
+| 15 | NEW | `college soon` | 3 |
+| 16 | NEW | `math class` | 3 |
+| 17 | DOWN 4 | `actually finished` | 3 |
+| 18 | NEW | `fucking sick` | 3 |
+| 19 | DOWN 5 | `fly high` | 3 |
+| 20 | DOWN 2 | `contemplating` | 3 |
+| 21 | DOWN 2 | `royal` | 3 |
+| 22 | DOWN 2 | `translate` | 3 |
+| 23 | DOWN 1 | `crown` | 3 |
+| 24 | NEW | `marching` | 3 |
+| 25 | DOWN 2 | `mah` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
