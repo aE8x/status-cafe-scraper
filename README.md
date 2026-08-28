@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-28 14:27 UTC*
+*Last Updated: 2026-08-28 23:37 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.038` 
-- **Distribution**: 33.2% Positive, 39.5% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.039` 
+- **Distribution**: 33.3% Positive, 39.4% Neutral, 27.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `dolly` | 40 |
-| 2 | - | `dolly parton` | 26 |
-| 3 | - | `tim curry` | 10 |
+| 1 | - | `dolly` | 41 |
+| 2 | - | `dolly parton` | 27 |
+| 3 | - | `tim curry` | 11 |
 | 4 | - | `rip dolly parton` | 8 |
 | 5 | - | `rest peace dolly` | 7 |
 | 6 | - | `peace dolly parton` | 4 |
 | 7 | - | `sally face` | 4 |
 | 8 | - | `dreadful` | 4 |
-| 9 | NEW | `scientist` | 4 |
-| 10 | DOWN 1 | `vest` | 4 |
-| 11 | DOWN 1 | `natsume` | 4 |
-| 12 | DOWN 1 | `slow damage` | 5 |
+| 9 | - | `scientist` | 4 |
+| 10 | - | `vest` | 4 |
+| 11 | - | `natsume` | 4 |
+| 12 | - | `slow damage` | 5 |
 | 13 | - | `school starting` | 4 |
-| 14 | UP 7 | `translate` | 4 |
-| 15 | DOWN 3 | `ita bag` | 3 |
-| 16 | DOWN 2 | `watch party` | 3 |
-| 17 | DOWN 2 | `college soon` | 3 |
-| 18 | DOWN 2 | `math class` | 3 |
-| 19 | DOWN 2 | `actually finished` | 3 |
-| 20 | DOWN 2 | `fucking sick` | 3 |
-| 21 | DOWN 2 | `fly high` | 3 |
-| 22 | DOWN 2 | `royal` | 3 |
-| 23 | DOWN 1 | `accent` | 3 |
-| 24 | DOWN 1 | `probs` | 3 |
-| 25 | DOWN 1 | `crown` | 3 |
+| 14 | NEW | `mah` | 4 |
+| 15 | UP 1 | `watch party` | 3 |
+| 16 | UP 1 | `college soon` | 3 |
+| 17 | UP 1 | `math class` | 3 |
+| 18 | UP 1 | `actually finished` | 3 |
+| 19 | UP 1 | `fucking sick` | 3 |
+| 20 | UP 1 | `fly high` | 3 |
+| 21 | NEW | `agree` | 3 |
+| 22 | UP 2 | `probs` | 3 |
+| 23 | UP 2 | `crown` | 3 |
+| 24 | NEW | `marching` | 3 |
+| 25 | NEW | `cigarettes` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
