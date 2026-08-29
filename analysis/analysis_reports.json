@@ -66337,5 +66337,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-08-29T09:12:50.044286+00:00",
+        "hot_topics": [
+            {
+                "ngram": "dolly",
+                "mentions": 41,
+                "change": "NEW"
+            },
+            {
+                "ngram": "dolly parton",
+                "mentions": 27,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tim curry",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "rip dolly parton",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "rest peace dolly",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "peace dolly parton",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "sally face",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "scientist",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "vest",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "natsume",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "slow damage",
+                "mentions": 5,
+                "change": "34.1x"
+            },
+            {
+                "ngram": "school starting",
+                "mentions": 4,
+                "change": "27.3x"
+            },
+            {
+                "ngram": "mah",
+                "mentions": 4,
+                "change": "27.3x"
+            },
+            {
+                "ngram": "watch party",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "college soon",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "math class",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "actually finished",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "fucking sick",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "fly high",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "agree",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "probs",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "dreadful",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "crown",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "marching",
+                "mentions": 3,
+                "change": "20.5x"
+            },
+            {
+                "ngram": "cigarettes",
+                "mentions": 3,
+                "change": "20.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04401409458618544,
+            "positive_percent": 33.78967019290604,
+            "negative_percent": 27.037958929682638,
+            "neutral_percent": 39.172370877411325,
+            "most_positive_example": {
+                "text": "pulpo cookie is so cute cute cute cute cute cute cute aaaaghhh 🥹🥹🥹🥹🥹",
+                "user": "kawaii",
+                "score": 0.9819
+            },
+            "most_negative_example": {
+                "text": "College starts in less than a week... fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fu",
+                "user": "thusspokedjongo",
+                "score": -0.9968
+            }
+        },
+        "summary_message": null
     }
 ]

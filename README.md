@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-08-28 23:37 UTC*
+*Last Updated: 2026-08-29 09:12 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.039` 
-- **Distribution**: 33.3% Positive, 39.4% Neutral, 27.3% Negative
+- **Overall Mood Score**: `0.044` 
+- **Distribution**: 33.8% Positive, 39.2% Neutral, 27.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `rest peace dolly` | 7 |
 | 6 | - | `peace dolly parton` | 4 |
 | 7 | - | `sally face` | 4 |
-| 8 | - | `dreadful` | 4 |
-| 9 | - | `scientist` | 4 |
-| 10 | - | `vest` | 4 |
-| 11 | - | `natsume` | 4 |
-| 12 | - | `slow damage` | 5 |
-| 13 | - | `school starting` | 4 |
-| 14 | NEW | `mah` | 4 |
-| 15 | UP 1 | `watch party` | 3 |
-| 16 | UP 1 | `college soon` | 3 |
-| 17 | UP 1 | `math class` | 3 |
-| 18 | UP 1 | `actually finished` | 3 |
-| 19 | UP 1 | `fucking sick` | 3 |
-| 20 | UP 1 | `fly high` | 3 |
-| 21 | NEW | `agree` | 3 |
-| 22 | UP 2 | `probs` | 3 |
-| 23 | UP 2 | `crown` | 3 |
-| 24 | NEW | `marching` | 3 |
-| 25 | NEW | `cigarettes` | 3 |
+| 8 | UP 1 | `scientist` | 4 |
+| 9 | UP 1 | `vest` | 4 |
+| 10 | UP 1 | `natsume` | 4 |
+| 11 | UP 1 | `slow damage` | 5 |
+| 12 | UP 1 | `school starting` | 4 |
+| 13 | UP 1 | `mah` | 4 |
+| 14 | UP 1 | `watch party` | 3 |
+| 15 | UP 1 | `college soon` | 3 |
+| 16 | UP 1 | `math class` | 3 |
+| 17 | UP 1 | `actually finished` | 3 |
+| 18 | UP 1 | `fucking sick` | 3 |
+| 19 | UP 1 | `fly high` | 3 |
+| 20 | UP 1 | `agree` | 3 |
+| 21 | UP 1 | `probs` | 3 |
+| 22 | DOWN 14 | `dreadful` | 3 |
+| 23 | - | `crown` | 3 |
+| 24 | - | `marching` | 3 |
+| 25 | - | `cigarettes` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
