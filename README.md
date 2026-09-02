@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-02 07:11 UTC*
+*Last Updated: 2026-09-02 17:58 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 33.8% Positive, 39.6% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.044` 
+- **Distribution**: 33.6% Positive, 39.9% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `slow damage` | 5 |
 | 9 | - | `mah` | 4 |
 | 10 | - | `adobe` | 4 |
-| 11 | UP 1 | `fucking sick` | 3 |
-| 12 | UP 1 | `even energy` | 3 |
-| 13 | UP 1 | `fly high` | 3 |
-| 14 | NEW | `elon musk` | 3 |
-| 15 | - | `nintendo switch` | 3 |
-| 16 | UP 2 | `cigarettes` | 3 |
-| 17 | UP 2 | `vest` | 3 |
-| 18 | UP 2 | `dudes` | 3 |
-| 19 | UP 2 | `alex` | 3 |
-| 20 | NEW | `hel` | 3 |
-| 21 | UP 1 | `keepin` | 3 |
-| 22 | NEW | `sword` | 3 |
-| 23 | - | `scientist` | 3 |
-| 24 | - | `shipped` | 3 |
-| 25 | - | `require` | 3 |
+| 11 | UP 13 | `shipped` | 4 |
+| 12 | NEW | `september` | 25 |
+| 13 | DOWN 2 | `fucking sick` | 3 |
+| 14 | DOWN 2 | `even energy` | 3 |
+| 15 | DOWN 2 | `fly high` | 3 |
+| 16 | DOWN 2 | `elon musk` | 3 |
+| 17 | DOWN 2 | `nintendo switch` | 3 |
+| 18 | DOWN 2 | `cigarettes` | 3 |
+| 19 | DOWN 2 | `vest` | 3 |
+| 20 | DOWN 2 | `dudes` | 3 |
+| 21 | DOWN 2 | `alex` | 3 |
+| 22 | DOWN 2 | `hel` | 3 |
+| 23 | DOWN 2 | `keepin` | 3 |
+| 24 | NEW | `conditioning` | 3 |
+| 25 | DOWN 3 | `sword` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
