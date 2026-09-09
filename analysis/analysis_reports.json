@@ -69571,5 +69571,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-09T07:28:24.844571+00:00",
+        "hot_topics": [
+            {
+                "ngram": "tim curry",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hatsune miku",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "changelog added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "worlds",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fabulous",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "labor",
+                "mentions": 4,
+                "change": "26.5x"
+            },
+            {
+                "ngram": "left queue",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "nintendo switch",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "busy week",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "today happy",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "excited fall",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "canva",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "png",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "president",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "yahoo",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "draining",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "jayvik",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "curl",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "september",
+                "mentions": 29,
+                "change": "19.2x"
+            },
+            {
+                "ngram": "gifts",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "mizuki",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "ttrpg",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "lovers",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "adobe",
+                "mentions": 4,
+                "change": "13.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05391964773762527,
+            "positive_percent": 34.37594898269056,
+            "negative_percent": 25.842696629213485,
+            "neutral_percent": 39.78135438809596,
+            "most_positive_example": {
+                "text": "HAPPY BIRTHDAY TO MY GLORIOUS AMAZING BEAUTIFUL PERFECT GOAT HATSUNE MIKU ❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+                "user": "kawaii",
+                "score": 0.9775
+            },
+            "most_negative_example": {
+                "text": "College starts in less than a week... fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fuck fu",
+                "user": "thusspokedjongo",
+                "score": -0.9968
+            }
+        },
+        "summary_message": null
     }
 ]
