@@ -69865,5 +69865,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-10T07:24:03.421320+00:00",
+        "hot_topics": [
+            {
+                "ngram": "hatsune miku",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fabulous",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "changelog added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new kirby",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "worlds",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "today happy",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "labor",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "september",
+                "mentions": 31,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "stars time",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "actually better",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "busy week",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "excited fall",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "alt text",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "president",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "yahoo",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "rocket",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "jayvik",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "curl",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "remembers",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "kirk",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "gifts",
+                "mentions": 4,
+                "change": "13.1x"
+            },
+            {
+                "ngram": "ttrpg",
+                "mentions": 4,
+                "change": "13.1x"
+            },
+            {
+                "ngram": "lovers",
+                "mentions": 4,
+                "change": "13.1x"
+            },
+            {
+                "ngram": "adobe",
+                "mentions": 4,
+                "change": "13.1x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.054434297769740805,
+            "positive_percent": 34.20735382760699,
+            "negative_percent": 26.069921639541892,
+            "neutral_percent": 39.72272453285112,
+            "most_positive_example": {
+                "text": "HAPPY BIRTHDAY TO MY GLORIOUS AMAZING BEAUTIFUL PERFECT GOAT HATSUNE MIKU ❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+                "user": "kawaii",
+                "score": 0.9775
+            },
+            "most_negative_example": {
+                "text": "Everyone dying but that fat evil orange bitch omg im so devastated",
+                "user": "toxicgraves",
+                "score": -0.9701
+            }
+        },
+        "summary_message": null
     }
 ]
