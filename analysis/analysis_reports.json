@@ -70306,5 +70306,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-11T17:49:23.151058+00:00",
+        "hot_topics": [
+            {
+                "ngram": "fabulous",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "changelog added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new kirby",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "forehead",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "hatsune miku",
+                "mentions": 7,
+                "change": "45.7x"
+            },
+            {
+                "ngram": "kirk",
+                "mentions": 7,
+                "change": "45.7x"
+            },
+            {
+                "ngram": "today happy",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "rocket",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "labor",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "charlie",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "actually better",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "busy week",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "excited fall",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "lets hope",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "alt text",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "hip",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "jayvik",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "eek",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "discussion",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "curl",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "retreat",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "spice",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "remembers",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "worlds",
+                "mentions": 3,
+                "change": "19.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05502020353187668,
+            "positive_percent": 33.88207123615684,
+            "negative_percent": 25.710865010475903,
+            "neutral_percent": 40.407063753367254,
+            "most_positive_example": {
+                "text": "HAPPY BIRTHDAY TO MY GLORIOUS AMAZING BEAUTIFUL PERFECT GOAT HATSUNE MIKU ❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+                "user": "kawaii",
+                "score": 0.9775
+            },
+            "most_negative_example": {
+                "text": "sometimes i feel awful that i have crushes on mlm characters then I remember that I have no gender internalized transphobia sucks >:(",
+                "user": "marzopan",
+                "score": -0.9403
+            }
+        },
+        "summary_message": null
     }
 ]
