@@ -71335,5 +71335,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-15T07:54:38.430925+00:00",
+        "hot_topics": [
+            {
+                "ngram": "kirk",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "coyote acme",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "changelog added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new kirby",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "charlie kirk",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "labor",
+                "mentions": 4,
+                "change": "25.9x"
+            },
+            {
+                "ngram": "excited fall",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "lets hope",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "alt text",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "could sleep",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "today happy",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "kill everyone",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "forehead",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "occasionally",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "retreat",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "spice",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "remembers",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "worlds",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "meowing",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "domains",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "metroid",
+                "mentions": 3,
+                "change": "19.4x"
+            },
+            {
+                "ngram": "losing mind",
+                "mentions": 5,
+                "change": "16.2x"
+            },
+            {
+                "ngram": "autumn",
+                "mentions": 14,
+                "change": "15.1x"
+            },
+            {
+                "ngram": "merry",
+                "mentions": 4,
+                "change": "12.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.055633671036948745,
+            "positive_percent": 34.50536352800954,
+            "negative_percent": 25.774731823599524,
+            "neutral_percent": 39.719904648390944,
+            "most_positive_example": {
+                "text": "LOVE is WORK. stop thinking about yourself and what you WANT. forget about COMFORT and PLEASURE. it's not about that or you. none of this is about you. it's about the GREATER, what you CREATE and who you LOVE.",
+                "user": "sphinxie",
+                "score": 0.9736
+            },
+            "most_negative_example": {
+                "text": "stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid",
+                "user": "wolfsbane",
+                "score": -0.9968
+            }
+        },
+        "summary_message": null
     }
 ]
