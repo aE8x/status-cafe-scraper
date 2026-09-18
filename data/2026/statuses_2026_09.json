@@ -28936,5 +28936,922 @@
         "timestamp_iso": "2026-09-17T08:24:54.273810+00:00",
         "relative_time_on_site": "🐁 10 hours ago",
         "retrieval_date_iso": "2026-09-17T18:24:54.273815+00:00"
+    },
+    "2019a6bc0a9858a51a62481ef8648c913be5bdd61585ca87e0055f471a391fbb": {
+        "username": "aquahex",
+        "text": "can we hit delete",
+        "timestamp_iso": "2026-09-18T07:07:14.016061+00:00",
+        "relative_time_on_site": "🌧️ 22 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016090+00:00"
+    },
+    "8bd28d2fc9f2fba6dce8154994ba48fa903f360cb7f75169479cacd7caecfea9": {
+        "username": "vd1r",
+        "text": "updating my blog is quite fun, but life updates aren't happy at all... remembering hurts",
+        "timestamp_iso": "2026-09-18T07:06:14.016098+00:00",
+        "relative_time_on_site": "🙂 23 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016115+00:00"
+    },
+    "ce7e5819a330bf92d3ec1555f79c178a4d3f6cdbcfcdf1f6367f21d9e7cf223c": {
+        "username": "catgutstew",
+        "text": "they should actually give me money to think about mash 24/7 im so good at it",
+        "timestamp_iso": "2026-09-18T06:56:14.016120+00:00",
+        "relative_time_on_site": "❤︎ 33 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016134+00:00"
+    },
+    "d0bb355979e0347d760b3d02e35a70dc6f219d4d29ea05553564f4b6e3eeb87a": {
+        "username": "spectralid",
+        "text": "fall is so close that i can feel it in my soul.",
+        "timestamp_iso": "2026-09-18T06:51:14.016137+00:00",
+        "relative_time_on_site": "🌧️ 38 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016148+00:00"
+    },
+    "af3a548695a8a8878ccaf086c6a4467aea1ca529f4d1f38cc529c02d9ea5bffd": {
+        "username": "lonewriter",
+        "text": "..maybe there's an AU where we may have been together.. that's kinda weird to think about..",
+        "timestamp_iso": "2026-09-18T06:49:14.016153+00:00",
+        "relative_time_on_site": "👀 40 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016163+00:00"
+    },
+    "35993453cbf39c502f1fb6b00c5f9d1f1756e7f36630514b40047514441634ef": {
+        "username": "24hrcinderella",
+        "text": "i need a fucking vacation",
+        "timestamp_iso": "2026-09-18T06:43:14.016167+00:00",
+        "relative_time_on_site": "🙂 46 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016176+00:00"
+    },
+    "bf2f8f307480000fde9efa1d5b6fb9b199abecb77c1fd6daa38f0ce84e0f84ec": {
+        "username": "lyin",
+        "text": "好痛苦，实在是太痛苦了。身体也很痛，皮肤很疼，心情也很悲伤。",
+        "timestamp_iso": "2026-09-18T06:36:14.016180+00:00",
+        "relative_time_on_site": "🌧️ 53 minutes ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016190+00:00"
+    },
+    "7f3c6e7b04cb94e9c4e893d5d396bc74000754ce9af58d6fb62abb29434d12cd": {
+        "username": "chrysalis",
+        "text": "YAY DINUGUAN AND PUTO",
+        "timestamp_iso": "2026-09-18T06:29:14.016199+00:00",
+        "relative_time_on_site": "🥰 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016210+00:00"
+    },
+    "64d8fbbe99ee22bdc05a3183507ee9a10f75b0d0ba8fd24f04b16f56264b6ebc": {
+        "username": "stage39",
+        "text": "i'm watching full metal alchemist brotherhood...",
+        "timestamp_iso": "2026-09-18T06:29:14.016214+00:00",
+        "relative_time_on_site": "🌈 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016224+00:00"
+    },
+    "479a21091451ab278fdad8f6caebd76ebaada75af9c3899394a63f269ac1088f": {
+        "username": "prtypsn",
+        "text": "they did make me pretty damn tired though. aren't adhd meds supposed to wake you up? then again it's not a stimulant...",
+        "timestamp_iso": "2026-09-18T06:29:14.016228+00:00",
+        "relative_time_on_site": "☀️ 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016238+00:00"
+    },
+    "6fc627f70e1dbe58bf10342e259ef36d3b037fc0fdb664e2210eeae8d0ca13bb": {
+        "username": "genn",
+        "text": "Updating my blog after like 2 years? Is this really me?",
+        "timestamp_iso": "2026-09-18T06:29:14.016242+00:00",
+        "relative_time_on_site": "😱 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016251+00:00"
+    },
+    "b36e7012de6cda2c7b69f3b8ef73b20f1eb60fce6076d0e117dc5f1ac7c1ddaf": {
+        "username": "ordainedmotion",
+        "text": "kinda sad hearing stella magna disbanded after 9 years.",
+        "timestamp_iso": "2026-09-18T06:29:14.016255+00:00",
+        "relative_time_on_site": "💔 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016265+00:00"
+    },
+    "b6b8f3e563927bf2b158a16e3a784b72566826ed7363ca3f9da8f993a4aa238c": {
+        "username": "babydoll",
+        "text": "we could have omakase in Tokyo if you wanna, オンドリ ໒꒰ྀི ∩ ⸝⸝ ∩ ꒱ྀིა",
+        "timestamp_iso": "2026-09-18T06:29:14.016269+00:00",
+        "relative_time_on_site": "🎶 1 hour ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016279+00:00"
+    },
+    "d6f1a195182876d2b9f97074e86adea4701b18ca07cd469b56c03bd398f1143d": {
+        "username": "dragon-heist",
+        "text": "sorry yall i spent all day thinking about pokemon and celebrating the 30th anni tcg drop,, more work tomorrow after errands",
+        "timestamp_iso": "2026-09-18T05:29:14.016283+00:00",
+        "relative_time_on_site": "🎲 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016293+00:00"
+    },
+    "f0abc8f30a1ee92ee5b295cf91f1de5e37e7fdd9ca96f3e4a0593ab24d444bd5": {
+        "username": "l1chenthropy",
+        "text": "WE'RE SO FUCKING BACK!!! #DUMB",
+        "timestamp_iso": "2026-09-18T05:29:14.016297+00:00",
+        "relative_time_on_site": "🌈 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016307+00:00"
+    },
+    "31a3552d55b111f25df03ca1358359ca8749d12d527ff3ebea357420e1fbfced": {
+        "username": "toxicgraves",
+        "text": "They invented iron supplements as a new torture method im sure",
+        "timestamp_iso": "2026-09-18T05:29:14.016311+00:00",
+        "relative_time_on_site": "🤒 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016321+00:00"
+    },
+    "a3d7e14d2dab27c8ef10f3ff314c19f7998581577bb2d31c10ca66776f787a3e": {
+        "username": "booger2001",
+        "text": "trying to poop will have the baddest of bitches doubled over in pawanmuktasana ready to #Die",
+        "timestamp_iso": "2026-09-18T05:29:14.016324+00:00",
+        "relative_time_on_site": "🌙 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016334+00:00"
+    },
+    "5139413dbd322eff52e4c0d930366fc21e9b9eace95dd7ff2be991e80ebd9934": {
+        "username": "mushyooms",
+        "text": "phone's been at the repairer so rather than doomscrolling i play my DS at night now lmao",
+        "timestamp_iso": "2026-09-18T05:29:14.016338+00:00",
+        "relative_time_on_site": "🙂 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016351+00:00"
+    },
+    "0fa62298092bdb0d2fe5cd8a623e2e61b39b7750ea317420e85d7a1d63d95631": {
+        "username": "sivonratmeat",
+        "text": "Feeling #nauseated",
+        "timestamp_iso": "2026-09-18T05:29:14.016354+00:00",
+        "relative_time_on_site": "🤒 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016371+00:00"
+    },
+    "cd66532fb7d29f4271fe12180c883d3b471c4bf59d811bcd00d6fff7098141bb": {
+        "username": "merv",
+        "text": "get more aromantic now!",
+        "timestamp_iso": "2026-09-18T05:29:14.016375+00:00",
+        "relative_time_on_site": "🎷 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016386+00:00"
+    },
+    "41f6a1d37baaf4b4ee15f4534b1e97998c443627d20425771892a7e53e6345e0": {
+        "username": "littlecake0",
+        "text": "I've started to listen to online radio stations and people should do that more tbh, much better than letting cranky yt algos decide.",
+        "timestamp_iso": "2026-09-18T05:29:14.016389+00:00",
+        "relative_time_on_site": "🎶 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016399+00:00"
+    },
+    "8cf7742e43df55b17cde701f6131db69a305cbe2ab25bc4eaba0b6a67883312e": {
+        "username": "baggebo",
+        "text": "im so hungry omfg. hate my STUPID and CHUD school!!! i deserve better than this!!",
+        "timestamp_iso": "2026-09-18T05:29:14.016403+00:00",
+        "relative_time_on_site": "💤 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016413+00:00"
+    },
+    "90ed21ba0d55d538a4cff9f1d12d0a17a59bbbb691637ae7e469203e9875d37d": {
+        "username": "kris-mcstabberson",
+        "text": "do you think horses look like that on purpose or what",
+        "timestamp_iso": "2026-09-18T05:29:14.016417+00:00",
+        "relative_time_on_site": "📺 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016427+00:00"
+    },
+    "c6e275037f1f294fbdf522e614743198590b889a6f9f46894296f15eb8ef9249": {
+        "username": "kittywizardry",
+        "text": "shared calendar is like peak romance (i love being snoopy)",
+        "timestamp_iso": "2026-09-18T05:29:14.016432+00:00",
+        "relative_time_on_site": "🥰 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016443+00:00"
+    },
+    "dd778ced65aa8c43729bf192892c78d9cbddaa64c1ee1d4f60673561870f61b8": {
+        "username": "neurondurance",
+        "text": "i just got the urge to eat a whole bottle of mayo",
+        "timestamp_iso": "2026-09-18T05:29:14.016447+00:00",
+        "relative_time_on_site": "😛 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016458+00:00"
+    },
+    "77167fc1b4b35f94dd9cf3a9f9d60e441b96bc63244679f59fc460a69d560e1a": {
+        "username": "cygnicide",
+        "text": "goldfish crackers <3 <3 <3 <3 <3 <3",
+        "timestamp_iso": "2026-09-18T05:29:14.016462+00:00",
+        "relative_time_on_site": "🍞 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016473+00:00"
+    },
+    "834cdaa4bc804f23ab276ca9992046cab8a6bf7541ed023eacb973d16fbb6ac5": {
+        "username": "killmorrow",
+        "text": "does my pen only write bitter word for those who are dear to me?",
+        "timestamp_iso": "2026-09-18T05:29:14.016478+00:00",
+        "relative_time_on_site": "💾 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016491+00:00"
+    },
+    "4587400b510e7d25097b72f55d50e1888e3a92333a3eff2a84d363491ca7bfc0": {
+        "username": "parsley",
+        "text": "\"baby i don't know when i'm supposed to stop!\" /ref",
+        "timestamp_iso": "2026-09-18T05:29:14.016494+00:00",
+        "relative_time_on_site": "🎶 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016500+00:00"
+    },
+    "8d11ffc8574dae8b8bdaeda135a494ca10b254e349f54f6db0f12a0afb8e2675": {
+        "username": "midousuji",
+        "text": "CARLY!!!! RAE!!!!!! JEPSEN!!!! DAY!!! AND!!!!!!!! NIGHT!!!!!!!!!!!!!!!!!",
+        "timestamp_iso": "2026-09-18T05:29:14.016502+00:00",
+        "relative_time_on_site": "❤️ 2 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016512+00:00"
+    },
+    "eb4e906bcc37f3869106f47e6109f8811ae27e7986e35b7033d9fd19b28f9348": {
+        "username": "frutigerangel",
+        "text": "comic updates are goin so welllll <3",
+        "timestamp_iso": "2026-09-18T04:29:14.016515+00:00",
+        "relative_time_on_site": "🥰 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016521+00:00"
+    },
+    "6dca808fd4fb5ae62c1a9d83c4c56272bceb1a8eb3bacfbe0fded519b75b1953": {
+        "username": "folkmoss",
+        "text": "Love is only a feeling anyway 🤷🏻‍♀️",
+        "timestamp_iso": "2026-09-18T04:29:14.016523+00:00",
+        "relative_time_on_site": "🎶 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016529+00:00"
+    },
+    "a954f40e8f68a6fa9495444f074119a8c1b350e1631f8ce6e312aa3a8e472b04": {
+        "username": "obietoby43",
+        "text": "Teaching myself the panic dance from Ghost Trick is not the weirdest thing I've done at midnight on a Thursday",
+        "timestamp_iso": "2026-09-18T04:29:14.016531+00:00",
+        "relative_time_on_site": "🏂 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016552+00:00"
+    },
+    "3247c5eceee5f1893c2041269ddb76e4eead4086198ecca17cd8b7b118eadea2": {
+        "username": "monotheonist",
+        "text": "i want to draw him... i want to become my old self. i feel safe",
+        "timestamp_iso": "2026-09-18T04:29:14.016555+00:00",
+        "relative_time_on_site": "🥹 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016562+00:00"
+    },
+    "ef4a110eb95785a688504d277e64ff6ee8569dc73d610ee48aade9a718aabb60": {
+        "username": "funny",
+        "text": "i'm craving a chimichanga again they're just sofucking yummmyyyy",
+        "timestamp_iso": "2026-09-18T04:29:14.016564+00:00",
+        "relative_time_on_site": "😭 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016570+00:00"
+    },
+    "faffb3dbfafeceb9145b46927316c6b3921673adc08475b4fe305b12774f0da8": {
+        "username": "cerealsnail",
+        "text": "my cat has started enforcing ny bedtime",
+        "timestamp_iso": "2026-09-18T04:29:14.016572+00:00",
+        "relative_time_on_site": "🐱 3 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016577+00:00"
+    },
+    "cc5a1f9bdd7dba8100e97715af7c14757cddba6e6e3c3b3bff1be644ccd33546": {
+        "username": "ellegaardfan27",
+        "text": "i seriously need to get my paranoia under control dude",
+        "timestamp_iso": "2026-09-18T03:29:14.016579+00:00",
+        "relative_time_on_site": "🥹 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016587+00:00"
+    },
+    "85ac5be40be20a2d7502194e42396ffae2b50282da548661b40d10eac12b097f": {
+        "username": "tomate",
+        "text": "Tengo una relación de amor y odio con la computadora. La relaciono con trabajo ugh",
+        "timestamp_iso": "2026-09-18T03:29:14.016590+00:00",
+        "relative_time_on_site": "💾 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016598+00:00"
+    },
+    "53751517c4c5e03705669d63221f7f9d24c7c7c0ccf4919c6d7dfb502c12ae36": {
+        "username": "chantolove",
+        "text": "it's all coming back around, huh. how will i pay for this",
+        "timestamp_iso": "2026-09-18T03:29:14.016600+00:00",
+        "relative_time_on_site": "🌙 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016606+00:00"
+    },
+    "98836cc78af537cb2c2071f1e3dbdbf65df2508dc3727878982d196823ab3d87": {
+        "username": "moriri",
+        "text": "apple redbull ahhh so yummy 😋",
+        "timestamp_iso": "2026-09-18T03:29:14.016608+00:00",
+        "relative_time_on_site": "🙂 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016614+00:00"
+    },
+    "31340fd0b9c50604a6a9b613c427abb8b87fbd194f2e5aa00b7c179a3d633a9e": {
+        "username": "cannnibalpriest",
+        "text": "was so well behaved today. talked to people. about to send a polite email.",
+        "timestamp_iso": "2026-09-18T03:29:14.016619+00:00",
+        "relative_time_on_site": "😛 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016625+00:00"
+    },
+    "14ac6842fbdd3b4bcb0faa3da206ebc0fd7bf4c2ae2e8de672a9595535422700": {
+        "username": "insomniafish",
+        "text": "\"ID LIKE TO RUN AROUND IN UR HEAD!!\"",
+        "timestamp_iso": "2026-09-18T03:29:14.016627+00:00",
+        "relative_time_on_site": "🔥 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016634+00:00"
+    },
+    "587c2dcc6a0df7816b9192259ef9bc14ba3940ff2832280fea08b840a1c44a43": {
+        "username": "joyousoccasion",
+        "text": "smile deluxe...ehehe.....smile..porter robinson..",
+        "timestamp_iso": "2026-09-18T03:29:14.016637+00:00",
+        "relative_time_on_site": "🙂 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016642+00:00"
+    },
+    "0b3fe240e0376955c32f883961199331b32a8a49ea158c9aeabe2a52f9a5dc1a": {
+        "username": "lemonrionnn",
+        "text": "i love pokemon",
+        "timestamp_iso": "2026-09-18T03:29:14.016644+00:00",
+        "relative_time_on_site": "🌈 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016649+00:00"
+    },
+    "7d452c23fe9b4a2a649dd77f13294b683f13c6adfbb613fa699d2dd009bd01c0": {
+        "username": "cobie",
+        "text": "im working hard on my revamp and its so good, the culmination of everything i love about my website but all patched up CSS-wise",
+        "timestamp_iso": "2026-09-18T03:29:14.016651+00:00",
+        "relative_time_on_site": "🥹 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016657+00:00"
+    },
+    "a789329df7e20dd0b410a623ef43eb8cc5472fa47c2cf0a46eabea34ec1b190d": {
+        "username": "aelithron",
+        "text": "i got a cold :( and am really sick",
+        "timestamp_iso": "2026-09-18T03:29:14.016659+00:00",
+        "relative_time_on_site": "🤧 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016664+00:00"
+    },
+    "5d0397d4df8499d558e97239a82d05db47aa4628ff3508245de865b0f354dd0c": {
+        "username": "murdermedia",
+        "text": "i need to add more to my yume page. i see such beautiful ones but all mine says is that my guy is ugly and makes me think of burger",
+        "timestamp_iso": "2026-09-18T03:29:14.016666+00:00",
+        "relative_time_on_site": "✏️ 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016672+00:00"
+    },
+    "f46bd97192a573fe230be5c262f3cc94ff9582c100ac936fcc3960391fb62076": {
+        "username": "sen",
+        "text": "@pkpcscan the pages and return it 🤫🦭... perhaps... it's a little mean but i have no love for textbook publishers personally",
+        "timestamp_iso": "2026-09-18T03:29:14.016675+00:00",
+        "relative_time_on_site": "🐱 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016680+00:00"
+    },
+    "043e0a89c7adfaa37638ea57281578f74ed2629b3ef82d814396bc4f8c029d95": {
+        "username": "slushiecafe",
+        "text": "teaching myself tweening and hating every second of it, BUT if i keep at it i'll grow to love it, its basically animation + math",
+        "timestamp_iso": "2026-09-18T03:29:14.016682+00:00",
+        "relative_time_on_site": "🙂 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016688+00:00"
+    },
+    "190f5fee941ced76d744a81dc1ad4900b97087ef6a90be1d46a6e8c3799a3fd4": {
+        "username": "d3ofi",
+        "text": "bruh i think irl friend found my site.. dont be afraid say hi..",
+        "timestamp_iso": "2026-09-18T03:29:14.016690+00:00",
+        "relative_time_on_site": "🙂 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016695+00:00"
+    },
+    "6e129a26b33d43d2ded10c8b8ef9a666e91f3fb1f580b49dcdad348e7142ba71": {
+        "username": "pkpc",
+        "text": "Bought a $160 textbook for school so i can do my homework and my mom is Pissed (it came out last month) (the amazon ver. ships in 2 weeks) (there are no digital copies) (trust me i LOOKED)",
+        "timestamp_iso": "2026-09-18T03:29:14.016697+00:00",
+        "relative_time_on_site": "🤔 4 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016702+00:00"
+    },
+    "ce77b459e2b67eac09a0fdcd1b172b3b4f19525b6f3c16871a3af80c6fe3bd69": {
+        "username": "maliyang",
+        "text": "so much to doooooo",
+        "timestamp_iso": "2026-09-18T02:29:14.016706+00:00",
+        "relative_time_on_site": "😭 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016712+00:00"
+    },
+    "9f3122a3710d2da383e154b224b2e0d091b1961e8c8b53ded2a6379f2f00a244": {
+        "username": "saltbreeze",
+        "text": "No venía a secarle las lágrimas, sino a decirle–que cogiera una pala, porque la guerra había terminado y ahora debían enterrar a los muertos",
+        "timestamp_iso": "2026-09-18T02:29:14.016715+00:00",
+        "relative_time_on_site": "🙃 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016720+00:00"
+    },
+    "0dbf05a648c34efd2e344ab115b25004de625f9ccd2ca8f8fd10e63b8f13676a": {
+        "username": "snarlingteeth",
+        "text": "going a little bit crazy I DONT SHARE I DONT SHARE I DONT SHARE I DONT SHARE!!!!!!!!",
+        "timestamp_iso": "2026-09-18T02:29:14.016722+00:00",
+        "relative_time_on_site": "💥 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016728+00:00"
+    },
+    "0f2639e5510789ec5132047bde45c43783e82504852ca93074c342332ebd0091": {
+        "username": "lacemoss",
+        "text": "who needs food and water when you have a 10+ hour creative project to undertake ⁉️",
+        "timestamp_iso": "2026-09-18T02:29:14.016730+00:00",
+        "relative_time_on_site": "🌱 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016735+00:00"
+    },
+    "70400707b41faff9a8ba3d9a9411f0e9d50d4cf1a1b52c31e52b4ca6b56b980a": {
+        "username": "lalalahyuponia",
+        "text": "I FEEL THAT DREAD, you speak of,",
+        "timestamp_iso": "2026-09-18T02:29:14.016737+00:00",
+        "relative_time_on_site": "😶 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016742+00:00"
+    },
+    "657a291819537e50b724063d980acfaddf6c9834e5cff10ad146bfcaa7fa0ae4": {
+        "username": "pixeldeath",
+        "text": "The community I was apart of is gone. Its dead and will never be the same again. I'm all alone again.",
+        "timestamp_iso": "2026-09-18T02:29:14.016744+00:00",
+        "relative_time_on_site": "🙂 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016750+00:00"
+    },
+    "d580a999cdf96e7a20f0194548b0b4709ba678222e3bc2b98cc9371fe09ea39d": {
+        "username": "cyborglag",
+        "text": "Hey, wait, where did all these deadlines come from? :O",
+        "timestamp_iso": "2026-09-18T02:29:14.016752+00:00",
+        "relative_time_on_site": "😯 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016757+00:00"
+    },
+    "dc7d2c20e0e631336271667bc914d260fa37df4a79ecb4f8a36ab7df7bb5c444": {
+        "username": "fiddlestyx",
+        "text": "Survived off of 4 hours of sleep today wow my bed feels so comfy right now zzzzzzzzz",
+        "timestamp_iso": "2026-09-18T02:29:14.016759+00:00",
+        "relative_time_on_site": "💤 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016764+00:00"
+    },
+    "624b94934de158743cd1873d3b422760d516025f32611e6ce31d3721eebb3d6e": {
+        "username": "thevampirelestat",
+        "text": "Another year of paying $15.99 to file my taxes ($0 return) so that the government doesn’t eat me",
+        "timestamp_iso": "2026-09-18T02:29:14.016766+00:00",
+        "relative_time_on_site": "🙃 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016771+00:00"
+    },
+    "acfbc5bd9e3d963d7903a76db08ebafb6f3a325d210c7c03f80edb6c6098a9e7": {
+        "username": "pommejam",
+        "text": "omfgpls give me a breakkkkkkkk life is crashing down on me,,,, dm for order updates if u want sorry for the wait",
+        "timestamp_iso": "2026-09-18T02:29:14.016773+00:00",
+        "relative_time_on_site": "😭 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016779+00:00"
+    },
+    "89691e419b4058455675798e846a127e20337e8a5d9d46573cbbe1bd596c164b": {
+        "username": "wormscarf",
+        "text": "job interview went well! really hoping I get the job.",
+        "timestamp_iso": "2026-09-18T02:29:14.016781+00:00",
+        "relative_time_on_site": "🙂 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016787+00:00"
+    },
+    "48b9e5cd992333eeb05824a0965f6650e3696be7caa31b8bbf9cd8d3bff6322a": {
+        "username": "deadzone",
+        "text": "Why are you ignoring me I know you’re ignoring me I fucking hate you you’re useless I hate you I hate you fucking die or whatever",
+        "timestamp_iso": "2026-09-18T02:29:14.016789+00:00",
+        "relative_time_on_site": "🔥 5 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016794+00:00"
+    },
+    "111fc4c2319f9ad2d9f4d26a213ef3e44843b50ec303a4daad93258d0ce1d103": {
+        "username": "raskolnikov",
+        "text": "Feeling like a paranoid android right now",
+        "timestamp_iso": "2026-09-18T01:29:14.016797+00:00",
+        "relative_time_on_site": "🎶 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016802+00:00"
+    },
+    "b79e38cb2a5b29de13a41b0537214a549931011109adbc04eeefec71d2b82aa6": {
+        "username": "clockworkcookie",
+        "text": "2 site updates exactly 1 week apart tis a Halloween miracle",
+        "timestamp_iso": "2026-09-18T01:29:14.016804+00:00",
+        "relative_time_on_site": "🌈 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016811+00:00"
+    },
+    "a4ea836e99dc9b11be1e52972e51470289f4338e8697e103c3d1f1ceea575a04": {
+        "username": "overthemoon",
+        "text": "this headache can go away now...",
+        "timestamp_iso": "2026-09-18T01:29:14.016814+00:00",
+        "relative_time_on_site": "😭 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016819+00:00"
+    },
+    "ab5322af3764483e7fc74358b9ca0df79dd8fab57830bed34ffc4b689309a68e": {
+        "username": "riotghoul",
+        "text": "oh lawd the semester is truly starting. thesis project & looming LSAT retake beating my ass",
+        "timestamp_iso": "2026-09-18T01:29:14.016821+00:00",
+        "relative_time_on_site": "🔥 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016827+00:00"
+    },
+    "98663841b89934dda7cae2ae37054dfcdd8f9fa01e1c46c7453193034073cc3c": {
+        "username": "calzonie",
+        "text": "i think my grandma had Clocked me (trans) and thats ok maybe",
+        "timestamp_iso": "2026-09-18T01:29:14.016829+00:00",
+        "relative_time_on_site": "🌈 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016834+00:00"
+    },
+    "a683ad146f480d19c6eb1744a1e322aee96c91cccc1c9f8a2ff96f8e0765ed75": {
+        "username": "willowashmaple",
+        "text": "a summer weather is back today so i went on a 7-mile hike in the forest, through a very steep trail, very minimally dressed",
+        "timestamp_iso": "2026-09-18T01:29:14.016836+00:00",
+        "relative_time_on_site": "☀️ 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016842+00:00"
+    },
+    "b26f3ef55aa24a54d9b259d0578b357942da3a5be6050c69526784837615eea1": {
+        "username": "rnottelovesowls",
+        "text": "second time making my own eggplant parmesan. delicious once again!",
+        "timestamp_iso": "2026-09-18T01:29:14.016844+00:00",
+        "relative_time_on_site": "🌙 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016850+00:00"
+    },
+    "1a2fb37ba7c75060b4c8740f96f36c7ff7a685e9981a112acd30a9f4d3c8e00c": {
+        "username": "hooligan",
+        "text": "DK bananza my everything...",
+        "timestamp_iso": "2026-09-18T01:29:14.016852+00:00",
+        "relative_time_on_site": "✨ 6 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016857+00:00"
+    },
+    "4fe231410afd57af9561e2ef1b5bc57cb43161037bc4c26da9859da86fd2d12e": {
+        "username": "uppy",
+        "text": "\"lol imagine explaining that to a neanderthal\" i can catch em up to speed i have full confidence they can grasp const vs. var",
+        "timestamp_iso": "2026-09-18T00:29:14.016860+00:00",
+        "relative_time_on_site": "🌈 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016865+00:00"
+    },
+    "185f50891065a3e59e1c620e3782454e3fb7084f747514e694b785643def6499": {
+        "username": "zzz",
+        "text": "sleeping schedule is still fucked someone kill me now",
+        "timestamp_iso": "2026-09-18T00:29:14.016869+00:00",
+        "relative_time_on_site": "💤 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016876+00:00"
+    },
+    "2bc17c2c67ad2eda9263eef2c33c0103a4e1729caa61ab4c71de30ed0849f595": {
+        "username": "frandog",
+        "text": "I'm ready for the rains please",
+        "timestamp_iso": "2026-09-18T00:29:14.016879+00:00",
+        "relative_time_on_site": "🌧️ 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016885+00:00"
+    },
+    "360fc22ca044dc8a4cfd2d3467bb7d472e852548d5b916af8a07b7b828f65bfb": {
+        "username": "jimboboiii",
+        "text": "yesterday and early today were pretty good but here comes The Impending Doom™",
+        "timestamp_iso": "2026-09-18T00:29:14.016887+00:00",
+        "relative_time_on_site": "🎷 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016892+00:00"
+    },
+    "b68fb50be5228824d665ffd0860e7af20586347254db74682d954663fcdd4db4": {
+        "username": "cherry",
+        "text": "born to die world is a fuck",
+        "timestamp_iso": "2026-09-18T00:29:14.016894+00:00",
+        "relative_time_on_site": "🍸 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016899+00:00"
+    },
+    "4ec57a11ef05caefaf3d2db19e9e4927ec1d0954fdaf593a1c96cbbf2c2d7561": {
+        "username": "mothofspacetime",
+        "text": "threats of violence momentarily ceased. my boy is home <3",
+        "timestamp_iso": "2026-09-18T00:29:14.016902+00:00",
+        "relative_time_on_site": "🙂 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016907+00:00"
+    },
+    "9770eec6d152b3f37ff58ad763849a3442d656d1660899edf96c7a557db0d5f8": {
+        "username": "tulip",
+        "text": "atp i make an account on a site vague the first thing i see that i dont like and leave ← person with something deeply wrong abt her",
+        "timestamp_iso": "2026-09-18T00:29:14.016909+00:00",
+        "relative_time_on_site": "📖 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016915+00:00"
+    },
+    "f7bdf6c7937ab95e6b559503d5706c9c44a1e38403edb37bdff50149373ef885": {
+        "username": "pookibug",
+        "text": "i love u purple",
+        "timestamp_iso": "2026-09-18T00:29:14.016917+00:00",
+        "relative_time_on_site": "🌙 7 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016922+00:00"
+    },
+    "9f89ac4586fabe808c633d221f08f3a03e8106675c8975c8e4e51c2058b2f785": {
+        "username": "drowsy",
+        "text": "i want a burger and fwies....",
+        "timestamp_iso": "2026-09-17T23:29:14.016924+00:00",
+        "relative_time_on_site": "🍔 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016930+00:00"
+    },
+    "7ed485c91de84ac863fda3884f90dab87a552dcd7d47f4d0240dfdcc7bba97ce": {
+        "username": "kaworu",
+        "text": "I LOVE MY JOB WOW",
+        "timestamp_iso": "2026-09-17T23:29:14.016932+00:00",
+        "relative_time_on_site": "🙂 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016937+00:00"
+    },
+    "fca43da629f38e043c9ec51f97bc985efd463bdc160f7b68cd8fcbc5b30a37b6": {
+        "username": "xavierhm",
+        "text": "Listening to public radio on my mp3 player. Definitely gonna invest in a portable AM/FM radio so I can get more stations.",
+        "timestamp_iso": "2026-09-17T23:29:14.016939+00:00",
+        "relative_time_on_site": "📰 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016944+00:00"
+    },
+    "8082ded4cd4cd73fda783b5494681cf8ba7331b10ae77b979d82a809509b1b39": {
+        "username": "ceejaytwoyoshi",
+        "text": "i stayed up all night for ts i don't think that was a good idea tho",
+        "timestamp_iso": "2026-09-17T23:29:14.016946+00:00",
+        "relative_time_on_site": "🥱 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016952+00:00"
+    },
+    "c4888ba37aa19f0bdb4d27a5c06c32c26734b1f8065baeb10449390ecc80429c": {
+        "username": "halcyon",
+        "text": "#mydegree",
+        "timestamp_iso": "2026-09-17T23:29:14.016954+00:00",
+        "relative_time_on_site": "📰 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016959+00:00"
+    },
+    "40a696c2fa0dd1f5ae9102424e7a30be4690ff6724900e61d5f91392275478de": {
+        "username": "thorn_catte",
+        "text": "Bingewatching the Magic School Bus and Dragon Tales because its comfy",
+        "timestamp_iso": "2026-09-17T23:29:14.016961+00:00",
+        "relative_time_on_site": "📺 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016967+00:00"
+    },
+    "eb7debc1b52fed2d326922ef99946a806a2d277f9f947896f49add1a51ba0b4a": {
+        "username": "pacificisland3364",
+        "text": "I woke up in the middle of the night and can’t get back to sleep… thinking of experimenting with a new website layout for fun",
+        "timestamp_iso": "2026-09-17T23:29:14.016969+00:00",
+        "relative_time_on_site": "🎶 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016974+00:00"
+    },
+    "49b0d64414592d25fd467ef2d6acd871a116db8c27fdd1dabf4c11bb73b8681f": {
+        "username": "b0nceytechnoriv4",
+        "text": "duuuuuuude someone talk to me",
+        "timestamp_iso": "2026-09-17T23:29:14.016976+00:00",
+        "relative_time_on_site": "😭 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016983+00:00"
+    },
+    "addca8199809ddedfed53679458de7d36757a3718e964e489a22fc5f57eebf7d": {
+        "username": "man-on-the-moon",
+        "text": "i feel like i really really messed up this time",
+        "timestamp_iso": "2026-09-17T23:29:14.016985+00:00",
+        "relative_time_on_site": "🥺 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016991+00:00"
+    },
+    "78f49913c70c11cfc7d734dfbbfb0409d83919b5a88bd9190d3a52938a11f05c": {
+        "username": "zankacore",
+        "text": "so ill today",
+        "timestamp_iso": "2026-09-17T23:29:14.016993+00:00",
+        "relative_time_on_site": "🤒 8 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.016998+00:00"
+    },
+    "82cae4321c44fe791ac5ceda1dae0eea6ab2bd386581ca5654a85ed203515d60": {
+        "username": "cherrypixelbun",
+        "text": "I'm still pretty open for commissionshttps://cherrypixelbun.gay/comminfo",
+        "timestamp_iso": "2026-09-17T22:29:14.017000+00:00",
+        "relative_time_on_site": "🙂 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017006+00:00"
+    },
+    "2c51e731d1f9159b284aba79d7131c241f61a16f62f115489d5a97dd08c07e12": {
+        "username": "yizzle",
+        "text": "Whenever you think empathy is weakness, i just think about how many criminals are caught because they cant fathom what others are thinking.",
+        "timestamp_iso": "2026-09-17T22:29:14.017008+00:00",
+        "relative_time_on_site": "🙂 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017013+00:00"
+    },
+    "252839e936d8e9c1a381a18cc88d4bed7526a905b1e162fab15a2ec2397490b9": {
+        "username": "mavisdeluna",
+        "text": "i hate that i feel guilty when im not productive!! AAAAAA",
+        "timestamp_iso": "2026-09-17T22:29:14.017016+00:00",
+        "relative_time_on_site": "💀 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017021+00:00"
+    },
+    "f77cd00699e6ceb1e88cde04a36c8217903bad73c8ece2f2648c3f6feb6bc922": {
+        "username": "encelado",
+        "text": "an object is to be fired from the surface of the moon at such a speed that it will never return",
+        "timestamp_iso": "2026-09-17T22:29:14.017022+00:00",
+        "relative_time_on_site": "🌙 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017028+00:00"
+    },
+    "d6e2c01896c78f9afb8e44e0b86feecc3fd8df3a948f747c519d5d69eb018ef9": {
+        "username": "wolfsbane",
+        "text": "blood draw... scary...",
+        "timestamp_iso": "2026-09-17T22:29:14.017031+00:00",
+        "relative_time_on_site": "🍷 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017037+00:00"
+    },
+    "e45aeb01ed551f66afd24e89ce9218405227e65e0c57adc42d9c088fb607f65b": {
+        "username": "havens",
+        "text": "let's all listen to heart of gold by neil young and be happy",
+        "timestamp_iso": "2026-09-17T22:29:14.017039+00:00",
+        "relative_time_on_site": "😇 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017044+00:00"
+    },
+    "3aae0d4a2887a2489a32749d5752dc91ac67f448505b4c0578b50c9678e5ddeb": {
+        "username": "appledanish",
+        "text": "i dont have the reading comprehension for statistics damn i thought this was a math class",
+        "timestamp_iso": "2026-09-17T22:29:14.017046+00:00",
+        "relative_time_on_site": "☀️ 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017052+00:00"
+    },
+    "5cbebed69ace889cde463f594d786224fdd91b6999a94accf7616214a14a0538": {
+        "username": "yuru",
+        "text": "Execute Your Gods and They*ll Come Back Twice as Strong. lel! lel",
+        "timestamp_iso": "2026-09-17T22:29:14.017054+00:00",
+        "relative_time_on_site": "🌙 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017059+00:00"
+    },
+    "e37c3e8e6f55e802d91f3c1e5a59c791bf33bcc15f838ae0ae338fd19a6d92e9": {
+        "username": "vinniakk",
+        "text": "lamento really makes me want to reread warrior cats for some reason",
+        "timestamp_iso": "2026-09-17T22:29:14.017061+00:00",
+        "relative_time_on_site": "🎶 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017066+00:00"
+    },
+    "9f07e824a5e5e5fd1b9cdd529322d10a79c2ba2bce46df3d7cc289ab537ebb72": {
+        "username": "small_cypress",
+        "text": "my tamagotchi (tekuteku angel pedometer) has resurrected!",
+        "timestamp_iso": "2026-09-17T22:29:14.017068+00:00",
+        "relative_time_on_site": "😇 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017073+00:00"
+    },
+    "d221c4ca8586c5d0706ecc20cf8ff6891e4d2940256032243f11b2f14f362e3d": {
+        "username": "wormsauce",
+        "text": "fuck originality and long live derivative work",
+        "timestamp_iso": "2026-09-17T22:29:14.017075+00:00",
+        "relative_time_on_site": "🙂 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017082+00:00"
+    },
+    "bcc9e6af86d86c8aa19ca9d10505e5644e50c88c6880d1291514722f060702c4": {
+        "username": "misks81633",
+        "text": "my poopy hangs from a thread but everytime sneakers 'o toole buys me an ipod, i take a bite out of it, cause it tastes like ice cream",
+        "timestamp_iso": "2026-09-17T22:29:14.017084+00:00",
+        "relative_time_on_site": "🙂 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017090+00:00"
+    },
+    "c4383eb1677b0ef6534ff286e1f7f4617c440e16bbb24f1419526d4e5aede564": {
+        "username": "phaenon",
+        "text": "funny enough, every time i feel envious or distasteful about someone they happen to be a loser.",
+        "timestamp_iso": "2026-09-17T22:29:14.017092+00:00",
+        "relative_time_on_site": "☀️ 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017098+00:00"
+    },
+    "1913984798b97824e2896fe55f2b8e84e05adf49f19e2fbb51c3d3217a0239c1": {
+        "username": "0u75k1r7-p4rad1c3",
+        "text": "Doctors break the oath to \"do no harm\" the moment practice begins in the American Healthcare system. They are ALL frauds. Treat yourself.",
+        "timestamp_iso": "2026-09-17T22:29:14.017100+00:00",
+        "relative_time_on_site": "🙂 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017105+00:00"
+    },
+    "5aa76ccf696a32f178cdfbed82498c99da10860f524846f8c863c7f4f9741e11": {
+        "username": "bellpepper",
+        "text": "when i want to play silksong instead of working but im stuck on mf tormented trobbio so id actually rather do anything else",
+        "timestamp_iso": "2026-09-17T22:29:14.017108+00:00",
+        "relative_time_on_site": "💻 9 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017113+00:00"
+    },
+    "717c81e76666571db9e59285c35b282e155c025bb86239f0630e0d2f9031242a": {
+        "username": "brainworms1234",
+        "text": "i want to go to jan mayen",
+        "timestamp_iso": "2026-09-17T21:29:14.017116+00:00",
+        "relative_time_on_site": "🌧️ 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017121+00:00"
+    },
+    "7fc79952e8d447bd583cdb972245a210b2a483af772bb07ed1f1f47cb714374a": {
+        "username": "lunarcorvus",
+        "text": "Wrote my thoughts on Canto 10 so far!:https://lunarcorvus.com/games",
+        "timestamp_iso": "2026-09-17T21:29:14.017124+00:00",
+        "relative_time_on_site": "💻 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017129+00:00"
+    },
+    "dbcca21d3a6ddc34ec56e992bb49dbd17ffba0c612d4e2ebab9c669fd25e2b89": {
+        "username": "alldaybreakfast",
+        "text": "man......",
+        "timestamp_iso": "2026-09-17T21:29:14.017132+00:00",
+        "relative_time_on_site": "💔 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017137+00:00"
+    },
+    "cec057afe45efe2108a3bd5623ff351d44b7555cd475e31b0a01a016fb1c0262": {
+        "username": "lnrd",
+        "text": "esta é a oportunidade de ser uma nova pessoa, e ter uma nova vida",
+        "timestamp_iso": "2026-09-17T21:29:14.017139+00:00",
+        "relative_time_on_site": "⛵ 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017145+00:00"
+    },
+    "d491689a08c20f7972c68bb7bf236537122ded6c986aacb8f4763f4ab9e9b28a": {
+        "username": "sparklia",
+        "text": "metaphorically being chased by a swarm of bees just all the time",
+        "timestamp_iso": "2026-09-17T21:29:14.017147+00:00",
+        "relative_time_on_site": "🎷 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017153+00:00"
+    },
+    "de0fe6649b295dd2398d93a75872521cb6ca35d1b8db784cad10f83aac2a7e6a": {
+        "username": "ceirios",
+        "text": "Refreshed my hair dye today only to realise that the new shade of pink I used makes me look like Jayde from The Urbz",
+        "timestamp_iso": "2026-09-17T21:29:14.017156+00:00",
+        "relative_time_on_site": "😂 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017161+00:00"
+    },
+    "b151898f3b78083170b4ffd2422c74c2c38c8d0bbc7df0a0837bfe4c0368b439": {
+        "username": "atteliere",
+        "text": "things are changing and so is my site... eventually",
+        "timestamp_iso": "2026-09-17T21:29:14.017163+00:00",
+        "relative_time_on_site": "🙂 10 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017170+00:00"
+    },
+    "ef01229f3894fa8cbe3d51dac9b5f0d3281af1ed69cff0936c1cf340c8913c91": {
+        "username": "sphinxie",
+        "text": "we appreciate macklemore yes Free Palestine",
+        "timestamp_iso": "2026-09-17T20:29:14.017173+00:00",
+        "relative_time_on_site": "🇵🇸 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017178+00:00"
+    },
+    "2fdc2e719d465d614ddb1fc3c379838b5a4c1c614ed44fbb1c40007af01e7ea9": {
+        "username": "celestialeyeliner",
+        "text": "i love you i will keep you safe",
+        "timestamp_iso": "2026-09-17T20:29:14.017180+00:00",
+        "relative_time_on_site": "🌈 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017185+00:00"
+    },
+    "b0c26ca20b6188b59d6d3c2c601e99e5d92e1e2894e13c93c254a75a5d9bfa49": {
+        "username": "idestykk",
+        "text": "programmed a 3D background for my site. inspired by an old game's menu i made in 2017. feel free to check it out! ctrl+shift+r tho",
+        "timestamp_iso": "2026-09-17T20:29:14.017188+00:00",
+        "relative_time_on_site": "✅ 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017193+00:00"
+    },
+    "b5ca299af25e7bd87affd3504ff39ca484aec14c8761feb8a0e7da9f7d9726cf": {
+        "username": "chezimu",
+        "text": "zundamon has someone watching you in her eye like talking angela",
+        "timestamp_iso": "2026-09-17T20:29:14.017195+00:00",
+        "relative_time_on_site": "✨ 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017203+00:00"
+    },
+    "33f2ac60f1c253210f0a5813b0b0efb49de03fd3e2903df49e7ca2a36b594d74": {
+        "username": "mrsmoe",
+        "text": "chemo starts tomorrow. scared",
+        "timestamp_iso": "2026-09-17T20:29:14.017205+00:00",
+        "relative_time_on_site": "💔 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017210+00:00"
+    },
+    "1497897f5ac784aa3cfa332a6d8a9992d16b81f0775e39b7ebb703dafa282685": {
+        "username": "graveyardstuffer",
+        "text": "I have made the best decision I have made in a while, I love you soulseek",
+        "timestamp_iso": "2026-09-17T20:29:14.017213+00:00",
+        "relative_time_on_site": "😶 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017218+00:00"
+    },
+    "f50189c8214f4fb43b053d756fc89aeb908f74ed13b76daf6ece6235a3d0c735": {
+        "username": "any",
+        "text": "Hello! Just wanted to say that I have a WebRing! Just note that only phone users are allowed to joinhttps://anypup.neocities.org/My-Webring",
+        "timestamp_iso": "2026-09-17T20:29:14.017220+00:00",
+        "relative_time_on_site": "💻 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017226+00:00"
+    },
+    "d0018a5991eb51bb7ae12078d95a806344d14a1b2dafdfd96fed71695e039c71": {
+        "username": "ryuseihime",
+        "text": "how sweet it taste ~",
+        "timestamp_iso": "2026-09-17T20:29:14.017228+00:00",
+        "relative_time_on_site": "🙂 11 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017233+00:00"
+    },
+    "535572e3cbebd244272cdf805fcedf02ee40c7c1b13f0e5689c4fd5efebd1bba": {
+        "username": "kel",
+        "text": "Started Magic the Gathering with my bf \r\n°(>//v//<)°",
+        "timestamp_iso": "2026-09-17T19:29:14.017235+00:00",
+        "relative_time_on_site": "🎮 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017240+00:00"
+    },
+    "57a77703abfd6d7c898dfdac396be8e985cc4ffd73b8caa62646d116ef8439b7": {
+        "username": "ophanimkei",
+        "text": "the only way out is through. the only way out is through. the only way out is through.",
+        "timestamp_iso": "2026-09-17T19:29:14.017242+00:00",
+        "relative_time_on_site": "🙂 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017249+00:00"
+    },
+    "46baa106ebcb5df07c230da19fb4889092c29947ee00b59473fee5e206f21400": {
+        "username": "deerrabbit",
+        "text": "movie night tonight with friends! excited!",
+        "timestamp_iso": "2026-09-17T19:29:14.017252+00:00",
+        "relative_time_on_site": "🥳 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017257+00:00"
+    },
+    "9c5f842e3492c8a18123c526d05758e8ddcb662e7b7c8714b8bf84d44cded3fc": {
+        "username": "serafinisdead",
+        "text": "THANK YEW CEO DADDY DVM FOR SPOILING MICH",
+        "timestamp_iso": "2026-09-17T19:29:14.017259+00:00",
+        "relative_time_on_site": "🌈 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017264+00:00"
+    },
+    "77bd2a350bd5faf68cd81f239286e3f301e755d222fcbf52026d35354fd88993": {
+        "username": "puf",
+        "text": "crickets are playing their wings, like tiny violins",
+        "timestamp_iso": "2026-09-17T19:29:14.017266+00:00",
+        "relative_time_on_site": "🤍 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017272+00:00"
+    },
+    "b8dcaf02cd784eb2625b63e5b120dc216bf85068a4b0d8443e8cb7232ebed11d": {
+        "username": "cupidsbow",
+        "text": "get up on the hydra's back!!! 🗣️🗣️🗣️",
+        "timestamp_iso": "2026-09-17T19:29:14.017274+00:00",
+        "relative_time_on_site": "✨ 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017279+00:00"
+    },
+    "841b6391f14ec49cef9991b078fb9a08f906c0a12a491353e98f2c9dc64ef745": {
+        "username": "enmity",
+        "text": "being sick when ur a smoker is awful",
+        "timestamp_iso": "2026-09-17T19:29:14.017281+00:00",
+        "relative_time_on_site": "🌧️ 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017287+00:00"
+    },
+    "e9231a419fae83eba3321261680165d9a6789fe71c069e8e192158e78276a77b": {
+        "username": "cybersludge",
+        "text": "it hot",
+        "timestamp_iso": "2026-09-17T19:29:14.017288+00:00",
+        "relative_time_on_site": "☀️ 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017294+00:00"
+    },
+    "2beea16f98a8b3f4ab47fc92c8e69a54c3cf06b9c92972fa5625184aefa5ab0b": {
+        "username": "howireallyfeel",
+        "text": "não vou reclamar de frio pq calor é pior. não vou reclamar de frio pq calor é pior. não vou reclamar de frio pq calor é pior. não vou reclam",
+        "timestamp_iso": "2026-09-17T19:29:14.017296+00:00",
+        "relative_time_on_site": "❄️ 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017302+00:00"
+    },
+    "c82fed045f2290f3210b0dd73c544eda90714fb0c461cb2cc9486b9ca9096e5d": {
+        "username": "unisonheart",
+        "text": "not studying for tomorrow because I'm Lazy #YOLO",
+        "timestamp_iso": "2026-09-17T19:29:14.017304+00:00",
+        "relative_time_on_site": "👀 12 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017309+00:00"
+    },
+    "467804eacfdfe9f4b45ffe0352df65271ed57bbff2541715bbc36d08ac8da26b": {
+        "username": "auden",
+        "text": "im engaged!!",
+        "timestamp_iso": "2026-09-17T18:29:14.017311+00:00",
+        "relative_time_on_site": "🌈 13 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017317+00:00"
+    },
+    "23f81b9a3e24d09d0c642f82a2a80890d155446de4ce4d735e4a0d519c55919b": {
+        "username": "ltrlyinthemidst",
+        "text": "finally getting around to listening to the downward spiral",
+        "timestamp_iso": "2026-09-17T18:29:14.017319+00:00",
+        "relative_time_on_site": "😎 13 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017325+00:00"
+    },
+    "d2da4c10972617739e6c956543619d9ce50f7d1691588f873d2476b679c92710": {
+        "username": "sclptures",
+        "text": "everyday is exactly the same",
+        "timestamp_iso": "2026-09-17T15:29:14.017337+00:00",
+        "relative_time_on_site": "🎱 16 hours ago",
+        "retrieval_date_iso": "2026-09-18T07:29:14.017342+00:00"
     }
 }
