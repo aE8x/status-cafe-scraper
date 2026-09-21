@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-21 08:03 UTC*
+*Last Updated: 2026-09-21 19:39 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.052` 
-- **Distribution**: 34.6% Positive, 38.8% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.048` 
+- **Distribution**: 34.1% Positive, 38.9% Neutral, 27.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `charlie kirk` | 4 |
 | 5 | - | `mabon` | 4 |
 | 6 | - | `coyote acme` | 7 |
-| 7 | UP 3 | `days back` | 3 |
-| 8 | UP 3 | `oot remake` | 3 |
-| 9 | UP 3 | `kill everyone` | 3 |
-| 10 | UP 3 | `game play` | 3 |
-| 11 | NEW | `resident evil` | 3 |
-| 12 | UP 2 | `one friend` | 3 |
-| 13 | UP 2 | `movie night` | 3 |
-| 14 | UP 2 | `heritage` | 3 |
-| 15 | UP 2 | `method` | 3 |
-| 16 | UP 2 | `butterfly` | 3 |
-| 17 | UP 2 | `soso` | 3 |
-| 18 | NEW | `frozen` | 3 |
-| 19 | NEW | `whisper` | 3 |
-| 20 | - | `surface` | 3 |
-| 21 | - | `bucks` | 3 |
-| 22 | - | `unethical` | 3 |
-| 23 | - | `mayo` | 3 |
-| 24 | UP 1 | `oot` | 4 |
-| 25 | NEW | `resident` | 4 |
+| 7 | NEW | `ace` | 4 |
+| 8 | DOWN 1 | `days back` | 3 |
+| 9 | DOWN 1 | `oot remake` | 3 |
+| 10 | DOWN 1 | `kill everyone` | 3 |
+| 11 | DOWN 1 | `game play` | 3 |
+| 12 | DOWN 1 | `resident evil` | 3 |
+| 13 | DOWN 1 | `one friend` | 3 |
+| 14 | DOWN 1 | `movie night` | 3 |
+| 15 | UP 1 | `butterfly` | 3 |
+| 16 | UP 1 | `soso` | 3 |
+| 17 | UP 1 | `frozen` | 3 |
+| 18 | UP 1 | `whisper` | 3 |
+| 19 | UP 1 | `surface` | 3 |
+| 20 | UP 1 | `bucks` | 3 |
+| 21 | UP 1 | `unethical` | 3 |
+| 22 | UP 1 | `mayo` | 3 |
+| 23 | NEW | `direct` | 4 |
+| 24 | - | `oot` | 4 |
+| 25 | - | `resident` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
