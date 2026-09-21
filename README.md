@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-20 17:34 UTC*
+*Last Updated: 2026-09-21 08:03 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.055` 
-- **Distribution**: 34.9% Positive, 38.7% Neutral, 26.5% Negative
+- **Overall Mood Score**: `0.052` 
+- **Distribution**: 34.6% Positive, 38.8% Neutral, 26.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `kirk` | 8 |
-| 2 | UP 3 | `tank` | 5 |
-| 3 | DOWN 1 | `new kirby` | 4 |
-| 4 | DOWN 1 | `charlie kirk` | 4 |
-| 5 | NEW | `mabon` | 4 |
-| 6 | - | `coyote acme` | 6 |
-| 7 | UP 3 | `today happy` | 4 |
-| 8 | - | `domains` | 4 |
-| 9 | - | `could sleep` | 3 |
-| 10 | UP 3 | `days back` | 3 |
-| 11 | UP 3 | `oot remake` | 3 |
-| 12 | UP 3 | `kill everyone` | 3 |
-| 13 | UP 3 | `game play` | 3 |
-| 14 | UP 3 | `one friend` | 3 |
-| 15 | UP 3 | `movie night` | 3 |
-| 16 | UP 3 | `heritage` | 3 |
-| 17 | UP 3 | `method` | 3 |
-| 18 | UP 3 | `butterfly` | 3 |
-| 19 | UP 3 | `soso` | 3 |
-| 20 | UP 3 | `surface` | 3 |
-| 21 | UP 3 | `bucks` | 3 |
-| 22 | DOWN 18 | `unethical` | 3 |
-| 23 | UP 2 | `mayo` | 3 |
-| 24 | NEW | `wash` | 6 |
-| 25 | NEW | `oot` | 4 |
+| 2 | - | `tank` | 5 |
+| 3 | - | `new kirby` | 4 |
+| 4 | - | `charlie kirk` | 4 |
+| 5 | - | `mabon` | 4 |
+| 6 | - | `coyote acme` | 7 |
+| 7 | UP 3 | `days back` | 3 |
+| 8 | UP 3 | `oot remake` | 3 |
+| 9 | UP 3 | `kill everyone` | 3 |
+| 10 | UP 3 | `game play` | 3 |
+| 11 | NEW | `resident evil` | 3 |
+| 12 | UP 2 | `one friend` | 3 |
+| 13 | UP 2 | `movie night` | 3 |
+| 14 | UP 2 | `heritage` | 3 |
+| 15 | UP 2 | `method` | 3 |
+| 16 | UP 2 | `butterfly` | 3 |
+| 17 | UP 2 | `soso` | 3 |
+| 18 | NEW | `frozen` | 3 |
+| 19 | NEW | `whisper` | 3 |
+| 20 | - | `surface` | 3 |
+| 21 | - | `bucks` | 3 |
+| 22 | - | `unethical` | 3 |
+| 23 | - | `mayo` | 3 |
+| 24 | UP 1 | `oot` | 4 |
+| 25 | NEW | `resident` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
