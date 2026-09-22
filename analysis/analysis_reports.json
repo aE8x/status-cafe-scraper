@@ -73393,5 +73393,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-22T07:49:00.896597+00:00",
+        "hot_topics": [
+            {
+                "ngram": "kirk",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "tank",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "mabon",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new kirby",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "charlie kirk",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "coyote acme",
+                "mentions": 7,
+                "change": "46.1x"
+            },
+            {
+                "ngram": "resident",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "oot remake",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "kill everyone",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "game play",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "one friend",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "movie night",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "butterfly",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "soso",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "frozen",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "whisper",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "surface",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "bucks",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "unethical",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "mayo",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "oot",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "ace",
+                "mentions": 4,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "first time months",
+                "mentions": 2,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "test test test",
+                "mentions": 2,
+                "change": "13.2x"
+            },
+            {
+                "ngram": "like hours straight",
+                "mentions": 2,
+                "change": "13.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.046935714285714296,
+            "positive_percent": 34.21213979153893,
+            "negative_percent": 27.34518700183936,
+            "neutral_percent": 38.442673206621706,
+            "most_positive_example": {
+                "text": "LOVE is WORK. stop thinking about yourself and what you WANT. forget about COMFORT and PLEASURE. it's not about that or you. none of this is about you. it's about the GREATER, what you CREATE and who you LOVE.",
+                "user": "sphinxie",
+                "score": 0.9736
+            },
+            "most_negative_example": {
+                "text": "stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid",
+                "user": "wolfsbane",
+                "score": -0.9968
+            }
+        },
+        "summary_message": null
     }
 ]
