@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-23 07:51 UTC*
+*Last Updated: 2026-09-23 18:31 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.049` 
-- **Distribution**: 34.6% Positive, 38.2% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 34.9% Positive, 38.2% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `tank` | 5 |
-| 2 | - | `mabon` | 5 |
-| 3 | - | `new kirby` | 4 |
-| 4 | - | `charlie kirk` | 4 |
-| 5 | - | `resident evil` | 4 |
-| 6 | - | `wnt` | 4 |
-| 7 | - | `kirk` | 8 |
-| 8 | UP 4 | `would cool` | 4 |
-| 9 | DOWN 1 | `coyote acme` | 6 |
-| 10 | - | `game play` | 3 |
-| 11 | - | `one friend` | 3 |
-| 12 | UP 1 | `movie night` | 3 |
-| 13 | UP 4 | `whisper` | 3 |
-| 14 | UP 4 | `surface` | 3 |
-| 15 | UP 4 | `bucks` | 3 |
-| 16 | UP 4 | `preorder` | 3 |
-| 17 | UP 4 | `unethical` | 3 |
-| 18 | UP 4 | `mayo` | 3 |
-| 19 | UP 4 | `chuva` | 3 |
-| 20 | UP 4 | `ace` | 4 |
-| 21 | UP 4 | `first time months` | 2 |
-| 22 | NEW | `test test test` | 2 |
-| 23 | NEW | `por favor` | 2 |
-| 24 | NEW | `ever heard` | 2 |
-| 25 | NEW | `nothing forever` | 2 |
+| 1 | UP 4 | `resident evil` | 5 |
+| 2 | DOWN 1 | `tank` | 5 |
+| 3 | DOWN 1 | `mabon` | 5 |
+| 4 | UP 2 | `wnt` | 4 |
+| 5 | UP 3 | `would cool` | 4 |
+| 6 | UP 3 | `coyote acme` | 6 |
+| 7 | UP 3 | `game play` | 3 |
+| 8 | DOWN 4 | `charlie kirk` | 3 |
+| 9 | UP 2 | `one friend` | 3 |
+| 10 | UP 2 | `movie night` | 3 |
+| 11 | UP 2 | `whisper` | 3 |
+| 12 | UP 2 | `surface` | 3 |
+| 13 | UP 2 | `bucks` | 3 |
+| 14 | UP 3 | `unethical` | 3 |
+| 15 | UP 3 | `mayo` | 3 |
+| 16 | NEW | `busy work` | 4 |
+| 17 | UP 3 | `ace` | 4 |
+| 18 | NEW | `charlie` | 4 |
+| 19 | NEW | `holds` | 4 |
+| 20 | UP 1 | `first time months` | 2 |
+| 21 | UP 1 | `test test test` | 2 |
+| 22 | NEW | `ryland grace` | 2 |
+| 23 | NEW | `found another` | 2 |
+| 24 | NEW | `ace attorney` | 2 |
+| 25 | NEW | `oot remake` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
