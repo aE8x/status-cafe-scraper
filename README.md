@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-25 08:00 UTC*
+*Last Updated: 2026-09-25 18:48 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.050` 
-- **Distribution**: 35.0% Positive, 38.2% Neutral, 26.8% Negative
+- **Overall Mood Score**: `0.047` 
+- **Distribution**: 34.8% Positive, 38.1% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `tank` | 5 |
 | 2 | - | `mabon` | 5 |
-| 3 | - | `coord` | 4 |
-| 4 | - | `wnt` | 4 |
-| 5 | - | `chuva` | 4 |
-| 6 | - | `resident evil` | 5 |
-| 7 | UP 1 | `would cool` | 4 |
-| 8 | UP 1 | `bucks` | 4 |
-| 9 | UP 1 | `coyote acme` | 6 |
-| 10 | UP 1 | `resident evil movie` | 3 |
-| 11 | UP 3 | `youtube video` | 3 |
-| 12 | UP 3 | `like real` | 3 |
-| 13 | UP 4 | `unethical` | 3 |
-| 14 | NEW | `tma` | 3 |
-| 15 | NEW | `semi` | 3 |
-| 16 | UP 2 | `mayo` | 3 |
-| 17 | UP 4 | `holds` | 4 |
-| 18 | UP 5 | `test test test` | 2 |
-| 19 | UP 5 | `one year anniversary` | 2 |
-| 20 | NEW | `coming today` | 2 |
-| 21 | NEW | `bro god` | 2 |
-| 22 | NEW | `sudden urge` | 2 |
-| 23 | NEW | `instead working` | 2 |
-| 24 | NEW | `every night` | 2 |
-| 25 | NEW | `acting like` | 2 |
+| 3 | NEW | `lolita coord` | 4 |
+| 4 | UP 1 | `chuva` | 4 |
+| 5 | UP 1 | `resident evil` | 5 |
+| 6 | UP 3 | `coyote acme` | 8 |
+| 7 | UP 9 | `mayo` | 4 |
+| 8 | UP 2 | `resident evil movie` | 3 |
+| 9 | UP 2 | `youtube video` | 3 |
+| 10 | UP 15 | `acting like` | 3 |
+| 11 | UP 1 | `like real` | 3 |
+| 12 | UP 1 | `unethical` | 3 |
+| 13 | DOWN 9 | `wnt` | 3 |
+| 14 | - | `tma` | 3 |
+| 15 | - | `semi` | 3 |
+| 16 | UP 1 | `holds` | 4 |
+| 17 | UP 2 | `one year anniversary` | 2 |
+| 18 | UP 5 | `instead working` | 2 |
+| 19 | UP 5 | `every night` | 2 |
+| 20 | NEW | `write something` | 2 |
+| 21 | NEW | `twin peaks` | 2 |
+| 22 | NEW | `nobody talk` | 2 |
+| 23 | NEW | `much year` | 2 |
+| 24 | NEW | `intrusive thoughts` | 2 |
+| 25 | NEW | `like people` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
