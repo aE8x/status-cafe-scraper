@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-26 07:53 UTC*
+*Last Updated: 2026-09-26 17:53 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.048` 
-- **Distribution**: 35.0% Positive, 37.8% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.049` 
+- **Distribution**: 35.0% Positive, 38.1% Neutral, 26.9% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `mabon` | 5 |
-| 2 | UP 1 | `lolita coord` | 4 |
-| 3 | UP 1 | `chuva` | 4 |
-| 4 | UP 1 | `resident evil` | 6 |
-| 5 | UP 1 | `coyote acme` | 8 |
-| 6 | UP 2 | `resident evil movie` | 4 |
+| 1 | - | `mabon` | 5 |
+| 2 | - | `lolita coord` | 4 |
+| 3 | - | `chuva` | 4 |
+| 4 | - | `resident evil` | 7 |
+| 5 | - | `coyote acme` | 8 |
+| 6 | - | `resident evil movie` | 4 |
 | 7 | - | `mayo` | 4 |
-| 8 | UP 3 | `like real` | 3 |
-| 9 | NEW | `movie night` | 3 |
-| 10 | UP 2 | `unethical` | 3 |
-| 11 | UP 2 | `wnt` | 3 |
-| 12 | UP 2 | `tma` | 3 |
-| 13 | UP 2 | `semi` | 3 |
-| 14 | NEW | `omori` | 3 |
-| 15 | UP 1 | `holds` | 4 |
-| 16 | NEW | `snow` | 4 |
-| 17 | - | `one year anniversary` | 2 |
-| 18 | UP 3 | `twin peaks` | 2 |
-| 19 | UP 3 | `nobody talk` | 2 |
-| 20 | UP 3 | `much year` | 2 |
-| 21 | UP 3 | `intrusive thoughts` | 2 |
-| 22 | UP 3 | `like people` | 2 |
-| 23 | NEW | `people fucking` | 2 |
-| 24 | NEW | `everything set` | 2 |
-| 25 | NEW | `finally one` | 2 |
+| 8 | - | `like real` | 3 |
+| 9 | - | `movie night` | 3 |
+| 10 | - | `unethical` | 3 |
+| 11 | - | `wnt` | 3 |
+| 12 | - | `tma` | 3 |
+| 13 | - | `semi` | 3 |
+| 14 | - | `omori` | 3 |
+| 15 | NEW | `november` | 3 |
+| 16 | DOWN 1 | `holds` | 4 |
+| 17 | DOWN 1 | `snow` | 4 |
+| 18 | DOWN 1 | `one year anniversary` | 2 |
+| 19 | UP 1 | `much year` | 2 |
+| 20 | UP 1 | `intrusive thoughts` | 2 |
+| 21 | UP 1 | `like people` | 2 |
+| 22 | UP 1 | `people fucking` | 2 |
+| 23 | UP 1 | `everything set` | 2 |
+| 24 | UP 1 | `finally one` | 2 |
+| 25 | NEW | `also first` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
