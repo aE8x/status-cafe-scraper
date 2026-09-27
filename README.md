@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-27 08:23 UTC*
+*Last Updated: 2026-09-27 18:35 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.053` 
-- **Distribution**: 35.4% Positive, 37.9% Neutral, 26.7% Negative
+- **Distribution**: 35.4% Positive, 37.8% Neutral, 26.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `lolita coord` | 4 |
 | 3 | - | `chuva` | 4 |
 | 4 | - | `resident evil` | 7 |
-| 5 | UP 1 | `resident evil movie` | 4 |
-| 6 | UP 1 | `mayo` | 4 |
-| 7 | UP 2 | `movie night` | 3 |
-| 8 | UP 3 | `wnt` | 3 |
-| 9 | UP 3 | `tma` | 3 |
-| 10 | UP 3 | `semi` | 3 |
-| 11 | UP 3 | `omori` | 3 |
-| 12 | UP 3 | `november` | 3 |
-| 13 | NEW | `invisible` | 3 |
-| 14 | DOWN 9 | `coyote acme` | 7 |
-| 15 | UP 1 | `holds` | 4 |
-| 16 | NEW | `sons` | 4 |
-| 17 | NEW | `ganas` | 4 |
-| 18 | DOWN 1 | `snow` | 4 |
-| 19 | DOWN 1 | `one year anniversary` | 2 |
-| 20 | UP 5 | `also first` | 2 |
-| 21 | NEW | `sleep today` | 2 |
-| 22 | NEW | `shit fuck` | 2 |
-| 23 | NEW | `time something` | 2 |
-| 24 | NEW | `game called` | 2 |
-| 25 | NEW | `day two` | 2 |
+| 5 | - | `resident evil movie` | 4 |
+| 6 | UP 4 | `semi` | 4 |
+| 7 | DOWN 1 | `mayo` | 4 |
+| 8 | UP 10 | `snow` | 4 |
+| 9 | DOWN 2 | `movie night` | 3 |
+| 10 | DOWN 2 | `wnt` | 3 |
+| 11 | DOWN 2 | `tma` | 3 |
+| 12 | NEW | `tee` | 3 |
+| 13 | DOWN 2 | `omori` | 3 |
+| 14 | DOWN 2 | `november` | 3 |
+| 15 | DOWN 2 | `invisible` | 3 |
+| 16 | DOWN 1 | `holds` | 4 |
+| 17 | DOWN 1 | `sons` | 4 |
+| 18 | DOWN 1 | `ganas` | 4 |
+| 19 | - | `one year anniversary` | 2 |
+| 20 | UP 1 | `sleep today` | 2 |
+| 21 | UP 1 | `shit fuck` | 2 |
+| 22 | UP 1 | `time something` | 2 |
+| 23 | UP 1 | `game called` | 2 |
+| 24 | UP 1 | `day two` | 2 |
+| 25 | NEW | `wish one` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
