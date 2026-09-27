@@ -74863,5 +74863,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-09-27T08:23:21.154500+00:00",
+        "hot_topics": [
+            {
+                "ngram": "mabon",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "lolita coord",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "chuva",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "resident evil",
+                "mentions": 7,
+                "change": "47.2x"
+            },
+            {
+                "ngram": "resident evil movie",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "mayo",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "movie night",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "wnt",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "tma",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "semi",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "omori",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "november",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "invisible",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "coyote acme",
+                "mentions": 7,
+                "change": "15.7x"
+            },
+            {
+                "ngram": "holds",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "sons",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "ganas",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "snow",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "one year anniversary",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "also first",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "sleep today",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "shit fuck",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "time something",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "game called",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "day two",
+                "mentions": 2,
+                "change": "13.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0533235736677116,
+            "positive_percent": 35.36050156739812,
+            "negative_percent": 26.70846394984326,
+            "neutral_percent": 37.93103448275862,
+            "most_positive_example": {
+                "text": "OMFG I'M GOING TO A FAIR ON SATURDAY OMFG IM SO HAPPY IM HAPPY HAPPY LIL GIRL WHO IS HAPPY :3",
+                "user": "cherri",
+                "score": 0.9851
+            },
+            "most_negative_example": {
+                "text": "stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid stupid",
+                "user": "wolfsbane",
+                "score": -0.9968
+            }
+        },
+        "summary_message": null
     }
 ]
