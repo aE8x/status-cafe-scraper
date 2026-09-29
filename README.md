@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-29 08:45 UTC*
+*Last Updated: 2026-09-29 19:33 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.046` 
-- **Distribution**: 34.6% Positive, 37.9% Neutral, 27.5% Negative
+- **Distribution**: 34.5% Positive, 37.9% Neutral, 27.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `mayo` | 4 |
 | 8 | - | `invisible` | 4 |
 | 9 | - | `snow` | 4 |
-| 10 | - | `responding messages` | 3 |
-| 11 | NEW | `cozy talk` | 3 |
-| 12 | - | `wnt` | 3 |
-| 13 | - | `requires` | 3 |
-| 14 | - | `tma` | 3 |
-| 15 | - | `tee` | 3 |
-| 16 | - | `gummies` | 3 |
-| 17 | - | `omori` | 3 |
-| 18 | - | `november` | 3 |
+| 10 | UP 1 | `cozy talk` | 3 |
+| 11 | UP 2 | `requires` | 3 |
+| 12 | NEW | `elderly` | 3 |
+| 13 | UP 1 | `tma` | 3 |
+| 14 | UP 1 | `tee` | 3 |
+| 15 | UP 1 | `gummies` | 3 |
+| 16 | UP 1 | `omori` | 3 |
+| 17 | UP 1 | `november` | 3 |
+| 18 | NEW | `sociology` | 3 |
 | 19 | - | `coding much` | 4 |
 | 20 | - | `ganas` | 4 |
 | 21 | - | `one year anniversary` | 2 |
 | 22 | - | `love coding much` | 2 |
-| 23 | NEW | `vending machine` | 2 |
-| 24 | NEW | `worst thing` | 2 |
-| 25 | NEW | `bad bad` | 2 |
+| 23 | NEW | `like crap` | 2 |
+| 24 | NEW | `could kill` | 2 |
+| 25 | NEW | `cringe back` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
