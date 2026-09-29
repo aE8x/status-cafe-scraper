@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-28 20:39 UTC*
+*Last Updated: 2026-09-29 08:45 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.048` 
-- **Distribution**: 34.9% Positive, 37.8% Neutral, 27.3% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 34.6% Positive, 37.9% Neutral, 27.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -22,26 +22,26 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 3 | - | `resident evil` | 7 |
 | 4 | - | `resident evil movie` | 4 |
 | 5 | - | `movie night` | 4 |
-| 6 | UP 1 | `semi` | 4 |
-| 7 | UP 1 | `mayo` | 4 |
-| 8 | UP 8 | `invisible` | 4 |
+| 6 | - | `semi` | 4 |
+| 7 | - | `mayo` | 4 |
+| 8 | - | `invisible` | 4 |
 | 9 | - | `snow` | 4 |
-| 10 | NEW | `responding messages` | 3 |
-| 11 | DOWN 1 | `oasis` | 3 |
-| 12 | DOWN 1 | `wnt` | 3 |
-| 13 | NEW | `requires` | 3 |
-| 14 | DOWN 2 | `tma` | 3 |
-| 15 | DOWN 2 | `tee` | 3 |
-| 16 | NEW | `gummies` | 3 |
-| 17 | DOWN 3 | `omori` | 3 |
-| 18 | DOWN 3 | `november` | 3 |
-| 19 | NEW | `coding much` | 4 |
-| 20 | DOWN 2 | `ganas` | 4 |
-| 21 | DOWN 2 | `one year anniversary` | 2 |
-| 22 | NEW | `love coding much` | 2 |
-| 23 | DOWN 1 | `wish one` | 2 |
-| 24 | DOWN 1 | `chicken alfredo` | 2 |
-| 25 | DOWN 1 | `outside like` | 2 |
+| 10 | - | `responding messages` | 3 |
+| 11 | NEW | `cozy talk` | 3 |
+| 12 | - | `wnt` | 3 |
+| 13 | - | `requires` | 3 |
+| 14 | - | `tma` | 3 |
+| 15 | - | `tee` | 3 |
+| 16 | - | `gummies` | 3 |
+| 17 | - | `omori` | 3 |
+| 18 | - | `november` | 3 |
+| 19 | - | `coding much` | 4 |
+| 20 | - | `ganas` | 4 |
+| 21 | - | `one year anniversary` | 2 |
+| 22 | - | `love coding much` | 2 |
+| 23 | NEW | `vending machine` | 2 |
+| 24 | NEW | `worst thing` | 2 |
+| 25 | NEW | `bad bad` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
