@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-09-30 19:33 UTC*
+*Last Updated: 2026-10-01 09:08 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.045` 
-- **Distribution**: 34.4% Positive, 37.8% Neutral, 27.8% Negative
+- **Overall Mood Score**: `0.040` 
+- **Distribution**: 34.0% Positive, 37.7% Neutral, 28.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `chuva` | 4 |
-| 2 | UP 1 | `resident evil` | 7 |
-| 3 | UP 1 | `resident evil movie` | 4 |
-| 4 | UP 1 | `movie night` | 4 |
-| 5 | UP 1 | `semi` | 4 |
-| 6 | UP 1 | `mayo` | 4 |
-| 7 | UP 1 | `invisible` | 4 |
-| 8 | UP 1 | `snow` | 4 |
-| 9 | UP 1 | `cozy talk` | 3 |
-| 10 | DOWN 9 | `lolita coord` | 3 |
-| 11 | UP 1 | `tee` | 3 |
-| 12 | UP 1 | `gummies` | 3 |
-| 13 | UP 1 | `omori` | 3 |
-| 14 | NEW | `wrap` | 3 |
-| 15 | - | `november` | 3 |
-| 16 | NEW | `ashamed` | 3 |
-| 17 | DOWN 1 | `sociology` | 3 |
-| 18 | DOWN 1 | `coding much` | 4 |
-| 19 | NEW | `apples` | 4 |
-| 20 | DOWN 2 | `ganas` | 4 |
-| 21 | NEW | `coughing` | 4 |
-| 22 | DOWN 3 | `one year anniversary` | 2 |
-| 23 | DOWN 3 | `love coding much` | 2 |
-| 24 | UP 1 | `new also` | 2 |
-| 25 | NEW | `like young` | 2 |
+| 1 | - | `chuva` | 4 |
+| 2 | - | `resident evil` | 7 |
+| 3 | - | `resident evil movie` | 4 |
+| 4 | - | `movie night` | 4 |
+| 5 | UP 13 | `coding much` | 4 |
+| 6 | - | `mayo` | 4 |
+| 7 | NEW | `desires` | 4 |
+| 8 | DOWN 1 | `invisible` | 4 |
+| 9 | DOWN 1 | `snow` | 4 |
+| 10 | UP 2 | `gummies` | 3 |
+| 11 | UP 2 | `omori` | 3 |
+| 12 | UP 2 | `wrap` | 3 |
+| 13 | UP 2 | `november` | 3 |
+| 14 | UP 2 | `ashamed` | 3 |
+| 15 | NEW | `steel` | 3 |
+| 16 | NEW | `fuckkkkk` | 3 |
+| 17 | NEW | `chaotic` | 3 |
+| 18 | DOWN 1 | `sociology` | 3 |
+| 19 | NEW | `essa` | 3 |
+| 20 | NEW | `vulnerability` | 3 |
+| 21 | NEW | `coughs` | 4 |
+| 22 | DOWN 2 | `ganas` | 4 |
+| 23 | DOWN 2 | `coughing` | 4 |
+| 24 | DOWN 2 | `one year anniversary` | 2 |
+| 25 | DOWN 2 | `love coding much` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 

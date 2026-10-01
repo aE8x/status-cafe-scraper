@@ -76039,5 +76039,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-01T09:08:27.518448+00:00",
+        "hot_topics": [
+            {
+                "ngram": "chuva",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "resident evil",
+                "mentions": 7,
+                "change": "47.2x"
+            },
+            {
+                "ngram": "resident evil movie",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "movie night",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "coding much",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "mayo",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "desires",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "invisible",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "snow",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "gummies",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "omori",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "wrap",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "november",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "ashamed",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "steel",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "fuckkkkk",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "chaotic",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "sociology",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "essa",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "vulnerability",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "coughs",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "ganas",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "coughing",
+                "mentions": 4,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "one year anniversary",
+                "mentions": 2,
+                "change": "13.5x"
+            },
+            {
+                "ngram": "love coding much",
+                "mentions": 2,
+                "change": "13.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04021825322023249,
+            "positive_percent": 33.993088281495446,
+            "negative_percent": 28.275212064090482,
+            "neutral_percent": 37.73169965441407,
+            "most_positive_example": {
+                "text": "OMFG I'M GOING TO A FAIR ON SATURDAY OMFG IM SO HAPPY IM HAPPY HAPPY LIL GIRL WHO IS HAPPY :3",
+                "user": "cherri",
+                "score": 0.9851
+            },
+            "most_negative_example": {
+                "text": "Why are you ignoring me I know you’re ignoring me I fucking hate you you’re useless I hate you I hate you fucking die or whatever",
+                "user": "deadzone",
+                "score": -0.976
+            }
+        },
+        "summary_message": null
     }
 ]
