@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-01 09:08 UTC*
+*Last Updated: 2026-10-01 19:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.040` 
-- **Distribution**: 34.0% Positive, 37.7% Neutral, 28.3% Negative
+- **Overall Mood Score**: `0.041` 
+- **Distribution**: 33.9% Positive, 38.0% Neutral, 28.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `chuva` | 4 |
-| 2 | - | `resident evil` | 7 |
-| 3 | - | `resident evil movie` | 4 |
-| 4 | - | `movie night` | 4 |
-| 5 | UP 13 | `coding much` | 4 |
-| 6 | - | `mayo` | 4 |
-| 7 | NEW | `desires` | 4 |
-| 8 | DOWN 1 | `invisible` | 4 |
-| 9 | DOWN 1 | `snow` | 4 |
-| 10 | UP 2 | `gummies` | 3 |
-| 11 | UP 2 | `omori` | 3 |
-| 12 | UP 2 | `wrap` | 3 |
-| 13 | UP 2 | `november` | 3 |
-| 14 | UP 2 | `ashamed` | 3 |
-| 15 | NEW | `steel` | 3 |
-| 16 | NEW | `fuckkkkk` | 3 |
-| 17 | NEW | `chaotic` | 3 |
-| 18 | DOWN 1 | `sociology` | 3 |
-| 19 | NEW | `essa` | 3 |
-| 20 | NEW | `vulnerability` | 3 |
-| 21 | NEW | `coughs` | 4 |
-| 22 | DOWN 2 | `ganas` | 4 |
-| 23 | DOWN 2 | `coughing` | 4 |
-| 24 | DOWN 2 | `one year anniversary` | 2 |
-| 25 | DOWN 2 | `love coding much` | 2 |
+| 1 | NEW | `spooky month` | 5 |
+| 2 | DOWN 1 | `chuva` | 4 |
+| 3 | NEW | `spooky season` | 7 |
+| 4 | UP 1 | `coding much` | 4 |
+| 5 | UP 1 | `mayo` | 4 |
+| 6 | UP 1 | `desires` | 4 |
+| 7 | UP 1 | `invisible` | 4 |
+| 8 | UP 1 | `snow` | 4 |
+| 9 | NEW | `spooky` | 13 |
+| 10 | DOWN 8 | `resident evil` | 6 |
+| 11 | - | `omori` | 3 |
+| 12 | - | `wrap` | 3 |
+| 13 | - | `november` | 3 |
+| 14 | - | `ashamed` | 3 |
+| 15 | - | `steel` | 3 |
+| 16 | - | `fuckkkkk` | 3 |
+| 17 | - | `chaotic` | 3 |
+| 18 | - | `sociology` | 3 |
+| 19 | NEW | `awww` | 3 |
+| 20 | DOWN 1 | `essa` | 3 |
+| 21 | DOWN 1 | `vulnerability` | 3 |
+| 22 | NEW | `october` | 21 |
+| 23 | DOWN 2 | `coughs` | 4 |
+| 24 | DOWN 2 | `ganas` | 4 |
+| 25 | DOWN 2 | `coughing` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
