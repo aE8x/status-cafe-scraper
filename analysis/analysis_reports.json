@@ -76774,5 +76774,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-03T18:06:44.089372+00:00",
+        "hot_topics": [
+            {
+                "ngram": "spooky month",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "chuva",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oct",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 8,
+                "change": "52.7x"
+            },
+            {
+                "ngram": "desires",
+                "mentions": 5,
+                "change": "32.9x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 19,
+                "change": "31.3x"
+            },
+            {
+                "ngram": "coding much",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "invisible",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "snow",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "resident evil",
+                "mentions": 6,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "new flavor foley",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "peace love",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "ashamed",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "steel",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "fuckkkkk",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "sociology",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "awww",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "lessons",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "essa",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "gig",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "vulnerability",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 5,
+                "change": "16.5x"
+            },
+            {
+                "ngram": "pagina",
+                "mentions": 7,
+                "change": "15.4x"
+            },
+            {
+                "ngram": "october",
+                "mentions": 27,
+                "change": "14.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.03695184842883549,
+            "positive_percent": 33.39494762784966,
+            "negative_percent": 28.188539741219966,
+            "neutral_percent": 38.41651263093038,
+            "most_positive_example": {
+                "text": "OMFG I'M GOING TO A FAIR ON SATURDAY OMFG IM SO HAPPY IM HAPPY HAPPY LIL GIRL WHO IS HAPPY :3",
+                "user": "cherri",
+                "score": 0.9851
+            },
+            "most_negative_example": {
+                "text": "i feel so sick and anxious i hate school i dont wanna go tmr fuck fuck fuck",
+                "user": "sweetcloudyskies",
+                "score": -0.9641
+            }
+        },
+        "summary_message": null
     }
 ]
