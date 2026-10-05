@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-04 18:16 UTC*
+*Last Updated: 2026-10-05 09:16 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.036` 
-- **Distribution**: 33.2% Positive, 38.4% Neutral, 28.4% Negative
+- **Overall Mood Score**: `0.039` 
+- **Distribution**: 33.4% Positive, 38.4% Neutral, 28.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -22,26 +22,26 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 3 | - | `chuva` | 4 |
 | 4 | - | `oct` | 4 |
 | 5 | - | `spooky season` | 9 |
-| 6 | - | `spooky` | 21 |
-| 7 | UP 1 | `invisible` | 5 |
-| 8 | UP 1 | `new flavor foley` | 4 |
-| 9 | UP 2 | `lessons` | 4 |
-| 10 | UP 2 | `snow` | 4 |
-| 11 | UP 2 | `resident evil` | 6 |
-| 12 | UP 2 | `flavor foley` | 6 |
-| 13 | UP 2 | `flavor foley song` | 3 |
-| 14 | NEW | `time new` | 3 |
-| 15 | UP 1 | `peace love` | 3 |
-| 16 | UP 1 | `steel` | 3 |
-| 17 | UP 1 | `fuckkkkk` | 3 |
-| 18 | UP 1 | `shake` | 3 |
-| 19 | UP 1 | `sociology` | 3 |
-| 20 | UP 1 | `awww` | 3 |
-| 21 | UP 1 | `kinktober` | 3 |
-| 22 | UP 1 | `essa` | 3 |
-| 23 | UP 1 | `gig` | 3 |
-| 24 | NEW | `layers` | 3 |
-| 25 | - | `vulnerability` | 3 |
+| 6 | UP 2 | `new flavor foley` | 5 |
+| 7 | - | `invisible` | 5 |
+| 8 | DOWN 2 | `spooky` | 20 |
+| 9 | UP 4 | `flavor foley song` | 4 |
+| 10 | DOWN 1 | `lessons` | 4 |
+| 11 | DOWN 1 | `snow` | 4 |
+| 12 | - | `flavor foley` | 7 |
+| 13 | UP 1 | `time new` | 3 |
+| 14 | UP 1 | `peace love` | 3 |
+| 15 | NEW | `game ever` | 3 |
+| 16 | - | `steel` | 3 |
+| 17 | - | `fuckkkkk` | 3 |
+| 18 | - | `shake` | 3 |
+| 19 | - | `sociology` | 3 |
+| 20 | - | `awww` | 3 |
+| 21 | NEW | `pikmin` | 3 |
+| 22 | DOWN 1 | `kinktober` | 3 |
+| 23 | DOWN 1 | `essa` | 3 |
+| 24 | DOWN 1 | `gig` | 3 |
+| 25 | DOWN 1 | `layers` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
