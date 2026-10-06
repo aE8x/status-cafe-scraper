@@ -77509,5 +77509,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-06T09:08:48.236024+00:00",
+        "hot_topics": [
+            {
+                "ngram": "spooky month",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oct",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 9,
+                "change": "59.2x"
+            },
+            {
+                "ngram": "new flavor foley",
+                "mentions": 5,
+                "change": "32.9x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 20,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "flavor foley song",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "game ever",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "lessons",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "snow",
+                "mentions": 4,
+                "change": "26.3x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 7,
+                "change": "23.0x"
+            },
+            {
+                "ngram": "stop working",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "time new",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "peace love",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "shake",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "sociology",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "awww",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "pikmin",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "walmart",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "kinktober",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "essa",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "xoxo",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "gig",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "layers",
+                "mentions": 3,
+                "change": "19.7x"
+            },
+            {
+                "ngram": "vulnerability",
+                "mentions": 3,
+                "change": "19.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04159185436593643,
+            "positive_percent": 33.539031163221225,
+            "negative_percent": 27.83091638383215,
+            "neutral_percent": 38.63005245294662,
+            "most_positive_example": {
+                "text": "IM SO HAPPY!!! SO SO HAPPY!! i love my friends! and i love my nui!!!!!",
+                "user": "kamishiros",
+                "score": 0.9854
+            },
+            "most_negative_example": {
+                "text": "MY BITCH OF A COUSIN IS COMING OVER IN FIVE MINUTES KILL ME I HATE HER SHE TRIED TO MURDER ME THRICE",
+                "user": "miseraria",
+                "score": -0.9578
+            }
+        },
+        "summary_message": null
     }
 ]

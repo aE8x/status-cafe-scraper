@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-05 21:34 UTC*
+*Last Updated: 2026-10-06 09:08 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.041` 
-- **Distribution**: 33.5% Positive, 38.6% Neutral, 27.9% Negative
+- **Overall Mood Score**: `0.042` 
+- **Distribution**: 33.5% Positive, 38.6% Neutral, 27.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `spooky month` | 9 |
 | 2 | - | `happy october` | 4 |
-| 3 | - | `chuva` | 4 |
-| 4 | - | `oct` | 4 |
-| 5 | - | `spooky season` | 9 |
-| 6 | - | `new flavor foley` | 5 |
-| 7 | - | `invisible` | 5 |
-| 8 | - | `spooky` | 20 |
-| 9 | - | `flavor foley song` | 4 |
-| 10 | UP 5 | `game ever` | 4 |
-| 11 | DOWN 1 | `lessons` | 4 |
-| 12 | DOWN 1 | `snow` | 4 |
-| 13 | DOWN 1 | `flavor foley` | 7 |
-| 14 | NEW | `stop working` | 3 |
-| 15 | DOWN 2 | `time new` | 3 |
-| 16 | DOWN 2 | `peace love` | 3 |
-| 17 | UP 1 | `shake` | 3 |
-| 18 | UP 1 | `sociology` | 3 |
-| 19 | UP 1 | `awww` | 3 |
-| 20 | UP 1 | `pikmin` | 3 |
-| 21 | NEW | `walmart` | 3 |
-| 22 | - | `kinktober` | 3 |
-| 23 | - | `essa` | 3 |
-| 24 | - | `gig` | 3 |
-| 25 | - | `layers` | 3 |
+| 3 | UP 1 | `oct` | 4 |
+| 4 | UP 1 | `spooky season` | 9 |
+| 5 | UP 1 | `new flavor foley` | 5 |
+| 6 | UP 2 | `spooky` | 20 |
+| 7 | UP 2 | `flavor foley song` | 4 |
+| 8 | UP 2 | `game ever` | 4 |
+| 9 | UP 2 | `lessons` | 4 |
+| 10 | UP 2 | `snow` | 4 |
+| 11 | UP 2 | `flavor foley` | 7 |
+| 12 | UP 2 | `stop working` | 3 |
+| 13 | UP 2 | `time new` | 3 |
+| 14 | UP 2 | `peace love` | 3 |
+| 15 | UP 2 | `shake` | 3 |
+| 16 | UP 2 | `sociology` | 3 |
+| 17 | UP 2 | `awww` | 3 |
+| 18 | UP 2 | `pikmin` | 3 |
+| 19 | UP 2 | `walmart` | 3 |
+| 20 | UP 2 | `kinktober` | 3 |
+| 21 | UP 2 | `essa` | 3 |
+| 22 | NEW | `xoxo` | 3 |
+| 23 | UP 1 | `gig` | 3 |
+| 24 | UP 1 | `layers` | 3 |
+| 25 | NEW | `vulnerability` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
