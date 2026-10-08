@@ -78097,5 +78097,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-08T09:11:30.511446+00:00",
+        "hot_topics": [
+            {
+                "ngram": "spooky month",
+                "mentions": 9,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oct",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 9,
+                "change": "58.6x"
+            },
+            {
+                "ngram": "new flavor foley",
+                "mentions": 5,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 20,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 8,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "flavor foley song",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "game ever",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "snow",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "kinktober",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "heading bed",
+                "mentions": 6,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "time finish",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "one week",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "peace love",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "pikmin",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "walmart",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "essa",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "xoxo",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "gig",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "layers",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "vulnerability",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "strongly",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "induced",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "nini",
+                "mentions": 3,
+                "change": "19.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04184963257807716,
+            "positive_percent": 33.7109614206981,
+            "negative_percent": 27.58726270667483,
+            "neutral_percent": 38.70177587262707,
+            "most_positive_example": {
+                "text": "IM SO HAPPY!!! SO SO HAPPY!! i love my friends! and i love my nui!!!!!",
+                "user": "kamishiros",
+                "score": 0.9854
+            },
+            "most_negative_example": {
+                "text": "I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it",
+                "user": "ryn",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
