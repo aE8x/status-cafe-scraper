@@ -78832,5 +78832,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-10T18:45:55.801540+00:00",
+        "hot_topics": [
+            {
+                "ngram": "spooky month",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "heading bed nini",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "work respond",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "knights guinevere",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "midterm",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oct",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "crisp",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 10,
+                "change": "65.2x"
+            },
+            {
+                "ngram": "new flavor foley",
+                "mentions": 5,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 22,
+                "change": "28.7x"
+            },
+            {
+                "ngram": "flavor foley",
+                "mentions": 8,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "heading bed",
+                "mentions": 8,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "flavor foley song",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "game ever",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "induced",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "gig",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "deck",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "perform",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "economy",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "layers",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "vulnerability",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "strongly",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "kanade",
+                "mentions": 3,
+                "change": "19.5x"
+            },
+            {
+                "ngram": "former",
+                "mentions": 3,
+                "change": "19.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.044330630354957164,
+            "positive_percent": 33.84332925336597,
+            "negative_percent": 27.44798041615667,
+            "neutral_percent": 38.70869033047736,
+            "most_positive_example": {
+                "text": "IM SO HAPPY!!! SO SO HAPPY!! i love my friends! and i love my nui!!!!!",
+                "user": "kamishiros",
+                "score": 0.9854
+            },
+            "most_negative_example": {
+                "text": "I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it",
+                "user": "ryn",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
