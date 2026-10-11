@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-11 09:05 UTC*
+*Last Updated: 2026-10-11 19:06 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.042` 
-- **Distribution**: 33.8% Positive, 38.7% Neutral, 27.5% Negative
+- **Overall Mood Score**: `0.043` 
+- **Distribution**: 33.8% Positive, 38.8% Neutral, 27.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -25,23 +25,23 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 6 | - | `midterm` | 4 |
 | 7 | - | `oct` | 4 |
 | 8 | - | `crisp` | 4 |
-| 9 | - | `spooky season` | 11 |
-| 10 | - | `new flavor foley` | 5 |
-| 11 | - | `spooky` | 23 |
-| 12 | UP 1 | `heading bed` | 9 |
-| 13 | DOWN 1 | `flavor foley` | 8 |
-| 14 | - | `flavor foley song` | 4 |
-| 15 | UP 1 | `induced` | 4 |
-| 16 | NEW | `fall break` | 3 |
-| 17 | NEW | `could eat` | 3 |
-| 18 | UP 1 | `perform` | 3 |
-| 19 | UP 1 | `economy` | 3 |
-| 20 | UP 1 | `layers` | 3 |
-| 21 | UP 1 | `vulnerability` | 3 |
-| 22 | UP 1 | `strongly` | 3 |
-| 23 | UP 1 | `kanade` | 3 |
-| 24 | UP 1 | `former` | 3 |
-| 25 | NEW | `scariest` | 3 |
+| 9 | NEW | `jir` | 4 |
+| 10 | DOWN 1 | `spooky season` | 11 |
+| 11 | DOWN 1 | `new flavor foley` | 5 |
+| 12 | DOWN 1 | `spooky` | 23 |
+| 13 | DOWN 1 | `heading bed` | 9 |
+| 14 | DOWN 1 | `flavor foley` | 8 |
+| 15 | DOWN 1 | `flavor foley song` | 4 |
+| 16 | DOWN 1 | `induced` | 4 |
+| 17 | NEW | `ward` | 4 |
+| 18 | DOWN 2 | `fall break` | 3 |
+| 19 | DOWN 2 | `could eat` | 3 |
+| 20 | DOWN 2 | `perform` | 3 |
+| 21 | DOWN 2 | `economy` | 3 |
+| 22 | DOWN 2 | `layers` | 3 |
+| 23 | DOWN 2 | `vulnerability` | 3 |
+| 24 | NEW | `ali` | 3 |
+| 25 | DOWN 3 | `strongly` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
