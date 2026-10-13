@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-12 22:11 UTC*
+*Last Updated: 2026-10-13 09:35 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.043` 
-- **Distribution**: 33.8% Positive, 38.8% Neutral, 27.4% Negative
+- **Overall Mood Score**: `0.045` 
+- **Distribution**: 34.0% Positive, 38.7% Neutral, 27.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -22,26 +22,26 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 3 | - | `happy october` | 4 |
 | 4 | - | `work respond` | 4 |
 | 5 | - | `knights guinevere` | 4 |
-| 6 | UP 1 | `oct` | 4 |
-| 7 | UP 1 | `crisp` | 4 |
-| 8 | UP 1 | `jir` | 4 |
-| 9 | UP 1 | `spooky season` | 11 |
-| 10 | UP 1 | `new flavor foley` | 5 |
-| 11 | UP 1 | `spooky` | 23 |
-| 12 | UP 1 | `flavor foley` | 9 |
-| 13 | UP 1 | `heading bed` | 9 |
-| 14 | UP 1 | `flavor foley song` | 4 |
-| 15 | UP 1 | `fall break` | 4 |
-| 16 | UP 1 | `induced` | 4 |
-| 17 | UP 1 | `ward` | 4 |
-| 18 | UP 1 | `could eat` | 3 |
-| 19 | UP 2 | `vulnerability` | 3 |
-| 20 | UP 2 | `deadass` | 3 |
-| 21 | DOWN 15 | `midterm` | 3 |
-| 22 | UP 1 | `ali` | 3 |
-| 23 | UP 1 | `strongly` | 3 |
-| 24 | UP 1 | `grades` | 3 |
-| 25 | NEW | `kanade` | 3 |
+| 6 | - | `oct` | 4 |
+| 7 | - | `crisp` | 4 |
+| 8 | - | `jir` | 4 |
+| 9 | - | `spooky season` | 11 |
+| 10 | UP 1 | `spooky` | 23 |
+| 11 | UP 2 | `heading bed` | 9 |
+| 12 | UP 3 | `fall break` | 4 |
+| 13 | UP 3 | `induced` | 4 |
+| 14 | UP 3 | `ward` | 4 |
+| 15 | UP 3 | `could eat` | 3 |
+| 16 | UP 5 | `midterm` | 3 |
+| 17 | UP 5 | `ali` | 3 |
+| 18 | UP 5 | `strongly` | 3 |
+| 19 | UP 5 | `grades` | 3 |
+| 20 | UP 5 | `kanade` | 3 |
+| 21 | NEW | `pan` | 3 |
+| 22 | NEW | `former` | 3 |
+| 23 | NEW | `scariest` | 3 |
+| 24 | NEW | `appetite` | 3 |
+| 25 | NEW | `spiral` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
