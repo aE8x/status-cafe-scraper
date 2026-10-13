@@ -79714,5 +79714,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-13T20:18:30.652364+00:00",
+        "hot_topics": [
+            {
+                "ngram": "spooky month",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "welcome back",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "heading bed nini",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy october",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "work respond",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "knights guinevere",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jir added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "yay back",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oct",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "crisp",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "spooky season",
+                "mentions": 11,
+                "change": "76.2x"
+            },
+            {
+                "ngram": "spooky",
+                "mentions": 23,
+                "change": "39.8x"
+            },
+            {
+                "ngram": "heading bed",
+                "mentions": 9,
+                "change": "31.2x"
+            },
+            {
+                "ngram": "fall break",
+                "mentions": 4,
+                "change": "27.7x"
+            },
+            {
+                "ngram": "induced",
+                "mentions": 4,
+                "change": "27.7x"
+            },
+            {
+                "ngram": "ward",
+                "mentions": 4,
+                "change": "27.7x"
+            },
+            {
+                "ngram": "midterms",
+                "mentions": 6,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "could eat",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "strongly",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "grades",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "kanade",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "pan",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "former",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "scariest",
+                "mentions": 3,
+                "change": "20.8x"
+            },
+            {
+                "ngram": "appetite",
+                "mentions": 3,
+                "change": "20.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.0486175089664167,
+            "positive_percent": 34.13759373981089,
+            "negative_percent": 26.80143462667101,
+            "neutral_percent": 39.06097163351809,
+            "most_positive_example": {
+                "text": "WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON!!!!!!",
+                "user": "ro_is_here",
+                "score": 0.9858
+            },
+            "most_negative_example": {
+                "text": "I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it I hate it",
+                "user": "ryn",
+                "score": -0.9875
+            }
+        },
+        "summary_message": null
     }
 ]
