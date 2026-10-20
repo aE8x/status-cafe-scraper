@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-20 07:47 UTC*
+*Last Updated: 2026-10-20 18:35 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.055` 
-- **Distribution**: 34.8% Positive, 39.5% Neutral, 25.7% Negative
+- **Overall Mood Score**: `0.051` 
+- **Distribution**: 34.3% Positive, 39.6% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `knights guinevere` | 4 |
 | 3 | - | `jir added` | 4 |
 | 4 | - | `done taking` | 4 |
-| 5 | - | `crisp` | 4 |
-| 6 | - | `welcome back` | 7 |
-| 7 | - | `halloween costume` | 4 |
-| 8 | - | `ward` | 4 |
+| 5 | UP 1 | `welcome back` | 7 |
+| 6 | UP 1 | `halloween costume` | 4 |
+| 7 | UP 1 | `ward` | 4 |
+| 8 | UP 14 | `pillowfort` | 4 |
 | 9 | - | `heading bed nini` | 7 |
-| 10 | - | `good idea` | 6 |
-| 11 | - | `fall break` | 6 |
-| 12 | UP 1 | `every morning` | 3 |
-| 13 | UP 1 | `could eat` | 3 |
-| 14 | NEW | `like idk` | 3 |
-| 15 | - | `prof` | 3 |
-| 16 | NEW | `courses` | 3 |
-| 17 | UP 1 | `decorating` | 3 |
-| 18 | UP 1 | `spiral` | 3 |
-| 19 | UP 1 | `economy` | 3 |
-| 20 | UP 1 | `survival` | 3 |
-| 21 | UP 1 | `dresses` | 3 |
-| 22 | NEW | `pillowfort` | 3 |
-| 23 | - | `enjoyed` | 7 |
-| 24 | NEW | `costume` | 6 |
-| 25 | DOWN 1 | `two days` | 4 |
+| 10 | UP 1 | `fall break` | 6 |
+| 11 | UP 2 | `could eat` | 3 |
+| 12 | UP 2 | `like idk` | 3 |
+| 13 | DOWN 8 | `crisp` | 3 |
+| 14 | UP 2 | `courses` | 3 |
+| 15 | UP 2 | `decorating` | 3 |
+| 16 | UP 2 | `spiral` | 3 |
+| 17 | UP 2 | `economy` | 3 |
+| 18 | UP 2 | `survival` | 3 |
+| 19 | NEW | `browse` | 3 |
+| 20 | UP 1 | `dresses` | 3 |
+| 21 | UP 2 | `enjoyed` | 7 |
+| 22 | UP 3 | `two days` | 4 |
+| 23 | NEW | `burden` | 4 |
+| 24 | NEW | `four day weekend` | 2 |
+| 25 | NEW | `yet like` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
