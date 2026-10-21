@@ -81919,5 +81919,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-21T07:51:05.928170+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yay back",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "knights guinevere",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jir added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "done taking",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "welcome back",
+                "mentions": 7,
+                "change": "50.4x"
+            },
+            {
+                "ngram": "halloween costume",
+                "mentions": 4,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "ward",
+                "mentions": 4,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "pillowfort",
+                "mentions": 4,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "fall break",
+                "mentions": 6,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "could eat",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "like idk",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "crisp",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "courses",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "decorating",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "spiral",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "economy",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "survival",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "browse",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "dresses",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "heading bed nini",
+                "mentions": 6,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "costume",
+                "mentions": 6,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "burden",
+                "mentions": 4,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "every months",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "stop falling",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "every word",
+                "mentions": 2,
+                "change": "14.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.050142315504400806,
+            "positive_percent": 34.427894380501016,
+            "negative_percent": 26.066350710900476,
+            "neutral_percent": 39.50575490859851,
+            "most_positive_example": {
+                "text": "WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON!!!!!!",
+                "user": "ro_is_here",
+                "score": 0.9858
+            },
+            "most_negative_example": {
+                "text": "I hate having to share a fridge with a bunch of inconsiderate selfish assholes WHERE THE HELL IS MY BREAKFAST?!",
+                "user": "4str0n42t",
+                "score": -0.9579
+            }
+        },
+        "summary_message": null
     }
 ]
