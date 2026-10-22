@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-21 18:48 UTC*
+*Last Updated: 2026-10-22 07:46 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.048` 
-- **Distribution**: 34.2% Positive, 39.6% Neutral, 26.2% Negative
+- **Overall Mood Score**: `0.046` 
+- **Distribution**: 33.9% Positive, 39.8% Neutral, 26.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `yay back` | 5 |
-| 2 | - | `knights guinevere` | 4 |
-| 3 | - | `jir added` | 4 |
-| 4 | - | `done taking` | 4 |
-| 5 | - | `welcome back` | 7 |
+| 2 | UP 1 | `jir added` | 4 |
+| 3 | UP 1 | `done taking` | 4 |
+| 4 | UP 1 | `welcome back` | 7 |
+| 5 | UP 5 | `pillowfort` | 5 |
 | 6 | - | `halloween costume` | 4 |
 | 7 | - | `ward` | 4 |
-| 8 | UP 8 | `economy` | 4 |
-| 9 | UP 10 | `dresses` | 4 |
-| 10 | DOWN 2 | `pillowfort` | 4 |
-| 11 | DOWN 2 | `fall break` | 6 |
-| 12 | DOWN 2 | `could eat` | 3 |
-| 13 | DOWN 2 | `like idk` | 3 |
-| 14 | DOWN 2 | `crisp` | 3 |
-| 15 | DOWN 2 | `courses` | 3 |
-| 16 | DOWN 2 | `decorating` | 3 |
-| 17 | DOWN 2 | `spiral` | 3 |
-| 18 | DOWN 1 | `survival` | 3 |
-| 19 | DOWN 1 | `browse` | 3 |
-| 20 | - | `heading bed nini` | 6 |
-| 21 | - | `costume` | 6 |
-| 22 | - | `burden` | 4 |
-| 23 | - | `every months` | 2 |
-| 24 | - | `stop falling` | 2 |
-| 25 | - | `every word` | 2 |
+| 8 | UP 8 | `decorating` | 4 |
+| 9 | DOWN 1 | `economy` | 4 |
+| 10 | DOWN 1 | `dresses` | 4 |
+| 11 | - | `fall break` | 6 |
+| 12 | UP 1 | `like idk` | 3 |
+| 13 | UP 2 | `courses` | 3 |
+| 14 | UP 3 | `spiral` | 3 |
+| 15 | UP 3 | `survival` | 3 |
+| 16 | UP 3 | `browse` | 3 |
+| 17 | NEW | `tragic` | 3 |
+| 18 | NEW | `dressmaker` | 3 |
+| 19 | UP 2 | `costume` | 7 |
+| 20 | UP 2 | `burden` | 4 |
+| 21 | NEW | `knights guinevere episode` | 2 |
+| 22 | NEW | `happy international` | 2 |
+| 23 | NEW | `love women` | 2 |
+| 24 | NEW | `sitting riverside` | 2 |
+| 25 | NEW | `today already` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
