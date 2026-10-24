@@ -82948,5 +82948,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-24T17:31:53.181340+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yay back",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "chilli",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "welcome back",
+                "mentions": 7,
+                "change": "50.4x"
+            },
+            {
+                "ngram": "pillowfort",
+                "mentions": 5,
+                "change": "36.0x"
+            },
+            {
+                "ngram": "done taking",
+                "mentions": 4,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "dresses",
+                "mentions": 4,
+                "change": "28.8x"
+            },
+            {
+                "ngram": "fall break",
+                "mentions": 6,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "way long",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "sleepy tired",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "survival",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "osomatsu",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "browse",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "hood",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "tragic",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "dressmaker",
+                "mentions": 3,
+                "change": "21.6x"
+            },
+            {
+                "ngram": "vibecoded",
+                "mentions": 4,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "burden",
+                "mentions": 4,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "decorating",
+                "mentions": 4,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "heard life",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "sooooo much",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "people lives",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "wash hair",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "septum piercing",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "halloween spirit",
+                "mentions": 2,
+                "change": "14.4x"
+            },
+            {
+                "ngram": "important thing",
+                "mentions": 2,
+                "change": "14.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.03931958728010825,
+            "positive_percent": 33.28822733423545,
+            "negative_percent": 27.06359945872801,
+            "neutral_percent": 39.648173207036535,
+            "most_positive_example": {
+                "text": "WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON THE COMP WE WON!!!!!!",
+                "user": "ro_is_here",
+                "score": 0.9858
+            },
+            "most_negative_example": {
+                "text": "dealing with elderly parents who were already shitty parents prior to getting older is a hell i wouldn't wish on my worst enemies",
+                "user": "spacecowgirl",
+                "score": -0.9569
+            }
+        },
+        "summary_message": null
     }
 ]
