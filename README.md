@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-25 07:42 UTC*
+*Last Updated: 2026-10-25 17:45 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.037` 
-- **Distribution**: 32.9% Positive, 39.8% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.038` 
+- **Distribution**: 33.0% Positive, 39.6% Neutral, 27.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `chilli` | 4 |
 | 3 | - | `welcome back` | 7 |
 | 4 | - | `pillowfort` | 5 |
-| 5 | UP 7 | `browse` | 4 |
+| 5 | - | `browse` | 4 |
 | 6 | - | `dresses` | 4 |
-| 7 | UP 2 | `sleepy tired` | 3 |
-| 8 | UP 3 | `osomatsu` | 3 |
-| 9 | NEW | `skeleton` | 3 |
-| 10 | UP 3 | `hood` | 3 |
-| 11 | UP 3 | `tragic` | 3 |
-| 12 | UP 3 | `dressmaker` | 3 |
-| 13 | NEW | `aula` | 3 |
-| 14 | UP 2 | `vibecoded` | 4 |
-| 15 | UP 2 | `burden` | 4 |
-| 16 | UP 2 | `decorating` | 4 |
-| 17 | UP 5 | `wash hair` | 2 |
-| 18 | UP 5 | `septum piercing` | 2 |
-| 19 | UP 5 | `halloween spirit` | 2 |
-| 20 | UP 5 | `important thing` | 2 |
-| 21 | NEW | `right away` | 2 |
-| 22 | NEW | `later week` | 2 |
-| 23 | NEW | `holy peak` | 2 |
-| 24 | NEW | `fountain pen` | 2 |
-| 25 | NEW | `love way` | 2 |
+| 7 | - | `sleepy tired` | 3 |
+| 8 | NEW | `days god` | 3 |
+| 9 | DOWN 1 | `osomatsu` | 3 |
+| 10 | DOWN 1 | `skeleton` | 3 |
+| 11 | NEW | `cyberpunk` | 3 |
+| 12 | DOWN 2 | `hood` | 3 |
+| 13 | DOWN 2 | `tragic` | 3 |
+| 14 | DOWN 2 | `dressmaker` | 3 |
+| 15 | DOWN 2 | `aula` | 3 |
+| 16 | NEW | `love reading` | 4 |
+| 17 | DOWN 3 | `vibecoded` | 4 |
+| 18 | NEW | `lesson` | 4 |
+| 19 | DOWN 4 | `burden` | 4 |
+| 20 | DOWN 4 | `decorating` | 4 |
+| 21 | DOWN 4 | `wash hair` | 2 |
+| 22 | DOWN 4 | `septum piercing` | 2 |
+| 23 | DOWN 2 | `right away` | 2 |
+| 24 | DOWN 2 | `later week` | 2 |
+| 25 | DOWN 2 | `holy peak` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 

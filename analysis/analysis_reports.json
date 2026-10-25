@@ -83242,5 +83242,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-25T17:45:27.499678+00:00",
+        "hot_topics": [
+            {
+                "ngram": "yay back",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "chilli",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "welcome back",
+                "mentions": 7,
+                "change": "50.9x"
+            },
+            {
+                "ngram": "pillowfort",
+                "mentions": 5,
+                "change": "36.3x"
+            },
+            {
+                "ngram": "browse",
+                "mentions": 4,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "dresses",
+                "mentions": 4,
+                "change": "29.1x"
+            },
+            {
+                "ngram": "sleepy tired",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "days god",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "osomatsu",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "skeleton",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "cyberpunk",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "hood",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "tragic",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "dressmaker",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "aula",
+                "mentions": 3,
+                "change": "21.8x"
+            },
+            {
+                "ngram": "love reading",
+                "mentions": 4,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "vibecoded",
+                "mentions": 4,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "lesson",
+                "mentions": 4,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "burden",
+                "mentions": 4,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "decorating",
+                "mentions": 4,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "wash hair",
+                "mentions": 2,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "septum piercing",
+                "mentions": 2,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "right away",
+                "mentions": 2,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "later week",
+                "mentions": 2,
+                "change": "14.5x"
+            },
+            {
+                "ngram": "holy peak",
+                "mentions": 2,
+                "change": "14.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.03758011596180082,
+            "positive_percent": 33.049113233287855,
+            "negative_percent": 27.31923601637108,
+            "neutral_percent": 39.631650750341066,
+            "most_positive_example": {
+                "text": "had a pretty good day back to class! won an award in class, too! feeling pretty great!",
+                "user": "nogginzmart",
+                "score": 0.9718
+            },
+            "most_negative_example": {
+                "text": "dealing with elderly parents who were already shitty parents prior to getting older is a hell i wouldn't wish on my worst enemies",
+                "user": "spacecowgirl",
+                "score": -0.9569
+            }
+        },
+        "summary_message": null
     }
 ]
