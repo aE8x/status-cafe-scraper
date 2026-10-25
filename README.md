@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-24 17:31 UTC*
+*Last Updated: 2026-10-25 07:42 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.039` 
-- **Distribution**: 33.3% Positive, 39.6% Neutral, 27.1% Negative
+- **Overall Mood Score**: `0.037` 
+- **Distribution**: 32.9% Positive, 39.8% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -21,27 +21,27 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 2 | - | `chilli` | 4 |
 | 3 | - | `welcome back` | 7 |
 | 4 | - | `pillowfort` | 5 |
-| 5 | - | `done taking` | 4 |
+| 5 | UP 7 | `browse` | 4 |
 | 6 | - | `dresses` | 4 |
-| 7 | - | `fall break` | 6 |
-| 8 | - | `way long` | 3 |
-| 9 | - | `sleepy tired` | 3 |
-| 10 | - | `survival` | 3 |
-| 11 | - | `osomatsu` | 3 |
-| 12 | - | `browse` | 3 |
-| 13 | - | `hood` | 3 |
-| 14 | - | `tragic` | 3 |
-| 15 | - | `dressmaker` | 3 |
-| 16 | NEW | `vibecoded` | 4 |
-| 17 | DOWN 1 | `burden` | 4 |
-| 18 | DOWN 1 | `decorating` | 4 |
-| 19 | UP 4 | `heard life` | 2 |
-| 20 | UP 4 | `sooooo much` | 2 |
-| 21 | UP 4 | `people lives` | 2 |
-| 22 | NEW | `wash hair` | 2 |
-| 23 | NEW | `septum piercing` | 2 |
-| 24 | NEW | `halloween spirit` | 2 |
-| 25 | NEW | `important thing` | 2 |
+| 7 | UP 2 | `sleepy tired` | 3 |
+| 8 | UP 3 | `osomatsu` | 3 |
+| 9 | NEW | `skeleton` | 3 |
+| 10 | UP 3 | `hood` | 3 |
+| 11 | UP 3 | `tragic` | 3 |
+| 12 | UP 3 | `dressmaker` | 3 |
+| 13 | NEW | `aula` | 3 |
+| 14 | UP 2 | `vibecoded` | 4 |
+| 15 | UP 2 | `burden` | 4 |
+| 16 | UP 2 | `decorating` | 4 |
+| 17 | UP 5 | `wash hair` | 2 |
+| 18 | UP 5 | `septum piercing` | 2 |
+| 19 | UP 5 | `halloween spirit` | 2 |
+| 20 | UP 5 | `important thing` | 2 |
+| 21 | NEW | `right away` | 2 |
+| 22 | NEW | `later week` | 2 |
+| 23 | NEW | `holy peak` | 2 |
+| 24 | NEW | `fountain pen` | 2 |
+| 25 | NEW | `love way` | 2 |
 
 <!-- END_ANALYSIS_SECTION -->
 
