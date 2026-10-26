@@ -83536,5 +83536,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-26T20:03:15.638842+00:00",
+        "hot_topics": [
+            {
+                "ngram": "lula",
+                "mentions": 11,
+                "change": "NEW"
+            },
+            {
+                "ngram": "yay back",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days god coming",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "chilli",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "welcome back",
+                "mentions": 7,
+                "change": "48.9x"
+            },
+            {
+                "ngram": "pillowfort",
+                "mentions": 5,
+                "change": "34.9x"
+            },
+            {
+                "ngram": "love reading",
+                "mentions": 4,
+                "change": "28.0x"
+            },
+            {
+                "ngram": "dresses",
+                "mentions": 4,
+                "change": "28.0x"
+            },
+            {
+                "ngram": "dressmaker",
+                "mentions": 4,
+                "change": "28.0x"
+            },
+            {
+                "ngram": "damn time",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "days without",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "skeleton",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "cyberpunk",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "bts",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "hood",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "tragic",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "karamatsu",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "aula",
+                "mentions": 3,
+                "change": "21.0x"
+            },
+            {
+                "ngram": "vibecoded",
+                "mentions": 4,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "lesson",
+                "mentions": 4,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "burden",
+                "mentions": 4,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "decorating",
+                "mentions": 4,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "holy peak",
+                "mentions": 2,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "fountain pen",
+                "mentions": 2,
+                "change": "14.0x"
+            },
+            {
+                "ngram": "love way",
+                "mentions": 2,
+                "change": "14.0x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.040456935270805815,
+            "positive_percent": 33.02509907529723,
+            "negative_percent": 26.948480845442536,
+            "neutral_percent": 40.02642007926024,
+            "most_positive_example": {
+                "text": "i love love love love osomatsu, karamatsu & choukeimatsu sooooooooo much I will learn to love this new home",
+                "user": "ctrl64",
+                "score": 0.9719
+            },
+            "most_negative_example": {
+                "text": "i hate dental pain i hate dental pain i hate dental pain i hate dental pain i",
+                "user": "extranilla",
+                "score": -0.9818
+            }
+        },
+        "summary_message": null
     }
 ]
