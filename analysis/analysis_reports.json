@@ -84565,5 +84565,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-10-30T08:47:56.630706+00:00",
+        "hot_topics": [
+            {
+                "ngram": "lula",
+                "mentions": 12,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days god coming",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "wildwood",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "pillowfort",
+                "mentions": 5,
+                "change": "34.4x"
+            },
+            {
+                "ngram": "aula",
+                "mentions": 5,
+                "change": "34.4x"
+            },
+            {
+                "ngram": "love reading",
+                "mentions": 4,
+                "change": "27.5x"
+            },
+            {
+                "ngram": "dressmaker",
+                "mentions": 4,
+                "change": "27.5x"
+            },
+            {
+                "ngram": "chilli",
+                "mentions": 4,
+                "change": "27.5x"
+            },
+            {
+                "ngram": "karamatsu",
+                "mentions": 4,
+                "change": "27.5x"
+            },
+            {
+                "ngram": "days without",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "like first",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "digital art",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "bts",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "hood",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "recode",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "tragic",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "mans",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "standard",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "timeeee",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "merda",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "shambles",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "nathan",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "heartache",
+                "mentions": 3,
+                "change": "20.6x"
+            },
+            {
+                "ngram": "dresses",
+                "mentions": 4,
+                "change": "13.7x"
+            },
+            {
+                "ngram": "model",
+                "mentions": 4,
+                "change": "13.7x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04076582980110858,
+            "positive_percent": 33.35507010107597,
+            "negative_percent": 26.57319856537333,
+            "neutral_percent": 40.0717313335507,
+            "most_positive_example": {
+                "text": "life is pain and everything but at least i married my high school sweetheart so there's that (: LOVE WINS",
+                "user": "rawpickles",
+                "score": 0.9789
+            },
+            "most_negative_example": {
+                "text": "i hate dental pain i hate dental pain i hate dental pain i hate dental pain i",
+                "user": "extranilla",
+                "score": -0.9818
+            }
+        },
+        "summary_message": null
     }
 ]
