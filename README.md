@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-30 19:34 UTC*
+*Last Updated: 2026-10-31 08:35 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.040` 
-- **Distribution**: 33.2% Positive, 40.3% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.044` 
+- **Distribution**: 33.7% Positive, 39.8% Neutral, 26.5% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `lula` | 12 |
 | 2 | - | `days god coming` | 4 |
-| 3 | NEW | `patrick stewart` | 4 |
-| 4 | DOWN 1 | `wildwood` | 4 |
-| 5 | - | `aula` | 6 |
-| 6 | DOWN 2 | `pillowfort` | 5 |
-| 7 | DOWN 1 | `love reading` | 4 |
-| 8 | DOWN 1 | `dressmaker` | 4 |
-| 9 | DOWN 1 | `chilli` | 4 |
-| 10 | DOWN 1 | `karamatsu` | 4 |
-| 11 | NEW | `happy halloween` | 6 |
-| 12 | DOWN 1 | `like first` | 3 |
-| 13 | DOWN 1 | `digital art` | 3 |
-| 14 | - | `hood` | 3 |
-| 15 | - | `recode` | 3 |
-| 16 | - | `tragic` | 3 |
-| 17 | - | `mans` | 3 |
-| 18 | NEW | `extended` | 3 |
-| 19 | DOWN 1 | `standard` | 3 |
-| 20 | DOWN 1 | `timeeee` | 3 |
-| 21 | DOWN 1 | `merda` | 3 |
-| 22 | DOWN 1 | `shambles` | 3 |
-| 23 | NEW | `ughhhh` | 3 |
-| 24 | DOWN 2 | `nathan` | 3 |
-| 25 | DOWN 2 | `heartache` | 3 |
+| 3 | - | `patrick stewart` | 4 |
+| 4 | NEW | `rising` | 4 |
+| 5 | DOWN 1 | `wildwood` | 4 |
+| 6 | NEW | `halloweekend` | 4 |
+| 7 | UP 4 | `happy halloween` | 14 |
+| 8 | DOWN 3 | `aula` | 6 |
+| 9 | DOWN 3 | `pillowfort` | 5 |
+| 10 | DOWN 3 | `love reading` | 4 |
+| 11 | DOWN 3 | `dressmaker` | 4 |
+| 12 | DOWN 3 | `chilli` | 4 |
+| 13 | DOWN 3 | `karamatsu` | 4 |
+| 14 | UP 1 | `recode` | 3 |
+| 15 | UP 1 | `tragic` | 3 |
+| 16 | NEW | `ren` | 3 |
+| 17 | NEW | `jeff` | 3 |
+| 18 | DOWN 1 | `mans` | 3 |
+| 19 | DOWN 1 | `extended` | 3 |
+| 20 | DOWN 1 | `standard` | 3 |
+| 21 | NEW | `developed` | 3 |
+| 22 | DOWN 2 | `timeeee` | 3 |
+| 23 | DOWN 2 | `merda` | 3 |
+| 24 | DOWN 2 | `shambles` | 3 |
+| 25 | DOWN 2 | `ughhhh` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
