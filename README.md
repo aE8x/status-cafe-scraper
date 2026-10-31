@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-31 08:35 UTC*
+*Last Updated: 2026-10-31 18:41 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.044` 
-- **Distribution**: 33.7% Positive, 39.8% Neutral, 26.5% Negative
+- **Overall Mood Score**: `0.049` 
+- **Distribution**: 34.3% Positive, 39.7% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -20,28 +20,28 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 1 | - | `lula` | 12 |
 | 2 | - | `days god coming` | 4 |
 | 3 | - | `patrick stewart` | 4 |
-| 4 | NEW | `rising` | 4 |
-| 5 | DOWN 1 | `wildwood` | 4 |
-| 6 | NEW | `halloweekend` | 4 |
-| 7 | UP 4 | `happy halloween` | 14 |
-| 8 | DOWN 3 | `aula` | 6 |
-| 9 | DOWN 3 | `pillowfort` | 5 |
-| 10 | DOWN 3 | `love reading` | 4 |
-| 11 | DOWN 3 | `dressmaker` | 4 |
-| 12 | DOWN 3 | `chilli` | 4 |
-| 13 | DOWN 3 | `karamatsu` | 4 |
-| 14 | UP 1 | `recode` | 3 |
-| 15 | UP 1 | `tragic` | 3 |
-| 16 | NEW | `ren` | 3 |
-| 17 | NEW | `jeff` | 3 |
-| 18 | DOWN 1 | `mans` | 3 |
-| 19 | DOWN 1 | `extended` | 3 |
-| 20 | DOWN 1 | `standard` | 3 |
-| 21 | NEW | `developed` | 3 |
-| 22 | DOWN 2 | `timeeee` | 3 |
-| 23 | DOWN 2 | `merda` | 3 |
-| 24 | DOWN 2 | `shambles` | 3 |
-| 25 | DOWN 2 | `ughhhh` | 3 |
+| 4 | - | `rising` | 4 |
+| 5 | - | `wildwood` | 4 |
+| 6 | - | `halloweekend` | 4 |
+| 7 | - | `happy halloween` | 40 |
+| 8 | - | `aula` | 6 |
+| 9 | - | `pillowfort` | 5 |
+| 10 | - | `love reading` | 4 |
+| 11 | - | `dressmaker` | 4 |
+| 12 | - | `chilli` | 4 |
+| 13 | - | `karamatsu` | 4 |
+| 14 | - | `recode` | 3 |
+| 15 | - | `tragic` | 3 |
+| 16 | - | `ren` | 3 |
+| 17 | - | `jeff` | 3 |
+| 18 | - | `mans` | 3 |
+| 19 | NEW | `unapologetically` | 3 |
+| 20 | NEW | `pair` | 3 |
+| 21 | DOWN 2 | `extended` | 3 |
+| 22 | DOWN 2 | `standard` | 3 |
+| 23 | DOWN 2 | `developed` | 3 |
+| 24 | DOWN 2 | `timeeee` | 3 |
+| 25 | DOWN 2 | `merda` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
