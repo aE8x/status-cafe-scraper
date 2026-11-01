@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-10-31 18:41 UTC*
+*Last Updated: 2026-11-01 09:26 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.049` 
-- **Distribution**: 34.3% Positive, 39.7% Neutral, 26.0% Negative
+- **Overall Mood Score**: `0.052` 
+- **Distribution**: 34.8% Positive, 39.2% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `lula` | 12 |
-| 2 | - | `days god coming` | 4 |
-| 3 | - | `patrick stewart` | 4 |
-| 4 | - | `rising` | 4 |
-| 5 | - | `wildwood` | 4 |
-| 6 | - | `halloweekend` | 4 |
-| 7 | - | `happy halloween` | 40 |
-| 8 | - | `aula` | 6 |
-| 9 | - | `pillowfort` | 5 |
-| 10 | - | `love reading` | 4 |
-| 11 | - | `dressmaker` | 4 |
+| 1 | - | `lula` | 13 |
+| 2 | NEW | `happy halloween everyone` | 5 |
+| 3 | DOWN 1 | `days god coming` | 4 |
+| 4 | DOWN 1 | `patrick stewart` | 4 |
+| 5 | DOWN 1 | `rising` | 4 |
+| 6 | DOWN 1 | `wildwood` | 4 |
+| 7 | DOWN 1 | `halloweekend` | 4 |
+| 8 | DOWN 1 | `happy halloween` | 58 |
+| 9 | DOWN 1 | `aula` | 6 |
+| 10 | DOWN 1 | `pillowfort` | 5 |
+| 11 | DOWN 1 | `love reading` | 4 |
 | 12 | - | `chilli` | 4 |
 | 13 | - | `karamatsu` | 4 |
-| 14 | - | `recode` | 3 |
-| 15 | - | `tragic` | 3 |
-| 16 | - | `ren` | 3 |
-| 17 | - | `jeff` | 3 |
-| 18 | - | `mans` | 3 |
-| 19 | NEW | `unapologetically` | 3 |
-| 20 | NEW | `pair` | 3 |
-| 21 | DOWN 2 | `extended` | 3 |
-| 22 | DOWN 2 | `standard` | 3 |
-| 23 | DOWN 2 | `developed` | 3 |
-| 24 | DOWN 2 | `timeeee` | 3 |
-| 25 | DOWN 2 | `merda` | 3 |
+| 14 | NEW | `ween` | 6 |
+| 15 | UP 1 | `ren` | 3 |
+| 16 | UP 1 | `jeff` | 3 |
+| 17 | UP 1 | `mans` | 3 |
+| 18 | UP 1 | `unapologetically` | 3 |
+| 19 | UP 1 | `pair` | 3 |
+| 20 | UP 1 | `extended` | 3 |
+| 21 | NEW | `hmmmmmm` | 3 |
+| 22 | - | `standard` | 3 |
+| 23 | - | `developed` | 3 |
+| 24 | - | `timeeee` | 3 |
+| 25 | - | `merda` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
