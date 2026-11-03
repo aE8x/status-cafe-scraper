@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-03 09:45 UTC*
+*Last Updated: 2026-11-03 20:34 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.053` 
-- **Distribution**: 34.8% Positive, 39.2% Neutral, 26.1% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 34.9% Positive, 39.2% Neutral, 26.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `happy halloween everyone` | 5 |
-| 2 | UP 1 | `wildwood` | 5 |
-| 3 | UP 1 | `days god coming` | 4 |
-| 4 | UP 1 | `patrick stewart` | 4 |
-| 5 | UP 1 | `trick treating` | 4 |
-| 6 | UP 1 | `halloweekend` | 4 |
-| 7 | UP 1 | `happy halloween` | 59 |
-| 8 | UP 1 | `lula` | 12 |
-| 9 | UP 1 | `model` | 6 |
-| 10 | UP 1 | `aula` | 6 |
-| 11 | UP 1 | `chilli` | 4 |
-| 12 | UP 1 | `karamatsu` | 4 |
-| 13 | NEW | `november` | 12 |
+| 2 | - | `wildwood` | 5 |
+| 3 | - | `days god coming` | 4 |
+| 4 | - | `patrick stewart` | 4 |
+| 5 | NEW | `happy november` | 4 |
+| 6 | DOWN 1 | `trick treating` | 4 |
+| 7 | DOWN 1 | `halloweekend` | 4 |
+| 8 | DOWN 1 | `happy halloween` | 59 |
+| 9 | DOWN 1 | `lula` | 12 |
+| 10 | - | `aula` | 7 |
+| 11 | NEW | `voted` | 6 |
+| 12 | - | `karamatsu` | 4 |
+| 13 | - | `november` | 13 |
 | 14 | - | `ween` | 6 |
-| 15 | - | `maybe even` | 3 |
+| 15 | NEW | `wayback machine` | 3 |
 | 16 | - | `big day` | 3 |
-| 17 | - | `use time` | 3 |
-| 18 | UP 1 | `standard` | 3 |
-| 19 | UP 1 | `rising` | 3 |
-| 20 | UP 1 | `domingo` | 3 |
-| 21 | UP 1 | `developed` | 3 |
-| 22 | UP 1 | `timeeee` | 3 |
-| 23 | UP 1 | `merda` | 3 |
-| 24 | UP 1 | `shambles` | 3 |
-| 25 | NEW | `ughhhh` | 3 |
+| 17 | NEW | `woke early` | 3 |
+| 18 | NEW | `something else` | 3 |
+| 19 | DOWN 2 | `use time` | 3 |
+| 20 | DOWN 2 | `standard` | 3 |
+| 21 | DOWN 2 | `rising` | 3 |
+| 22 | DOWN 2 | `domingo` | 3 |
+| 23 | DOWN 2 | `developed` | 3 |
+| 24 | NEW | `police` | 3 |
+| 25 | DOWN 3 | `timeeee` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

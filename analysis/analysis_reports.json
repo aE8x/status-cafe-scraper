@@ -85888,5 +85888,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-03T20:34:05.882703+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy halloween everyone",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "wildwood",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "days god coming",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "patrick stewart",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy november",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "trick treating",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "halloweekend",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy halloween",
+                "mentions": 59,
+                "change": "192.9x"
+            },
+            {
+                "ngram": "lula",
+                "mentions": 12,
+                "change": "78.4x"
+            },
+            {
+                "ngram": "aula",
+                "mentions": 7,
+                "change": "45.8x"
+            },
+            {
+                "ngram": "voted",
+                "mentions": 6,
+                "change": "39.2x"
+            },
+            {
+                "ngram": "karamatsu",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "november",
+                "mentions": 13,
+                "change": "21.2x"
+            },
+            {
+                "ngram": "ween",
+                "mentions": 6,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "wayback machine",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "big day",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "woke early",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "something else",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "use time",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "standard",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "rising",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "domingo",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "developed",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "police",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "timeeee",
+                "mentions": 3,
+                "change": "19.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05379918826100531,
+            "positive_percent": 34.87355604121136,
+            "negative_percent": 25.975647830159225,
+            "neutral_percent": 39.15079612862941,
+            "most_positive_example": {
+                "text": "love the cold, love reading, love journaling, love my cat, love bookshops, love plants, love art, love love...",
+                "user": "scenemime",
+                "score": 0.9887
+            },
+            "most_negative_example": {
+                "text": "i hate dental pain i hate dental pain i hate dental pain i hate dental pain i",
+                "user": "extranilla",
+                "score": -0.9818
+            }
+        },
+        "summary_message": null
     }
 ]
