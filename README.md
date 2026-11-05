@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-04 20:53 UTC*
+*Last Updated: 2026-11-05 09:40 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.061` 
-- **Distribution**: 35.5% Positive, 38.9% Neutral, 25.6% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 36.0% Positive, 38.7% Neutral, 25.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `election` | 7 |
+| 1 | - | `election` | 8 |
 | 2 | - | `happy halloween everyone` | 5 |
 | 3 | - | `wildwood` | 5 |
 | 4 | - | `days god coming` | 4 |
-| 5 | - | `patrick stewart` | 4 |
-| 6 | - | `happy november` | 4 |
-| 7 | - | `trick treating` | 4 |
-| 8 | UP 5 | `karamatsu` | 4 |
-| 9 | DOWN 1 | `halloweekend` | 4 |
-| 10 | NEW | `blexas` | 4 |
-| 11 | DOWN 2 | `happy halloween` | 59 |
-| 12 | DOWN 2 | `lula` | 12 |
-| 13 | DOWN 2 | `voted` | 11 |
-| 14 | DOWN 2 | `aula` | 7 |
-| 15 | DOWN 1 | `politics` | 4 |
-| 16 | DOWN 1 | `november` | 15 |
-| 17 | DOWN 1 | `ween` | 6 |
-| 18 | DOWN 1 | `wayback machine` | 3 |
-| 19 | DOWN 1 | `big day` | 3 |
-| 20 | DOWN 1 | `woke early` | 3 |
-| 21 | DOWN 1 | `something else` | 3 |
-| 22 | DOWN 1 | `use time` | 3 |
-| 23 | - | `rising` | 3 |
-| 24 | - | `domingo` | 3 |
-| 25 | - | `developed` | 3 |
+| 5 | NEW | `election day` | 4 |
+| 6 | DOWN 1 | `patrick stewart` | 4 |
+| 7 | DOWN 1 | `happy november` | 4 |
+| 8 | DOWN 1 | `trick treating` | 4 |
+| 9 | NEW | `project added` | 4 |
+| 10 | DOWN 1 | `halloweekend` | 4 |
+| 11 | DOWN 1 | `blexas` | 4 |
+| 12 | DOWN 1 | `happy halloween` | 59 |
+| 13 | DOWN 1 | `lula` | 12 |
+| 14 | DOWN 1 | `voted` | 11 |
+| 15 | DOWN 1 | `aula` | 7 |
+| 16 | DOWN 1 | `politics` | 4 |
+| 17 | DOWN 1 | `november` | 15 |
+| 18 | DOWN 1 | `ween` | 6 |
+| 19 | UP 1 | `woke early` | 3 |
+| 20 | UP 1 | `something else` | 3 |
+| 21 | UP 1 | `use time` | 3 |
+| 22 | NEW | `close friends` | 3 |
+| 23 | UP 1 | `domingo` | 3 |
+| 24 | UP 1 | `developed` | 3 |
+| 25 | NEW | `police` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
