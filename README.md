@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-07 18:59 UTC*
+*Last Updated: 2026-11-08 11:21 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.068` 
-- **Distribution**: 36.1% Positive, 39.3% Neutral, 24.6% Negative
+- **Overall Mood Score**: `0.065` 
+- **Distribution**: 35.9% Positive, 39.1% Neutral, 25.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `election` | 8 |
+| 1 | UP 2 | `project added` | 7 |
 | 2 | - | `day day internship` | 6 |
-| 3 | - | `project added` | 6 |
-| 4 | NEW | `jir project added` | 4 |
-| 5 | DOWN 1 | `election day` | 4 |
-| 6 | DOWN 1 | `patrick stewart` | 4 |
-| 7 | DOWN 1 | `happy november` | 4 |
-| 8 | DOWN 1 | `trick treating` | 4 |
-| 9 | DOWN 1 | `blexas` | 4 |
-| 10 | DOWN 1 | `happy halloween` | 58 |
-| 11 | DOWN 1 | `lula` | 12 |
-| 12 | DOWN 1 | `voted` | 11 |
-| 13 | DOWN 1 | `november` | 20 |
-| 14 | UP 2 | `day day` | 8 |
-| 15 | DOWN 2 | `happy halloween everyone` | 4 |
-| 16 | UP 6 | `ocarina time` | 4 |
-| 17 | DOWN 3 | `wildwood` | 4 |
-| 18 | DOWN 3 | `politics` | 4 |
-| 19 | NEW | `candy` | 7 |
-| 20 | DOWN 3 | `ween` | 6 |
-| 21 | DOWN 3 | `tabs open` | 3 |
-| 22 | DOWN 3 | `woke early` | 3 |
-| 23 | DOWN 3 | `something else` | 3 |
-| 24 | DOWN 3 | `bash head` | 3 |
-| 25 | DOWN 2 | `use time` | 3 |
+| 3 | UP 1 | `jir project added` | 4 |
+| 4 | UP 2 | `patrick stewart` | 4 |
+| 5 | UP 2 | `happy november` | 4 |
+| 6 | UP 2 | `trick treating` | 4 |
+| 7 | NEW | `shuichi` | 4 |
+| 8 | UP 1 | `blexas` | 4 |
+| 9 | UP 1 | `happy halloween` | 58 |
+| 10 | UP 2 | `voted` | 11 |
+| 11 | DOWN 10 | `election` | 7 |
+| 12 | UP 1 | `november` | 20 |
+| 13 | UP 1 | `day day` | 8 |
+| 14 | UP 1 | `happy halloween everyone` | 4 |
+| 15 | UP 1 | `ocarina time` | 4 |
+| 16 | UP 2 | `politics` | 4 |
+| 17 | NEW | `nyt` | 4 |
+| 18 | UP 1 | `candy` | 7 |
+| 19 | DOWN 8 | `lula` | 10 |
+| 20 | - | `ween` | 6 |
+| 21 | UP 1 | `woke early` | 3 |
+| 22 | UP 2 | `bash head` | 3 |
+| 23 | UP 2 | `use time` | 3 |
+| 24 | NEW | `per usual` | 3 |
+| 25 | NEW | `close friends` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
