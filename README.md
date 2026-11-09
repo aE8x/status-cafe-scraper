@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-08 18:56 UTC*
+*Last Updated: 2026-11-09 09:58 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.064` 
-- **Distribution**: 35.7% Positive, 39.2% Neutral, 25.0% Negative
+- **Overall Mood Score**: `0.061` 
+- **Distribution**: 35.4% Positive, 39.4% Neutral, 25.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -27,21 +27,21 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 8 | - | `blexas` | 4 |
 | 9 | - | `happy halloween` | 58 |
 | 10 | - | `voted` | 11 |
-| 11 | - | `election` | 7 |
-| 12 | - | `november` | 21 |
-| 13 | - | `day day` | 8 |
-| 14 | - | `happy halloween everyone` | 4 |
-| 15 | - | `ocarina time` | 4 |
-| 16 | - | `politics` | 4 |
-| 17 | - | `nyt` | 4 |
-| 18 | NEW | `ycon` | 4 |
-| 19 | DOWN 1 | `candy` | 7 |
-| 20 | DOWN 1 | `lula` | 10 |
-| 21 | DOWN 1 | `ween` | 6 |
-| 22 | DOWN 1 | `woke early` | 3 |
-| 23 | DOWN 1 | `bash head` | 3 |
-| 24 | DOWN 1 | `use time` | 3 |
-| 25 | DOWN 1 | `per usual` | 3 |
+| 11 | UP 1 | `november` | 22 |
+| 12 | UP 1 | `day day` | 8 |
+| 13 | UP 1 | `happy halloween everyone` | 4 |
+| 14 | UP 1 | `ocarina time` | 4 |
+| 15 | UP 1 | `politics` | 4 |
+| 16 | UP 1 | `nyt` | 4 |
+| 17 | UP 1 | `ycon` | 4 |
+| 18 | UP 1 | `candy` | 7 |
+| 19 | UP 2 | `ween` | 6 |
+| 20 | DOWN 9 | `election` | 6 |
+| 21 | UP 1 | `woke early` | 3 |
+| 22 | UP 1 | `bash head` | 3 |
+| 23 | UP 1 | `use time` | 3 |
+| 24 | UP 1 | `per usual` | 3 |
+| 25 | NEW | `close friends` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
