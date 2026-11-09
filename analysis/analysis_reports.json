@@ -87652,5 +87652,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-09T23:30:36.372984+00:00",
+        "hot_topics": [
+            {
+                "ngram": "project added",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day day internship",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jir project added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "patrick stewart",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy november",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "trick treating",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "shuichi",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blexas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy halloween",
+                "mentions": 58,
+                "change": "124.1x"
+            },
+            {
+                "ngram": "voted",
+                "mentions": 11,
+                "change": "70.6x"
+            },
+            {
+                "ngram": "november",
+                "mentions": 22,
+                "change": "35.3x"
+            },
+            {
+                "ngram": "fall boy",
+                "mentions": 5,
+                "change": "32.1x"
+            },
+            {
+                "ngram": "day day",
+                "mentions": 8,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "texas",
+                "mentions": 8,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "happy halloween everyone",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "ocarina time",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "politics",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "nyt",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "ycon",
+                "mentions": 4,
+                "change": "25.7x"
+            },
+            {
+                "ngram": "candy",
+                "mentions": 7,
+                "change": "22.5x"
+            },
+            {
+                "ngram": "ween",
+                "mentions": 6,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "election",
+                "mentions": 6,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "woke early",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "bash head",
+                "mentions": 3,
+                "change": "19.3x"
+            },
+            {
+                "ngram": "use time",
+                "mentions": 3,
+                "change": "19.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.060376236093943145,
+            "positive_percent": 35.630407911001235,
+            "negative_percent": 25.401730531520393,
+            "neutral_percent": 38.967861557478365,
+            "most_positive_example": {
+                "text": "love the cold, love reading, love journaling, love my cat, love bookshops, love plants, love art, love love...",
+                "user": "scenemime",
+                "score": 0.9887
+            },
+            "most_negative_example": {
+                "text": "need some crazy freak accident to happen on the way home from school today cause like hell am I killing myself bro🤞 no smbdy do it for me",
+                "user": "starbits",
+                "score": -0.9524
+            }
+        },
+        "summary_message": null
     }
 ]
