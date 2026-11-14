@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-13 20:57 UTC*
+*Last Updated: 2026-11-14 09:08 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.059` 
-- **Distribution**: 35.2% Positive, 38.6% Neutral, 26.1% Negative
+- **Overall Mood Score**: `0.054` 
+- **Distribution**: 34.7% Positive, 38.9% Neutral, 26.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -26,22 +26,22 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 7 | - | `happy november` | 4 |
 | 8 | - | `trick treating` | 4 |
 | 9 | - | `shuichi` | 4 |
-| 10 | - | `blexas` | 4 |
-| 11 | UP 1 | `fall boy` | 8 |
-| 12 | DOWN 1 | `happy halloween` | 53 |
-| 13 | - | `november` | 27 |
-| 14 | - | `voted` | 10 |
+| 10 | NEW | `oon` | 4 |
+| 11 | DOWN 1 | `blexas` | 4 |
+| 12 | NEW | `gummy` | 4 |
+| 13 | DOWN 2 | `fall boy` | 8 |
+| 14 | DOWN 1 | `november` | 28 |
 | 15 | - | `dissociative` | 5 |
-| 16 | - | `day day` | 8 |
-| 17 | - | `texas` | 8 |
-| 18 | - | `happy halloween everyone` | 4 |
-| 19 | - | `fucking shit` | 4 |
-| 20 | UP 1 | `ycon` | 4 |
-| 21 | UP 1 | `clicker` | 4 |
-| 22 | UP 1 | `ween` | 6 |
-| 23 | UP 1 | `candy` | 6 |
-| 24 | UP 1 | `election` | 6 |
-| 25 | NEW | `per usual` | 3 |
+| 16 | UP 1 | `texas` | 9 |
+| 17 | DOWN 1 | `day day` | 8 |
+| 18 | UP 1 | `fucking shit` | 4 |
+| 19 | UP 1 | `ycon` | 4 |
+| 20 | UP 1 | `clicker` | 4 |
+| 21 | DOWN 7 | `voted` | 9 |
+| 22 | UP 2 | `election` | 6 |
+| 23 | UP 2 | `per usual` | 3 |
+| 24 | NEW | `close friends` | 3 |
+| 25 | NEW | `awareness month` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

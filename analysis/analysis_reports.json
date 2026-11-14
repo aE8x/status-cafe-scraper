@@ -88975,5 +88975,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-14T09:08:39.350962+00:00",
+        "hot_topics": [
+            {
+                "ngram": "project added",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "day day internship",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "jir project added",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new fall boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "happy november",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "trick treating",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "shuichi",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blexas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fall boy",
+                "mentions": 8,
+                "change": "52.7x"
+            },
+            {
+                "ngram": "november",
+                "mentions": 28,
+                "change": "36.9x"
+            },
+            {
+                "ngram": "dissociative",
+                "mentions": 5,
+                "change": "33.0x"
+            },
+            {
+                "ngram": "texas",
+                "mentions": 9,
+                "change": "29.7x"
+            },
+            {
+                "ngram": "day day",
+                "mentions": 8,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "fucking shit",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "ycon",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "clicker",
+                "mentions": 4,
+                "change": "26.4x"
+            },
+            {
+                "ngram": "voted",
+                "mentions": 9,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "election",
+                "mentions": 6,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "per usual",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "close friends",
+                "mentions": 3,
+                "change": "19.8x"
+            },
+            {
+                "ngram": "awareness month",
+                "mentions": 3,
+                "change": "19.8x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.05411140490602103,
+            "positive_percent": 34.69257725390252,
+            "negative_percent": 26.377827333545717,
+            "neutral_percent": 38.92959541255177,
+            "most_positive_example": {
+                "text": "love the cold, love reading, love journaling, love my cat, love bookshops, love plants, love art, love love...",
+                "user": "scenemime",
+                "score": 0.9887
+            },
+            "most_negative_example": {
+                "text": "listen i dont normally swear you can look at all my previous statuses not a single bad word but genuinely FUCK YOU AUDACITY i just lost 86 TRACKS of IMPORTANT AUDIO because YOUR SHITTY RECOVERY SYSTEM DELETED MY FUCKING FILE AFTER CRASHING AFTER GIVING ME A GLIMMER OF HOPE BY SHOWING ME IT AFTER MY PC BLUESCREENED. i thought that i MAYBE found my files but NOPE those were FAKE FILES that were AUTOCREATED. seriously fuck you audacity im gonna have to redo ALL OF THAT YOU PIECE OF FUCKING SHIT",
+                "user": "rickgottaken",
+                "score": -0.9513
+            }
+        },
+        "summary_message": null
     }
 ]
