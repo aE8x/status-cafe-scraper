@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-14 09:08 UTC*
+*Last Updated: 2026-11-14 19:22 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.054` 
-- **Distribution**: 34.7% Positive, 38.9% Neutral, 26.4% Negative
+- **Overall Mood Score**: `0.048` 
+- **Distribution**: 34.0% Positive, 39.1% Neutral, 26.8% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -25,23 +25,23 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 6 | - | `new fall boy` | 4 |
 | 7 | - | `happy november` | 4 |
 | 8 | - | `trick treating` | 4 |
-| 9 | - | `shuichi` | 4 |
-| 10 | NEW | `oon` | 4 |
-| 11 | DOWN 1 | `blexas` | 4 |
-| 12 | NEW | `gummy` | 4 |
-| 13 | DOWN 2 | `fall boy` | 8 |
-| 14 | DOWN 1 | `november` | 28 |
-| 15 | - | `dissociative` | 5 |
-| 16 | UP 1 | `texas` | 9 |
-| 17 | DOWN 1 | `day day` | 8 |
-| 18 | UP 1 | `fucking shit` | 4 |
-| 19 | UP 1 | `ycon` | 4 |
-| 20 | UP 1 | `clicker` | 4 |
-| 21 | DOWN 7 | `voted` | 9 |
-| 22 | UP 2 | `election` | 6 |
-| 23 | UP 2 | `per usual` | 3 |
-| 24 | NEW | `close friends` | 3 |
-| 25 | NEW | `awareness month` | 3 |
+| 9 | UP 1 | `oon` | 4 |
+| 10 | UP 1 | `blexas` | 4 |
+| 11 | UP 1 | `gummy` | 4 |
+| 12 | UP 1 | `fall boy` | 8 |
+| 13 | UP 1 | `november` | 28 |
+| 14 | UP 1 | `dissociative` | 5 |
+| 15 | UP 1 | `texas` | 9 |
+| 16 | UP 1 | `day day` | 8 |
+| 17 | UP 1 | `fucking shit` | 4 |
+| 18 | NEW | `errors` | 4 |
+| 19 | - | `ycon` | 4 |
+| 20 | - | `clicker` | 4 |
+| 21 | UP 1 | `election` | 6 |
+| 22 | UP 1 | `per usual` | 3 |
+| 23 | UP 1 | `close friends` | 3 |
+| 24 | UP 1 | `awareness month` | 3 |
+| 25 | NEW | `election day` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
