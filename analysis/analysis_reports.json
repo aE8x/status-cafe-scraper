@@ -89710,5 +89710,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-16T23:28:19.286959+00:00",
+        "hot_topics": [
+            {
+                "ngram": "fall boy",
+                "mentions": 8,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new fall boy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "godzilla minus",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "oon",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "blexas",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "project added",
+                "mentions": 6,
+                "change": "39.2x"
+            },
+            {
+                "ngram": "texas",
+                "mentions": 10,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "day day internship",
+                "mentions": 5,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "dissociative",
+                "mentions": 5,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "clicker",
+                "mentions": 5,
+                "change": "32.6x"
+            },
+            {
+                "ngram": "ellipsus",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "smash",
+                "mentions": 4,
+                "change": "26.1x"
+            },
+            {
+                "ngram": "jir project added",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "holy fucking shit",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "election day",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "scientists reveal",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "something cute",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "undertale symphony",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "cookie clicker",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "christmas music",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "shuichi",
+                "mentions": 3,
+                "change": "19.6x"
+            },
+            {
+                "ngram": "achievements",
+                "mentions": 3,
+                "change": "19.6x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.042373605830164765,
+            "positive_percent": 32.953105196451205,
+            "negative_percent": 26.774397972116603,
+            "neutral_percent": 40.27249683143219,
+            "most_positive_example": {
+                "text": "love the cold, love reading, love journaling, love my cat, love bookshops, love plants, love art, love love...",
+                "user": "scenemime",
+                "score": 0.9887
+            },
+            "most_negative_example": {
+                "text": "..how have i managed to put off killing myself for so long...? ..it might not happen soon.. but depression is super bad </3 ..i hate it here",
+                "user": "lonewriter",
+                "score": -0.9623
+            }
+        },
+        "summary_message": null
     }
 ]
