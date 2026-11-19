@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-19 10:31 UTC*
+*Last Updated: 2026-11-19 22:21 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.036` 
-- **Distribution**: 32.8% Positive, 40.0% Neutral, 27.2% Negative
+- **Overall Mood Score**: `0.037` 
+- **Distribution**: 33.0% Positive, 39.8% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -24,24 +24,24 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 5 | - | `godzilla minus` | 4 |
 | 6 | - | `new design` | 4 |
 | 7 | - | `gummy` | 4 |
-| 8 | NEW | `minesweeper` | 4 |
-| 9 | DOWN 1 | `clicker` | 6 |
-| 10 | DOWN 1 | `video game` | 5 |
-| 11 | DOWN 1 | `cookie clicker` | 4 |
-| 12 | DOWN 1 | `smash` | 4 |
-| 13 | DOWN 1 | `deadline` | 4 |
-| 14 | NEW | `waking early` | 3 |
-| 15 | DOWN 1 | `something cute` | 3 |
-| 16 | DOWN 1 | `new template` | 3 |
-| 17 | DOWN 1 | `undertale symphony` | 3 |
-| 18 | DOWN 1 | `one good` | 3 |
-| 19 | DOWN 1 | `christmas music` | 3 |
-| 20 | DOWN 1 | `around house` | 3 |
-| 21 | DOWN 1 | `rest day` | 3 |
-| 22 | DOWN 1 | `carried` | 3 |
-| 23 | DOWN 1 | `redacted` | 3 |
-| 24 | DOWN 1 | `roach` | 3 |
-| 25 | DOWN 1 | `nut` | 3 |
+| 8 | - | `minesweeper` | 4 |
+| 9 | - | `clicker` | 6 |
+| 10 | - | `video game` | 5 |
+| 11 | UP 5 | `new template` | 4 |
+| 12 | DOWN 1 | `cookie clicker` | 4 |
+| 13 | DOWN 1 | `smash` | 4 |
+| 14 | DOWN 1 | `deadline` | 4 |
+| 15 | - | `something cute` | 3 |
+| 16 | UP 1 | `undertale symphony` | 3 |
+| 17 | UP 1 | `one good` | 3 |
+| 18 | UP 1 | `christmas music` | 3 |
+| 19 | UP 1 | `around house` | 3 |
+| 20 | UP 1 | `rest day` | 3 |
+| 21 | UP 4 | `nut` | 3 |
+| 22 | NEW | `hibernate` | 3 |
+| 23 | NEW | `rude` | 3 |
+| 24 | NEW | `lsat` | 3 |
+| 25 | NEW | `vision` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
