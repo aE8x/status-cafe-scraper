@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-18 22:12 UTC*
+*Last Updated: 2026-11-19 10:31 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.038` 
-- **Distribution**: 32.8% Positive, 40.3% Neutral, 27.0% Negative
+- **Overall Mood Score**: `0.036` 
+- **Distribution**: 32.8% Positive, 40.0% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -22,26 +22,26 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 3 | - | `creek episode` | 5 |
 | 4 | - | `new fall boy` | 4 |
 | 5 | - | `godzilla minus` | 4 |
-| 6 | NEW | `new design` | 4 |
-| 7 | DOWN 1 | `gummy` | 4 |
-| 8 | DOWN 1 | `clicker` | 6 |
-| 9 | NEW | `video game` | 5 |
-| 10 | DOWN 2 | `cookie clicker` | 4 |
-| 11 | DOWN 1 | `smash` | 4 |
-| 12 | NEW | `deadline` | 4 |
-| 13 | DOWN 1 | `ocarina time remake` | 3 |
-| 14 | DOWN 1 | `something cute` | 3 |
-| 15 | NEW | `new template` | 3 |
-| 16 | DOWN 2 | `undertale symphony` | 3 |
-| 17 | DOWN 2 | `one good` | 3 |
-| 18 | DOWN 2 | `christmas music` | 3 |
-| 19 | DOWN 2 | `around house` | 3 |
-| 20 | DOWN 2 | `rest day` | 3 |
-| 21 | - | `carried` | 3 |
-| 22 | - | `redacted` | 3 |
-| 23 | - | `roach` | 3 |
-| 24 | - | `nut` | 3 |
-| 25 | - | `lsat` | 3 |
+| 6 | - | `new design` | 4 |
+| 7 | - | `gummy` | 4 |
+| 8 | NEW | `minesweeper` | 4 |
+| 9 | DOWN 1 | `clicker` | 6 |
+| 10 | DOWN 1 | `video game` | 5 |
+| 11 | DOWN 1 | `cookie clicker` | 4 |
+| 12 | DOWN 1 | `smash` | 4 |
+| 13 | DOWN 1 | `deadline` | 4 |
+| 14 | NEW | `waking early` | 3 |
+| 15 | DOWN 1 | `something cute` | 3 |
+| 16 | DOWN 1 | `new template` | 3 |
+| 17 | DOWN 1 | `undertale symphony` | 3 |
+| 18 | DOWN 1 | `one good` | 3 |
+| 19 | DOWN 1 | `christmas music` | 3 |
+| 20 | DOWN 1 | `around house` | 3 |
+| 21 | DOWN 1 | `rest day` | 3 |
+| 22 | DOWN 1 | `carried` | 3 |
+| 23 | DOWN 1 | `redacted` | 3 |
+| 24 | DOWN 1 | `roach` | 3 |
+| 25 | DOWN 1 | `nut` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
