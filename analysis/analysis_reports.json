@@ -91180,5 +91180,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-21T20:38:08.971413+00:00",
+        "hot_topics": [
+            {
+                "ngram": "creek",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "godzilla minus",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new design",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "minesweeper",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "fall boy",
+                "mentions": 7,
+                "change": "47.2x"
+            },
+            {
+                "ngram": "clicker",
+                "mentions": 7,
+                "change": "47.2x"
+            },
+            {
+                "ngram": "gta",
+                "mentions": 17,
+                "change": "38.2x"
+            },
+            {
+                "ngram": "cookie clicker",
+                "mentions": 5,
+                "change": "33.7x"
+            },
+            {
+                "ngram": "video game",
+                "mentions": 5,
+                "change": "33.7x"
+            },
+            {
+                "ngram": "deadline",
+                "mentions": 5,
+                "change": "33.7x"
+            },
+            {
+                "ngram": "token",
+                "mentions": 4,
+                "change": "27.0x"
+            },
+            {
+                "ngram": "new fall boy",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "undertale symphony",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "one good",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "christmas music",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "around house",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "rest day",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "even start",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "oshikatsu",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "maker",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "january",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "press",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "xmas",
+                "mentions": 3,
+                "change": "20.2x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.03277529373368146,
+            "positive_percent": 32.99608355091384,
+            "negative_percent": 28.067885117493475,
+            "neutral_percent": 38.93603133159269,
+            "most_positive_example": {
+                "text": "I LOVE MY WEBSITE I LOVE MAKING THINGS I LOVE MY BLOG I LOVE BLOGGING I LOVE DUMPING THINGS I HAVE TO SAY TO A RANDOM WEBPAGE I LOVE CREATIN",
+                "user": "polarfawn",
+                "score": 0.9776
+            },
+            "most_negative_example": {
+                "text": "..how have i managed to put off killing myself for so long...? ..it might not happen soon.. but depression is super bad </3 ..i hate it here",
+                "user": "lonewriter",
+                "score": -0.9623
+            }
+        },
+        "summary_message": null
     }
 ]

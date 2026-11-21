@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-21 09:59 UTC*
+*Last Updated: 2026-11-21 20:38 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.032` 
-- **Distribution**: 32.6% Positive, 39.4% Neutral, 28.0% Negative
+- **Overall Mood Score**: `0.033` 
+- **Distribution**: 33.0% Positive, 38.9% Neutral, 28.1% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -25,23 +25,23 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 6 | - | `minesweeper` | 4 |
 | 7 | - | `fall boy` | 7 |
 | 8 | - | `clicker` | 7 |
-| 9 | UP 2 | `gta` | 16 |
-| 10 | DOWN 1 | `cookie clicker` | 5 |
-| 11 | DOWN 1 | `video game` | 5 |
-| 12 | UP 13 | `token` | 4 |
-| 13 | DOWN 1 | `deadline` | 4 |
-| 14 | DOWN 1 | `new fall boy` | 3 |
-| 15 | DOWN 1 | `undertale symphony` | 3 |
-| 16 | DOWN 1 | `one good` | 3 |
-| 17 | DOWN 1 | `christmas music` | 3 |
-| 18 | DOWN 1 | `around house` | 3 |
-| 19 | DOWN 1 | `rest day` | 3 |
-| 20 | NEW | `even start` | 3 |
-| 21 | DOWN 1 | `vision` | 3 |
-| 22 | DOWN 1 | `oshikatsu` | 3 |
-| 23 | DOWN 1 | `maker` | 3 |
-| 24 | DOWN 1 | `january` | 3 |
-| 25 | DOWN 1 | `press` | 3 |
+| 9 | - | `gta` | 17 |
+| 10 | - | `cookie clicker` | 5 |
+| 11 | - | `video game` | 5 |
+| 12 | UP 1 | `deadline` | 5 |
+| 13 | DOWN 1 | `token` | 4 |
+| 14 | - | `new fall boy` | 3 |
+| 15 | - | `undertale symphony` | 3 |
+| 16 | - | `one good` | 3 |
+| 17 | - | `christmas music` | 3 |
+| 18 | - | `around house` | 3 |
+| 19 | - | `rest day` | 3 |
+| 20 | - | `even start` | 3 |
+| 21 | UP 1 | `oshikatsu` | 3 |
+| 22 | UP 1 | `maker` | 3 |
+| 23 | UP 1 | `january` | 3 |
+| 24 | UP 1 | `press` | 3 |
+| 25 | NEW | `xmas` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
