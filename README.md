@@ -8,11 +8,11 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-22 20:47 UTC*
+*Last Updated: 2026-11-23 10:57 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.037` 
-- **Distribution**: 33.2% Positive, 39.5% Neutral, 27.3% Negative
+- **Overall Mood Score**: `0.038` 
+- **Distribution**: 33.6% Positive, 39.2% Neutral, 27.2% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
@@ -23,25 +23,25 @@ This page displays the latest automated trend and sentiment analysis from [statu
 | 4 | - | `new design` | 4 |
 | 5 | - | `gummy` | 4 |
 | 6 | - | `minesweeper` | 4 |
-| 7 | - | `clicker` | 7 |
-| 8 | - | `gta` | 19 |
-| 9 | - | `cookie clicker` | 5 |
-| 10 | - | `video game` | 5 |
-| 11 | - | `deadline` | 5 |
-| 12 | UP 9 | `xmas` | 4 |
-| 13 | UP 11 | `nov` | 4 |
-| 14 | UP 1 | `one good` | 3 |
-| 15 | UP 1 | `christmas music` | 3 |
-| 16 | UP 1 | `around house` | 3 |
-| 17 | NEW | `sonic hedgehog` | 3 |
+| 7 | UP 1 | `gta` | 21 |
+| 8 | UP 2 | `video game` | 5 |
+| 9 | UP 2 | `deadline` | 5 |
+| 10 | UP 2 | `xmas` | 4 |
+| 11 | UP 2 | `nov` | 4 |
+| 12 | DOWN 5 | `clicker` | 6 |
+| 13 | UP 1 | `one good` | 3 |
+| 14 | UP 1 | `christmas music` | 3 |
+| 15 | NEW | `stop fucking` | 3 |
+| 16 | - | `around house` | 3 |
+| 17 | - | `sonic hedgehog` | 3 |
 | 18 | - | `rest day` | 3 |
-| 19 | NEW | `sunrise reaping` | 3 |
-| 20 | DOWN 1 | `even start` | 3 |
-| 21 | UP 1 | `cow` | 3 |
-| 22 | UP 1 | `revisiting` | 3 |
-| 23 | UP 2 | `visits` | 3 |
-| 24 | NEW | `mai` | 3 |
-| 25 | NEW | `scenes` | 3 |
+| 19 | - | `sunrise reaping` | 3 |
+| 20 | - | `even start` | 3 |
+| 21 | - | `cow` | 3 |
+| 22 | - | `revisiting` | 3 |
+| 23 | - | `visits` | 3 |
+| 24 | NEW | `spread` | 3 |
+| 25 | DOWN 1 | `mai` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
