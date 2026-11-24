@@ -92062,5 +92062,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-24T23:35:18.404470+00:00",
+        "hot_topics": [
+            {
+                "ngram": "creek",
+                "mentions": 7,
+                "change": "NEW"
+            },
+            {
+                "ngram": "creek episode",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "new design",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving break",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "might new",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "playing gta",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "minesweeper",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gta",
+                "mentions": 24,
+                "change": "53.2x"
+            },
+            {
+                "ngram": "deadline",
+                "mentions": 5,
+                "change": "33.2x"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 12,
+                "change": "26.6x"
+            },
+            {
+                "ngram": "sang",
+                "mentions": 4,
+                "change": "26.6x"
+            },
+            {
+                "ngram": "nov",
+                "mentions": 4,
+                "change": "26.6x"
+            },
+            {
+                "ngram": "mai",
+                "mentions": 4,
+                "change": "26.6x"
+            },
+            {
+                "ngram": "stop fucking",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "around house",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "pirate token",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "sonic hedgehog",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "rest day",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "sunrise reaping",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "even start",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "unfair",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "cow",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "revisiting",
+                "mentions": 3,
+                "change": "19.9x"
+            },
+            {
+                "ngram": "visits",
+                "mentions": 3,
+                "change": "19.9x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.04049866883116883,
+            "positive_percent": 33.7012987012987,
+            "negative_percent": 27.045454545454543,
+            "neutral_percent": 39.25324675324675,
+            "most_positive_example": {
+                "text": "I LOVE MY WEBSITE I LOVE MAKING THINGS I LOVE MY BLOG I LOVE BLOGGING I LOVE DUMPING THINGS I HAVE TO SAY TO A RANDOM WEBPAGE I LOVE CREATIN",
+                "user": "polarfawn",
+                "score": 0.9776
+            },
+            "most_negative_example": {
+                "text": "Ok maybe it isnt so bad but god. Its still so ass. The band sucks the fans suck and the music sucks. Pick a struggle goddamn",
+                "user": "chrysalis",
+                "score": -0.9625
+            }
+        },
+        "summary_message": null
     }
 ]

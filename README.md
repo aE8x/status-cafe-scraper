@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-24 12:43 UTC*
+*Last Updated: 2026-11-24 23:35 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.040` 
-- **Distribution**: 33.8% Positive, 39.0% Neutral, 27.2% Negative
+- **Distribution**: 33.7% Positive, 39.3% Neutral, 27.0% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
 | 1 | - | `creek` | 7 |
 | 2 | - | `creek episode` | 5 |
-| 3 | UP 1 | `new design` | 4 |
-| 4 | NEW | `thanksgiving break` | 4 |
+| 3 | - | `new design` | 4 |
+| 4 | - | `thanksgiving break` | 4 |
 | 5 | - | `might new` | 4 |
-| 6 | NEW | `playing gta` | 4 |
-| 7 | DOWN 1 | `gummy` | 4 |
-| 8 | DOWN 1 | `minesweeper` | 4 |
-| 9 | DOWN 1 | `gta` | 23 |
-| 10 | DOWN 1 | `video game` | 5 |
-| 11 | DOWN 1 | `deadline` | 5 |
-| 12 | DOWN 1 | `xmas` | 4 |
-| 13 | DOWN 1 | `nov` | 4 |
-| 14 | DOWN 1 | `mai` | 4 |
-| 15 | DOWN 1 | `thanksgiving` | 11 |
-| 16 | DOWN 1 | `stop fucking` | 3 |
-| 17 | DOWN 1 | `around house` | 3 |
-| 18 | DOWN 15 | `pirate token` | 3 |
-| 19 | DOWN 2 | `sonic hedgehog` | 3 |
-| 20 | DOWN 2 | `rest day` | 3 |
-| 21 | DOWN 2 | `sunrise reaping` | 3 |
-| 22 | DOWN 2 | `even start` | 3 |
-| 23 | DOWN 2 | `unfair` | 3 |
-| 24 | DOWN 2 | `cow` | 3 |
-| 25 | DOWN 2 | `revisiting` | 3 |
+| 6 | - | `playing gta` | 4 |
+| 7 | - | `gummy` | 4 |
+| 8 | - | `minesweeper` | 4 |
+| 9 | - | `gta` | 24 |
+| 10 | UP 1 | `deadline` | 5 |
+| 11 | UP 4 | `thanksgiving` | 12 |
+| 12 | NEW | `sang` | 4 |
+| 13 | - | `nov` | 4 |
+| 14 | - | `mai` | 4 |
+| 15 | UP 1 | `stop fucking` | 3 |
+| 16 | UP 1 | `around house` | 3 |
+| 17 | UP 1 | `pirate token` | 3 |
+| 18 | UP 1 | `sonic hedgehog` | 3 |
+| 19 | UP 1 | `rest day` | 3 |
+| 20 | UP 1 | `sunrise reaping` | 3 |
+| 21 | UP 1 | `even start` | 3 |
+| 22 | UP 1 | `unfair` | 3 |
+| 23 | UP 1 | `cow` | 3 |
+| 24 | UP 1 | `revisiting` | 3 |
+| 25 | NEW | `visits` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
