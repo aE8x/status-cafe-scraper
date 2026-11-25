@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-25 11:30 UTC*
+*Last Updated: 2026-11-25 23:12 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.042` 
-- **Distribution**: 33.7% Positive, 39.5% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.040` 
+- **Distribution**: 33.6% Positive, 39.8% Neutral, 26.6% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 2 | `new design` | 4 |
-| 2 | UP 2 | `thanksgiving break` | 4 |
-| 3 | UP 2 | `might new` | 4 |
-| 4 | UP 2 | `playing gta` | 4 |
-| 5 | UP 2 | `gummy` | 4 |
-| 6 | UP 2 | `minesweeper` | 4 |
-| 7 | UP 2 | `gta` | 25 |
-| 8 | DOWN 7 | `creek` | 6 |
-| 9 | UP 1 | `deadline` | 5 |
-| 10 | UP 1 | `thanksgiving` | 13 |
-| 11 | DOWN 9 | `creek episode` | 4 |
-| 12 | - | `sang` | 4 |
-| 13 | - | `nov` | 4 |
-| 14 | - | `mai` | 4 |
-| 15 | UP 1 | `around house` | 3 |
-| 16 | UP 1 | `pirate token` | 3 |
-| 17 | UP 1 | `sonic hedgehog` | 3 |
-| 18 | UP 1 | `rest day` | 3 |
-| 19 | UP 1 | `sunrise reaping` | 3 |
-| 20 | UP 1 | `even start` | 3 |
-| 21 | UP 3 | `revisiting` | 3 |
-| 22 | UP 3 | `visits` | 3 |
-| 23 | NEW | `spread` | 3 |
-| 24 | NEW | `scenes` | 3 |
-| 25 | NEW | `sec` | 3 |
+| 1 | UP 1 | `thanksgiving break` | 5 |
+| 2 | DOWN 1 | `new design` | 4 |
+| 3 | - | `might new` | 4 |
+| 4 | NEW | `per sec` | 4 |
+| 5 | DOWN 1 | `playing gta` | 4 |
+| 6 | DOWN 1 | `gummy` | 4 |
+| 7 | DOWN 1 | `minesweeper` | 4 |
+| 8 | DOWN 1 | `gta` | 25 |
+| 9 | UP 1 | `thanksgiving` | 17 |
+| 10 | DOWN 1 | `deadline` | 5 |
+| 11 | UP 1 | `sang` | 4 |
+| 12 | UP 1 | `nov` | 4 |
+| 13 | UP 1 | `mai` | 4 |
+| 14 | NEW | `tally hall back` | 3 |
+| 15 | UP 2 | `sonic hedgehog` | 3 |
+| 16 | NEW | `new york` | 3 |
+| 17 | UP 1 | `rest day` | 3 |
+| 18 | UP 1 | `sunrise reaping` | 3 |
+| 19 | UP 1 | `even start` | 3 |
+| 20 | NEW | `effing` | 3 |
+| 21 | UP 1 | `visits` | 3 |
+| 22 | UP 1 | `spread` | 3 |
+| 23 | UP 1 | `scenes` | 3 |
+| 24 | NEW | `ham` | 3 |
+| 25 | NEW | `sludge` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
