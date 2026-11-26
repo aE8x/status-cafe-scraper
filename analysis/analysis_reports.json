@@ -92503,5 +92503,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-26T11:10:36.359392+00:00",
+        "hot_topics": [
+            {
+                "ngram": "thanksgiving break",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "might new",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "per sec",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "playing gta",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "minesweeper",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gta",
+                "mentions": 25,
+                "change": "56.0x"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 20,
+                "change": "44.8x"
+            },
+            {
+                "ngram": "mai",
+                "mentions": 4,
+                "change": "26.9x"
+            },
+            {
+                "ngram": "tally hall back",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "new design",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "sonic hedgehog",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "new york",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "first snow",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "rest day",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "sunrise reaping",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "even start",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "visits",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "spread",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "scenes",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "ham",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "sludge",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "neighbour",
+                "mentions": 3,
+                "change": "20.2x"
+            },
+            {
+                "ngram": "cookie clicker",
+                "mentions": 5,
+                "change": "16.8x"
+            },
+            {
+                "ngram": "stores",
+                "mentions": 4,
+                "change": "13.5x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.040548241866579036,
+            "positive_percent": 33.65100230036149,
+            "negative_percent": 26.651330923430827,
+            "neutral_percent": 39.69766677620769,
+            "most_positive_example": {
+                "text": "HAPPY WOOZI DAY love you wooahae mwah mwah thanks for being born!!!",
+                "user": "prickles",
+                "score": 0.9657
+            },
+            "most_negative_example": {
+                "text": "Ok maybe it isnt so bad but god. Its still so ass. The band sucks the fans suck and the music sucks. Pick a struggle goddamn",
+                "user": "chrysalis",
+                "score": -0.9625
+            }
+        },
+        "summary_message": null
     }
 ]

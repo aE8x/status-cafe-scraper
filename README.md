@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-25 23:12 UTC*
+*Last Updated: 2026-11-26 11:10 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.040` 
-- **Distribution**: 33.6% Positive, 39.8% Neutral, 26.6% Negative
+- **Overall Mood Score**: `0.041` 
+- **Distribution**: 33.7% Positive, 39.7% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | UP 1 | `thanksgiving break` | 5 |
-| 2 | DOWN 1 | `new design` | 4 |
-| 3 | - | `might new` | 4 |
-| 4 | NEW | `per sec` | 4 |
-| 5 | DOWN 1 | `playing gta` | 4 |
-| 6 | DOWN 1 | `gummy` | 4 |
-| 7 | DOWN 1 | `minesweeper` | 4 |
-| 8 | DOWN 1 | `gta` | 25 |
-| 9 | UP 1 | `thanksgiving` | 17 |
-| 10 | DOWN 1 | `deadline` | 5 |
-| 11 | UP 1 | `sang` | 4 |
-| 12 | UP 1 | `nov` | 4 |
-| 13 | UP 1 | `mai` | 4 |
-| 14 | NEW | `tally hall back` | 3 |
-| 15 | UP 2 | `sonic hedgehog` | 3 |
-| 16 | NEW | `new york` | 3 |
-| 17 | UP 1 | `rest day` | 3 |
-| 18 | UP 1 | `sunrise reaping` | 3 |
-| 19 | UP 1 | `even start` | 3 |
-| 20 | NEW | `effing` | 3 |
-| 21 | UP 1 | `visits` | 3 |
-| 22 | UP 1 | `spread` | 3 |
-| 23 | UP 1 | `scenes` | 3 |
-| 24 | NEW | `ham` | 3 |
-| 25 | NEW | `sludge` | 3 |
+| 1 | - | `thanksgiving break` | 5 |
+| 2 | UP 1 | `might new` | 4 |
+| 3 | UP 1 | `per sec` | 4 |
+| 4 | UP 1 | `playing gta` | 4 |
+| 5 | UP 2 | `minesweeper` | 4 |
+| 6 | UP 2 | `gta` | 25 |
+| 7 | UP 2 | `thanksgiving` | 20 |
+| 8 | UP 5 | `mai` | 4 |
+| 9 | UP 5 | `tally hall back` | 3 |
+| 10 | DOWN 8 | `new design` | 3 |
+| 11 | UP 4 | `sonic hedgehog` | 3 |
+| 12 | UP 4 | `new york` | 3 |
+| 13 | NEW | `first snow` | 3 |
+| 14 | UP 3 | `rest day` | 3 |
+| 15 | UP 3 | `sunrise reaping` | 3 |
+| 16 | UP 3 | `even start` | 3 |
+| 17 | UP 4 | `visits` | 3 |
+| 18 | DOWN 12 | `gummy` | 3 |
+| 19 | UP 3 | `spread` | 3 |
+| 20 | UP 3 | `scenes` | 3 |
+| 21 | UP 3 | `ham` | 3 |
+| 22 | UP 3 | `sludge` | 3 |
+| 23 | NEW | `neighbour` | 3 |
+| 24 | NEW | `cookie clicker` | 5 |
+| 25 | NEW | `stores` | 4 |
 
 <!-- END_ANALYSIS_SECTION -->
 
