@@ -92650,5 +92650,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-26T23:10:33.045254+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy thanksgiving",
+                "mentions": 6,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving break",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "might new",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "per sec",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "playing gta",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "gta",
+                "mentions": 25,
+                "change": "84.6x"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 32,
+                "change": "72.2x"
+            },
+            {
+                "ngram": "mai",
+                "mentions": 4,
+                "change": "27.1x"
+            },
+            {
+                "ngram": "tally hall back",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "new design",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "new york",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "first snow",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "rest day",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "sunrise reaping",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "even start",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "gummy",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "spread",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "minesweeper",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "feast",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "scenes",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "salmon",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "ham",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "sludge",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "neighbour",
+                "mentions": 3,
+                "change": "20.3x"
+            },
+            {
+                "ngram": "incident",
+                "mentions": 3,
+                "change": "20.3x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.041652314814814816,
+            "positive_percent": 33.895502645502646,
+            "negative_percent": 26.71957671957672,
+            "neutral_percent": 39.38492063492063,
+            "most_positive_example": {
+                "text": "HAPPY WOOZI DAY love you wooahae mwah mwah thanks for being born!!!",
+                "user": "prickles",
+                "score": 0.9657
+            },
+            "most_negative_example": {
+                "text": "I NEED TO FINISH MY DRAMA MONOLOGUE BUT ALL MY BITCH ASS, FREAKY ASS CAN THINK ABOUT IS WRITING MORE FANFICS FOR AO3",
+                "user": "micr0wave_0v3n",
+                "score": -0.9636
+            }
+        },
+        "summary_message": null
     }
 ]

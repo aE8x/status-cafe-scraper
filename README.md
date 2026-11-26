@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-26 11:10 UTC*
+*Last Updated: 2026-11-26 23:10 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.041` 
-- **Distribution**: 33.7% Positive, 39.7% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.042` 
+- **Distribution**: 33.9% Positive, 39.4% Neutral, 26.7% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `thanksgiving break` | 5 |
-| 2 | UP 1 | `might new` | 4 |
-| 3 | UP 1 | `per sec` | 4 |
-| 4 | UP 1 | `playing gta` | 4 |
-| 5 | UP 2 | `minesweeper` | 4 |
-| 6 | UP 2 | `gta` | 25 |
-| 7 | UP 2 | `thanksgiving` | 20 |
-| 8 | UP 5 | `mai` | 4 |
-| 9 | UP 5 | `tally hall back` | 3 |
-| 10 | DOWN 8 | `new design` | 3 |
-| 11 | UP 4 | `sonic hedgehog` | 3 |
-| 12 | UP 4 | `new york` | 3 |
-| 13 | NEW | `first snow` | 3 |
-| 14 | UP 3 | `rest day` | 3 |
-| 15 | UP 3 | `sunrise reaping` | 3 |
-| 16 | UP 3 | `even start` | 3 |
-| 17 | UP 4 | `visits` | 3 |
-| 18 | DOWN 12 | `gummy` | 3 |
-| 19 | UP 3 | `spread` | 3 |
-| 20 | UP 3 | `scenes` | 3 |
-| 21 | UP 3 | `ham` | 3 |
-| 22 | UP 3 | `sludge` | 3 |
-| 23 | NEW | `neighbour` | 3 |
-| 24 | NEW | `cookie clicker` | 5 |
-| 25 | NEW | `stores` | 4 |
+| 1 | NEW | `happy thanksgiving` | 6 |
+| 2 | DOWN 1 | `thanksgiving break` | 5 |
+| 3 | DOWN 1 | `might new` | 4 |
+| 4 | DOWN 1 | `per sec` | 4 |
+| 5 | DOWN 1 | `playing gta` | 4 |
+| 6 | - | `gta` | 25 |
+| 7 | - | `thanksgiving` | 32 |
+| 8 | - | `mai` | 4 |
+| 9 | - | `tally hall back` | 3 |
+| 10 | - | `new design` | 3 |
+| 11 | UP 1 | `new york` | 3 |
+| 12 | UP 1 | `first snow` | 3 |
+| 13 | UP 1 | `rest day` | 3 |
+| 14 | UP 1 | `sunrise reaping` | 3 |
+| 15 | UP 1 | `even start` | 3 |
+| 16 | UP 2 | `gummy` | 3 |
+| 17 | UP 2 | `spread` | 3 |
+| 18 | DOWN 13 | `minesweeper` | 3 |
+| 19 | NEW | `feast` | 3 |
+| 20 | - | `scenes` | 3 |
+| 21 | NEW | `salmon` | 3 |
+| 22 | DOWN 1 | `ham` | 3 |
+| 23 | DOWN 1 | `sludge` | 3 |
+| 24 | DOWN 1 | `neighbour` | 3 |
+| 25 | NEW | `incident` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
