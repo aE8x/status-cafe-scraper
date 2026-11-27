@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-27 11:02 UTC*
+*Last Updated: 2026-11-27 22:50 UTC*
 
 ### Sentiment Analysis
 - **Overall Mood Score**: `0.047` 
-- **Distribution**: 34.5% Positive, 39.1% Neutral, 26.4% Negative
+- **Distribution**: 34.5% Positive, 39.2% Neutral, 26.3% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | - | `happy thanksgiving` | 9 |
+| 1 | - | `happy thanksgiving` | 10 |
 | 2 | - | `thanksgiving break` | 5 |
 | 3 | - | `might new` | 4 |
 | 4 | - | `per sec` | 4 |
 | 5 | - | `playing gta` | 4 |
-| 6 | NEW | `struggles` | 4 |
-| 7 | NEW | `studied` | 4 |
-| 8 | DOWN 1 | `thanksgiving` | 39 |
-| 9 | DOWN 3 | `gta` | 25 |
-| 10 | NEW | `turkey` | 5 |
-| 11 | DOWN 3 | `mai` | 4 |
-| 12 | DOWN 3 | `tally hall back` | 3 |
-| 13 | DOWN 2 | `new york` | 3 |
-| 14 | DOWN 2 | `first snow` | 3 |
-| 15 | DOWN 2 | `rest day` | 3 |
-| 16 | DOWN 2 | `sunrise reaping` | 3 |
-| 17 | DOWN 2 | `even start` | 3 |
-| 18 | NEW | `could possibly` | 3 |
-| 19 | DOWN 3 | `gummy` | 3 |
-| 20 | DOWN 3 | `spread` | 3 |
-| 21 | DOWN 3 | `minesweeper` | 3 |
-| 22 | DOWN 3 | `feast` | 3 |
-| 23 | DOWN 3 | `scenes` | 3 |
-| 24 | NEW | `pipeline` | 3 |
-| 25 | DOWN 4 | `salmon` | 3 |
+| 6 | - | `struggles` | 4 |
+| 7 | - | `studied` | 4 |
+| 8 | - | `thanksgiving` | 41 |
+| 9 | - | `gta` | 25 |
+| 10 | - | `turkey` | 5 |
+| 11 | NEW | `black friday` | 4 |
+| 12 | DOWN 1 | `mai` | 4 |
+| 13 | DOWN 1 | `tally hall back` | 3 |
+| 14 | - | `first snow` | 3 |
+| 15 | - | `rest day` | 3 |
+| 16 | - | `sunrise reaping` | 3 |
+| 17 | - | `even start` | 3 |
+| 18 | - | `could possibly` | 3 |
+| 19 | UP 3 | `feast` | 3 |
+| 20 | UP 3 | `scenes` | 3 |
+| 21 | UP 3 | `pipeline` | 3 |
+| 22 | UP 3 | `salmon` | 3 |
+| 23 | NEW | `ham` | 3 |
+| 24 | NEW | `demanding` | 3 |
+| 25 | NEW | `sludge` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 

@@ -92944,5 +92944,152 @@
             }
         },
         "summary_message": null
+    },
+    {
+        "report_timestamp_utc": "2026-11-27T22:50:45.910503+00:00",
+        "hot_topics": [
+            {
+                "ngram": "happy thanksgiving",
+                "mentions": 10,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving break",
+                "mentions": 5,
+                "change": "NEW"
+            },
+            {
+                "ngram": "might new",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "per sec",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "playing gta",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "struggles",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "studied",
+                "mentions": 4,
+                "change": "NEW"
+            },
+            {
+                "ngram": "thanksgiving",
+                "mentions": 41,
+                "change": "93.1x"
+            },
+            {
+                "ngram": "gta",
+                "mentions": 25,
+                "change": "85.1x"
+            },
+            {
+                "ngram": "turkey",
+                "mentions": 5,
+                "change": "34.1x"
+            },
+            {
+                "ngram": "black friday",
+                "mentions": 4,
+                "change": "27.2x"
+            },
+            {
+                "ngram": "mai",
+                "mentions": 4,
+                "change": "27.2x"
+            },
+            {
+                "ngram": "tally hall back",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "first snow",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "rest day",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "sunrise reaping",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "even start",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "could possibly",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "feast",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "scenes",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "pipeline",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "salmon",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "ham",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "demanding",
+                "mentions": 3,
+                "change": "20.4x"
+            },
+            {
+                "ngram": "sludge",
+                "mentions": 3,
+                "change": "20.4x"
+            }
+        ],
+        "sentiment_analysis": {
+            "average_score": 0.047065146471371506,
+            "positive_percent": 34.48735019973369,
+            "negative_percent": 26.331557922769637,
+            "neutral_percent": 39.18109187749667,
+            "most_positive_example": {
+                "text": "HAPPY WOOZI DAY love you wooahae mwah mwah thanks for being born!!!",
+                "user": "prickles",
+                "score": 0.9657
+            },
+            "most_negative_example": {
+                "text": "i hate winter i hate winter i hate winter i hate winter i hate winter i hate winter i hate winter i hate winter",
+                "user": "fimvie",
+                "score": -0.9843
+            }
+        },
+        "summary_message": null
     }
 ]
