@@ -8,40 +8,40 @@ This page displays the latest automated trend and sentiment analysis from [statu
 
 <!-- START_ANALYSIS_SECTION -->
 
-*Last Updated: 2026-11-26 23:10 UTC*
+*Last Updated: 2026-11-27 11:02 UTC*
 
 ### Sentiment Analysis
-- **Overall Mood Score**: `0.042` 
-- **Distribution**: 33.9% Positive, 39.4% Neutral, 26.7% Negative
+- **Overall Mood Score**: `0.047` 
+- **Distribution**: 34.5% Positive, 39.1% Neutral, 26.4% Negative
 
 ### Hot Topics
 | Rank | Change | Topic | Mentions |
 |:----:|:-------|:------|:--------:|
-| 1 | NEW | `happy thanksgiving` | 6 |
-| 2 | DOWN 1 | `thanksgiving break` | 5 |
-| 3 | DOWN 1 | `might new` | 4 |
-| 4 | DOWN 1 | `per sec` | 4 |
-| 5 | DOWN 1 | `playing gta` | 4 |
-| 6 | - | `gta` | 25 |
-| 7 | - | `thanksgiving` | 32 |
-| 8 | - | `mai` | 4 |
-| 9 | - | `tally hall back` | 3 |
-| 10 | - | `new design` | 3 |
-| 11 | UP 1 | `new york` | 3 |
-| 12 | UP 1 | `first snow` | 3 |
-| 13 | UP 1 | `rest day` | 3 |
-| 14 | UP 1 | `sunrise reaping` | 3 |
-| 15 | UP 1 | `even start` | 3 |
-| 16 | UP 2 | `gummy` | 3 |
-| 17 | UP 2 | `spread` | 3 |
-| 18 | DOWN 13 | `minesweeper` | 3 |
-| 19 | NEW | `feast` | 3 |
-| 20 | - | `scenes` | 3 |
-| 21 | NEW | `salmon` | 3 |
-| 22 | DOWN 1 | `ham` | 3 |
-| 23 | DOWN 1 | `sludge` | 3 |
-| 24 | DOWN 1 | `neighbour` | 3 |
-| 25 | NEW | `incident` | 3 |
+| 1 | - | `happy thanksgiving` | 9 |
+| 2 | - | `thanksgiving break` | 5 |
+| 3 | - | `might new` | 4 |
+| 4 | - | `per sec` | 4 |
+| 5 | - | `playing gta` | 4 |
+| 6 | NEW | `struggles` | 4 |
+| 7 | NEW | `studied` | 4 |
+| 8 | DOWN 1 | `thanksgiving` | 39 |
+| 9 | DOWN 3 | `gta` | 25 |
+| 10 | NEW | `turkey` | 5 |
+| 11 | DOWN 3 | `mai` | 4 |
+| 12 | DOWN 3 | `tally hall back` | 3 |
+| 13 | DOWN 2 | `new york` | 3 |
+| 14 | DOWN 2 | `first snow` | 3 |
+| 15 | DOWN 2 | `rest day` | 3 |
+| 16 | DOWN 2 | `sunrise reaping` | 3 |
+| 17 | DOWN 2 | `even start` | 3 |
+| 18 | NEW | `could possibly` | 3 |
+| 19 | DOWN 3 | `gummy` | 3 |
+| 20 | DOWN 3 | `spread` | 3 |
+| 21 | DOWN 3 | `minesweeper` | 3 |
+| 22 | DOWN 3 | `feast` | 3 |
+| 23 | DOWN 3 | `scenes` | 3 |
+| 24 | NEW | `pipeline` | 3 |
+| 25 | DOWN 4 | `salmon` | 3 |
 
 <!-- END_ANALYSIS_SECTION -->
 
